@@ -185,7 +185,11 @@ const i18n = {
     testNotif: "Enviar notificación de prueba",
     notifSent: "Notificación de prueba enviada",
     registerWelcome: "¡Bienvenido! Ahora puedes recibir alertas de ofertas en tu correo.",
-    emailOn: "Notificaciones activadas", emailOff: "Notificaciones desactivadas"
+    emailOn: "Notificaciones activadas", emailOff: "Notificaciones desactivadas",
+    googleSignIn: "Iniciar sesión con Google", googleConfig: "Configurar Google Client ID",
+    saveGoogle: "Guardar", googleHint: "1) Ve a console.cloud.google.com 2) Crea un proyecto 3) APIs > Credenciales > Crear ID de cliente OAuth 2.0 (tipo Aplicación web) 4) Agrega tu origen como Authorized JavaScript origin",
+    googleConfigured: "Configurado", googleNotConfigured: "No configurado",
+    or: "o", signInGoogle: "Iniciar sesión con Google"
   },
   en: {
     loginBtn: "Sign in", settingsTitle: "Settings",
@@ -213,7 +217,11 @@ const i18n = {
     testNotif: "Send test notification",
     notifSent: "Test notification sent",
     registerWelcome: "Welcome! Now you can receive deal alerts in your email.",
-    emailOn: "Notifications enabled", emailOff: "Notifications disabled"
+    emailOn: "Notifications enabled", emailOff: "Notifications disabled",
+    googleSignIn: "Sign in with Google", googleConfig: "Configure Google Client ID",
+    saveGoogle: "Save", googleHint: "1) Go to console.cloud.google.com 2) Create a project 3) APIs > Credentials > Create OAuth 2.0 Client ID (Web application type) 4) Add your origin as Authorized JavaScript origin",
+    googleConfigured: "Configured", googleNotConfigured: "Not configured",
+    or: "or", signInGoogle: "Sign in with Google"
   }
 };
 
@@ -783,6 +791,13 @@ document.addEventListener("DOMContentLoaded", async function () {
   var emailjsTemplateId = document.getElementById("emailjsTemplateId");
   var emailjsPublicKey = document.getElementById("emailjsPublicKey");
   var emailjsSaveBtn = document.getElementById("emailjsSaveBtn");
+  var googleClientIdInput = document.getElementById("googleClientId");
+  var googleClientIdSaveBtn = document.getElementById("googleClientIdSaveBtn");
+  var googleClientIdStatus = document.getElementById("googleClientIdStatus");
+  var gSignInWrapper = document.getElementById("gSignInWrapper");
+  var gSignInWrapperReg = document.getElementById("gSignInWrapperReg");
+  var googleLoginBtn = document.getElementById("googleLoginBtn");
+  var googleRegisterBtn = document.getElementById("googleRegisterBtn");
 
   function currLang() { return localStorage.getItem("lang") || "es"; }
 
@@ -820,6 +835,8 @@ document.addEventListener("DOMContentLoaded", async function () {
       settingsAccountRow.style.display = "flex";
       settingsAccountEmail.textContent = user.email;
       updateNotifUI();
+      gSignInWrapper.style.display = "none";
+      gSignInWrapperReg.style.display = "none";
     } else {
       loginForm.style.display = "block";
       registerForm.style.display = "none";
@@ -830,7 +847,20 @@ document.addEventListener("DOMContentLoaded", async function () {
       settingsAccountRow.style.display = "none";
       settingsNotifRow.style.display = "none";
       emailjsDetails.style.display = "none";
+      showGoogleButtons();
     }
+  }
+
+  function showGoogleButtons() {
+    var googleClientId = localStorage.getItem("googleClientId") || "";
+    if (!googleClientId) {
+      gSignInWrapper.style.display = "none";
+      gSignInWrapperReg.style.display = "none";
+      return;
+    }
+    gSignInWrapper.style.display = "block";
+    gSignInWrapperReg.style.display = "block";
+    initGoogleGIS(googleClientId);
   }
 
   function updateNotifUI() {
@@ -845,6 +875,94 @@ document.addEventListener("DOMContentLoaded", async function () {
     emailjsTemplateId.value = cfg.templateId || "";
     emailjsPublicKey.value = cfg.publicKey || "";
   }
+
+  // ---- Google Sign-In ----
+  function initGoogleGIS(clientId) {
+    if (window.googleInitDone) return;
+    if (typeof google === "undefined" || typeof google.accounts === "undefined") {
+      loadGIScript(function () { renderGoogleButtons(clientId); });
+    } else {
+      renderGoogleButtons(clientId);
+    }
+  }
+
+  function loadGIScript(cb) {
+    if (document.querySelector('script[src*="accounts.google.com/gsi/client"]')) { cb(); return; }
+    var s = document.createElement("script");
+    s.src = "https://accounts.google.com/gsi/client";
+    s.onload = cb;
+    s.async = true;
+    s.defer = true;
+    document.head.appendChild(s);
+  }
+
+  function renderGoogleButtons(clientId) {
+    if (window.googleInitDone) return;
+    window.googleInitDone = true;
+    google.accounts.id.initialize({
+      client_id: clientId,
+      callback: handleGoogleCredential
+    });
+    google.accounts.id.renderButton(googleLoginBtn, {
+      type: "standard", shape: "rectangular",
+      theme: "outline", size: "large",
+      text: "signin_with", logo_alignment: "left",
+      width: googleLoginBtn.clientWidth || 280
+    });
+    google.accounts.id.renderButton(googleRegisterBtn, {
+      type: "standard", shape: "rectangular",
+      theme: "outline", size: "large",
+      text: "signup_with", logo_alignment: "left",
+      width: googleRegisterBtn.clientWidth || 280
+    });
+  }
+
+  function handleGoogleCredential(response) {
+    var payload = decodeJwt(response.credential);
+    if (!payload || !payload.email) return;
+    var email = payload.email;
+    var name = payload.name || email;
+    var accounts = getAccounts();
+    if (!accounts.some(function (a) { return a.email === email; })) {
+      accounts.push({ email: email, password: "", google: true });
+      saveAccounts(accounts);
+    }
+    localStorage.setItem("user", JSON.stringify({ email: email, name: name, google: true }));
+    closeLogin();
+    updateLoginUI();
+  }
+
+  function decodeJwt(token) {
+    try {
+      var parts = token.split(".");
+      var payload = parts[1];
+      payload = payload.replace(/-/g, "+").replace(/_/g, "/");
+      while (payload.length % 4) payload += "=";
+      return JSON.parse(atob(payload));
+    } catch (e) {
+      return null;
+    }
+  }
+
+  // Google Client ID settings
+  googleClientIdSaveBtn.addEventListener("click", function () {
+    var val = googleClientIdInput.value.trim();
+    localStorage.setItem("googleClientId", val);
+    updateGoogleClientIdStatus();
+    window.googleInitDone = false;
+    var l = currLang();
+    googleClientIdSaveBtn.textContent = i18n[l].emailjsSaved;
+    setTimeout(function () { googleClientIdSaveBtn.textContent = i18n[l].saveGoogle; }, 2000);
+  });
+
+  function updateGoogleClientIdStatus() {
+    var val = localStorage.getItem("googleClientId") || "";
+    var l = currLang();
+    googleClientIdInput.value = val;
+    googleClientIdStatus.textContent = val ? i18n[l].googleConfigured : i18n[l].googleNotConfigured;
+  }
+
+  updateGoogleClientIdStatus();
 
   loginBtn.addEventListener("click", openLogin);
   loginClose.addEventListener("click", closeLogin);
@@ -865,6 +983,11 @@ document.addEventListener("DOMContentLoaded", async function () {
       var l = currLang();
       loginSubmitBtn.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
       loginModalTitle.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
+      var googleClientId = localStorage.getItem("googleClientId") || "";
+      if (googleClientId) {
+        gSignInWrapper.style.display = isLogin ? "block" : "none";
+        gSignInWrapperReg.style.display = isLogin ? "none" : "block";
+      }
     });
   });
 

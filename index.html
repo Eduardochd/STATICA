@@ -91,6 +91,18 @@
                     <span class="toggle-slider"></span>
                 </label>
             </div>
+            <div class="setting-row">
+                <span data-i18n="googleSignIn">Iniciar sesión con Google</span>
+                <span id="googleClientIdStatus" style="font-size:0.72rem;color:var(--text-muted)"></span>
+            </div>
+            <details class="setting-details">
+                <summary class="setting-summary" data-i18n="googleConfig">Configurar Google Client ID</summary>
+                <div class="emailjs-fields">
+                    <input type="text" id="googleClientId" placeholder="xxxxxxxx-xxxxx.apps.googleusercontent.com">
+                    <button class="btn-submit btn-small" id="googleClientIdSaveBtn" data-i18n="saveGoogle">Guardar</button>
+                    <p class="form-hint" data-i18n="googleHint">1) Ve a console.cloud.google.com 2) Crea un proyecto 3) APIs > Credenciales > Crear ID de cliente OAuth 2.0 (tipo Aplicación web) 4) Agrega tu origen como Authorized JavaScript origin</p>
+                </div>
+            </details>
             <details class="setting-details" id="emailjsDetails" style="display:none">
                 <summary class="setting-summary" data-i18n="emailjsConfig">Configurar EmailJS</summary>
                 <div class="emailjs-fields">
@@ -128,6 +140,10 @@
             </div>
             <p class="form-error" id="loginError"></p>
             <button type="submit" class="btn-submit" id="loginSubmitBtn" data-i18n="loginTitle">Iniciar sesión</button>
+            <div class="divider" data-i18n="or">o</div>
+            <div id="gSignInWrapper" style="display:none">
+                <div id="googleLoginBtn" class="g-btn"></div>
+            </div>
         </form>
         <form class="login-form" id="registerForm" style="display:none">
             <div class="form-group">
@@ -144,6 +160,10 @@
             </div>
             <p class="form-error" id="regError"></p>
             <button type="submit" class="btn-submit" data-i18n="registerBtn">Crear cuenta</button>
+            <div class="divider" data-i18n="or">o</div>
+            <div id="gSignInWrapperReg" style="display:none">
+                <div id="googleRegisterBtn" class="g-btn"></div>
+            </div>
         </form>
         <div class="login-success" id="loginSuccess">
             <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
