@@ -1,5 +1,297 @@
 {
-  "generatedAt": "",
-  "games": [],
-  "news": []
+  "generatedAt": "2026-05-16T16:23:03.022Z",
+  "games": [
+    {
+      "id": "g1",
+      "steamAppId": null,
+      "rating": 4,
+      "title": "RAVEN2 Half anniversary Starter Pack",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 0,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 6.95,
+          "original": 69.5,
+          "url": "https://www.cheapshark.com/redirect?dealID=SmsaXTBWCcgJyOW0zG%2BuTbwH%2F1QL11rC2Yqb%2FMFqxCs%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=sd99iVUAHrkuyjiMCNytra%2Bbgh056rtQDXhJqeMc9CM%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Go76Xfz1d6FYF1CeZfy0FHKlMoW029FzeEims4aB60Q%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 8.49,
+          "original": 84.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=LP38E%2B2cb%2FoH25XYKA8vb7HF2FKGDFoiFvgUaul9VCE%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 8.99,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=x9mjvQ1tv3Jl4xWaYJM0fFxf1kn0t2nPZmcaQnEx9Q8%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 9.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=MKlJV9xijYKIwajbnA%2FDSSzrWmgE0ZXJItRZ63MdPDg%3D"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "steamAppId": 2414270,
+      "rating": 4,
+      "title": "Sunderfolk",
+      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Sunderfolk deal on Epic. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 0,
+          "original": 49.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=C5QpU2wB0LJGRegXgpnA6MANIOpLL8HuNKpp%2BQ%2FUC8s%3D"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "steamAppId": 3472040,
+      "rating": 4,
+      "title": "NBA 2K26",
+      "desc": "Encuentra NBA 2K26 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find NBA 2K26 at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Humble",
+          "price": 9.79,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=eP2MIOX8l1eAzT78pPp%2BC6heQ9Y8O6KyUBj%2BkmEhJBI%3D"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "steamAppId": 2240920,
+      "rating": 4,
+      "title": "Vaudeville",
+      "desc": "Oferta especial de Vaudeville en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Vaudeville deal on Epic. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 0,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=RX1lu0At%2BVOwF5mnwsI8zPl7xbjZ94dw88H6gO1wJEg%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "steamAppId": 1677350,
+      "rating": 4,
+      "title": "EA SPORTS PGA TOUR",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "steamAppId": 315210,
+      "rating": 3,
+      "title": "Suicide Squad: Kill the Justice League",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Humble. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Humble",
+          "price": 3.49,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=FV9S8e49l1EMBL1u%2FjWX3XqyKNcKwboHYz3CDkCWo3s%3D"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "steamAppId": 75825,
+      "rating": 4,
+      "title": "The Incredible Adventures of Van Helsing Anthology",
+      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 7.49,
+          "original": 74.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "steamAppId": 1572270,
+      "rating": 4,
+      "title": "F.I.S.H.",
+      "desc": "Encuentra F.I.S.H. al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find F.I.S.H. at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 9.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=6FgBtLeVAhfRHQicVsUlIBV2YA4PmAQMbgcTakTWz3k%3D"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Invincible Vs Review",
+      "titleEN": "Invincible Vs Review",
+      "desc": "The sentence: \"An Amazon television show video game tie-in\" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes. However, would you believe it, Invincible V",
+      "descEN": "The sentence: \"An Amazon television show video game tie-in\" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes. However, would you believe it, Invincible V",
+      "date": "16 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
+      "titleEN": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
+      "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria almost sleeps through a foundational child-powered gaming moment; Bertie sounds a bit like a grumpy old man; Chris has a few",
+      "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria almost sleeps through a foundational child-powered gaming moment; Bertie sounds a bit like a grumpy old man; Chris has a few",
+      "date": "16 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
+      "titleEN": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
+      "desc": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
+      "descEN": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
+      "titleEN": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
+      "desc": "We haven't heard anything for months about FromSoftware's Switch 2 exclusive The Duskbloods and the Switch 2 version of Elden Ring: Tarnished Edition, but apparently they're both still down for release this year. That's according to FromSoftware's ow",
+      "descEN": "We haven't heard anything for months about FromSoftware's Switch 2 exclusive The Duskbloods and the Switch 2 version of Elden Ring: Tarnished Edition, but apparently they're both still down for release this year. That's according to FromSoftware's ow",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
+      "titleEN": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
+      "desc": "After early reports of an imminent home release for The Super Mario Galaxy turned out to be false, Universal has officially announced the film is making its digital download debut next week. Those interested in watching Mario and co's latest animated",
+      "descEN": "After early reports of an imminent home release for The Super Mario Galaxy turned out to be false, Universal has officially announced the film is making its digital download debut next week. Those interested in watching Mario and co's latest animated",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "\"I cannot condone piracy, but I get why people do\" - Subnautica 2 lead designer airs frustration at 'flagrant' pirates",
+      "titleEN": "\"I cannot condone piracy, but I get why people do\" - Subnautica 2 lead designer airs frustration at 'flagrant' pirates",
+      "desc": "Subnautica 2 is finally here, and while the vast majority of fans are playing - and paying - their hearts out, a few have taken to a different ocean. And the game's design lead has now pushed back against these flagrant pirates. Read more",
+      "descEN": "Subnautica 2 is finally here, and while the vast majority of fans are playing - and paying - their hearts out, a few have taken to a different ocean. And the game's design lead has now pushed back against these flagrant pirates. Read more",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed",
+      "titleEN": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed",
+      "desc": "Marathon game director Joe Ziegler has shared some of Bungie's plans to improve its divisive extraction shooter, which include the introduction of PvE and PvP-lite game modes as alternatives to the \"overwhelming\" core experience. Read more",
+      "descEN": "Marathon game director Joe Ziegler has shared some of Bungie's plans to improve its divisive extraction shooter, which include the introduction of PvE and PvP-lite game modes as alternatives to the \"overwhelming\" core experience. Read more",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down",
+      "titleEN": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down",
+      "desc": "Former BioWare lead designer James Ohlen has revealed there was once a plan to reboot the studio's massively-multiplayer online role-playing game Star Wars: The Old Republic, and it would have made it more like 2003's single-player RPG Star Wars: Kni",
+      "descEN": "Former BioWare lead designer James Ohlen has revealed there was once a plan to reboot the studio's massively-multiplayer online role-playing game Star Wars: The Old Republic, and it would have made it more like 2003's single-player RPG Star Wars: Kni",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
+      "title": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
+      "titleEN": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
+      "desc": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on. But how does an acto",
+      "descEN": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on. But how does an acto",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n10",
+      "title": "Crimson Desert's latest update adds more bosses for rematches as well as new unarmed combat skills for Damiane",
+      "titleEN": "Crimson Desert's latest update adds more bosses for rematches as well as new unarmed combat skills for Damiane",
+      "desc": "The Crimson Desert team only recently released an update which allowed you to mount iguanas and other fantastic beasts, but it is already back at it, releasing a new patch which, among other things, adds more bosses to the rematch system meaning you ",
+      "descEN": "The Crimson Desert team only recently released an update which allowed you to mount iguanas and other fantastic beasts, but it is already back at it, releasing a new patch which, among other things, adds more bosses to the rematch system meaning you ",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n11",
+      "title": "Subnautica 2 already has huge concurrent player counts and has swum to 2 million sales",
+      "titleEN": "Subnautica 2 already has huge concurrent player counts and has swum to 2 million sales",
+      "desc": "Subnautica 2 has done exceptionally well following its launch into Early Access, quickly coasting to 467,000 concurrent players on Steam alone. Read more",
+      "descEN": "Subnautica 2 has done exceptionally well following its launch into Early Access, quickly coasting to 467,000 concurrent players on Steam alone. Read more",
+      "date": "15 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n12",
+      "title": "Attention Geometry Wars fans! Sektori is one of last year's best arcade shooters, and it's out on Switch 2 today",
+      "titleEN": "Attention Geometry Wars fans! Sektori is one of last year's best arcade shooters, and it's out on Switch 2 today",
+      "desc": "Sektori, one of last year's best games - and a game so closely related to twin-stick shooter Geometry Wars they could be the same thing - has finally arrived on Nintendo Switch 2. Read more",
+      "descEN": "Sektori, one of last year's best games - and a game so closely related to twin-stick shooter Geometry Wars they could be the same thing - has finally arrived on Nintendo Switch 2. Read more",
+      "date": "14 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    }
+  ]
 }
