@@ -582,10 +582,7 @@ function createDealCard(game, lang) {
   html += '<div class="deal-body">';
   html += '<h3 class="deal-title">' + title + '</h3>';
   html += '<p class="deal-desc">' + desc + '</p>';
-  html += '<div class="deal-price-box">';
-  html += '<span class="deal-price-label">' + t("best") + ' ' + t("dealOn") + ' ' + best.store + '</span>';
-  html += '<span class="deal-price-amount">$' + best.price.toFixed(2) + '</span>';
-  html += '</div>';
+  html += '<span class="deal-price">$' + best.price.toFixed(2) + '</span>';
   html += '<a href="' + best.url + '" class="deal-cta" target="_blank" rel="noopener">' + t("buyOn") + " " + best.store + " →</a>";
   html += "</div></article>";
   return html;
@@ -634,7 +631,6 @@ function createCatalogCard(game, lang) {
     html += '<span class="catalog-discount">-' + discount + '%</span>';
   }
   html += '</div>';
-  html += '<div class="catalog-store">' + best.store + '</div>';
   html += '</div>';
   html += '<a href="' + best.url + '" class="catalog-overlay-link" target="_blank" rel="noopener"></a>';
   html += '</article>';

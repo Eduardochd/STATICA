@@ -513,25 +513,14 @@ main {
     line-height: 1.5;
 }
 
-.deal-price-box {
-    display: flex;
-    align-items: baseline;
-    gap: 0.5rem;
-    margin-bottom: 0.85rem;
-    padding: 0.65rem 0;
-    border-top: 1px solid var(--border);
-}
-
-.deal-price-label {
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    font-weight: 500;
-}
-
-.deal-price-amount {
-    font-size: 1.35rem;
+.deal-price {
+    display: block;
+    font-size: 1.6rem;
     font-weight: 800;
     color: var(--accent-green);
+    margin-bottom: 0.75rem;
+    padding: 0.5rem 0;
+    border-top: 1px solid var(--border);
 }
 
 .store-logo {
