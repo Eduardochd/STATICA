@@ -882,6 +882,54 @@ footer {
     margin: 0 auto !important;
 }
 
+/* Radio Group */
+.radio-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin-top: 0.25rem;
+}
+
+.radio-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    cursor: pointer;
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    line-height: 1.4;
+}
+
+.radio-item input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    border: 2px solid var(--border);
+    border-radius: 50%;
+    margin-top: 2px;
+    flex-shrink: 0;
+    cursor: pointer;
+    position: relative;
+    transition: border-color 0.2s;
+}
+
+.radio-item input[type="radio"]:checked {
+    border-color: var(--primary);
+}
+
+.radio-item input[type="radio"]:checked::after {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    background: var(--primary);
+}
+
+.radio-item:hover input[type="radio"] {
+    border-color: var(--primary);
+}
+
 /* Login/Register Tabs */
 .login-tabs {
     display: flex;
@@ -908,6 +956,23 @@ footer {
 .login-tab.active {
     color: var(--primary);
     box-shadow: inset 0 -2px 0 var(--primary);
+}
+
+/* Scope Select */
+.scope-select {
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.3rem 0.5rem;
+    font-size: 0.78rem;
+    font-weight: 500;
+    cursor: pointer;
+    outline: none;
+}
+
+.scope-select:focus {
+    border-color: var(--primary);
 }
 
 /* Toggle Switch */

@@ -189,7 +189,22 @@ const i18n = {
     googleSignIn: "Iniciar sesión con Google", googleConfig: "Configurar Google Client ID",
     saveGoogle: "Guardar", googleHint: "1) Ve a console.cloud.google.com 2) Crea un proyecto 3) APIs > Credenciales > Crear ID de cliente OAuth 2.0 (tipo Aplicación web) 4) Agrega tu origen como Authorized JavaScript origin",
     googleConfigured: "Configurado", googleNotConfigured: "No configurado",
-    or: "o", signInGoogle: "Iniciar sesión con Google"
+    or: "o",     signInGoogle: "Iniciar sesión con Google",
+    notifPrefLabel: "Preferencias de notificaciones",
+    notifWishlist: "Solo ofertas de mi lista de deseos",
+    notifAll: "Ofertas de todos los juegos",
+    notifScope: "Recibir ofertas",
+    notifWishlistShort: "Lista de deseos",
+    notifAllShort: "Todos los juegos",
+    welcomeSubject: "¡Bienvenido a STATICA!",
+    welcomeMsg: "¡Gracias por registrarte en STATICA! Ahora recibirás alertas automáticas cuando los juegos que te interesan estén en oferta.\n\nPuedes cambiar tus preferencias en Configuración > Notificaciones.\n\n¡Que encuentres grandes ofertas!",
+    welcomeMsgAll: "¡Gracias por registrarte en STATICA! Ahora recibirás alertas automáticas de las mejores ofertas en todos los juegos.\n\nPuedes cambiar tus preferencias en Configuración > Notificaciones.\n\n¡Que encuentres grandes ofertas!",
+    dealSubjectWishlist: "¡Ofertas en tus juegos favoritos!",
+    dealSubjectAll: "¡Las mejores ofertas de videojuegos!",
+    dealBodyWishlist: "Estos juegos de tu lista de favoritos están en oferta:\n\n",
+    dealBodyAll: "Estas son las mejores ofertas disponibles ahora:\n\n",
+    dealFooter: "\n\nVisita STATICA para más detalles.",
+    noNotifsToday: "No hay nuevas ofertas en este momento"
   },
   en: {
     loginBtn: "Sign in", settingsTitle: "Settings",
@@ -221,7 +236,22 @@ const i18n = {
     googleSignIn: "Sign in with Google", googleConfig: "Configure Google Client ID",
     saveGoogle: "Save", googleHint: "1) Go to console.cloud.google.com 2) Create a project 3) APIs > Credentials > Create OAuth 2.0 Client ID (Web application type) 4) Add your origin as Authorized JavaScript origin",
     googleConfigured: "Configured", googleNotConfigured: "Not configured",
-    or: "or", signInGoogle: "Sign in with Google"
+    or: "or",     signInGoogle: "Sign in with Google",
+    notifPrefLabel: "Notification preferences",
+    notifWishlist: "Only deals from my wishlist",
+    notifAll: "Deals on all games",
+    notifScope: "Get deals",
+    notifWishlistShort: "My wishlist",
+    notifAllShort: "All games",
+    welcomeSubject: "Welcome to STATICA!",
+    welcomeMsg: "Thank you for registering at STATICA! You will now receive automatic alerts when your favorite games go on sale.\n\nYou can change your preferences in Settings > Notifications.\n\nHappy deal hunting!",
+    welcomeMsgAll: "Thank you for registering at STATICA! You will now receive automatic alerts for the best deals on all games.\n\nYou can change your preferences in Settings > Notifications.\n\nHappy deal hunting!",
+    dealSubjectWishlist: "Deals on your favorite games!",
+    dealSubjectAll: "Best video game deals!",
+    dealBodyWishlist: "These games from your wishlist are now on sale:\n\n",
+    dealBodyAll: "Here are the best deals available right now:\n\n",
+    dealFooter: "\n\nVisit STATICA for more details.",
+    noNotifsToday: "No new deals at this time"
   }
 };
 
@@ -785,6 +815,8 @@ document.addEventListener("DOMContentLoaded", async function () {
   var settingsAccountRow = document.getElementById("settingsAccountRow");
   var settingsAccountEmail = document.getElementById("settingsAccountEmail");
   var settingsNotifRow = document.getElementById("settingsNotifRow");
+  var settingsNotifScopeRow = document.getElementById("settingsNotifScopeRow");
+  var notifScopeSelect = document.getElementById("notifScopeSelect");
   var emailNotifToggle = document.getElementById("emailNotifToggle");
   var emailjsDetails = document.getElementById("emailjsDetails");
   var emailjsServiceId = document.getElementById("emailjsServiceId");
@@ -846,6 +878,7 @@ document.addEventListener("DOMContentLoaded", async function () {
       loginBtn.querySelector(".btn-text").textContent = i18n[currLang()].loginBtn;
       settingsAccountRow.style.display = "none";
       settingsNotifRow.style.display = "none";
+      settingsNotifScopeRow.style.display = "none";
       emailjsDetails.style.display = "none";
       showGoogleButtons();
     }
@@ -871,11 +904,13 @@ document.addEventListener("DOMContentLoaded", async function () {
 
   function updateNotifUI() {
     var user = JSON.parse(localStorage.getItem("user"));
-    if (!user) { settingsNotifRow.style.display = "none"; emailjsDetails.style.display = "none"; return; }
+    if (!user) { settingsNotifRow.style.display = "none"; settingsNotifScopeRow.style.display = "none"; emailjsDetails.style.display = "none"; return; }
     settingsNotifRow.style.display = "flex";
+    settingsNotifScopeRow.style.display = "flex";
+    emailjsDetails.style.display = "block";
     var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
     emailNotifToggle.checked = prefs.enabled || false;
-    emailjsDetails.style.display = "block";
+    notifScopeSelect.value = prefs.scope || "wishlist";
     var cfg = JSON.parse(localStorage.getItem("emailjsConfig") || "{}");
     emailjsServiceId.value = cfg.serviceId || "";
     emailjsTemplateId.value = cfg.templateId || "";
@@ -932,6 +967,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     if (!accounts.some(function (a) { return a.email === email; })) {
       accounts.push({ email: email, password: "", google: true });
       saveAccounts(accounts);
+      var prefs = { enabled: true, scope: "wishlist" };
+      localStorage.setItem("notifPrefs_" + email, JSON.stringify(prefs));
+      trySendWelcomeEmail(email, "wishlist");
     }
     localStorage.setItem("user", JSON.stringify({ email: email, name: name, google: true }));
     closeLogin();
@@ -1041,10 +1079,15 @@ document.addEventListener("DOMContentLoaded", async function () {
     var accounts = getAccounts();
     accounts.push({ email: email, password: password });
     saveAccounts(accounts);
+    var prefInput = document.querySelector('input[name="notifPref"]:checked');
+    var notifScope = prefInput ? prefInput.value : "wishlist";
+    var prefs = { enabled: true, scope: notifScope };
+    localStorage.setItem("notifPrefs_" + email, JSON.stringify(prefs));
     localStorage.setItem("user", JSON.stringify({ email: email }));
     registerForm.reset();
     updateLoginUI();
     closeLogin();
+    trySendWelcomeEmail(email, notifScope);
   });
 
   logoutBtn.addEventListener("click", function () {
@@ -1058,6 +1101,15 @@ document.addEventListener("DOMContentLoaded", async function () {
     if (!user) return;
     var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
     prefs.enabled = emailNotifToggle.checked;
+    localStorage.setItem("notifPrefs_" + user.email, JSON.stringify(prefs));
+  });
+
+  // Notification scope change
+  notifScopeSelect.addEventListener("change", function () {
+    var user = JSON.parse(localStorage.getItem("user"));
+    if (!user) return;
+    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
+    prefs.scope = notifScopeSelect.value;
     localStorage.setItem("notifPrefs_" + user.email, JSON.stringify(prefs));
   });
 
@@ -1076,49 +1128,25 @@ document.addEventListener("DOMContentLoaded", async function () {
 
   updateLoginUI();
 
-  // ---- Deal notification checker ----
-  function checkDealNotifications() {
-    var user = JSON.parse(localStorage.getItem("user"));
-    if (!user) return;
-    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
-    if (!prefs.enabled) return;
+  // ---- EmailJS helpers ----
+  function trySendEmail(email, subject, message) {
     var cfg = JSON.parse(localStorage.getItem("emailjsConfig") || "{}");
     if (!cfg.serviceId || !cfg.templateId || !cfg.publicKey) return;
-    var wishlist = getWishlist();
-    var notifSent = JSON.parse(localStorage.getItem("notifSent_" + user.email) || "{}");
-    var newNotifs = [];
-    wishlist.forEach(function (gameId) {
-      var game = findGame(gameId);
-      if (!game) return;
-      var threshold = getThreshold(gameId);
-      var best = getBestDeal(game.deals);
-      if (best.price <= threshold && !notifSent[gameId]) {
-        newNotifs.push({ game: game, price: best.price, store: best.store, threshold: threshold });
-        notifSent[gameId] = true;
-      }
-    });
-    if (newNotifs.length === 0) return;
-    localStorage.setItem("notifSent_" + user.email, JSON.stringify(notifSent));
-    if (typeof emailjs === "undefined") { loadEmailJS(function () { sendEmailNotifs(user.email, newNotifs, cfg); }); }
-    else { sendEmailNotifs(user.email, newNotifs, cfg); }
+    if (typeof emailjs === "undefined") {
+      loadEmailJS(function () { doSendEmail(email, subject, message, cfg); });
+    } else {
+      doSendEmail(email, subject, message, cfg);
+    }
   }
 
-  function sendEmailNotifs(email, games, cfg) {
-    var l = currLang();
-    var gameList = games.map(function (g) {
-      return g.game.title + " - $" + g.price.toFixed(2) + " en " + g.store;
-    }).join("\n");
-    var subject = l === "es" ? "¡Ofertas en tus juegos favoritos!" : "Deals on your favorite games!";
-    var message = l === "es"
-      ? "¡Hola! Estos juegos de tu lista de favoritos están en oferta:\n\n" + gameList + "\n\nVisita STATICA para más detalles."
-      : "Hi! These games from your wishlist are now on sale:\n\n" + gameList + "\n\nVisit STATICA for more details.";
+  function doSendEmail(email, subject, message, cfg) {
     emailjs.init(cfg.publicKey);
     emailjs.send(cfg.serviceId, cfg.templateId, {
       to_email: email,
       subject: subject,
       message: message
     }).then(function () {
-      console.log("[STATICA] Email notification sent to " + email);
+      console.log("[STATICA] Email sent to " + email);
     }, function (err) {
       console.error("[STATICA] Email send failed", err);
     });
@@ -1131,7 +1159,65 @@ document.addEventListener("DOMContentLoaded", async function () {
     document.head.appendChild(s);
   }
 
-  // Run notification check on each auto-refresh
+  // ---- Welcome email ----
+  function trySendWelcomeEmail(email, scope) {
+    var l = currLang();
+    var subject = i18n[l].welcomeSubject;
+    var message = scope === "all" ? i18n[l].welcomeMsgAll : i18n[l].welcomeMsg;
+    trySendEmail(email, subject, message);
+  }
+
+  // ---- Deal notification checker ----
+  function checkDealNotifications() {
+    var user = JSON.parse(localStorage.getItem("user"));
+    if (!user) return;
+    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
+    if (!prefs.enabled) return;
+    var cfg = JSON.parse(localStorage.getItem("emailjsConfig") || "{}");
+    if (!cfg.serviceId || !cfg.templateId || !cfg.publicKey) return;
+    var l = currLang();
+    var notifSent = JSON.parse(localStorage.getItem("notifSent_" + user.email) || "{}");
+    var newNotifs = [];
+
+    if (prefs.scope === "all") {
+      var candidates = [];
+      for (var i = 0; i < GAMES.length; i++) {
+        var g = GAMES[i];
+        var best = getBestDeal(g.deals);
+        var discount = getDiscount(best.original, best.price);
+        if (discount >= 20 && !notifSent[g.id]) {
+          candidates.push({ game: g, price: best.price, store: best.store, discount: discount });
+          notifSent[g.id] = true;
+        }
+      }
+      candidates.sort(function (a, b) { return b.discount - a.discount; });
+      newNotifs = candidates.slice(0, 6);
+    } else {
+      var wishlist = getWishlist();
+      wishlist.forEach(function (gameId) {
+        var game = findGame(gameId);
+        if (!game) return;
+        var threshold = getThreshold(gameId);
+        var best = getBestDeal(game.deals);
+        if (best.price <= threshold && !notifSent[gameId]) {
+          newNotifs.push({ game: game, price: best.price, store: best.store, threshold: threshold });
+          notifSent[gameId] = true;
+        }
+      });
+    }
+
+    if (newNotifs.length === 0) return;
+    localStorage.setItem("notifSent_" + user.email, JSON.stringify(notifSent));
+    var subject = prefs.scope === "all" ? i18n[l].dealSubjectAll : i18n[l].dealSubjectWishlist;
+    var bodyPrefix = prefs.scope === "all" ? i18n[l].dealBodyAll : i18n[l].dealBodyWishlist;
+    var gameList = newNotifs.map(function (g) {
+      return g.game.title + " - $" + g.price.toFixed(2) + " en " + g.store;
+    }).join("\n");
+    var message = bodyPrefix + gameList + i18n[l].dealFooter;
+    trySendEmail(user.email, subject, message);
+  }
+
+  // Run notification check after initial render
   setTimeout(checkDealNotifications, 5000);
 
   // ---- Render default (Ofertas) ----

@@ -91,6 +91,13 @@
                     <span class="toggle-slider"></span>
                 </label>
             </div>
+            <div class="setting-row" id="settingsNotifScopeRow" style="display:none">
+                <span data-i18n="notifScope">Recibir ofertas</span>
+                <select id="notifScopeSelect" class="scope-select">
+                    <option value="wishlist" data-i18n="notifWishlistShort">Lista de deseos</option>
+                    <option value="all" data-i18n="notifAllShort">Todos los juegos</option>
+                </select>
+            </div>
             <div class="setting-row">
                 <span data-i18n="googleSignIn">Iniciar sesión con Google</span>
                 <span id="googleClientIdStatus" style="font-size:0.72rem;color:var(--text-muted)"></span>
@@ -157,6 +164,19 @@
             <div class="form-group">
                 <label for="regConfirm" data-i18n="confirmLabel">Confirmar contraseña</label>
                 <input type="password" id="regConfirm" placeholder="••••••••" required minlength="6">
+            </div>
+            <div class="form-group">
+                <label data-i18n="notifPrefLabel">Preferencias de notificaciones</label>
+                <div class="radio-group">
+                    <label class="radio-item">
+                        <input type="radio" name="notifPref" value="wishlist" checked>
+                        <span data-i18n="notifWishlist">Solo ofertas de mi lista de deseos</span>
+                    </label>
+                    <label class="radio-item">
+                        <input type="radio" name="notifPref" value="all">
+                        <span data-i18n="notifAll">Ofertas de todos los juegos</span>
+                    </label>
+                </div>
             </div>
             <p class="form-error" id="regError"></p>
             <button type="submit" class="btn-submit" data-i18n="registerBtn">Crear cuenta</button>
