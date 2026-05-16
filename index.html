@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STATICA - Ofertas de Videojuegos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-mark">S</span>
+                <span class="logo-name">STATICA</span>
+            </div>
+            <div class="header-controls">
+                <button class="btn-login" id="loginBtn" aria-label="Iniciar sesión">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                    <span class="btn-text" data-i18n="loginBtn">Iniciar sesión</span>
+                </button>
+                <button class="btn-settings" id="settingsBtn" aria-label="Configuración">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">STATICA</h1>
+            <div class="hero-divider"></div>
+            <p class="hero-sub" data-i18n="heroSub">Las mejores ofertas de videojuegos, comparadas de todas las tiendas</p>
+        </div>
+    </section>
+
+    <nav class="top-nav">
+        <div class="nav-search">
+            <svg class="nav-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="navSearch" data-i18n="searchPlaceholder" placeholder="Buscar juegos...">
+            <div class="nav-search-results" id="navSearchResults"></div>
+        </div>
+        <div class="nav-links">
+            <div class="nav-dropdown" id="inicioDropdown">
+                <button class="nav-link nav-dropdown-toggle" id="inicioToggle">Inicio ▾</button>
+                <div class="nav-dropdown-menu" id="inicioMenu">
+                    <button data-section="ofertas">🔥 Ofertas</button>
+                    <button data-section="favoritos">⭐ Favoritos</button>
+                    <button data-section="nuevos">🆕 Nuevos lanzamientos</button>
+                </div>
+            </div>
+            <button class="nav-link" data-section="catalogo">📋 Catálogo</button>
+        </div>
+    </nav>
+
+    <main>
+        <section id="ofertas" class="section active"></section>
+        <section id="favoritos" class="section"></section>
+        <section id="nuevos" class="section"></section>
+        <section id="catalogo" class="section"></section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 STATICA — Precios comparados de Steam, Epic Games, GOG, Humble Bundle, Green Man Gaming y Fanatical</p>
+    </footer>
+
+    <!-- Settings Card -->
+    <div class="settings-overlay" id="settingsOverlay"></div>
+    <div class="settings-card" id="settingsPanel">
+        <div class="settings-card-header">
+            <h2 data-i18n="settingsTitle">Configuración</h2>
+            <button class="btn-close" id="settingsClose" aria-label="Cerrar">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+        </div>
+        <div class="settings-card-body">
+            <div class="setting-row">
+                <span data-i18n="language">Idioma</span>
+                <div class="lang-buttons">
+                    <button class="lang-btn active" data-lang="es">ES</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Modal -->
+    <div class="modal-overlay" id="loginOverlay"></div>
+    <div class="modal" id="loginModal">
+        <div class="modal-header">
+            <h2 data-i18n="loginTitle">Iniciar sesión</h2>
+            <button class="btn-close" id="loginClose" aria-label="Cerrar">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+        </div>
+        <form class="login-form" id="loginForm">
+            <div class="form-group">
+                <label for="loginEmail" data-i18n="emailLabel">Correo electrónico</label>
+                <input type="email" id="loginEmail" placeholder="tu@correo.com" required>
+            </div>
+            <div class="form-group">
+                <label for="loginPassword" data-i18n="passwordLabel">Contraseña</label>
+                <input type="password" id="loginPassword" placeholder="••••••••" required minlength="6">
+            </div>
+            <p class="form-error" id="loginError"></p>
+            <button type="submit" class="btn-submit" data-i18n="submitBtn">Entrar</button>
+            <p class="form-hint" data-i18n="formHint">Demo: usa cualquier email y una contraseña de al menos 6 caracteres</p>
+        </form>
+        <div class="login-success" id="loginSuccess">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            <h3 data-i18n="loginSuccess">Sesión iniciada</h3>
+            <p id="loginSuccessEmail"></p>
+            <button class="btn-submit btn-outline" id="logoutBtn" data-i18n="logoutBtn">Cerrar sesión</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
