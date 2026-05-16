@@ -851,16 +851,22 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
   }
 
+  var GOOGLE_CLIENT_ID = "869571684624-gv9hpt2klpsod6vse09pahaictu7b0qo.apps.googleusercontent.com";
+
+  function getGoogleClientId() {
+    return localStorage.getItem("googleClientId") || GOOGLE_CLIENT_ID;
+  }
+
   function showGoogleButtons() {
-    var googleClientId = localStorage.getItem("googleClientId") || "";
-    if (!googleClientId) {
+    var clientId = getGoogleClientId();
+    if (!clientId) {
       gSignInWrapper.style.display = "none";
       gSignInWrapperReg.style.display = "none";
       return;
     }
     gSignInWrapper.style.display = "block";
     gSignInWrapperReg.style.display = "block";
-    initGoogleGIS(googleClientId);
+    initGoogleGIS(clientId);
   }
 
   function updateNotifUI() {
@@ -959,7 +965,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     var val = localStorage.getItem("googleClientId") || "";
     var l = currLang();
     googleClientIdInput.value = val;
-    googleClientIdStatus.textContent = val ? i18n[l].googleConfigured : i18n[l].googleNotConfigured;
+    googleClientIdStatus.textContent = val ? i18n[l].googleConfigured : "Pre-configurado";
   }
 
   updateGoogleClientIdStatus();
@@ -983,8 +989,7 @@ document.addEventListener("DOMContentLoaded", async function () {
       var l = currLang();
       loginSubmitBtn.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
       loginModalTitle.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
-      var googleClientId = localStorage.getItem("googleClientId") || "";
-      if (googleClientId) {
+      if (getGoogleClientId()) {
         gSignInWrapper.style.display = isLogin ? "block" : "none";
         gSignInWrapperReg.style.display = isLogin ? "none" : "block";
       }
