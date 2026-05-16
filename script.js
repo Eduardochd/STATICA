@@ -175,7 +175,17 @@ const i18n = {
     setPrice: "Precio deseado", notifyOn: "Notificando", notifyOff: "Sin notificar",
     historicalLow: "Mín", historicalHigh: "Máx",
     addFav: "Añadir a favoritos", removeFav: "Quitar de favoritos", remove: "Quitar",
-    searchNoResults: "No se encontraron juegos para", matching: "resultados para"
+    searchNoResults: "No se encontraron juegos para", matching: "resultados para",
+    registerTitle: "Crear cuenta", registerBtn: "Crear cuenta", confirmLabel: "Confirmar contraseña",
+    registerSuccess: "Cuenta creada correctamente", accountExists: "Ya existe una cuenta con este correo",
+    passwordsDontMatch: "Las contraseñas no coinciden", account: "Cuenta",
+    emailNotif: "Notificaciones por correo", emailjsConfig: "Configurar EmailJS",
+    saveEmailjs: "Guardar", emailjsHint: "Obtén estos datos desde emailjs.com (gratis)",
+    emailjsSaved: "Configuración guardada",
+    testNotif: "Enviar notificación de prueba",
+    notifSent: "Notificación de prueba enviada",
+    registerWelcome: "¡Bienvenido! Ahora puedes recibir alertas de ofertas en tu correo.",
+    emailOn: "Notificaciones activadas", emailOff: "Notificaciones desactivadas"
   },
   en: {
     loginBtn: "Sign in", settingsTitle: "Settings",
@@ -193,7 +203,17 @@ const i18n = {
     setPrice: "Target price", notifyOn: "Notifying", notifyOff: "Not notifying",
     historicalLow: "Min", historicalHigh: "Max",
     addFav: "Add to wishlist", removeFav: "Remove from wishlist", remove: "Remove",
-    searchNoResults: "No games found for", matching: "results for"
+    searchNoResults: "No games found for", matching: "results for",
+    registerTitle: "Create account", registerBtn: "Create account", confirmLabel: "Confirm password",
+    registerSuccess: "Account created successfully", accountExists: "An account with this email already exists",
+    passwordsDontMatch: "Passwords do not match", account: "Account",
+    emailNotif: "Email notifications", emailjsConfig: "Configure EmailJS",
+    saveEmailjs: "Save", emailjsHint: "Get these from emailjs.com (free)",
+    emailjsSaved: "Settings saved",
+    testNotif: "Send test notification",
+    notifSent: "Test notification sent",
+    registerWelcome: "Welcome! Now you can receive deal alerts in your email.",
+    emailOn: "Notifications enabled", emailOff: "Notifications disabled"
   }
 };
 
@@ -222,6 +242,21 @@ function getBestDeal(deals) {
     if (deals[i].price < best.price) best = deals[i];
   }
   return best;
+}
+
+function findGame(id) {
+  for (var i = 0; i < GAMES.length; i++) {
+    if (GAMES[i].id === id) return GAMES[i];
+  }
+  return null;
+}
+
+function getThreshold(gameId) {
+  var wl = JSON.parse(localStorage.getItem("wishlist") || "[]");
+  for (var i = 0; i < wl.length; i++) {
+    if (wl[i].id === gameId) return wl[i].threshold;
+  }
+  return 0;
 }
 
 function getSteamImageUrl(appId) {
@@ -719,20 +754,40 @@ document.addEventListener("DOMContentLoaded", async function () {
   settingsClose.addEventListener("click", closeSettings);
   settingsOverlay.addEventListener("click", closeSettings);
 
-  // ---- Login ----
+  // ---- Account System (Login / Register) ----
   var loginBtn = document.getElementById("loginBtn");
   var loginModal = document.getElementById("loginModal");
   var loginOverlay = document.getElementById("loginOverlay");
   var loginClose = document.getElementById("loginClose");
   var loginForm = document.getElementById("loginForm");
   var loginError = document.getElementById("loginError");
+  var registerForm = document.getElementById("registerForm");
+  var regError = document.getElementById("regError");
   var loginSuccess = document.getElementById("loginSuccess");
   var loginSuccessEmail = document.getElementById("loginSuccessEmail");
   var logoutBtn = document.getElementById("logoutBtn");
   var loginEmail = document.getElementById("loginEmail");
   var loginPassword = document.getElementById("loginPassword");
+  var regEmail = document.getElementById("regEmail");
+  var regPassword = document.getElementById("regPassword");
+  var regConfirm = document.getElementById("regConfirm");
+  var loginSubmitBtn = document.getElementById("loginSubmitBtn");
+  var loginTabs = document.querySelectorAll(".login-tab");
+  var loginModalTitle = document.getElementById("loginModalTitle");
+  var settingsAccountRow = document.getElementById("settingsAccountRow");
+  var settingsAccountEmail = document.getElementById("settingsAccountEmail");
+  var settingsNotifRow = document.getElementById("settingsNotifRow");
+  var emailNotifToggle = document.getElementById("emailNotifToggle");
+  var emailjsDetails = document.getElementById("emailjsDetails");
+  var emailjsServiceId = document.getElementById("emailjsServiceId");
+  var emailjsTemplateId = document.getElementById("emailjsTemplateId");
+  var emailjsPublicKey = document.getElementById("emailjsPublicKey");
+  var emailjsSaveBtn = document.getElementById("emailjsSaveBtn");
 
   function currLang() { return localStorage.getItem("lang") || "es"; }
+
+  function getAccounts() { return JSON.parse(localStorage.getItem("accounts") || "[]"); }
+  function saveAccounts(a) { localStorage.setItem("accounts", JSON.stringify(a)); }
 
   function openLogin() {
     loginModal.classList.add("open");
@@ -744,28 +799,76 @@ document.addEventListener("DOMContentLoaded", async function () {
     loginModal.classList.remove("open");
     loginOverlay.classList.remove("open");
     loginError.classList.remove("show");
+    regError.classList.remove("show");
+  }
+
+  function accountExists(email) {
+    var accounts = getAccounts();
+    return accounts.some(function (a) { return a.email === email; });
   }
 
   function updateLoginUI() {
     var user = JSON.parse(localStorage.getItem("user"));
     if (user) {
       loginForm.style.display = "none";
+      registerForm.style.display = "none";
+      document.querySelector(".login-tabs").style.display = "none";
       loginSuccess.classList.add("show");
       loginSuccessEmail.textContent = user.email;
       loginBtn.classList.add("logged-in");
       loginBtn.querySelector(".btn-text").textContent = user.email;
+      settingsAccountRow.style.display = "flex";
+      settingsAccountEmail.textContent = user.email;
+      updateNotifUI();
     } else {
       loginForm.style.display = "block";
+      registerForm.style.display = "none";
+      document.querySelector(".login-tabs").style.display = "flex";
       loginSuccess.classList.remove("show");
       loginBtn.classList.remove("logged-in");
       loginBtn.querySelector(".btn-text").textContent = i18n[currLang()].loginBtn;
+      settingsAccountRow.style.display = "none";
+      settingsNotifRow.style.display = "none";
+      emailjsDetails.style.display = "none";
     }
+  }
+
+  function updateNotifUI() {
+    var user = JSON.parse(localStorage.getItem("user"));
+    if (!user) { settingsNotifRow.style.display = "none"; emailjsDetails.style.display = "none"; return; }
+    settingsNotifRow.style.display = "flex";
+    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
+    emailNotifToggle.checked = prefs.enabled || false;
+    emailjsDetails.style.display = "block";
+    var cfg = JSON.parse(localStorage.getItem("emailjsConfig") || "{}");
+    emailjsServiceId.value = cfg.serviceId || "";
+    emailjsTemplateId.value = cfg.templateId || "";
+    emailjsPublicKey.value = cfg.publicKey || "";
   }
 
   loginBtn.addEventListener("click", openLogin);
   loginClose.addEventListener("click", closeLogin);
   loginOverlay.addEventListener("click", closeLogin);
 
+  // Tab switching
+  loginTabs.forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      loginTabs.forEach(function (t) { t.classList.remove("active"); });
+      tab.classList.add("active");
+      var isLogin = tab.dataset.tab === "login";
+      loginForm.style.display = isLogin ? "block" : "none";
+      registerForm.style.display = isLogin ? "none" : "block";
+      loginError.classList.remove("show");
+      regError.classList.remove("show");
+      loginForm.reset();
+      registerForm.reset();
+      var l = currLang();
+      loginSubmitBtn.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
+      loginModalTitle.textContent = i18n[l][isLogin ? "loginTitle" : "registerTitle"];
+    });
+  });
+
+  // Login
   loginForm.addEventListener("submit", function (e) {
     e.preventDefault();
     var email = loginEmail.value.trim();
@@ -774,9 +877,46 @@ document.addEventListener("DOMContentLoaded", async function () {
     if (!email) { loginError.textContent = i18n[l].noEmail; loginError.classList.add("show"); return; }
     if (password.length < 6) { loginError.textContent = i18n[l].shortPwd; loginError.classList.add("show"); return; }
     loginError.classList.remove("show");
+    if (!accountExists(email)) {
+      loginError.textContent = i18n[l].accountExists;
+      loginError.classList.add("show");
+      return;
+    }
+    var accounts = getAccounts();
+    var acct = accounts.find(function (a) { return a.email === email; });
+    if (acct.password !== password) {
+      loginError.textContent = i18n[l].shortPwd;
+      loginError.classList.add("show");
+      return;
+    }
     localStorage.setItem("user", JSON.stringify({ email: email }));
     loginForm.reset();
     updateLoginUI();
+  });
+
+  // Register
+  registerForm.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var email = regEmail.value.trim();
+    var password = regPassword.value;
+    var confirmPwd = regConfirm.value;
+    var l = currLang();
+    if (!email) { regError.textContent = i18n[l].noEmail; regError.classList.add("show"); return; }
+    if (password.length < 6) { regError.textContent = i18n[l].shortPwd; regError.classList.add("show"); return; }
+    if (password !== confirmPwd) { regError.textContent = i18n[l].passwordsDontMatch; regError.classList.add("show"); return; }
+    regError.classList.remove("show");
+    if (accountExists(email)) {
+      regError.textContent = i18n[l].accountExists;
+      regError.classList.add("show");
+      return;
+    }
+    var accounts = getAccounts();
+    accounts.push({ email: email, password: password });
+    saveAccounts(accounts);
+    localStorage.setItem("user", JSON.stringify({ email: email }));
+    registerForm.reset();
+    updateLoginUI();
+    closeLogin();
   });
 
   logoutBtn.addEventListener("click", function () {
@@ -784,7 +924,87 @@ document.addEventListener("DOMContentLoaded", async function () {
     updateLoginUI();
   });
 
+  // Email notification toggle
+  emailNotifToggle.addEventListener("change", function () {
+    var user = JSON.parse(localStorage.getItem("user"));
+    if (!user) return;
+    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
+    prefs.enabled = emailNotifToggle.checked;
+    localStorage.setItem("notifPrefs_" + user.email, JSON.stringify(prefs));
+  });
+
+  // EmailJS config save
+  emailjsSaveBtn.addEventListener("click", function () {
+    var cfg = {
+      serviceId: emailjsServiceId.value.trim(),
+      templateId: emailjsTemplateId.value.trim(),
+      publicKey: emailjsPublicKey.value.trim()
+    };
+    localStorage.setItem("emailjsConfig", JSON.stringify(cfg));
+    var l = currLang();
+    emailjsSaveBtn.textContent = i18n[l].emailjsSaved;
+    setTimeout(function () { emailjsSaveBtn.textContent = i18n[l].saveEmailjs; }, 2000);
+  });
+
   updateLoginUI();
+
+  // ---- Deal notification checker ----
+  function checkDealNotifications() {
+    var user = JSON.parse(localStorage.getItem("user"));
+    if (!user) return;
+    var prefs = JSON.parse(localStorage.getItem("notifPrefs_" + user.email) || "{}");
+    if (!prefs.enabled) return;
+    var cfg = JSON.parse(localStorage.getItem("emailjsConfig") || "{}");
+    if (!cfg.serviceId || !cfg.templateId || !cfg.publicKey) return;
+    var wishlist = getWishlist();
+    var notifSent = JSON.parse(localStorage.getItem("notifSent_" + user.email) || "{}");
+    var newNotifs = [];
+    wishlist.forEach(function (gameId) {
+      var game = findGame(gameId);
+      if (!game) return;
+      var threshold = getThreshold(gameId);
+      var best = getBestDeal(game.deals);
+      if (best.price <= threshold && !notifSent[gameId]) {
+        newNotifs.push({ game: game, price: best.price, store: best.store, threshold: threshold });
+        notifSent[gameId] = true;
+      }
+    });
+    if (newNotifs.length === 0) return;
+    localStorage.setItem("notifSent_" + user.email, JSON.stringify(notifSent));
+    if (typeof emailjs === "undefined") { loadEmailJS(function () { sendEmailNotifs(user.email, newNotifs, cfg); }); }
+    else { sendEmailNotifs(user.email, newNotifs, cfg); }
+  }
+
+  function sendEmailNotifs(email, games, cfg) {
+    var l = currLang();
+    var gameList = games.map(function (g) {
+      return g.game.title + " - $" + g.price.toFixed(2) + " en " + g.store;
+    }).join("\n");
+    var subject = l === "es" ? "¡Ofertas en tus juegos favoritos!" : "Deals on your favorite games!";
+    var message = l === "es"
+      ? "¡Hola! Estos juegos de tu lista de favoritos están en oferta:\n\n" + gameList + "\n\nVisita STATICA para más detalles."
+      : "Hi! These games from your wishlist are now on sale:\n\n" + gameList + "\n\nVisit STATICA for more details.";
+    emailjs.init(cfg.publicKey);
+    emailjs.send(cfg.serviceId, cfg.templateId, {
+      to_email: email,
+      subject: subject,
+      message: message
+    }).then(function () {
+      console.log("[STATICA] Email notification sent to " + email);
+    }, function (err) {
+      console.error("[STATICA] Email send failed", err);
+    });
+  }
+
+  function loadEmailJS(cb) {
+    var s = document.createElement("script");
+    s.src = "https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js";
+    s.onload = cb;
+    document.head.appendChild(s);
+  }
+
+  // Run notification check on each auto-refresh
+  setTimeout(checkDealNotifications, 5000);
 
   // ---- Render default (Ofertas) ----
   var defaultSection = document.getElementById("ofertas");
