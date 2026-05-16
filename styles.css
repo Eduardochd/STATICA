@@ -498,27 +498,6 @@ main {
     padding: 1rem 1.25rem 1.25rem;
 }
 
-.deal-meta {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 0.4rem;
-}
-
-.deal-store {
-    font-size: 0.78rem;
-    color: var(--primary-light);
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-.deal-rating {
-    font-size: 0.8rem;
-    color: var(--accent-amber);
-    letter-spacing: 0.08em;
-}
-
 .deal-title {
     font-size: 1.15rem;
     font-weight: 700;
@@ -534,36 +513,25 @@ main {
     line-height: 1.5;
 }
 
-.deal-prices {
-    background: var(--bg);
-    border-radius: 10px;
-    padding: 0.65rem 0.85rem;
-    margin-bottom: 0.85rem;
-}
-
-.price-row {
+.deal-price-box {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     gap: 0.5rem;
-    padding: 0.4rem 0;
-    font-size: 0.88rem;
-    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.85rem;
+    padding: 0.65rem 0;
+    border-top: 1px solid var(--border);
 }
 
-.price-row:last-child {
-    border-bottom: none;
+.deal-price-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-weight: 500;
 }
 
-.price-row.best {
-    background: rgba(16, 185, 129, 0.08);
-    margin: 0 -0.85rem;
-    padding: 0.5rem 0.85rem;
-    border-radius: 6px;
-    border-bottom: 1px solid rgba(16, 185, 129, 0.15);
-}
-
-.price-row.best:last-child {
-    border-bottom: none;
+.deal-price-amount {
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: var(--accent-green);
 }
 
 .store-logo {
@@ -577,36 +545,6 @@ main {
     font-size: 0.6rem;
     font-weight: 700;
     color: white;
-}
-
-.store-name {
-    font-weight: 500;
-    color: var(--text-secondary);
-    min-width: 80px;
-    font-size: 0.85rem;
-}
-
-.price-new {
-    color: var(--accent-green);
-    font-weight: 700;
-    font-size: 0.95rem;
-    min-width: 55px;
-    text-align: right;
-}
-
-.price-row.best .price-new {
-    font-size: 1.05rem;
-}
-
-.best-tag {
-    font-size: 0.65rem;
-    font-weight: 700;
-    color: var(--accent-green);
-    background: rgba(16, 185, 129, 0.15);
-    padding: 0.15rem 0.45rem;
-    border-radius: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
 }
 
 .deal-cta {
@@ -1537,16 +1475,6 @@ footer {
         flex-direction: column;
         align-items: flex-start;
         gap: 0.2rem;
-    }
-
-    .store-name {
-        min-width: 60px;
-        font-size: 0.8rem;
-    }
-
-    .price-new {
-        font-size: 0.88rem;
-        min-width: 45px;
     }
 
     .fav-card {

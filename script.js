@@ -357,7 +357,8 @@ const i18n = {
     dealBodyWishlist: "Estos juegos de tu lista de favoritos están en oferta:\n\n",
     dealBodyAll: "Estas son las mejores ofertas disponibles ahora:\n\n",
     dealFooter: "\n\nVisita STATICA para más detalles.",
-    noNotifsToday: "No hay nuevas ofertas en este momento"
+    noNotifsToday: "No hay nuevas ofertas en este momento",
+    dealOn: "en"
   },
   en: {
     loginBtn: "Sign in", settingsTitle: "Settings",
@@ -404,7 +405,8 @@ const i18n = {
     dealBodyWishlist: "These games from your wishlist are now on sale:\n\n",
     dealBodyAll: "Here are the best deals available right now:\n\n",
     dealFooter: "\n\nVisit STATICA for more details.",
-    noNotifsToday: "No new deals at this time"
+    noNotifsToday: "No new deals at this time",
+    dealOn: "on"
   }
 };
 
@@ -578,20 +580,11 @@ function createDealCard(game, lang) {
   }
   html += '</div>';
   html += '<div class="deal-body">';
-  html += '<div class="deal-meta"><span class="deal-store">' + best.store + '</span><span class="deal-rating">' + stars + '</span></div>';
   html += '<h3 class="deal-title">' + title + '</h3>';
   html += '<p class="deal-desc">' + desc + '</p>';
-  html += '<div class="deal-prices">';
-  for (var i = 0; i < game.deals.length; i++) {
-    var d = game.deals[i];
-    var isBest = d === best;
-    html += '<div class="price-row' + (isBest ? " best" : "") + '">';
-    html += getStoreLogo(d.store);
-    html += '<span class="store-name">' + d.store + '</span>';
-    html += '<span class="price-new">$' + d.price.toFixed(2) + '</span>';
-    if (isBest) html += '<span class="best-tag">' + t("best") + '</span>';
-    html += "</div>";
-  }
+  html += '<div class="deal-price-box">';
+  html += '<span class="deal-price-label">' + t("best") + ' ' + t("dealOn") + ' ' + best.store + '</span>';
+  html += '<span class="deal-price-amount">$' + best.price.toFixed(2) + '</span>';
   html += '</div>';
   html += '<a href="' + best.url + '" class="deal-cta" target="_blank" rel="noopener">' + t("buyOn") + " " + best.store + " →</a>";
   html += "</div></article>";
