@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-16T19:57:05.340Z",
+  "generatedAt": "2026-05-16T20:01:46.589Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -64,8 +64,8 @@
       "steamAppId": 2414270,
       "rating": 4,
       "title": "Sunderfolk",
-      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Sunderfolk is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Sunderfolk en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Sunderfolk on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -80,7 +80,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Special offer for NBA 2K26 on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -97,7 +97,7 @@
       "rating": 4,
       "title": "Vaudeville",
       "desc": "Encuentra Vaudeville al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Vaudeville at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Vaudeville deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -128,8 +128,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Humble. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -160,8 +160,8 @@
       "steamAppId": 1572270,
       "rating": 4,
       "title": "F.I.S.H.",
-      "desc": "F.I.S.H. está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find F.I.S.H. at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de F.I.S.H. en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "F.I.S.H. is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
