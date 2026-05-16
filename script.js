@@ -141,6 +141,9 @@ const GAMES = [
   }
 ];
 
+// Tag mock games as seed so they are never removed
+if (GAMES.length) GAMES.forEach(function(g){ if (!g.source) g.source = "seed"; });
+
 // ---- Remote data loader ----
 function loadRemoteData() {
   return fetch('data.json')
@@ -148,13 +151,163 @@ function loadRemoteData() {
     .then(function (data) {
       if (data.games && data.games.length > 0) {
         GAMES.length = 0;
-        data.games.forEach(function (g) { GAMES.push(g); });
+        data.games.forEach(function (g) { g.source = "seed"; GAMES.push(g); });
       }
       console.log('[STATICA] Loaded remote data: ' + GAMES.length + ' games');
     })
     .catch(function () {
       console.log('[STATICA] Using embedded mock data');
     });
+}
+
+// ---- CheapShark Client Fetcher (every 15 min) ----
+var CS_API = "https://www.cheapshark.com/api/1.0/deals?storeID=1,3,7,11,17,21,25,27,30,31,32&onSale=1&metacriticScore=60&pageSize=50&sortBy=DealRating";
+var CS_STORE_NAMES = { 1:"Steam", 3:"Xbox Live", 7:"GOG", 8:"Origin", 11:"Humble", 13:"Uplay", 17:"Green Man Gaming", 21:"GameBillet", 25:"Gamesplanet", 27:"Fanatical", 30:"2Game", 31:"WinGameStore", 32:"DLGamer" };
+var csIdCounter = 0;
+
+function saveGamesCache() {
+  try { localStorage.setItem("stGames", JSON.stringify(GAMES)); } catch(e) {}
+}
+
+function loadGamesCache() {
+  try {
+    var raw = localStorage.getItem("stGames");
+    if (raw) { var arr = JSON.parse(raw); if (arr && arr.length) { GAMES.length = 0; arr.forEach(function(g){ GAMES.push(g); }); return true; } }
+  } catch(e) {}
+  return false;
+}
+
+function csStoreUrl(steamAppId, storeId, dealId) {
+  if (storeId === 1 && steamAppId) return "https://store.steampowered.com/app/" + steamAppId;
+  return "https://www.cheapshark.com/redirect?dealID=" + dealId;
+}
+
+function fetchCheapSharkDeals() {
+  return fetch(CS_API).then(function(r) { if (!r.ok) throw new Error("CS fetch fail"); return r.json(); });
+}
+
+function mergeDealResults(apiDeals) {
+  if (!apiDeals || !apiDeals.length) return 0;
+  var activeKeys = {};
+  var added = 0, updated = 0, expired = 0;
+
+  // Build map of existing games by steamAppId and title
+  var gameByAppId = {}, gameByTitle = {};
+  for (var i = 0; i < GAMES.length; i++) {
+    var g = GAMES[i];
+    if (g.steamAppId) gameByAppId[g.steamAppId] = g;
+    gameByTitle[g.title.toLowerCase()] = g;
+  }
+
+  // Process each deal from API
+  apiDeals.forEach(function(d) {
+    var appId = d.steamAppID ? parseInt(d.steamAppID) : 0;
+    var title = (d.title || "").trim();
+    var storeId = parseInt(d.storeID);
+    var storeName = CS_STORE_NAMES[storeId] || "Store " + storeId;
+    var dealKey = appId + "-" + storeId;
+    activeKeys[dealKey] = true;
+    var price = parseFloat(d.salePrice);
+    var original = parseFloat(d.normalPrice);
+    if (!price && price !== 0) return;
+    if (!original) original = price * 1.2;
+
+    var game = appId ? gameByAppId[appId] : null;
+    if (!game) game = gameByTitle[title.toLowerCase()];
+
+    if (game) {
+      var existingDeal = null;
+      for (var j = 0; j < game.deals.length; j++) {
+        if (game.deals[j].dealId && game.deals[j].dealId === d.dealID) {
+          existingDeal = game.deals[j];
+          break;
+        }
+      }
+      if (!existingDeal && game.source === "cheapshark") {
+        for (var j = 0; j < game.deals.length; j++) {
+          if (!game.deals[j].dealId && game.deals[j].store === storeName) {
+            existingDeal = game.deals[j];
+            break;
+          }
+        }
+      }
+      if (existingDeal) {
+        if (existingDeal.price !== price || existingDeal.original !== original) {
+          existingDeal.price = price;
+          existingDeal.original = original;
+          existingDeal.url = csStoreUrl(appId, storeId, d.dealID);
+          existingDeal.stale = false;
+          updated++;
+        } else {
+          existingDeal.stale = false;
+        }
+      } else {
+        game.deals.push({ store: storeName, price: price, original: original, url: csStoreUrl(appId, storeId, d.dealID), dealId: d.dealID, source: "cheapshark", stale: false });
+        added++;
+      }
+    } else if (title && appId) {
+      // New game from CheapShark
+      csIdCounter++;
+      var newGame = {
+        id: "cs_" + Date.now() + "_" + csIdCounter,
+        steamAppId: appId,
+        rating: Math.round((d.metacriticScore || 70) / 20),
+        releaseDate: "2025-01-01",
+        title: title,
+        desc: "Oferta destacada: " + title + " con " + Math.round((1 - price / original) * 100) + "% de descuento.",
+        descEN: "Featured deal: " + title + " with " + Math.round((1 - price / original) * 100) + "% off.",
+        deals: [{ store: storeName, price: price, original: original, url: csStoreUrl(appId, storeId, d.dealID), dealId: d.dealID, source: "cheapshark", stale: false }],
+        source: "cheapshark"
+      };
+      GAMES.push(newGame);
+      gameByAppId[appId] = newGame;
+      gameByTitle[title.toLowerCase()] = newGame;
+      added++;
+    }
+  });
+
+  // Remove stale deals and games with no deals
+  for (var k = GAMES.length - 1; k >= 0; k--) {
+    var g = GAMES[k];
+    var hadExpired = false;
+    for (var j = g.deals.length - 1; j >= 0; j--) {
+      var deal = g.deals[j];
+      if (deal.source === "cheapshark") {
+        var dk = (g.steamAppId || 0) + "-" + getStoreIdByName(deal.store);
+        if (!activeKeys[dk]) {
+          g.deals.splice(j, 1);
+          expired++;
+          hadExpired = true;
+        }
+      }
+    }
+    if (g.source === "cheapshark" && g.deals.length === 0) {
+      GAMES.splice(k, 1);
+    }
+  }
+
+  saveGamesCache();
+  return { added: added, updated: updated, expired: expired };
+}
+
+function getStoreIdByName(name) {
+  for (var id in CS_STORE_NAMES) {
+    if (CS_STORE_NAMES[id] === name) return parseInt(id);
+  }
+  return 0;
+}
+
+function initCheapSharkFetcher() {
+  fetchCheapSharkDeals().then(function(deals) {
+    var r = mergeDealResults(deals);
+    if (r.added || r.updated || r.expired) console.log("[STATICA] CS update: +" + r.added + " ~" + r.updated + " -" + r.expired);
+    // Re-render active section
+    var active = document.querySelector(".section.active");
+    if (active) {
+      var currentLang = localStorage.getItem("lang") || "es";
+      renderSection(active.id, active, currentLang);
+    }
+  }).catch(function(e) { console.log("[STATICA] CS fetch error:", e); });
 }
 
 // ---- I18n ----
@@ -584,7 +737,8 @@ function renderSection(sectionName, el, lang) {
 
 // ---- Init ----
 document.addEventListener("DOMContentLoaded", async function () {
-  await loadRemoteData();
+  if (!loadGamesCache()) { await loadRemoteData(); }
+  else { console.log("[STATICA] Loaded " + GAMES.length + " games from cache"); }
   var lang = localStorage.getItem("lang") || "es";
 
   // Language
@@ -1272,4 +1426,10 @@ document.addEventListener("DOMContentLoaded", async function () {
       renderSection(id, activeSection, currentLang);
     }
   }, refreshInterval);
+
+  // ---- CheapShark auto-fetcher (every 15 min) ----
+  setTimeout(function csFirst() {
+    initCheapSharkFetcher();
+    setInterval(initCheapSharkFetcher, 15 * 60 * 1000);
+  }, 3000);
 });
