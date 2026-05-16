@@ -486,6 +486,14 @@ main {
     letter-spacing: 0.02em;
 }
 
+.deal-badge.badge-free {
+    background: var(--accent-green);
+}
+
+.deal-badge.badge-big {
+    background: #a855f7;
+}
+
 .deal-body {
     padding: 1rem 1.25rem 1.25rem;
 }
@@ -576,13 +584,6 @@ main {
     color: var(--text-secondary);
     min-width: 80px;
     font-size: 0.85rem;
-}
-
-.price-old {
-    color: var(--text-muted);
-    text-decoration: line-through;
-    font-size: 0.82rem;
-    margin-left: auto;
 }
 
 .price-new {
@@ -1481,6 +1482,16 @@ footer {
     background: rgba(239, 68, 68, 0.15);
     padding: 0.1rem 0.4rem;
     border-radius: 4px;
+}
+
+.catalog-discount.badge-free {
+    color: white;
+    background: var(--accent-green);
+}
+
+.catalog-discount.badge-big {
+    color: white;
+    background: #a855f7;
 }
 
 .catalog-store {

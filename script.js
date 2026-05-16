@@ -569,7 +569,13 @@ function createDealCard(game, lang) {
   html += '<div class="deal-image-fallback" style="display:none;background:linear-gradient(135deg,' + getGradientColor(game.id) + ')">' + title + '</div>';
   html += '<button' + favStar + ' data-game-id="' + game.id + '" aria-label="' + favLabel + '"><svg viewBox="0 0 24 24" width="16" height="16" fill="' + (isFavGame ? 'currentColor' : 'none') + '" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></button>';
   var discount = getDiscount(best.original, best.price);
-  if (discount > 0) html += '<div class="deal-badge">-' + discount + '% ' + t("off") + '</div>';
+  if (best.price === 0) {
+    html += '<div class="deal-badge badge-free">FREE</div>';
+  } else if (discount > 75) {
+    html += '<div class="deal-badge badge-big">>75%</div>';
+  } else if (discount > 0) {
+    html += '<div class="deal-badge">-' + discount + '% ' + t("off") + '</div>';
+  }
   html += '</div>';
   html += '<div class="deal-body">';
   html += '<div class="deal-meta"><span class="deal-store">' + best.store + '</span><span class="deal-rating">' + stars + '</span></div>';
@@ -582,7 +588,6 @@ function createDealCard(game, lang) {
     html += '<div class="price-row' + (isBest ? " best" : "") + '">';
     html += getStoreLogo(d.store);
     html += '<span class="store-name">' + d.store + '</span>';
-    html += '<span class="price-old">$' + d.original.toFixed(2) + '</span>';
     html += '<span class="price-new">$' + d.price.toFixed(2) + '</span>';
     if (isBest) html += '<span class="best-tag">' + t("best") + '</span>';
     html += "</div>";
@@ -628,7 +633,13 @@ function createCatalogCard(game, lang) {
   html += '<div class="catalog-title">' + game.title + '</div>';
   html += '<div class="catalog-row">';
   html += '<span class="catalog-price">$' + best.price.toFixed(2) + '</span>';
-  if (discount > 0) html += '<span class="catalog-discount">-' + discount + '%</span>';
+  if (best.price === 0) {
+    html += '<span class="catalog-discount badge-free">FREE</span>';
+  } else if (discount > 75) {
+    html += '<span class="catalog-discount badge-big">>75%</span>';
+  } else if (discount > 0) {
+    html += '<span class="catalog-discount">-' + discount + '%</span>';
+  }
   html += '</div>';
   html += '<div class="catalog-store">' + best.store + '</div>';
   html += '</div>';
