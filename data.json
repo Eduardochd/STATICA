@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-17T13:17:04.903Z",
+  "generatedAt": "2026-05-17T19:07:00.250Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -70,7 +70,7 @@
       "steamAppId": 2414270,
       "rating": 4,
       "title": "Sunderfolk",
-      "desc": "Aprovecha la oferta de Sunderfolk en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Special offer for Sunderfolk on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -86,8 +86,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "NBA 2K26 is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find NBA 2K26 at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -103,7 +103,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -119,7 +119,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Humble. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
@@ -135,7 +135,7 @@
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
       "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -150,8 +150,8 @@
       "steamAppId": 1572270,
       "rating": 4,
       "title": "F.I.S.H.",
-      "desc": "Encuentra F.I.S.H. al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "F.I.S.H. is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "F.I.S.H. está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find F.I.S.H. at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -165,16 +165,66 @@
   "news": [
     {
       "id": "n1",
-      "title": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
-      "titleEN": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
-      "desc": "For all its rip-roaring Indiana Jones adventure, its ancient civilizations, and pulpy supernatural peril, Call of the Elder Gods' true heart is perhaps its tatty leather-bound journal. That won't be a surprise to anyone that's played Call of the Sea,",
-      "descEN": "For all its rip-roaring Indiana Jones adventure, its ancient civilizations, and pulpy supernatural peril, Call of the Elder Gods' true heart is perhaps its tatty leather-bound journal. That won't be a surprise to anyone that's played Call of the Sea,",
+      "title": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
+      "titleEN": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
+      "desc": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
+      "descEN": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
       "date": "17 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n2",
+      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\"",
+      "titleEN": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\"",
+      "desc": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
+      "descEN": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
+      "date": "17 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n3",
+      "title": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
+      "titleEN": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
+      "desc": "Terraria developer Re-Logic has insisted that it is committed to ensuring \"the world of Terraria remains and will remain vibrant\" as the sandbox game marks its 15th anniversary. Read more",
+      "descEN": "Terraria developer Re-Logic has insisted that it is committed to ensuring \"the world of Terraria remains and will remain vibrant\" as the sandbox game marks its 15th anniversary. Read more",
+      "date": "17 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n4",
+      "title": "Xbox is now XBOX, apparently",
+      "titleEN": "Xbox is now XBOX, apparently",
+      "desc": "Xbox has been rebranded as, er, XBOX. Read more",
+      "descEN": "Xbox has been rebranded as, er, XBOX. Read more",
+      "date": "17 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Subnautica 2's early access roadmap is here",
+      "titleEN": "Subnautica 2's early access roadmap is here",
+      "desc": "Subnautica 2 developer Unknown Worlds has outlined what to expect in the early to mid-term of its early access release. Read more",
+      "descEN": "Subnautica 2 developer Unknown Worlds has outlined what to expect in the early to mid-term of its early access release. Read more",
+      "date": "17 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
+      "titleEN": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
+      "desc": "For all its rip-roaring Indiana Jones adventure, its ancient civilisations, and pulpy supernatural peril, Call of the Elder Gods' true heart is perhaps its tatty leather-bound journal. That won't be a surprise to anyone that's played Call of the Sea,",
+      "descEN": "For all its rip-roaring Indiana Jones adventure, its ancient civilisations, and pulpy supernatural peril, Call of the Elder Gods' true heart is perhaps its tatty leather-bound journal. That won't be a surprise to anyone that's played Call of the Sea,",
+      "date": "17 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
       "title": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
       "titleEN": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
       "desc": "American composer Gordy Haab is a force to be reckoned with, pun absolutely intended. His catalogue of video game work includes composing scores for the likes of Star Wars Jedi: Fallen Order, Star Wars Jedi: Survivor, Star Wars Squadrons and, most re",
@@ -184,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "Invincible Vs Review",
       "titleEN": "Invincible Vs Review",
       "desc": "The sentence: \"An Amazon television show video game tie-in\" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes. However, would you believe it, Invincible V",
@@ -194,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
       "titleEN": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria almost sleeps through a foundational child-powered gaming moment; Bertie sounds a bit like a grumpy old man; Chris has a few",
@@ -204,7 +254,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
       "titleEN": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
       "desc": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
@@ -214,7 +264,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
       "titleEN": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
       "desc": "We haven't heard anything for months about FromSoftware's Switch 2 exclusive The Duskbloods and the Switch 2 version of Elden Ring: Tarnished Edition, but apparently they're both still down for release this year. That's according to FromSoftware's ow",
@@ -224,7 +274,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
       "titleEN": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
       "desc": "After early reports of an imminent home release for The Super Mario Galaxy turned out to be false, Universal has officially announced the film is making its digital download debut next week. Those interested in watching Mario and co's latest animated",
@@ -232,56 +282,6 @@
       "date": "15 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "\"I cannot condone piracy, but I get why people do\" - Subnautica 2 lead designer airs frustration at 'flagrant' pirates",
-      "titleEN": "\"I cannot condone piracy, but I get why people do\" - Subnautica 2 lead designer airs frustration at 'flagrant' pirates",
-      "desc": "Subnautica 2 is finally here, and while the vast majority of fans are playing - and paying - their hearts out, a few have taken to a different ocean. And the game's design lead has now pushed back against these flagrant pirates. Read more",
-      "descEN": "Subnautica 2 is finally here, and while the vast majority of fans are playing - and paying - their hearts out, a few have taken to a different ocean. And the game's design lead has now pushed back against these flagrant pirates. Read more",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed",
-      "titleEN": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed",
-      "desc": "Marathon game director Joe Ziegler has shared some of Bungie's plans to improve its divisive extraction shooter, which include the introduction of PvE and PvP-lite game modes as alternatives to the \"overwhelming\" core experience. Read more",
-      "descEN": "Marathon game director Joe Ziegler has shared some of Bungie's plans to improve its divisive extraction shooter, which include the introduction of PvE and PvP-lite game modes as alternatives to the \"overwhelming\" core experience. Read more",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down",
-      "titleEN": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down",
-      "desc": "Former BioWare lead designer James Ohlen has revealed there was once a plan to reboot the studio's massively-multiplayer online role-playing game Star Wars: The Old Republic, and it would have made it more like 2003's single-player RPG Star Wars: Kni",
-      "descEN": "Former BioWare lead designer James Ohlen has revealed there was once a plan to reboot the studio's massively-multiplayer online role-playing game Star Wars: The Old Republic, and it would have made it more like 2003's single-player RPG Star Wars: Kni",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
-      "titleEN": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
-      "desc": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on. But how does an acto",
-      "descEN": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on. But how does an acto",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Crimson Desert's latest update adds more bosses for rematches as well as new unarmed combat skills for Damiane",
-      "titleEN": "Crimson Desert's latest update adds more bosses for rematches as well as new unarmed combat skills for Damiane",
-      "desc": "The Crimson Desert team only recently released an update which allowed you to mount iguanas and other fantastic beasts, but it is already back at it, releasing a new patch which, among other things, adds more bosses to the rematch system meaning you ",
-      "descEN": "The Crimson Desert team only recently released an update which allowed you to mount iguanas and other fantastic beasts, but it is already back at it, releasing a new patch which, among other things, adds more bosses to the rematch system meaning you ",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
     }
   ]
 }
