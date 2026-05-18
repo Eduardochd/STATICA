@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-18T03:33:10.941Z",
+  "generatedAt": "2026-05-18T10:00:46.249Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -28,40 +28,52 @@
           "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
         },
         {
+          "store": "GMG",
+          "price": 9.45,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 9.45,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=0lF%2BFktIUm7kcxRmUBoLBcTOwImEZX34GBDiw6vGI8w%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 10.8,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 12.15,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 12.15,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 13.5,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 13.5,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
+        },
+        {
           "store": "Epic",
           "price": 6.99,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=sd99iVUAHrkuyjiMCNytra%2Bbgh056rtQDXhJqeMc9CM%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Go76Xfz1d6FYF1CeZfy0FHKlMoW029FzeEims4aB60Q%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 8.49,
-          "original": 84.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=LP38E%2B2cb%2FoH25XYKA8vb7HF2FKGDFoiFvgUaul9VCE%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 8.99,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=x9mjvQ1tv3Jl4xWaYJM0fFxf1kn0t2nPZmcaQnEx9Q8%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 9.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=MKlJV9xijYKIwajbnA%2FDSSzrWmgE0ZXJItRZ63MdPDg%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 9.79,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=GHtu5sEsQ5iEa9rCFH8n2QZR26CRxxhbCXmnPqI2Y4c%3D"
         }
       ]
     },
@@ -71,7 +83,7 @@
       "rating": 4,
       "title": "Sunderfolk",
       "desc": "Oferta especial de Sunderfolk en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Sunderfolk deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Sunderfolk on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +98,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the NBA 2K26 deal on Humble. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de NBA 2K26 en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for NBA 2K26 on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
@@ -102,8 +114,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -119,7 +131,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Suicide Squad: Kill the Justice League está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -128,27 +140,41 @@
           "url": "https://www.cheapshark.com/redirect?dealID=FV9S8e49l1EMBL1u%2FjWX3XqyKNcKwboHYz3CDkCWo3s%3D"
         }
       ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 1572270,
-      "rating": 4,
-      "title": "F.I.S.H.",
-      "desc": "F.I.S.H. está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find F.I.S.H. at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 9.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=6FgBtLeVAhfRHQicVsUlIBV2YA4PmAQMbgcTakTWz3k%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Zero Parades: For Dead Spies review",
+      "titleEN": "Zero Parades: For Dead Spies review",
+      "desc": "One of the first things I learn about myself in Zero Parades is that I'm a fuck-up &ndash; an omnishambling bad omen with cropped hair and unfair cheekbones. Before I was put on ice, I was supposedly one hell of a spy. But that was then, and this is ",
+      "descEN": "One of the first things I learn about myself in Zero Parades is that I'm a fuck-up &ndash; an omnishambling bad omen with cropped hair and unfair cheekbones. Before I was put on ice, I was supposedly one hell of a spy. But that was then, and this is ",
+      "date": "18 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
+      "titleEN": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
+      "desc": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off - The Crew 2 i",
+      "descEN": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off - The Crew 2 i",
+      "date": "18 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "\"Predatory as hell\" Subnautica 2 EULA sets $50 max damage payout limit, bans VPN use, and has fans very concerned",
+      "titleEN": "\"Predatory as hell\" Subnautica 2 EULA sets $50 max damage payout limit, bans VPN use, and has fans very concerned",
+      "desc": "Subnautica 2's EULA - that&rsquo;s end-user license agreement - has been picked apart by curious fans, who have discovered a handful of eyebrow-raising clauses such as a ban on VPN use as well as a maximum payout of $50 in the case of a user sufferin",
+      "descEN": "Subnautica 2's EULA - that&rsquo;s end-user license agreement - has been picked apart by curious fans, who have discovered a handful of eyebrow-raising clauses such as a ban on VPN use as well as a maximum payout of $50 in the case of a user sufferin",
+      "date": "18 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
       "title": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
       "titleEN": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
       "desc": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
@@ -158,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\"",
       "titleEN": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\"",
       "desc": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
@@ -168,7 +194,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
       "titleEN": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
       "desc": "Terraria developer Re-Logic has insisted that it is committed to ensuring \"the world of Terraria remains and will remain vibrant\" as the sandbox game marks its 15th anniversary. Read more",
@@ -178,7 +204,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "Xbox is now XBOX, apparently",
       "titleEN": "Xbox is now XBOX, apparently",
       "desc": "Xbox has been rebranded as, er, XBOX. Read more",
@@ -188,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "Subnautica 2's early access roadmap is here",
       "titleEN": "Subnautica 2's early access roadmap is here",
       "desc": "Subnautica 2 developer Unknown Worlds has outlined what to expect in the early to mid-term of its early access release. Read more",
@@ -198,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
       "titleEN": "Lovecraft gets the Indiana Jones treatment in Call of the Elder Gods, but is something missing in this Call of the Sea sequel?",
       "desc": "For all its rip-roaring Indiana Jones adventure, its ancient civilisations, and pulpy supernatural peril, Call of the Elder Gods' true heart is perhaps its tatty leather-bound journal. That won't be a surprise to anyone that's played Call of the Sea,",
@@ -208,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
       "titleEN": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
       "desc": "American composer Gordy Haab is a force to be reckoned with, pun absolutely intended. His catalogue of video game work includes composing scores for the likes of Star Wars Jedi: Fallen Order, Star Wars Jedi: Survivor, Star Wars Squadrons and, most re",
@@ -218,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "Invincible Vs Review",
       "titleEN": "Invincible Vs Review",
       "desc": "The sentence: \"An Amazon television show video game tie-in\" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes. However, would you believe it, Invincible V",
@@ -228,42 +254,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
       "titleEN": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria almost sleeps through a foundational child-powered gaming moment; Bertie sounds a bit like a grumpy old man; Chris has a few",
       "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria almost sleeps through a foundational child-powered gaming moment; Bertie sounds a bit like a grumpy old man; Chris has a few",
       "date": "16 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
-      "titleEN": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
-      "desc": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
-      "descEN": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
-      "titleEN": "We haven't heard anything for months about The Duskbloods and Elden Ring coming to Switch 2, but FromSoftware's owner insists they're still coming out this year",
-      "desc": "We haven't heard anything for months about FromSoftware's Switch 2 exclusive The Duskbloods and the Switch 2 version of Elden Ring: Tarnished Edition, but apparently they're both still down for release this year. That's according to FromSoftware's ow",
-      "descEN": "We haven't heard anything for months about FromSoftware's Switch 2 exclusive The Duskbloods and the Switch 2 version of Elden Ring: Tarnished Edition, but apparently they're both still down for release this year. That's according to FromSoftware's ow",
-      "date": "15 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
-      "titleEN": "After a bit of a false start The Super Mario Galaxy Movie is absolutely, definitely getting a digital home release next week",
-      "desc": "After early reports of an imminent home release for The Super Mario Galaxy turned out to be false, Universal has officially announced the film is making its digital download debut next week. Those interested in watching Mario and co's latest animated",
-      "descEN": "After early reports of an imminent home release for The Super Mario Galaxy turned out to be false, Universal has officially announced the film is making its digital download debut next week. Those interested in watching Mario and co's latest animated",
-      "date": "15 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
