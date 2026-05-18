@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-18T15:29:27.653Z",
+  "generatedAt": "2026-05-18T19:43:09.654Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -82,8 +82,8 @@
       "steamAppId": 2414270,
       "rating": 4,
       "title": "Sunderfolk",
-      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Sunderfolk at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Sunderfolk está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Sunderfolk is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -98,8 +98,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the NBA 2K26 deal on Humble. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find NBA 2K26 at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -114,8 +114,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -131,7 +131,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -145,6 +145,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Sony announces price increase for new PlayStation Plus subscribers \"due to ongoing market conditions\"",
+      "titleEN": "Sony announces price increase for new PlayStation Plus subscribers \"due to ongoing market conditions\"",
+      "desc": "Sony has announced that PlayStation Plus prices are rising for new customers in \"select\" regions, but that if you're an existing subscriber, the price change does not apply - not unless the subscription lapses or changes. Or unless you are in Turkey ",
+      "descEN": "Sony has announced that PlayStation Plus prices are rising for new customers in \"select\" regions, but that if you're an existing subscriber, the price change does not apply - not unless the subscription lapses or changes. Or unless you are in Turkey ",
+      "date": "18 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "CD Projekt Red has enlisted Destiny 2: The Final Shape's narrative lead for The Witcher multiplayer spin-off Project Sirius",
+      "titleEN": "CD Projekt Red has enlisted Destiny 2: The Final Shape's narrative lead for The Witcher multiplayer spin-off Project Sirius",
+      "desc": "Kwan Perng was one of the main writers on celebrated Destiny 2 expansion The Final Shape and Guild Wars 2 expansion End of Dragons, and now they'll be the lead writer on CD Projekt Red's multiplayer Witcher spin-off Project Sirius. Read more",
+      "descEN": "Kwan Perng was one of the main writers on celebrated Destiny 2 expansion The Final Shape and Guild Wars 2 expansion End of Dragons, and now they'll be the lead writer on CD Projekt Red's multiplayer Witcher spin-off Project Sirius. Read more",
+      "date": "18 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n3",
       "title": "Lego Batman: Legacy of the Dark Knight feels like an Arkham game because Rocksteady co-developed it",
       "titleEN": "Lego Batman: Legacy of the Dark Knight feels like an Arkham game because Rocksteady co-developed it",
       "desc": "Lego Batman: Legacy of the Dark Knight releases this week on Friday 22nd May (tomorrow, 19th May, for Deluxe Edition owners), and a recurring talking point around the game has been how alike it feels to play as the celebrated Batman Arkham games deve",
@@ -154,7 +174,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "Final Fantasy creator Hironobu Sakaguchi praises AI-generated FF6 remake teaser, is promptly told \"please stop\" by SaGa's Akitoshi Kawazu",
       "titleEN": "Final Fantasy creator Hironobu Sakaguchi praises AI-generated FF6 remake teaser, is promptly told \"please stop\" by SaGa's Akitoshi Kawazu",
       "desc": "As Final Fantasy 7 Remake Part 3 nears completion and we continue to wonder about the long-rumoured FF9 remake, series creator Hironobu Sakaguchi has praised a teaser for a hypothetical remake of FF6. The problem is it's fully AI-generated. Read more",
@@ -164,9 +184,9 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
-      "title": "The Adventures of Elliot’s development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
-      "titleEN": "The Adventures of Elliot’s development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
+      "id": "n5",
+      "title": "The Adventures of Elliot's development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
+      "titleEN": "The Adventures of Elliot's development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
       "desc": "I still think the best example of the Switch 2's funky new mouse JoyCon exists in the horribly named Bravely Default Flying Fairy HD Remaster. If you've followed me from my old haunt at VG247, you'll have heard this before, but I think it bears repea",
       "descEN": "I still think the best example of the Switch 2's funky new mouse JoyCon exists in the horribly named Bravely Default Flying Fairy HD Remaster. If you've followed me from my old haunt at VG247, you'll have heard this before, but I think it bears repea",
       "date": "18 de mayo de 2026",
@@ -174,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "Lego Batman: Legacy of the Dark Knight review",
       "titleEN": "Lego Batman: Legacy of the Dark Knight review",
       "desc": "There's something that really stood out for me as someone in the UK who collected American comics at the end of the 1980s. It's that each new comic you got was a doorway to a world of absolute chaos and gimmickry. I'm not talking about the comic stor",
@@ -184,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "Sektori's solo developer can finally pay themselves a salary after Nintendo Switch 2 success",
       "titleEN": "Sektori's solo developer can finally pay themselves a salary after Nintendo Switch 2 success",
       "desc": "Last week's Nintendo Switch 2 release of Sektori, a brilliant twin-stick shooter that's a lot like Geometry Wars, has finally met with enough success that the game's solo creator has been able to pay themselves a living wage. Read more",
@@ -194,9 +214,9 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
-      "title": "The Subnautica 2 fish self-defence debate rages on, as the game’s non-violent themes clash with player desire to fend off underwater threats",
-      "titleEN": "The Subnautica 2 fish self-defence debate rages on, as the game’s non-violent themes clash with player desire to fend off underwater threats",
+      "id": "n8",
+      "title": "The Subnautica 2 fish self-defence debate rages on, as the game's non-violent themes clash with player desire to fend off underwater threats",
+      "titleEN": "The Subnautica 2 fish self-defence debate rages on, as the game's non-violent themes clash with player desire to fend off underwater threats",
       "desc": "Subnautica 2, like its predecessors, has a strong theme of pacifism running through it. Rather than killing aggressive fish, the game instead provides tools for players to avoid or distract creatures to save their own hides. Now that the Unknown Worl",
       "descEN": "Subnautica 2, like its predecessors, has a strong theme of pacifism running through it. Rather than killing aggressive fish, the game instead provides tools for players to avoid or distract creatures to save their own hides. Now that the Unknown Worl",
       "date": "18 de mayo de 2026",
@@ -204,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Nintendo denied touchscreen-specific patent as the legal battle against Palworld developer Pocketpair continues",
       "titleEN": "Nintendo denied touchscreen-specific patent as the legal battle against Palworld developer Pocketpair continues",
       "desc": "That Nintendo has been battling Palworld developer Pocketpair over \"Pok&eacute;mon-style monster capture and throwing mechanics\" for a while now isn't a secret. The results (so far) aren't what the Japanese platform holder would have hoped for, howev",
@@ -214,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "Time to re-Kinect? Sell-out family console Nex Playground is about to release in the UK and Ireland",
       "titleEN": "Time to re-Kinect? Sell-out family console Nex Playground is about to release in the UK and Ireland",
       "desc": "Nex Playground, the family-focused and camera-based console that's had considerable success in the US, is about to be released in the UK and Ireland. Pre-orders begin today at Amazon, Argos and Smyths Toys, and the Nex Playground will launch at an un",
@@ -224,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n11",
       "title": "Zero Parades: For Dead Spies review",
       "titleEN": "Zero Parades: For Dead Spies review",
       "desc": "One of the first things I learn about myself in Zero Parades is that I'm a fuck-up &ndash; an omnishambling bad omen with cropped hair and unfair cheekbones. Before I was put on ice, I was supposedly one hell of a spy. But that was then, and this is ",
@@ -234,32 +254,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "title": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
       "titleEN": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
       "desc": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off - The Crew 2 i",
       "descEN": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off - The Crew 2 i",
       "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "\"Predatory as hell\" Subnautica 2 EULA sets $50 max damage payout limit, bans VPN use, and has fans very concerned",
-      "titleEN": "\"Predatory as hell\" Subnautica 2 EULA sets $50 max damage payout limit, bans VPN use, and has fans very concerned",
-      "desc": "Subnautica 2's EULA - that&rsquo;s end-user license agreement - has been picked apart by curious fans, who have discovered a handful of eyebrow-raising clauses such as a ban on VPN use as well as a maximum payout of $50 in the case of a user sufferin",
-      "descEN": "Subnautica 2's EULA - that&rsquo;s end-user license agreement - has been picked apart by curious fans, who have discovered a handful of eyebrow-raising clauses such as a ban on VPN use as well as a maximum payout of $50 in the case of a user sufferin",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
-      "titleEN": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
-      "desc": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
-      "descEN": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
-      "date": "17 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
