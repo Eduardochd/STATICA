@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-05-19T09:40:11.533Z",
+  "generatedAt": "2026-05-19T14:59:10.044Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
           "price": 0,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 6.85,
+          "original": 68.29,
+          "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
         },
         {
           "store": "Epic",
@@ -68,12 +74,6 @@
           "price": 13.5,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=sd99iVUAHrkuyjiMCNytra%2Bbgh056rtQDXhJqeMc9CM%3D"
         }
       ]
     },
@@ -82,8 +82,8 @@
       "steamAppId": 2414270,
       "rating": 4,
       "title": "Sunderfolk",
-      "desc": "Oferta especial de Sunderfolk en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Sunderfolk on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Sunderfolk is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -98,8 +98,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find NBA 2K26 at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "NBA 2K26 is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Humble",
@@ -115,7 +115,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -130,8 +130,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -145,6 +145,86 @@
   "news": [
     {
       "id": "n1",
+      "title": "Here's our next batch of Xbox Game Pass titles for May",
+      "titleEN": "Here's our next batch of Xbox Game Pass titles for May",
+      "desc": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this May, and into next month. Read more",
+      "descEN": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this May, and into next month. Read more",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Lords of the Fallen 2 set to potentially release on Steam as developer CI Games and Epic terminate PC exclusivity deal",
+      "titleEN": "Lords of the Fallen 2 set to potentially release on Steam as developer CI Games and Epic terminate PC exclusivity deal",
+      "desc": "Following its announcement last summer and a look at gameplay during The Game Awards 2025, Lords of the Fallen 2 (which is actually the series' third game if we don't ignore the fact it was rebooted) has been steadily marching towards an unspecified ",
+      "descEN": "Following its announcement last summer and a look at gameplay during The Game Awards 2025, Lords of the Fallen 2 (which is actually the series' third game if we don't ignore the fact it was rebooted) has been steadily marching towards an unspecified ",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Premios"
+    },
+    {
+      "id": "n3",
+      "title": "Yoshi and the Mysterious Book review",
+      "titleEN": "Yoshi and the Mysterious Book review",
+      "desc": "Yoshi and the Mysterious Book might be the loveliest surprise of the year so far. It certainly is for me. Going in, I don't think I was expecting too much. There's the slightly forgettable title, for one thing, and then I'd picked up the idea that, s",
+      "descEN": "Yoshi and the Mysterious Book might be the loveliest surprise of the year so far. It certainly is for me. Going in, I don't think I was expecting too much. There's the slightly forgettable title, for one thing, and then I'd picked up the idea that, s",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Into The Unwell, the rubber hose animation-inspired action roguelike with a touch of Cuphead, has been delayed to 2027",
+      "titleEN": "Into The Unwell, the rubber hose animation-inspired action roguelike with a touch of Cuphead, has been delayed to 2027",
+      "desc": "Though we hadn't heard much about Into The Unwell since its Summer Game Fest 2025 debut, it has remained one of the most eye-catching upcoming indies on our list. This week, we've learned the game will arrive in 2027 instead of later this year. But a",
+      "descEN": "Though we hadn't heard much about Into The Unwell since its Summer Game Fest 2025 debut, it has remained one of the most eye-catching upcoming indies on our list. This week, we've learned the game will arrive in 2027 instead of later this year. But a",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "\"We see this as the beginning of the end of the Apple Tax worldwide\" - Fortnite returns to the App Store globally as Epic prepares for \"the final battle\"",
+      "titleEN": "\"We see this as the beginning of the end of the Apple Tax worldwide\" - Fortnite returns to the App Store globally as Epic prepares for \"the final battle\"",
+      "desc": "Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims \"the beginning of the end of the Apple Tax worldwide\". Read more",
+      "descEN": "Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims \"the beginning of the end of the Apple Tax worldwide\". Read more",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "At last, the Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam",
+      "titleEN": "At last, the Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam",
+      "desc": "The bullet heaven genre, poplarised by relatively new hits like Vampire Survivors, finally has a dedicated tag on Steam. Read more",
+      "descEN": "The bullet heaven genre, poplarised by relatively new hits like Vampire Survivors, finally has a dedicated tag on Steam. Read more",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "Microsoft launches Xbox Player Voice portal to listen closely to player feedback, fans immediately ask for \"great game exclusives\"",
+      "titleEN": "Microsoft launches Xbox Player Voice portal to listen closely to player feedback, fans immediately ask for \"great game exclusives\"",
+      "desc": "It's been roughly three months since Asha Sharma took over Xbox, and changes to corporate and business direction haven't stopped coming. From scrapping the \"This Is an Xbox\" ad campaign to dropping Game Pass prices in exchange for new Call of Duty ti",
+      "descEN": "It's been roughly three months since Asha Sharma took over Xbox, and changes to corporate and business direction haven't stopped coming. From scrapping the \"This Is an Xbox\" ad campaign to dropping Game Pass prices in exchange for new Call of Duty ti",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n8",
+      "title": "Nintendo has just announced Wario Ware-like game Pictonico! for mobile phones, and it looks absolutely bonkers",
+      "titleEN": "Nintendo has just announced Wario Ware-like game Pictonico! for mobile phones, and it looks absolutely bonkers",
+      "desc": "Nintendo sure loves its surprise announcements, and the latest feels especially chaotic even if the game reveal is rather bite-sized. Pictonico! appears to be heavily inspired by Wario Ware and launches next week on mobile phones. Read more",
+      "descEN": "Nintendo sure loves its surprise announcements, and the latest feels especially chaotic even if the game reveal is rather bite-sized. Pictonico! appears to be heavily inspired by Wario Ware and launches next week on mobile phones. Read more",
+      "date": "19 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n9",
       "title": "Sony reportedly confirms it's ditching PC versions of its single-player PS5 games",
       "titleEN": "Sony reportedly confirms it's ditching PC versions of its single-player PS5 games",
       "desc": "It has reportedly been decided: Sony will keep its narrative single-player games exclusively for PlayStation 5, no longer converting them to PC. Read more",
@@ -154,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Sony announces price increase for new PlayStation Plus subscribers \"due to ongoing market conditions\"",
       "titleEN": "Sony announces price increase for new PlayStation Plus subscribers \"due to ongoing market conditions\"",
       "desc": "Sony has announced that PlayStation Plus prices are rising for new customers in \"select\" regions, but that if you're an existing subscriber, the price change does not apply - not unless the subscription lapses or changes. Or unless you are in Turkey ",
@@ -164,7 +244,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "CD Projekt Red has enlisted Destiny 2: The Final Shape's narrative lead for The Witcher multiplayer spin-off Project Sirius",
       "titleEN": "CD Projekt Red has enlisted Destiny 2: The Final Shape's narrative lead for The Witcher multiplayer spin-off Project Sirius",
       "desc": "Kwan Perng was one of the main writers on celebrated Destiny 2 expansion The Final Shape and Guild Wars 2 expansion End of Dragons, and now they'll be the lead writer on CD Projekt Red's multiplayer Witcher spin-off Project Sirius. Read more",
@@ -174,91 +254,11 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "Lego Batman: Legacy of the Dark Knight feels like an Arkham game because Rocksteady co-developed it",
       "titleEN": "Lego Batman: Legacy of the Dark Knight feels like an Arkham game because Rocksteady co-developed it",
       "desc": "Lego Batman: Legacy of the Dark Knight releases this week on Friday 22nd May (tomorrow, 19th May, for Deluxe Edition owners), and a recurring talking point around the game has been how alike it feels to play as the celebrated Batman Arkham games deve",
       "descEN": "Lego Batman: Legacy of the Dark Knight releases this week on Friday 22nd May (tomorrow, 19th May, for Deluxe Edition owners), and a recurring talking point around the game has been how alike it feels to play as the celebrated Batman Arkham games deve",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "Final Fantasy creator Hironobu Sakaguchi praises AI-generated FF6 remake teaser, is promptly told \"please stop\" by SaGa's Akitoshi Kawazu",
-      "titleEN": "Final Fantasy creator Hironobu Sakaguchi praises AI-generated FF6 remake teaser, is promptly told \"please stop\" by SaGa's Akitoshi Kawazu",
-      "desc": "As Final Fantasy 7 Remake Part 3 nears completion and we continue to wonder about the long-rumoured FF9 remake, series creator Hironobu Sakaguchi has praised a teaser for a hypothetical remake of FF6. The problem is it's fully AI-generated. Read more",
-      "descEN": "As Final Fantasy 7 Remake Part 3 nears completion and we continue to wonder about the long-rumoured FF9 remake, series creator Hironobu Sakaguchi has praised a teaser for a hypothetical remake of FF6. The problem is it's fully AI-generated. Read more",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "The Adventures of Elliot's development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
-      "titleEN": "The Adventures of Elliot's development team has quietly been mastering the modern minigame, and its latest action-RPG once again shows us how it’s done",
-      "desc": "I still think the best example of the Switch 2's funky new mouse JoyCon exists in the horribly named Bravely Default Flying Fairy HD Remaster. If you've followed me from my old haunt at VG247, you'll have heard this before, but I think it bears repea",
-      "descEN": "I still think the best example of the Switch 2's funky new mouse JoyCon exists in the horribly named Bravely Default Flying Fairy HD Remaster. If you've followed me from my old haunt at VG247, you'll have heard this before, but I think it bears repea",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "Lego Batman: Legacy of the Dark Knight review",
-      "titleEN": "Lego Batman: Legacy of the Dark Knight review",
-      "desc": "There's something that really stood out for me as someone in the UK who collected American comics at the end of the 1980s. It's that each new comic you got was a doorway to a world of absolute chaos and gimmickry. I'm not talking about the comic stor",
-      "descEN": "There's something that really stood out for me as someone in the UK who collected American comics at the end of the 1980s. It's that each new comic you got was a doorway to a world of absolute chaos and gimmickry. I'm not talking about the comic stor",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Sektori's solo developer can finally pay themselves a salary after Nintendo Switch 2 success",
-      "titleEN": "Sektori's solo developer can finally pay themselves a salary after Nintendo Switch 2 success",
-      "desc": "Last week's Nintendo Switch 2 release of Sektori, a brilliant twin-stick shooter that's a lot like Geometry Wars, has finally met with enough success that the game's solo creator has been able to pay themselves a living wage. Read more",
-      "descEN": "Last week's Nintendo Switch 2 release of Sektori, a brilliant twin-stick shooter that's a lot like Geometry Wars, has finally met with enough success that the game's solo creator has been able to pay themselves a living wage. Read more",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "The Subnautica 2 fish self-defence debate rages on, as the game's non-violent themes clash with player desire to fend off underwater threats",
-      "titleEN": "The Subnautica 2 fish self-defence debate rages on, as the game's non-violent themes clash with player desire to fend off underwater threats",
-      "desc": "Subnautica 2, like its predecessors, has a strong theme of pacifism running through it. Rather than killing aggressive fish, the game instead provides tools for players to avoid or distract creatures to save their own hides. Now that the Unknown Worl",
-      "descEN": "Subnautica 2, like its predecessors, has a strong theme of pacifism running through it. Rather than killing aggressive fish, the game instead provides tools for players to avoid or distract creatures to save their own hides. Now that the Unknown Worl",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Nintendo denied touchscreen-specific patent as the legal battle against Palworld developer Pocketpair continues",
-      "titleEN": "Nintendo denied touchscreen-specific patent as the legal battle against Palworld developer Pocketpair continues",
-      "desc": "That Nintendo has been battling Palworld developer Pocketpair over \"Pok&eacute;mon-style monster capture and throwing mechanics\" for a while now isn't a secret. The results (so far) aren't what the Japanese platform holder would have hoped for, howev",
-      "descEN": "That Nintendo has been battling Palworld developer Pocketpair over \"Pok&eacute;mon-style monster capture and throwing mechanics\" for a while now isn't a secret. The results (so far) aren't what the Japanese platform holder would have hoped for, howev",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n11",
-      "title": "Time to re-Kinect? Sell-out family console Nex Playground is about to release in the UK and Ireland",
-      "titleEN": "Time to re-Kinect? Sell-out family console Nex Playground is about to release in the UK and Ireland",
-      "desc": "Nex Playground, the family-focused and camera-based console that's had considerable success in the US, is about to be released in the UK and Ireland. Pre-orders begin today at Amazon, Argos and Smyths Toys, and the Nex Playground will launch at an un",
-      "descEN": "Nex Playground, the family-focused and camera-based console that's had considerable success in the US, is about to be released in the UK and Ireland. Pre-orders begin today at Amazon, Argos and Smyths Toys, and the Nex Playground will launch at an un",
-      "date": "18 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Zero Parades: For Dead Spies review",
-      "titleEN": "Zero Parades: For Dead Spies review",
-      "desc": "One of the first things I learn about myself in Zero Parades is that I'm a fuck-up &ndash; an omnishambling bad omen with cropped hair and unfair cheekbones. Before I was put on ice, I was supposedly one hell of a spy. But that was then, and this is ",
-      "descEN": "One of the first things I learn about myself in Zero Parades is that I'm a fuck-up &ndash; an omnishambling bad omen with cropped hair and unfair cheekbones. Before I was put on ice, I was supposedly one hell of a spy. But that was then, and this is ",
       "date": "18 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
