@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-20T09:30:44.038Z",
+  "generatedAt": "2026-05-20T15:16:37.425Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -68,12 +68,6 @@
           "price": 13.5,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 13.5,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
         }
       ]
     },
@@ -83,7 +77,7 @@
       "rating": 4,
       "title": "Sunderfolk",
       "desc": "Sunderfolk está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Sunderfolk deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Sunderfolk on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -98,8 +92,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on Humble. An essential game that shouldn't be missing from your library.",
+      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "NBA 2K26 is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Humble",
@@ -114,8 +108,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -130,8 +124,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
@@ -140,11 +134,107 @@
           "url": "https://www.cheapshark.com/redirect?dealID=FV9S8e49l1EMBL1u%2FjWX3XqyKNcKwboHYz3CDkCWo3s%3D"
         }
       ]
+    },
+    {
+      "id": "g6",
+      "steamAppId": 466140,
+      "rating": 4,
+      "title": "The LEGO Games Bundle",
+      "desc": "Oferta especial de The LEGO Games Bundle en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 12.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=lx1Ldqb2ETEm0PJHIwoF8aVhlAvtMNpyHN%2B3M64aUek%3D"
+        }
+      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "\"We overlooked the potential offense and harm\" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely",
+      "titleEN": "\"We overlooked the potential offense and harm\" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely",
+      "desc": "Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more",
+      "descEN": "Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "\"Whoa what a wild reaction\" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer",
+      "titleEN": "\"Whoa what a wild reaction\" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer",
+      "desc": "Earlier this week, Final Fantasy legend Hironobu Sakaguchi praised an AI-generated trailer for a hypothetical remake of FF6, sparking some backlash, before being told to \"please stop\" by SaGa creator Akitoshi Kawazu, another Square veteran. The comme",
+      "descEN": "Earlier this week, Final Fantasy legend Hironobu Sakaguchi praised an AI-generated trailer for a hypothetical remake of FF6, sparking some backlash, before being told to \"please stop\" by SaGa creator Akitoshi Kawazu, another Square veteran. The comme",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "PS6 delays, cross-gen blockbusters, more subscriptions? What PlayStation's financials really mean",
+      "titleEN": "PS6 delays, cross-gen blockbusters, more subscriptions? What PlayStation's financials really mean",
+      "desc": "Earlier in May, Sony released its fiscal year report for the past twelve months. Amongst the inevitable dryness of financial reporting it offered an intriguing look into the wider economic challenges the PlayStation platform-holder is facing, and the",
+      "descEN": "Earlier in May, Sony released its fiscal year report for the past twelve months. Amongst the inevitable dryness of financial reporting it offered an intriguing look into the wider economic challenges the PlayStation platform-holder is facing, and the",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n4",
+      "title": "PlayStation just announced a new State of Play, and it'll be over an hour long",
+      "titleEN": "PlayStation just announced a new State of Play, and it'll be over an hour long",
+      "desc": "Sony has just announced its next State of Play, which will return on 2nd June - kicking off the Summer Games Fest week with an hour-long showcase that will reveal more information about Marvel's Wolverine, as well as \"news and updates on upcoming PS5",
+      "descEN": "Sony has just announced its next State of Play, which will return on 2nd June - kicking off the Summer Games Fest week with an hour-long showcase that will reveal more information about Marvel's Wolverine, as well as \"news and updates on upcoming PS5",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Months of work later, one Pokémon Pokopia player's recreation of the original Kanto region is almost complete",
+      "titleEN": "Months of work later, one Pokémon Pokopia player's recreation of the original Kanto region is almost complete",
+      "desc": "Pok&eacute;mon Pokopia has been a hit on Nintendo Switch 2, and its ongoing events are keeping players glued to it. One especially dedicated player has been working on a recreation of the first-generation Kanto map with Pokopia's Minecraft-like tools",
+      "descEN": "Pok&eacute;mon Pokopia has been a hit on Nintendo Switch 2, and its ongoing events are keeping players glued to it. One especially dedicated player has been working on a recreation of the first-generation Kanto map with Pokopia's Minecraft-like tools",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
+      "title": "Returnal director and Housemarque veteran Harry Krueger launches Finland-based game studio Cosmic Division",
+      "titleEN": "Returnal director and Housemarque veteran Harry Krueger launches Finland-based game studio Cosmic Division",
+      "desc": "Housemarque is the talk of the town again following Saros' launch, and now another veteran from the Finnish studio, Returnal game director Harry Krueger, is aiming to deliver something that feels familiar with a new game studio. Read more",
+      "descEN": "Housemarque is the talk of the town again following Saros' launch, and now another veteran from the Finnish studio, Returnal game director Harry Krueger, is aiming to deliver something that feels familiar with a new game studio. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "It's true: the Kingdom Come Deliverance studio is making a Lord of the Rings RPG",
+      "titleEN": "It's true: the Kingdom Come Deliverance studio is making a Lord of the Rings RPG",
+      "desc": "The rumours are true: Kingdom Come Deliverance studio Warhorse really is making a Lord of the Rings role-playing game. More specifically, it's making an open-world Middle-earth RPG. Read more",
+      "descEN": "The rumours are true: Kingdom Come Deliverance studio Warhorse really is making a Lord of the Rings role-playing game. More specifically, it's making an open-world Middle-earth RPG. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Star Wars Jedi director's single-player Dungeons & Dragons game cancelled less than a year after it was announced",
+      "titleEN": "Star Wars Jedi director's single-player Dungeons & Dragons game cancelled less than a year after it was announced",
+      "desc": "That was quick. Hasbro has reportedly  cancelled the single-player Dungeons & Dragons action-adventure being made by Star Wars Jedi director Stig Asmussen, less than a year after it was announced. Read more",
+      "descEN": "That was quick. Hasbro has reportedly  cancelled the single-player Dungeons & Dragons action-adventure being made by Star Wars Jedi director Stig Asmussen, less than a year after it was announced. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
       "title": "How sexy will James Bond game 007: First Light be? Hitman studio IO Interactive says the clues are already out there",
       "titleEN": "How sexy will James Bond game 007: First Light be? Hitman studio IO Interactive says the clues are already out there",
       "desc": "Hitman studio IO Interactive has gone to great lengths to ensure 007: First Light feels James Bond enough. We've had entire videos documenting the watch Bond will wear, or the Aston Martin he will presumably drive, and there's a celebrity making a vi",
@@ -154,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Classic series like Deux Ex, Legacy Kain, and Saints Row will be \"more actively\" explored following Embracer Group structure shift",
       "titleEN": "Classic series like Deux Ex, Legacy Kain, and Saints Row will be \"more actively\" explored following Embracer Group structure shift",
       "desc": "Embracer Group is slicing itself in half, resulting in two legally distinct public companies. The split, which is set to take place next year, could potentially provide a lifeline for many of the intellectual properties currently in hibernation under",
@@ -164,7 +254,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "The Mass Effect sci-fi RPG subgenre \"hasn't had a good game in a long time\", says Hasbro, and it believes Exodus can change that",
       "titleEN": "The Mass Effect sci-fi RPG subgenre \"hasn't had a good game in a long time\", says Hasbro, and it believes Exodus can change that",
       "desc": "The boss of toy giant Hasbro believes the sci-fi role-playing game space, which famously counts BioWare's Mass Effect trilogy among it, \"hasn't had a good game in a long time\". Moreover he - Chris Cocks - believes Hasbro's new game Exodus will change",
@@ -174,7 +264,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "Open-world action RPG Outward 2 sets summer early access release with a \"potato specs\" gameplay trailer starring a talking tuber",
       "titleEN": "Open-world action RPG Outward 2 sets summer early access release with a \"potato specs\" gameplay trailer starring a talking tuber",
       "desc": "As strange as it was, the first Outward managed to sell over 1m copies and build a solid following. With Outward 2, developer Nine Dots Studio, which is now self-publishing the game, aims to improve on that start and now we have a release date for th",
@@ -182,86 +272,6 @@
       "date": "19 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "As Steam early access sensation Far Far West sells over 1 million copies in three weeks, publisher Fireshine Games rejects generative AI",
-      "titleEN": "As Steam early access sensation Far Far West sells over 1 million copies in three weeks, publisher Fireshine Games rejects generative AI",
-      "desc": "Far Far West - a sci-fi fantasy co-op shooter that launched on 28th April - is off to a fantastic early access start on Steam, and its publisher is now making it very clear it's not interested in working with developers that use generative AI tools. ",
-      "descEN": "Far Far West - a sci-fi fantasy co-op shooter that launched on 28th April - is off to a fantastic early access start on Steam, and its publisher is now making it very clear it's not interested in working with developers that use generative AI tools. ",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n6",
-      "title": "Here's our next batch of Xbox Game Pass titles for May",
-      "titleEN": "Here's our next batch of Xbox Game Pass titles for May",
-      "desc": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this May, and into next month. Read more",
-      "descEN": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this May, and into next month. Read more",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n7",
-      "title": "Lords of the Fallen 2 set to potentially release on Steam as developer CI Games and Epic terminate PC exclusivity deal",
-      "titleEN": "Lords of the Fallen 2 set to potentially release on Steam as developer CI Games and Epic terminate PC exclusivity deal",
-      "desc": "Following its announcement last summer and a look at gameplay during The Game Awards 2025, Lords of the Fallen 2 (which is actually the series' third game if we don't ignore the fact it was rebooted) has been steadily marching towards an unspecified ",
-      "descEN": "Following its announcement last summer and a look at gameplay during The Game Awards 2025, Lords of the Fallen 2 (which is actually the series' third game if we don't ignore the fact it was rebooted) has been steadily marching towards an unspecified ",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Premios"
-    },
-    {
-      "id": "n8",
-      "title": "Yoshi and the Mysterious Book review",
-      "titleEN": "Yoshi and the Mysterious Book review",
-      "desc": "Yoshi and the Mysterious Book might be the loveliest surprise of the year so far. It certainly is for me. Going in, I don't think I was expecting too much. There's the slightly forgettable title, for one thing, and then I'd picked up the idea that, s",
-      "descEN": "Yoshi and the Mysterious Book might be the loveliest surprise of the year so far. It certainly is for me. Going in, I don't think I was expecting too much. There's the slightly forgettable title, for one thing, and then I'd picked up the idea that, s",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Into The Unwell, the rubber hose animation-inspired action roguelike with a touch of Cuphead, has been delayed to 2027",
-      "titleEN": "Into The Unwell, the rubber hose animation-inspired action roguelike with a touch of Cuphead, has been delayed to 2027",
-      "desc": "Though we hadn't heard much about Into The Unwell since its Summer Game Fest 2025 debut, it has remained one of the most eye-catching upcoming indies on our list. This week, we've learned the game will arrive in 2027 instead of later this year. But a",
-      "descEN": "Though we hadn't heard much about Into The Unwell since its Summer Game Fest 2025 debut, it has remained one of the most eye-catching upcoming indies on our list. This week, we've learned the game will arrive in 2027 instead of later this year. But a",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "\"We see this as the beginning of the end of the Apple Tax worldwide\" - Fortnite returns to the App Store globally as Epic prepares for \"the final battle\"",
-      "titleEN": "\"We see this as the beginning of the end of the Apple Tax worldwide\" - Fortnite returns to the App Store globally as Epic prepares for \"the final battle\"",
-      "desc": "Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims \"the beginning of the end of the Apple Tax worldwide\". Read more",
-      "descEN": "Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims \"the beginning of the end of the Apple Tax worldwide\". Read more",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "At last, the Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam",
-      "titleEN": "At last, the Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam",
-      "desc": "The bullet heaven genre, poplarised by relatively new hits like Vampire Survivors, finally has a dedicated tag on Steam. Read more",
-      "descEN": "The bullet heaven genre, poplarised by relatively new hits like Vampire Survivors, finally has a dedicated tag on Steam. Read more",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Microsoft launches Xbox Player Voice portal to listen closely to player feedback, fans immediately ask for \"great game exclusives\"",
-      "titleEN": "Microsoft launches Xbox Player Voice portal to listen closely to player feedback, fans immediately ask for \"great game exclusives\"",
-      "desc": "It's been roughly three months since Asha Sharma took over Xbox, and changes to corporate and business direction haven't stopped coming. From scrapping the \"This Is an Xbox\" ad campaign to dropping Game Pass prices in exchange for new Call of Duty ti",
-      "descEN": "It's been roughly three months since Asha Sharma took over Xbox, and changes to corporate and business direction haven't stopped coming. From scrapping the \"This Is an Xbox\" ad campaign to dropping Game Pass prices in exchange for new Call of Duty ti",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
