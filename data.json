@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-20T15:16:37.425Z",
+  "generatedAt": "2026-05-20T20:13:09.672Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -17,9 +17,33 @@
         },
         {
           "store": "GOG",
+          "price": 4.38,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=U2ne5odE6WKyoSROQN8D2OX2aRN8CJrxoFxZ%2BktLaHg%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 7.99,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=QP6em8WtgtgOaxwGaGnzPv%2BQbXmJ1dYi9B%2B6ORb%2BuVk%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 8.88,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=1FgTMMUmnTfwWDP8weQUh35nmwjV0PXWMZVkdRscq9o%3D"
+        },
+        {
+          "store": "GOG",
           "price": 6.85,
           "original": 68.29,
           "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 9.39,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=OdeM7qNg%2BMU8PRSFbbLMRYEP33iCTpZ%2BoG1PLLyuG%2Bw%3D"
         },
         {
           "store": "Epic",
@@ -38,36 +62,6 @@
           "price": 9.45,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 9.45,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=0lF%2BFktIUm7kcxRmUBoLBcTOwImEZX34GBDiw6vGI8w%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 10.8,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 12.15,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 12.15,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 13.5,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D"
         }
       ]
     },
@@ -89,11 +83,27 @@
     },
     {
       "id": "g3",
+      "steamAppId": 315210,
+      "rating": 3,
+      "title": "Suicide Squad: Kill the Justice League",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 3.08,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=nF9%2FdPXYPajMwowT9vhxtb%2BbzqK%2FsuFSBFt5snmLx24%3D"
+        }
+      ]
+    },
+    {
+      "id": "g4",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "NBA 2K26 is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de NBA 2K26 en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the NBA 2K26 deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Humble",
@@ -104,12 +114,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g5",
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -120,28 +130,12 @@
       ]
     },
     {
-      "id": "g5",
-      "steamAppId": 315210,
-      "rating": 3,
-      "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Humble. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Humble",
-          "price": 3.49,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=FV9S8e49l1EMBL1u%2FjWX3XqyKNcKwboHYz3CDkCWo3s%3D"
-        }
-      ]
-    },
-    {
       "id": "g6",
       "steamAppId": 466140,
       "rating": 4,
       "title": "The LEGO Games Bundle",
       "desc": "Oferta especial de The LEGO Games Bundle en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find The LEGO Games Bundle at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -155,6 +149,46 @@
   "news": [
     {
       "id": "n1",
+      "title": "Ubisoft confirms new Assassin's Creed, Far Cry, and Ghost Recon games are coming before April 2029",
+      "titleEN": "Ubisoft confirms new Assassin's Creed, Far Cry, and Ghost Recon games are coming before April 2029",
+      "desc": "Ubisoft has outlined its future slate of releases in its latest earnings report, confirming the next Assassin's Creed will launch before the end of its 2028-2029 financial year. That's in addition to new Ghost Recon and Far Cry games. Read more",
+      "descEN": "Ubisoft has outlined its future slate of releases in its latest earnings report, confirming the next Assassin's Creed will launch before the end of its 2028-2029 financial year. That's in addition to new Ghost Recon and Far Cry games. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Quantic Dream's multiplayer game Spellcasters Chronicles is being shut down and the studio reorganised, but Star Wars Eclipse is unaffected",
+      "titleEN": "Quantic Dream's multiplayer game Spellcasters Chronicles is being shut down and the studio reorganised, but Star Wars Eclipse is unaffected",
+      "desc": "Quantic Dream, the developer of Detroit: Become Human and Heavy Rain, is closing down its MOBA-with-flying game Spellcasters Chronicles, which only launched in early access in February this year. Read more",
+      "descEN": "Quantic Dream, the developer of Detroit: Become Human and Heavy Rain, is closing down its MOBA-with-flying game Spellcasters Chronicles, which only launched in early access in February this year. Read more",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "\"Honestly? We botched it\" - Kickstarter apologises for its criticised adult content rules, and for betraying its \"f*ck the establishment spirit\"",
+      "titleEN": "\"Honestly? We botched it\" - Kickstarter apologises for its criticised adult content rules, and for betraying its \"f*ck the establishment spirit\"",
+      "desc": "Crowdfunding website Kickstarter - a place many video game projects have originated - has issued an unflinching apology after 'botching' new guidelines it released last week. The changes had sought to tighten the rules around adult-oriented projects ",
+      "descEN": "Crowdfunding website Kickstarter - a place many video game projects have originated - has issued an unflinching apology after 'botching' new guidelines it released last week. The changes had sought to tighten the rules around adult-oriented projects ",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Surreal narrative match-3 game Titanium Court has sold over 25,000 copies, giving designer AP Thomson enough time to peacefully work on his next game",
+      "titleEN": "Surreal narrative match-3 game Titanium Court has sold over 25,000 copies, giving designer AP Thomson enough time to peacefully work on his next game",
+      "desc": "Many indie games are finding success as larger publishers and studios try to navigate a difficult market, but Titanium Court stands out as a particularly special and unique one. After a relatively quiet launch a month ago, it's now sold over 25k copi",
+      "descEN": "Many indie games are finding success as larger publishers and studios try to navigate a difficult market, but Titanium Court stands out as a particularly special and unique one. After a relatively quiet launch a month ago, it's now sold over 25k copi",
+      "date": "20 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
       "title": "\"We overlooked the potential offense and harm\" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely",
       "titleEN": "\"We overlooked the potential offense and harm\" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely",
       "desc": "Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more",
@@ -164,7 +198,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "\"Whoa what a wild reaction\" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer",
       "titleEN": "\"Whoa what a wild reaction\" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer",
       "desc": "Earlier this week, Final Fantasy legend Hironobu Sakaguchi praised an AI-generated trailer for a hypothetical remake of FF6, sparking some backlash, before being told to \"please stop\" by SaGa creator Akitoshi Kawazu, another Square veteran. The comme",
@@ -174,7 +208,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "PS6 delays, cross-gen blockbusters, more subscriptions? What PlayStation's financials really mean",
       "titleEN": "PS6 delays, cross-gen blockbusters, more subscriptions? What PlayStation's financials really mean",
       "desc": "Earlier in May, Sony released its fiscal year report for the past twelve months. Amongst the inevitable dryness of financial reporting it offered an intriguing look into the wider economic challenges the PlayStation platform-holder is facing, and the",
@@ -184,7 +218,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "PlayStation just announced a new State of Play, and it'll be over an hour long",
       "titleEN": "PlayStation just announced a new State of Play, and it'll be over an hour long",
       "desc": "Sony has just announced its next State of Play, which will return on 2nd June - kicking off the Summer Games Fest week with an hour-long showcase that will reveal more information about Marvel's Wolverine, as well as \"news and updates on upcoming PS5",
@@ -194,7 +228,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "Months of work later, one Pokémon Pokopia player's recreation of the original Kanto region is almost complete",
       "titleEN": "Months of work later, one Pokémon Pokopia player's recreation of the original Kanto region is almost complete",
       "desc": "Pok&eacute;mon Pokopia has been a hit on Nintendo Switch 2, and its ongoing events are keeping players glued to it. One especially dedicated player has been working on a recreation of the first-generation Kanto map with Pokopia's Minecraft-like tools",
@@ -204,7 +238,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "Returnal director and Housemarque veteran Harry Krueger launches Finland-based game studio Cosmic Division",
       "titleEN": "Returnal director and Housemarque veteran Harry Krueger launches Finland-based game studio Cosmic Division",
       "desc": "Housemarque is the talk of the town again following Saros' launch, and now another veteran from the Finnish studio, Returnal game director Harry Krueger, is aiming to deliver something that feels familiar with a new game studio. Read more",
@@ -214,7 +248,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "It's true: the Kingdom Come Deliverance studio is making a Lord of the Rings RPG",
       "titleEN": "It's true: the Kingdom Come Deliverance studio is making a Lord of the Rings RPG",
       "desc": "The rumours are true: Kingdom Come Deliverance studio Warhorse really is making a Lord of the Rings role-playing game. More specifically, it's making an open-world Middle-earth RPG. Read more",
@@ -224,52 +258,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "Star Wars Jedi director's single-player Dungeons & Dragons game cancelled less than a year after it was announced",
       "titleEN": "Star Wars Jedi director's single-player Dungeons & Dragons game cancelled less than a year after it was announced",
       "desc": "That was quick. Hasbro has reportedly  cancelled the single-player Dungeons & Dragons action-adventure being made by Star Wars Jedi director Stig Asmussen, less than a year after it was announced. Read more",
       "descEN": "That was quick. Hasbro has reportedly  cancelled the single-player Dungeons & Dragons action-adventure being made by Star Wars Jedi director Stig Asmussen, less than a year after it was announced. Read more",
       "date": "20 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "How sexy will James Bond game 007: First Light be? Hitman studio IO Interactive says the clues are already out there",
-      "titleEN": "How sexy will James Bond game 007: First Light be? Hitman studio IO Interactive says the clues are already out there",
-      "desc": "Hitman studio IO Interactive has gone to great lengths to ensure 007: First Light feels James Bond enough. We've had entire videos documenting the watch Bond will wear, or the Aston Martin he will presumably drive, and there's a celebrity making a vi",
-      "descEN": "Hitman studio IO Interactive has gone to great lengths to ensure 007: First Light feels James Bond enough. We've had entire videos documenting the watch Bond will wear, or the Aston Martin he will presumably drive, and there's a celebrity making a vi",
-      "date": "20 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Classic series like Deux Ex, Legacy Kain, and Saints Row will be \"more actively\" explored following Embracer Group structure shift",
-      "titleEN": "Classic series like Deux Ex, Legacy Kain, and Saints Row will be \"more actively\" explored following Embracer Group structure shift",
-      "desc": "Embracer Group is slicing itself in half, resulting in two legally distinct public companies. The split, which is set to take place next year, could potentially provide a lifeline for many of the intellectual properties currently in hibernation under",
-      "descEN": "Embracer Group is slicing itself in half, resulting in two legally distinct public companies. The split, which is set to take place next year, could potentially provide a lifeline for many of the intellectual properties currently in hibernation under",
-      "date": "20 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "The Mass Effect sci-fi RPG subgenre \"hasn't had a good game in a long time\", says Hasbro, and it believes Exodus can change that",
-      "titleEN": "The Mass Effect sci-fi RPG subgenre \"hasn't had a good game in a long time\", says Hasbro, and it believes Exodus can change that",
-      "desc": "The boss of toy giant Hasbro believes the sci-fi role-playing game space, which famously counts BioWare's Mass Effect trilogy among it, \"hasn't had a good game in a long time\". Moreover he - Chris Cocks - believes Hasbro's new game Exodus will change",
-      "descEN": "The boss of toy giant Hasbro believes the sci-fi role-playing game space, which famously counts BioWare's Mass Effect trilogy among it, \"hasn't had a good game in a long time\". Moreover he - Chris Cocks - believes Hasbro's new game Exodus will change",
-      "date": "19 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Open-world action RPG Outward 2 sets summer early access release with a \"potato specs\" gameplay trailer starring a talking tuber",
-      "titleEN": "Open-world action RPG Outward 2 sets summer early access release with a \"potato specs\" gameplay trailer starring a talking tuber",
-      "desc": "As strange as it was, the first Outward managed to sell over 1m copies and build a solid following. With Outward 2, developer Nine Dots Studio, which is now self-publishing the game, aims to improve on that start and now we have a release date for th",
-      "descEN": "As strange as it was, the first Outward managed to sell over 1m copies and build a solid following. With Outward 2, developer Nine Dots Studio, which is now self-publishing the game, aims to improve on that start and now we have a release date for th",
-      "date": "19 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
