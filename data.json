@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-21T09:38:16.923Z",
+  "generatedAt": "2026-05-21T15:21:26.138Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -72,32 +72,22 @@
           "price": 6.99,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 9.45,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D"
         }
       ]
     },
     {
       "id": "g3",
-      "steamAppId": 2414270,
-      "rating": 4,
-      "title": "Sunderfolk",
-      "desc": "Encuentra Sunderfolk al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Sunderfolk is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 0,
-          "original": 49.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=C5QpU2wB0LJGRegXgpnA6MANIOpLL8HuNKpp%2BQ%2FUC8s%3D"
-        }
-      ]
-    },
-    {
-      "id": "g4",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -108,12 +98,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -124,12 +114,12 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": 466140,
       "rating": 4,
       "title": "The LEGO Games Bundle",
-      "desc": "Oferta especial de The LEGO Games Bundle en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find The LEGO Games Bundle at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "The LEGO Games Bundle está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for The LEGO Games Bundle on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -143,121 +133,121 @@
   "news": [
     {
       "id": "n1",
-      "title": "PC Gamer magazine's new issue is on sale now: Witchfire",
-      "titleEN": "PC Gamer magazine's new issue is on sale now: Witchfire",
-      "desc": "Plus, The Expanse: Osiris Reborn, Xenonauts 2, Road to Vostok, Diablo IV: Lord of Hatred, Star Wars Jedi Knight II: Jedi Outcast, Silverstone FLP02 retro case, and much more, too",
-      "descEN": "Plus, The Expanse: Osiris Reborn, Xenonauts 2, Road to Vostok, Diablo IV: Lord of Hatred, Star Wars Jedi Knight II: Jedi Outcast, Silverstone FLP02 retro case, and much more, too",
+      "title": "Samsung has swerved a planned South Korean factory strike with a last-minute deal, so the memory machine rumbles on",
+      "titleEN": "Samsung has swerved a planned South Korean factory strike with a last-minute deal, so the memory machine rumbles on",
+      "desc": "The deal is currently undergoing an internal union vote.",
+      "descEN": "The deal is currently undergoing an internal union vote.",
       "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "How well do you know Baldur's Gate 3's third act? See what you remember about the RPG's big finale with a quiz built for real Elder Brains",
-      "titleEN": "How well do you know Baldur's Gate 3's third act? See what you remember about the RPG's big finale with a quiz built for real Elder Brains",
-      "desc": "You feel compelled by an unseen force to accept this challenge.",
-      "descEN": "You feel compelled by an unseen force to accept this challenge.",
+      "title": "Witcher 3's heaviest scene stunned its devs into silence, but Cyberpunk 2's associate director says it was crucial for 'understanding the craft' of quest design",
+      "titleEN": "Witcher 3's heaviest scene stunned its devs into silence, but Cyberpunk 2's associate director says it was crucial for 'understanding the craft' of quest design",
+      "desc": "It sure stunned me.",
+      "descEN": "It sure stunned me.",
       "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "It's my own fault for thinking Warren Spector's new multiplayer stealth game adding singleplayer would make it the Thief successor I was hoping for",
-      "titleEN": "It's my own fault for thinking Warren Spector's new multiplayer stealth game adding singleplayer would make it the Thief successor I was hoping for",
-      "desc": "As a singleplayer experience, Thick as Thieves feels a bit thin.",
-      "descEN": "As a singleplayer experience, Thick as Thieves feels a bit thin.",
+      "title": "'Every single frontier model company will jump on Vera Rubin from the get go': Nvidia CEO insists the future looks bright",
+      "titleEN": "'Every single frontier model company will jump on Vera Rubin from the get go': Nvidia CEO insists the future looks bright",
+      "desc": "\"It will surely be more successful than even Grace Blackwell.\"",
+      "descEN": "\"It will surely be more successful than even Grace Blackwell.\"",
       "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "How to watch Warhammer Skulls 2026",
-      "titleEN": "How to watch Warhammer Skulls 2026",
-      "desc": "Catch the latest reveals from the yearly Warhammer videogame showcase.",
-      "descEN": "Catch the latest reveals from the yearly Warhammer videogame showcase.",
-      "date": "20 de mayo de 2026",
+      "title": "It's the year 2026, and New York City mayor Zohran Mamdani will be streaming regularly on Twitch starting today",
+      "titleEN": "It's the year 2026, and New York City mayor Zohran Mamdani will be streaming regularly on Twitch starting today",
+      "desc": "Does this come under \"just chatting?\"",
+      "descEN": "Does this come under \"just chatting?\"",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "I read every document in the Musk vs Altman case and my takeaway is—'Heartbreaking: The Worst Person You Know Just Made a Great Point'",
-      "titleEN": "I read every document in the Musk vs Altman case and my takeaway is—'Heartbreaking: The Worst Person You Know Just Made a Great Point'",
-      "desc": "Musk lost his case against Sam Altman on a technicality.",
-      "descEN": "Musk lost his case against Sam Altman on a technicality.",
-      "date": "20 de mayo de 2026",
+      "title": "Another quarter, another quarterly update from Nvidia that doesn't mention gaming",
+      "titleEN": "Another quarter, another quarterly update from Nvidia that doesn't mention gaming",
+      "desc": "Womp womp, but I suppose what do we expect?",
+      "descEN": "Womp womp, but I suppose what do we expect?",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Noticia"
+      "tag": "Actualización"
     },
     {
       "id": "n6",
-      "title": "In the early 1990s, Doom was famously installed on more PCs than Windows itself—but how many was that, actually?",
-      "titleEN": "In the early 1990s, Doom was famously installed on more PCs than Windows itself—but how many was that, actually?",
-      "desc": "Re-examining an old quote from Valve's Gabe Newell  reveals a big gap in what we know about Doom's popularity.",
-      "descEN": "Re-examining an old quote from Valve's Gabe Newell  reveals a big gap in what we know about Doom's popularity.",
-      "date": "20 de mayo de 2026",
+      "title": "The new Bubsy is better than I expected, but its hackneyed '90s nostalgia is exhausting",
+      "titleEN": "The new Bubsy is better than I expected, but its hackneyed '90s nostalgia is exhausting",
+      "desc": "This cat has too many lives.",
+      "descEN": "This cat has too many lives.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "Nearly a decade after its last update, Darksiders Warmastered Edition gets a photo mode and motion controls in a surprise new patch",
-      "titleEN": "Nearly a decade after its last update, Darksiders Warmastered Edition gets a photo mode and motion controls in a surprise new patch",
-      "desc": "Darksiders launched for the PS5 and Xbox Series X/S this week, and that's good news for us too.",
-      "descEN": "Darksiders launched for the PS5 and Xbox Series X/S this week, and that's good news for us too.",
-      "date": "20 de mayo de 2026",
+      "title": "I've played 1000s of hours of Overwatch but it wasn't until its new Anniversary game mode that I discovered I have no clue what the hell I'm doing",
+      "titleEN": "I've played 1000s of hours of Overwatch but it wasn't until its new Anniversary game mode that I discovered I have no clue what the hell I'm doing",
+      "desc": "That there Dragonblade is tricky.",
+      "descEN": "That there Dragonblade is tricky.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Splitgate studio reveals its new game, looks a lot like its old game",
-      "titleEN": "Splitgate studio reveals its new game, looks a lot like its old game",
-      "desc": "Empulse is set to launch into early access later this year.",
-      "descEN": "Empulse is set to launch into early access later this year.",
-      "date": "20 de mayo de 2026",
+      "title": "AMD announces production ramp of first 2 nm CPUs as Intel teases 10A and 7A chip roadmap",
+      "titleEN": "AMD announces production ramp of first 2 nm CPUs as Intel teases 10A and 7A chip roadmap",
+      "desc": "Moore's Law alive and kinda kicking…",
+      "descEN": "Moore's Law alive and kinda kicking…",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "Civ 7's massive overhaul update brings its highest Steam player count in over a year",
-      "titleEN": "Civ 7's massive overhaul update brings its highest Steam player count in over a year",
-      "desc": "Initial reactions to the Test of Time update are mixed, however.",
-      "descEN": "Initial reactions to the Test of Time update are mixed, however.",
-      "date": "20 de mayo de 2026",
+      "title": "SpaceX has listed Grok's 'spicy' mode as a risk in its initial public offering: 'These modes may be more irreverent and harsher than our standard offerings'",
+      "titleEN": "SpaceX has listed Grok's 'spicy' mode as a risk in its initial public offering: 'These modes may be more irreverent and harsher than our standard offerings'",
+      "desc": "When rockets and AI collide.",
+      "descEN": "When rockets and AI collide.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Actualización"
+      "tag": "Ofertas"
     },
     {
       "id": "n10",
-      "title": "Valve asks New York court to dismiss Counter-Strike lawsuit, says 'people enjoy surprises' and equating loot boxes to gambling is 'nonsensical'",
-      "titleEN": "Valve asks New York court to dismiss Counter-Strike lawsuit, says 'people enjoy surprises' and equating loot boxes to gambling is 'nonsensical'",
-      "desc": "In-game items have \"subjective and aesthetic value\" akin to baseball cards, Valve insists.",
-      "descEN": "In-game items have \"subjective and aesthetic value\" akin to baseball cards, Valve insists.",
-      "date": "20 de mayo de 2026",
+      "title": "Security researcher describes freshly uncovered Windows 11 vulnerability as 'one of the most insane discoveries I ever found.'",
+      "titleEN": "Security researcher describes freshly uncovered Windows 11 vulnerability as 'one of the most insane discoveries I ever found.'",
+      "desc": "The king in yellow.",
+      "descEN": "The king in yellow.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Another live service game is dead just a few months after launch",
-      "titleEN": "Another live service game is dead just a few months after launch",
-      "desc": "Quantic Dream has pulled the plug on Spellcasters Chronicles, and yes, there will be layoffs.",
-      "descEN": "Quantic Dream has pulled the plug on Spellcasters Chronicles, and yes, there will be layoffs.",
-      "date": "20 de mayo de 2026",
+      "title": "Nvidia says 'demand for AI infrastructure continues to expand at an unprecedented pace' but after speaking to experts about it, I'm not so sure",
+      "titleEN": "Nvidia says 'demand for AI infrastructure continues to expand at an unprecedented pace' but after speaking to experts about it, I'm not so sure",
+      "desc": "The future of the AI industry isn't as certain as Nvidia seems to make out.",
+      "descEN": "The future of the AI industry isn't as certain as Nvidia seems to make out.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Embark busts 9 myths about Arc Raiders' aggression-based matchmaking, and says defending yourself is no longer a hostile action",
-      "titleEN": "Embark busts 9 myths about Arc Raiders' aggression-based matchmaking, and says defending yourself is no longer a hostile action",
-      "desc": "This is the most Embark has said about its matchmaking since launch.",
-      "descEN": "This is the most Embark has said about its matchmaking since launch.",
-      "date": "20 de mayo de 2026",
+      "title": "WoW: Midnight's hardcore raiders are on a gold treadmill, with a first-time clear of Mythic Midnight Falls costing around 87,750 gold in repairs alone",
+      "titleEN": "WoW: Midnight's hardcore raiders are on a gold treadmill, with a first-time clear of Mythic Midnight Falls costing around 87,750 gold in repairs alone",
+      "desc": "And that's before consumables, which ramps that bill up to 340,692 if you're going full tryhard.",
+      "descEN": "And that's before consumables, which ramps that bill up to 340,692 if you're going full tryhard.",
+      "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     }
