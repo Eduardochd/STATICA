@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-21T19:52:00.516Z",
+  "generatedAt": "2026-05-22T03:31:54.017Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -32,10 +32,22 @@
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
         },
         {
-          "store": "GOG",
-          "price": 4.38,
+          "store": "Epic",
+          "price": 4.99,
           "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=U2ne5odE6WKyoSROQN8D2OX2aRN8CJrxoFxZ%2BktLaHg%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=Sq38R25AnlmmDRXdmA%2BFMmLJ4crjxNxmlVFh5xXBMpE%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 8.99,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=dzI3PcMtBl2Wc1FJ4XdTn7en7vJjFhq3rjY8OvMzdek%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 9.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=rTAz4UKJkHCB5GlBjTIsg0AFg0JVkN68hwDo2s1hbnk%3D"
         },
         {
           "store": "GOG",
@@ -48,30 +60,6 @@
           "price": 8.88,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=1FgTMMUmnTfwWDP8weQUh35nmwjV0PXWMZVkdRscq9o%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 6.85,
-          "original": 68.29,
-          "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 9.39,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=OdeM7qNg%2BMU8PRSFbbLMRYEP33iCTpZ%2BoG1PLLyuG%2Bw%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.95,
-          "original": 69.5,
-          "url": "https://www.cheapshark.com/redirect?dealID=SmsaXTBWCcgJyOW0zG%2BuTbwH%2F1QL11rC2Yqb%2FMFqxCs%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
         }
       ]
     },
@@ -80,14 +68,14 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
-          "store": "GOG",
-          "price": 3.08,
+          "store": "Epic",
+          "price": 3.49,
           "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=nF9%2FdPXYPajMwowT9vhxtb%2BbzqK%2FsuFSBFt5snmLx24%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=3dl9bBL%2FTCGTKmcgIZK%2BoGiQwxhJnYZLOPbVtWzFy0U%3D"
         }
       ]
     },
@@ -96,8 +84,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Tomb Raider I-III Remastered Starring Lara Croft deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Tomb Raider I-III Remastered Starring Lara Croft on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -112,7 +100,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -125,17 +113,17 @@
     },
     {
       "id": "g6",
-      "steamAppId": 466140,
+      "steamAppId": 648168,
       "rating": 4,
-      "title": "The LEGO Games Bundle",
-      "desc": "Oferta especial de The LEGO Games Bundle en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
+      "title": "Middle-earth: The Shadow Bundle",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
-          "store": "GOG",
-          "price": 12.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=lx1Ldqb2ETEm0PJHIwoF8aVhlAvtMNpyHN%2B3M64aUek%3D"
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=5u2%2Brrz%2BTcuDR9HAefNkfN%2BJsj6LIP8YpMQLuI%2F%2B16o%3D"
         }
       ]
     }
@@ -143,6 +131,86 @@
   "news": [
     {
       "id": "n1",
+      "title": "One of the hundreds of Warhammer games is currently free to keep forever on Steam",
+      "titleEN": "One of the hundreds of Warhammer games is currently free to keep forever on Steam",
+      "desc": "The series' sole 4X outing is worth investigation.",
+      "descEN": "The series' sole 4X outing is worth investigation.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n2",
+      "title": "40K XCOM-like Chaos Gate – Daemonhunters is getting a sequel and this time we'll get to purge 'seven distinctive enemy factions'",
+      "titleEN": "40K XCOM-like Chaos Gate – Daemonhunters is getting a sequel and this time we'll get to purge 'seven distinctive enemy factions'",
+      "desc": "More variety would be nice.",
+      "descEN": "More variety would be nice.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Bungie isn't immediately making Destiny 3, is planning layoffs, reports Bloomberg",
+      "titleEN": "Bungie isn't immediately making Destiny 3, is planning layoffs, reports Bloomberg",
+      "desc": "Hopes that the end of Destiny 2 means Destiny 3 is on the way aren't necessarily dashed—but if it happens, it'll be a long time from now.",
+      "descEN": "Hopes that the end of Destiny 2 means Destiny 3 is on the way aren't necessarily dashed—but if it happens, it'll be a long time from now.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Destiny 2 hasn't been the game I'd loved in years, but it still sucks to know it's ending",
+      "titleEN": "Destiny 2 hasn't been the game I'd loved in years, but it still sucks to know it's ending",
+      "desc": "For a time, Destiny 2 was a masterclass in all kinds of gameplay, and only some of them involved pressing keys.",
+      "descEN": "For a time, Destiny 2 was a masterclass in all kinds of gameplay, and only some of them involved pressing keys.",
+      "date": "21 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "I've been playing games for 40 years, writing about them for 20, and I'm here to say parts of Roblox need to be legislated out of existence",
+      "titleEN": "I've been playing games for 40 years, writing about them for 20, and I'm here to say parts of Roblox need to be legislated out of existence",
+      "desc": "This platform is a disgrace, and regulators need to act.",
+      "descEN": "This platform is a disgrace, and regulators need to act.",
+      "date": "21 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Grand Theft Auto 6 publisher is confident enough in its release date to brag about the ungodly amounts of money it's about to make",
+      "titleEN": "Grand Theft Auto 6 publisher is confident enough in its release date to brag about the ungodly amounts of money it's about to make",
+      "desc": "Sorry to say, though, that PC plans are still MIA.",
+      "descEN": "Sorry to say, though, that PC plans are still MIA.",
+      "date": "21 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "There is no discovery on this earth more pure than a closet full of your dad's '90s big box PC games",
+      "titleEN": "There is no discovery on this earth more pure than a closet full of your dad's '90s big box PC games",
+      "desc": "Those really were the days.",
+      "descEN": "Those really were the days.",
+      "date": "21 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Destiny 2 is dead, long live Destiny 3? 'Until I see the words Destiny 3 will never happen, I'm going to believe'",
+      "titleEN": "Destiny 2 is dead, long live Destiny 3? 'Until I see the words Destiny 3 will never happen, I'm going to believe'",
+      "desc": "Do you even want a Destiny 3, and can Bungie be trusted to make it?",
+      "descEN": "Do you even want a Destiny 3, and can Bungie be trusted to make it?",
+      "date": "21 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
       "title": "A trio of former BioWare devs are making 'a neon-noir supernatural mystery game set in a stylized Canadian cityscape'",
       "titleEN": "A trio of former BioWare devs are making 'a neon-noir supernatural mystery game set in a stylized Canadian cityscape'",
       "desc": "That's an idea I can get behind.",
@@ -152,7 +220,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Bad news for Krafton: Subnautica 2 broke 4 million copies sold in less than a week",
       "titleEN": "Bad news for Krafton: Subnautica 2 broke 4 million copies sold in less than a week",
       "desc": "The undersea survival sim continues its blistering pace.",
@@ -162,7 +230,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "Destiny 2 is officially over: 'Live service content updates' end in June as Bungie moves on to new projects",
       "titleEN": "Destiny 2 is officially over: 'Live service content updates' end in June as Bungie moves on to new projects",
       "desc": "Bungie says it will ensure that Destiny 2 remains playable, but its focus is now elsewhere.",
@@ -172,91 +240,11 @@
       "tag": "Actualización"
     },
     {
-      "id": "n4",
-      "title": "Dawn of War 4 just got a release date (or 2), a DLC roadmap, and Crusade Mode plans",
-      "titleEN": "Dawn of War 4 just got a release date (or 2), a DLC roadmap, and Crusade Mode plans",
-      "desc": "If you're in the mood for a crusade, you know.",
-      "descEN": "If you're in the mood for a crusade, you know.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n5",
+      "id": "n12",
       "title": "I played Boltgun 2 and it's sick",
       "titleEN": "I played Boltgun 2 and it's sick",
       "desc": "My favorite throwback FPS is back.",
       "descEN": "My favorite throwback FPS is back.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "The Omnissiah heard your prayers: Darktide's finally getting a cog boy on June 23rd",
-      "titleEN": "The Omnissiah heard your prayers: Darktide's finally getting a cog boy on June 23rd",
-      "desc": "*binaric screeching*",
-      "descEN": "*binaric screeching*",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "Forza Horizon 6 Series 1 overview and the Festival Playlist challenges this week",
-      "titleEN": "Forza Horizon 6 Series 1 overview and the Festival Playlist challenges this week",
-      "desc": "Get the keys to the Mazda Furai and many more exclusive cars.",
-      "descEN": "Get the keys to the Mazda Furai and many more exclusive cars.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Playing a murderous ratman in this newly-announced Warhammer platformer is my penance for bisecting thousands of Skaven over the years",
-      "titleEN": "Playing a murderous ratman in this newly-announced Warhammer platformer is my penance for bisecting thousands of Skaven over the years",
-      "desc": "Warhammer Age of Sigmar: Deathmaster puts us on the other side of the Vermintide.",
-      "descEN": "Warhammer Age of Sigmar: Deathmaster puts us on the other side of the Vermintide.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Mouseward is an adorably gloomy soulslike where you play an itty bitty undead mouse collecting stars, and it has a demo out now",
-      "titleEN": "Mouseward is an adorably gloomy soulslike where you play an itty bitty undead mouse collecting stars, and it has a demo out now",
-      "desc": "Grave tidings.",
-      "descEN": "Grave tidings.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "The latest 100% Chinese-made GPU may still lag behind an RTX 3060 but it could be the start of something big in graphics cards",
-      "titleEN": "The latest 100% Chinese-made GPU may still lag behind an RTX 3060 but it could be the start of something big in graphics cards",
-      "desc": "One giant leap for Lisuan, one small step for the GPU market.",
-      "descEN": "One giant leap for Lisuan, one small step for the GPU market.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "AMD is investing $10 billion+ into Taiwan tech to 'accelerate next-gen AI infrastructure', with some fancy new toys on the way",
-      "titleEN": "AMD is investing $10 billion+ into Taiwan tech to 'accelerate next-gen AI infrastructure', with some fancy new toys on the way",
-      "desc": "If in doubt, spend money.",
-      "descEN": "If in doubt, spend money.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Assassin's Creed Black Flag Resynced is a textbook remaster",
-      "titleEN": "Assassin's Creed Black Flag Resynced is a textbook remaster",
-      "desc": "The spitting image of the game I remember, despite how much it's actually changed.",
-      "descEN": "The spitting image of the game I remember, despite how much it's actually changed.",
       "date": "21 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
