@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-22T09:20:38.690Z",
+  "generatedAt": "2026-05-22T14:36:09.320Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -36,6 +36,12 @@
           "price": 4.99,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Sq38R25AnlmmDRXdmA%2BFMmLJ4crjxNxmlVFh5xXBMpE%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 6.85,
+          "original": 68.29,
+          "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
         },
         {
           "store": "Epic",
@@ -68,8 +74,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -84,8 +90,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Oferta especial de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -100,7 +106,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -117,7 +123,7 @@
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
       "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -131,122 +137,122 @@
   "news": [
     {
       "id": "n1",
-      "title": "One of the hundreds of Warhammer games is currently free to keep forever on Steam",
-      "titleEN": "One of the hundreds of Warhammer games is currently free to keep forever on Steam",
-      "desc": "The series' sole 4X outing is worth investigation.",
-      "descEN": "The series' sole 4X outing is worth investigation.",
+      "title": "Your allies in turn-based tactics game Menace can now be completely wiped out by the [REDACTED], but at least we can now bring battle tanks to the fight",
+      "titleEN": "Your allies in turn-based tactics game Menace can now be completely wiped out by the [REDACTED], but at least we can now bring battle tanks to the fight",
+      "desc": "The latest update for Menace, the turn-based tactics game where you play as space police in a system overrun with aliens and rebels, brings good news and bad news. On the one hand, it gives us two kinds of tank, letting us finally take some heavy arm",
+      "descEN": "The latest update for Menace, the turn-based tactics game where you play as space police in a system overrun with aliens and rebels, brings good news and bad news. On the one hand, it gives us two kinds of tank, letting us finally take some heavy arm",
       "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Ofertas"
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n2",
-      "title": "40k XCOM-like Chaos Gate – Daemonhunters is getting a sequel and this time we'll get to purge 'seven distinctive enemy factions'",
-      "titleEN": "40k XCOM-like Chaos Gate – Daemonhunters is getting a sequel and this time we'll get to purge 'seven distinctive enemy factions'",
-      "desc": "More variety would be nice.",
-      "descEN": "More variety would be nice.",
+      "title": "Dang, I can't hang with the Wang in Zero Parades, so ZA/UM's thought violation gun won't stop going bang",
+      "titleEN": "Dang, I can't hang with the Wang in Zero Parades, so ZA/UM's thought violation gun won't stop going bang",
+      "desc": "I&rsquo;ve been a super sorry spy again. THAT&rsquo;S AGAINST YOUR AGREEMENT, Mr Wang shouts in text form, subsequently yanking away the bonuses afforded to me by my decision to adopt the Wang way. I didn&rsquo;t think working the Wang into my thang ",
+      "descEN": "I&rsquo;ve been a super sorry spy again. THAT&rsquo;S AGAINST YOUR AGREEMENT, Mr Wang shouts in text form, subsequently yanking away the bonuses afforded to me by my decision to adopt the Wang way. I didn&rsquo;t think working the Wang into my thang ",
       "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "Bungie isn't immediately making Destiny 3, is planning layoffs, reports Bloomberg",
-      "titleEN": "Bungie isn't immediately making Destiny 3, is planning layoffs, reports Bloomberg",
-      "desc": "Hopes that the end of Destiny 2 means Destiny 3 is on the way aren't necessarily dashed—but if it happens, it'll be a long time from now.",
-      "descEN": "Hopes that the end of Destiny 2 means Destiny 3 is on the way aren't necessarily dashed—but if it happens, it'll be a long time from now.",
+      "title": "\"You build a little squad of allied characters\": Warhammer Survivors spin on bullet heaven brings a lovely touch of chaos to the battlefield",
+      "titleEN": "\"You build a little squad of allied characters\": Warhammer Survivors spin on bullet heaven brings a lovely touch of chaos to the battlefield",
+      "desc": "Bullet heaven games can already be fairly chaotic. Starting with Vampire Survivors, it's a genre that joyously fills your screen with thousands of enemies and tasks you with somehow killing them all before they reach your character in the centre. Whi",
+      "descEN": "Bullet heaven games can already be fairly chaotic. Starting with Vampire Survivors, it's a genre that joyously fills your screen with thousands of enemies and tasks you with somehow killing them all before they reach your character in the centre. Whi",
       "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "Destiny 2 hasn't been the game I'd loved in years, but it still sucks to know it's ending",
-      "titleEN": "Destiny 2 hasn't been the game I'd loved in years, but it still sucks to know it's ending",
-      "desc": "For a time, Destiny 2 was a masterclass in all kinds of gameplay, and only some of them involved pressing keys.",
-      "descEN": "For a time, Destiny 2 was a masterclass in all kinds of gameplay, and only some of them involved pressing keys.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "Destiny 2 is getting its final update in June, and the team reportedly face \"significant\" layoffs as soon as it's out the door",
+      "titleEN": "Destiny 2 is getting its final update in June, and the team reportedly face \"significant\" layoffs as soon as it's out the door",
+      "desc": "Bungie have announced that they are putting together the final update for Destiny 2, bringing to an end the live service shooters 12-year run. The game itself will continue to exist for players to replay the content that already exists but nothing ne",
+      "descEN": "Bungie have announced that they are putting together the final update for Destiny 2, bringing to an end the live service shooters 12-year run. The game itself will continue to exist for players to replay the content that already exists but nothing ne",
+      "date": "22 de mayo de 2026",
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n5",
-      "title": "I've been playing games for 40 years, writing about them for 20, and I'm here to say parts of Roblox need to be legislated out of existence",
-      "titleEN": "I've been playing games for 40 years, writing about them for 20, and I'm here to say parts of Roblox need to be legislated out of existence",
-      "desc": "This platform is a disgrace, and regulators need to act.",
-      "descEN": "This platform is a disgrace, and regulators need to act.",
-      "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "\"If they turn off, they might not be able to turn them on again\": The charming reason behind Dawn of War 4's excitable, dancing mech",
+      "titleEN": "\"If they turn off, they might not be able to turn them on again\": The charming reason behind Dawn of War 4's excitable, dancing mech",
+      "desc": "If you watch the Dawn of War 4 trailer showing off the Adeptus Mechanicus faction, you might have spotted a mech that's practically dancing on the spot. The excitable little thing looks to be itching to get into the fight. It turns out, it's not chan",
+      "descEN": "If you watch the Dawn of War 4 trailer showing off the Adeptus Mechanicus faction, you might have spotted a mech that's practically dancing on the spot. The excitable little thing looks to be itching to get into the fight. It turns out, it's not chan",
+      "date": "22 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "Grand Theft Auto 6 publisher is confident enough in its release date to brag about the ungodly amounts of money it's about to make",
-      "titleEN": "Grand Theft Auto 6 publisher is confident enough in its release date to brag about the ungodly amounts of money it's about to make",
-      "desc": "Sorry to say, though, that PC plans are still MIA.",
-      "descEN": "Sorry to say, though, that PC plans are still MIA.",
+      "title": "Baldur's Gate 3's Wyll gets \"the autonomy he deserves\" in deciding whether to break his pact with Mizora, thanks to a chunky companion quest overhaul mod",
+      "titleEN": "Baldur's Gate 3's Wyll gets \"the autonomy he deserves\" in deciding whether to break his pact with Mizora, thanks to a chunky companion quest overhaul mod",
+      "desc": "Back in 2024, I wrote about a group of Baldur's Gate 3 modders who were dead set on giving Wyll the same level of depth and attention Larian's RPG dotes on the likes of Shadowheart and Astarion. They dubbed their efforts the \"Wyll Cinematic Universe\"",
+      "descEN": "Back in 2024, I wrote about a group of Baldur's Gate 3 modders who were dead set on giving Wyll the same level of depth and attention Larian's RPG dotes on the likes of Shadowheart and Astarion. They dubbed their efforts the \"Wyll Cinematic Universe\"",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "There is no discovery on this earth more pure than a closet full of your dad's '90s big box PC games",
-      "titleEN": "There is no discovery on this earth more pure than a closet full of your dad's '90s big box PC games",
-      "desc": "Those really were the days.",
-      "descEN": "Those really were the days.",
+      "title": "After months of leaks and building expectations, Assassin's Creed Black Flag Resynced is a surprisingly clumsy remake, with bugs and parkour missteps marring my three-hour preview",
+      "titleEN": "After months of leaks and building expectations, Assassin's Creed Black Flag Resynced is a surprisingly clumsy remake, with bugs and parkour missteps marring my three-hour preview",
+      "desc": "Remakes are very much in vogue these days, providing developers the opportunity to return to an old favourite and enhance, expand, and correct the wrongs of the past. Some of the best, such as Mafia: Definitive Edition, redraw the edges of an old sto",
+      "descEN": "Remakes are very much in vogue these days, providing developers the opportunity to return to an old favourite and enhance, expand, and correct the wrongs of the past. Some of the best, such as Mafia: Definitive Edition, redraw the edges of an old sto",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Destiny 2 is dead, long live Destiny 3? 'Until I see the words Destiny 3 will never happen, I'm going to believe'",
-      "titleEN": "Destiny 2 is dead, long live Destiny 3? 'Until I see the words Destiny 3 will never happen, I'm going to believe'",
-      "desc": "Do you even want a Destiny 3, and can Bungie be trusted to make it?",
-      "descEN": "Do you even want a Destiny 3, and can Bungie be trusted to make it?",
+      "title": "Splinter Cell veteran says realistic modern lighting has screwed up stealth games: \"it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe\"",
+      "titleEN": "Splinter Cell veteran says realistic modern lighting has screwed up stealth games: \"it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe\"",
+      "desc": "Finally, a game developer who agrees with my fervently held view that new technology makes everything worse. Celebrated designer Clint Hocking &ndash; him wot worked on Far Cry 2, Splinter Cell: Chaos Theory, Watch Dogs Legion, and the forthcoming As",
+      "descEN": "Finally, a game developer who agrees with my fervently held view that new technology makes everything worse. Celebrated designer Clint Hocking &ndash; him wot worked on Far Cry 2, Splinter Cell: Chaos Theory, Watch Dogs Legion, and the forthcoming As",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "A trio of former BioWare devs are making 'a neon-noir supernatural mystery game set in a stylized Canadian cityscape'",
-      "titleEN": "A trio of former BioWare devs are making 'a neon-noir supernatural mystery game set in a stylized Canadian cityscape'",
-      "desc": "That's an idea I can get behind.",
-      "descEN": "That's an idea I can get behind.",
+      "title": "Dragon Age: Inquisition's lead narrative designer is making an adventure game world \"where the ordinary starts to feel like it is hiding something\"",
+      "titleEN": "Dragon Age: Inquisition's lead narrative designer is making an adventure game world \"where the ordinary starts to feel like it is hiding something\"",
+      "desc": "Efforts to start a blaze by huffing on the embers of BioWare's legacy continue with the announcement of Studio Reset - a new Canadian independent whose members include veterans of Mass Effect, Dragon Age, and Anthem. The key personalities are Kaelin ",
+      "descEN": "Efforts to start a blaze by huffing on the embers of BioWare's legacy continue with the announcement of Studio Reset - a new Canadian independent whose members include veterans of Mass Effect, Dragon Age, and Anthem. The key personalities are Kaelin ",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "Bad news for Krafton: Subnautica 2 broke 4 million copies sold in less than a week",
-      "titleEN": "Bad news for Krafton: Subnautica 2 broke 4 million copies sold in less than a week",
-      "desc": "The undersea survival sim continues its blistering pace.",
-      "descEN": "The undersea survival sim continues its blistering pace.",
+      "title": "Stop Killing Games petition on game server switch offs will get a reply \"before the summer\", European Commission promise during latest debate",
+      "titleEN": "Stop Killing Games petition on game server switch offs will get a reply \"before the summer\", European Commission promise during latest debate",
+      "desc": "Following a public hearing at the European Parliament in Brussels last month, European politicians have debated the Stop Killing Games campaign's petition to put more consumer protections around online game server shutdowns into law again today, May ",
+      "descEN": "Following a public hearing at the European Parliament in Brussels last month, European politicians have debated the Stop Killing Games campaign's petition to put more consumer protections around online game server shutdowns into law again today, May ",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Récord"
+      "source": "rockpapershotgun.com",
+      "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Destiny 2 is officially over: 'Live service content updates' end in June as Bungie moves on to new projects",
-      "titleEN": "Destiny 2 is officially over: 'Live service content updates' end in June as Bungie moves on to new projects",
-      "desc": "Bungie says it will ensure that Destiny 2 remains playable, but its focus is now elsewhere.",
-      "descEN": "Bungie says it will ensure that Destiny 2 remains playable, but its focus is now elsewhere.",
+      "title": "Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day",
+      "titleEN": "Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day",
+      "desc": "Today, May 21st, marks the release of ZA/UM's Zero Parades, the studio's Disco Elysium follow-up arriving following years of drama and turmoil surrounding the original game and the people who made it. So, naturally, one of numerous Disco-like games w",
+      "descEN": "Today, May 21st, marks the release of ZA/UM's Zero Parades, the studio's Disco Elysium follow-up arriving following years of drama and turmoil surrounding the original game and the people who made it. So, naturally, one of numerous Disco-like games w",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Actualización"
+      "source": "rockpapershotgun.com",
+      "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "I played Boltgun 2 and it's sick",
-      "titleEN": "I played Boltgun 2 and it's sick",
-      "desc": "My favorite throwback FPS is back.",
-      "descEN": "My favorite throwback FPS is back.",
+      "title": "Prophet Margin is a holy city-builder that combines the joy of trade routes with the terror of God",
+      "titleEN": "Prophet Margin is a holy city-builder that combines the joy of trade routes with the terror of God",
+      "desc": "Many fantasy games deal in the prospect of sacrificing things to gods, but few dramatise the associated exciting logistical pressures. Say you want to chuck a bunch of virgins into a volcano at regular intervals, to stop the regional Vulcan pulling a",
+      "descEN": "Many fantasy games deal in the prospect of sacrificing things to gods, but few dramatise the associated exciting logistical pressures. Say you want to chuck a bunch of virgins into a volcano at regular intervals, to stop the regional Vulcan pulling a",
       "date": "21 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     }
   ]
