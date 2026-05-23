@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-23T08:17:39.810Z",
+  "generatedAt": "2026-05-23T13:21:53.679Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -110,8 +110,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Middle-earth: The Shadow Bundle está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -141,122 +141,122 @@
   "news": [
     {
       "id": "n1",
-      "title": "What are we all playing this weekend?",
-      "titleEN": "What are we all playing this weekend?",
-      "desc": "Ah, it's a Saturday and the start of a heat wave. What to do? What to do? Pull out the plastic storage box and fill it with cold water and ice cubes for a nice chilling foot bath. Get some damp flannels in the freezer to become an ice pack ready to b",
-      "descEN": "Ah, it's a Saturday and the start of a heat wave. What to do? What to do? Pull out the plastic storage box and fill it with cold water and ice cubes for a nice chilling foot bath. Get some damp flannels in the freezer to become an ice pack ready to b",
+      "title": "The Steam Controller's main competition isn't from Microsoft or Sony: It's from third-party vendors",
+      "titleEN": "The Steam Controller's main competition isn't from Microsoft or Sony: It's from third-party vendors",
+      "desc": "Long gone are the days when third party was for player two.",
+      "descEN": "Long gone are the days when third party was for player two.",
       "date": "23 de mayo de 2026",
-      "source": "rockpapershotgun.com",
-      "tag": "Ofertas"
+      "source": "pcgamer.com",
+      "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
-      "titleEN": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
-      "desc": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
-      "descEN": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
-      "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "You can help save the whales by buying this reef-building game written by the scribe of the Tomb Raider reboot",
+      "titleEN": "You can help save the whales by buying this reef-building game written by the scribe of the Tomb Raider reboot",
+      "desc": "The developer of Life Below is launching a special supporter pack with all net revenue goes to supporting whale and dolphin conservation.",
+      "descEN": "The developer of Life Below is launching a special supporter pack with all net revenue goes to supporting whale and dolphin conservation.",
+      "date": "23 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "Your allies in turn-based tactics game Menace can now be completely wiped out by the [REDACTED], but at least the new patch gives us battle tanks",
-      "titleEN": "Your allies in turn-based tactics game Menace can now be completely wiped out by the [REDACTED], but at least the new patch gives us battle tanks",
-      "desc": "The latest update for Menace, the turn-based tactics game where you play as space police in a system overrun with aliens and rebels, brings good news and bad news. On the one hand, it gives us two kinds of tank, letting us finally take some heavy arm",
-      "descEN": "The latest update for Menace, the turn-based tactics game where you play as space police in a system overrun with aliens and rebels, brings good news and bad news. On the one hand, it gives us two kinds of tank, letting us finally take some heavy arm",
-      "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
-      "tag": "Actualización"
+      "title": "As it rapidly approaches $1 billion in player funding, Star Citizen goes free to play until May 27",
+      "titleEN": "As it rapidly approaches $1 billion in player funding, Star Citizen goes free to play until May 27",
+      "desc": "No taxation, just representation.",
+      "descEN": "No taxation, just representation.",
+      "date": "23 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Ofertas"
     },
     {
       "id": "n4",
-      "title": "Dang, I can't hang with the Wang in Zero Parades, so ZA/UM's thought violation gun won't stop going bang",
-      "titleEN": "Dang, I can't hang with the Wang in Zero Parades, so ZA/UM's thought violation gun won't stop going bang",
-      "desc": "I&rsquo;ve been a super sorry spy again. THAT&rsquo;S AGAINST YOUR AGREEMENT, Mr Wang shouts in text form, subsequently yanking away the bonuses afforded to me by my decision to adopt the Wang way. I didn&rsquo;t think working the Wang into my thang ",
-      "descEN": "I&rsquo;ve been a super sorry spy again. THAT&rsquo;S AGAINST YOUR AGREEMENT, Mr Wang shouts in text form, subsequently yanking away the bonuses afforded to me by my decision to adopt the Wang way. I didn&rsquo;t think working the Wang into my thang ",
-      "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "The director of the best Splinter Cell game reckons that modern lighting engines are making stealth games 'so much harder to read'",
+      "titleEN": "The director of the best Splinter Cell game reckons that modern lighting engines are making stealth games 'so much harder to read'",
+      "desc": "\"It gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe, what’s dangerous.\"",
+      "descEN": "\"It gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe, what’s dangerous.\"",
+      "date": "23 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "\"You build a little squad of allied characters\": Warhammer Survivors' spin on bullet heaven brings a lovely touch of chaos to the battlefield",
-      "titleEN": "\"You build a little squad of allied characters\": Warhammer Survivors' spin on bullet heaven brings a lovely touch of chaos to the battlefield",
-      "desc": "Bullet heaven games can already be fairly chaotic. Starting with Vampire Survivors, it's a genre that joyously fills your screen with thousands of enemies and tasks you with somehow killing them all before they reach your character in the centre. Whi",
-      "descEN": "Bullet heaven games can already be fairly chaotic. Starting with Vampire Survivors, it's a genre that joyously fills your screen with thousands of enemies and tasks you with somehow killing them all before they reach your character in the centre. Whi",
+      "title": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
+      "titleEN": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
+      "desc": "\"I thought I would be ready to hear something like this, but I guess I'm just not,\" said popular streamer Datto.",
+      "descEN": "\"I thought I would be ready to hear something like this, but I guess I'm just not,\" said popular streamer Datto.",
       "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "Destiny 2 is getting its final update in June, and the team reportedly face \"significant\" layoffs as soon as it's out the door",
-      "titleEN": "Destiny 2 is getting its final update in June, and the team reportedly face \"significant\" layoffs as soon as it's out the door",
-      "desc": "Bungie have announced that they are putting together the final update for Destiny 2, bringing to an end the live service shooters 12-year run. The game itself will continue to exist for players to replay the content that already exists but nothing ne",
-      "descEN": "Bungie have announced that they are putting together the final update for Destiny 2, bringing to an end the live service shooters 12-year run. The game itself will continue to exist for players to replay the content that already exists but nothing ne",
+      "title": "Last Flag studio lays off half its employees as it puts 'the future of the game in the hands of our players'",
+      "titleEN": "Last Flag studio lays off half its employees as it puts 'the future of the game in the hands of our players'",
+      "desc": "Night Street Games said earlier this month that it will not be pursuing future development of its CTF shooter.",
+      "descEN": "Night Street Games said earlier this month that it will not be pursuing future development of its CTF shooter.",
       "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n7",
-      "title": "\"If they turn off, they might not be able to turn them on again\": The charming reason behind Dawn of War 4's excitable, dancing mech",
-      "titleEN": "\"If they turn off, they might not be able to turn them on again\": The charming reason behind Dawn of War 4's excitable, dancing mech",
-      "desc": "If you watch the Dawn of War 4 trailer showing off the Adeptus Mechanicus faction, you might have spotted a mech that's practically dancing on the spot. The excitable little thing looks to be itching to get into the fight. It turns out, it's not chan",
-      "descEN": "If you watch the Dawn of War 4 trailer showing off the Adeptus Mechanicus faction, you might have spotted a mech that's practically dancing on the spot. The excitable little thing looks to be itching to get into the fight. It turns out, it's not chan",
-      "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
+      "id": "n7",
+      "title": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
+      "titleEN": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
+      "desc": "Xivu Arath, we hardly knew ye.",
+      "descEN": "Xivu Arath, we hardly knew ye.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Expansión"
+    },
+    {
       "id": "n8",
-      "title": "Baldur's Gate 3's Wyll gets \"the autonomy he deserves\" in deciding whether to break his pact with Mizora, thanks to a chunky companion quest overhaul mod",
-      "titleEN": "Baldur's Gate 3's Wyll gets \"the autonomy he deserves\" in deciding whether to break his pact with Mizora, thanks to a chunky companion quest overhaul mod",
-      "desc": "Back in 2024, I wrote about a group of Baldur's Gate 3 modders who were dead set on giving Wyll the same level of depth and attention Larian's RPG dotes on the likes of Shadowheart and Astarion. They dubbed their efforts the \"Wyll Cinematic Universe\"",
-      "descEN": "Back in 2024, I wrote about a group of Baldur's Gate 3 modders who were dead set on giving Wyll the same level of depth and attention Larian's RPG dotes on the likes of Shadowheart and Astarion. They dubbed their efforts the \"Wyll Cinematic Universe\"",
-      "date": "21 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "Fallout lead Tim Cain argues games industry crisis hasn't reached the level of the 1983 crash: 'I don't think there's ever been a worse time in the games industry'",
+      "titleEN": "Fallout lead Tim Cain argues games industry crisis hasn't reached the level of the 1983 crash: 'I don't think there's ever been a worse time in the games industry'",
+      "desc": "He doesn't want to diminish the current crisis, though.",
+      "descEN": "He doesn't want to diminish the current crisis, though.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "After months of leaks and building expectations, Assassin's Creed Black Flag Resynced is a surprisingly clumsy remake, with bugs and parkour missteps marring my three-hour preview",
-      "titleEN": "After months of leaks and building expectations, Assassin's Creed Black Flag Resynced is a surprisingly clumsy remake, with bugs and parkour missteps marring my three-hour preview",
-      "desc": "Remakes are very much in vogue these days, providing developers the opportunity to return to an old favourite and enhance, expand, and correct the wrongs of the past. Some of the best, such as Mafia: Definitive Edition, redraw the edges of an old sto",
-      "descEN": "Remakes are very much in vogue these days, providing developers the opportunity to return to an old favourite and enhance, expand, and correct the wrongs of the past. Some of the best, such as Mafia: Definitive Edition, redraw the edges of an old sto",
-      "date": "21 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "Why play Wordle when you could be playing this new word puzzle game that rewards you with frogs?",
+      "titleEN": "Why play Wordle when you could be playing this new word puzzle game that rewards you with frogs?",
+      "desc": "It's Ribbit!",
+      "descEN": "It's Ribbit!",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "Splinter Cell veteran says realistic modern lighting has screwed up stealth games: \"it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe\"",
-      "titleEN": "Splinter Cell veteran says realistic modern lighting has screwed up stealth games: \"it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe\"",
-      "desc": "Finally, a game developer who agrees with my fervently held view that new technology makes everything worse. Celebrated designer Clint Hocking &ndash; him wot worked on Far Cry 2, Splinter Cell: Chaos Theory, Watch Dogs Legion, and the forthcoming As",
-      "descEN": "Finally, a game developer who agrees with my fervently held view that new technology makes everything worse. Celebrated designer Clint Hocking &ndash; him wot worked on Far Cry 2, Splinter Cell: Chaos Theory, Watch Dogs Legion, and the forthcoming As",
-      "date": "21 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "Four years later, Microsoft finally finishes fighting over the Activision acquisition",
+      "titleEN": "Four years later, Microsoft finally finishes fighting over the Activision acquisition",
+      "desc": "A lawsuit suit, filed by Sjunde AP-Fonden, alleged that the buyout was rushed in order to protect Activision's then-CEO Bobby Kotick.",
+      "descEN": "A lawsuit suit, filed by Sjunde AP-Fonden, alleged that the buyout was rushed in order to protect Activision's then-CEO Bobby Kotick.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Dragon Age: Inquisition's lead narrative designer is making an adventure game world \"where the ordinary starts to feel like it is hiding something\"",
-      "titleEN": "Dragon Age: Inquisition's lead narrative designer is making an adventure game world \"where the ordinary starts to feel like it is hiding something\"",
-      "desc": "Efforts to start a blaze by huffing on the embers of BioWare's legacy continue with the announcement of Studio Reset - a new Canadian independent whose members include veterans of Mass Effect, Dragon Age, and Anthem. The key personalities are Kaelin ",
-      "descEN": "Efforts to start a blaze by huffing on the embers of BioWare's legacy continue with the announcement of Studio Reset - a new Canadian independent whose members include veterans of Mass Effect, Dragon Age, and Anthem. The key personalities are Kaelin ",
-      "date": "21 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "EU politician says killing games is bad, but 'wokeness' and the Black samurai Yasuke are the real problem",
+      "titleEN": "EU politician says killing games is bad, but 'wokeness' and the Black samurai Yasuke are the real problem",
+      "desc": "Would you like to watch a neo-fascist embarrass himself in front of the world? I can help.",
+      "descEN": "Would you like to watch a neo-fascist embarrass himself in front of the world? I can help.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Stop Killing Games petition on game server switch offs will get a reply \"before the summer\", European Commission promise during latest debate",
-      "titleEN": "Stop Killing Games petition on game server switch offs will get a reply \"before the summer\", European Commission promise during latest debate",
-      "desc": "Following a public hearing at the European Parliament in Brussels last month, European politicians have debated the Stop Killing Games campaign's petition to put more consumer protections around online game server shutdowns into law again today, May ",
-      "descEN": "Following a public hearing at the European Parliament in Brussels last month, European politicians have debated the Stop Killing Games campaign's petition to put more consumer protections around online game server shutdowns into law again today, May ",
-      "date": "21 de mayo de 2026",
-      "source": "rockpapershotgun.com",
+      "title": "Alright, so maybe Zohran Mamdani isn't New York's first gamer mayor",
+      "titleEN": "Alright, so maybe Zohran Mamdani isn't New York's first gamer mayor",
+      "desc": "It was nice to dream.",
+      "descEN": "It was nice to dream.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     }
   ]
