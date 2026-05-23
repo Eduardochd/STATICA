@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-22T19:42:33.998Z",
+  "generatedAt": "2026-05-23T02:50:03.274Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -63,7 +63,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -111,7 +111,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Oferta especial de Middle-earth: The Shadow Bundle en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -141,6 +141,66 @@
   "news": [
     {
       "id": "n1",
+      "title": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
+      "titleEN": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
+      "desc": "\"I thought I would be ready to hear something like this, but I guess I'm just not,\" said popular streamer Datto.",
+      "descEN": "\"I thought I would be ready to hear something like this, but I guess I'm just not,\" said popular streamer Datto.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Last Flag studio lays off half its employees as it puts 'the future of the game in the hands of our players'",
+      "titleEN": "Last Flag studio lays off half its employees as it puts 'the future of the game in the hands of our players'",
+      "desc": "Night Street Games said earlier this month that it will not be pursuing future development of its CTF shooter.",
+      "descEN": "Night Street Games said earlier this month that it will not be pursuing future development of its CTF shooter.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
+      "titleEN": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
+      "desc": "Xivu Arath, we hardly knew ye.",
+      "descEN": "Xivu Arath, we hardly knew ye.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n4",
+      "title": "Fallout lead Tim Cain argues games industry crisis hasn't reached the level of the 1983 crash: 'I don't think there's ever been a worse time in the games industry'",
+      "titleEN": "Fallout lead Tim Cain argues games industry crisis hasn't reached the level of the 1983 crash: 'I don't think there's ever been a worse time in the games industry'",
+      "desc": "He doesn't want to diminish the current crisis, though.",
+      "descEN": "He doesn't want to diminish the current crisis, though.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "Why play Wordle when you could be playing this new word puzzle game that rewards you with frogs?",
+      "titleEN": "Why play Wordle when you could be playing this new word puzzle game that rewards you with frogs?",
+      "desc": "It's Ribbit!",
+      "descEN": "It's Ribbit!",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Four years later, Microsoft finally finishes fighting over the Activision acquisition",
+      "titleEN": "Four years later, Microsoft finally finishes fighting over the Activision acquisition",
+      "desc": "A lawsuit suit, filed by Sjunde AP-Fonden, alleged that the buyout was rushed in order to protect Activision's then-CEO Bobby Kotick.",
+      "descEN": "A lawsuit suit, filed by Sjunde AP-Fonden, alleged that the buyout was rushed in order to protect Activision's then-CEO Bobby Kotick.",
+      "date": "22 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
       "title": "EU politician says killing games is bad, but 'wokeness' and the Black samurai Yasuke are the real problem",
       "titleEN": "EU politician says killing games is bad, but 'wokeness' and the Black samurai Yasuke are the real problem",
       "desc": "Would you like to watch a neo-fascist embarrass himself in front of the world? I can help.",
@@ -150,7 +210,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n8",
       "title": "Alright, so maybe Zohran Mamdani isn't New York's first gamer mayor",
       "titleEN": "Alright, so maybe Zohran Mamdani isn't New York's first gamer mayor",
       "desc": "It was nice to dream.",
@@ -160,7 +220,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n9",
       "title": "Apple legend Steve Wozniak makes history again: Actually gets applause talking about AI at commencement speech",
       "titleEN": "Apple legend Steve Wozniak makes history again: Actually gets applause talking about AI at commencement speech",
       "desc": "Never doubt the Woz.",
@@ -170,7 +230,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n10",
       "title": "How to find a Stunt Party event in Forza Horizon 6",
       "titleEN": "How to find a Stunt Party event in Forza Horizon 6",
       "desc": "Completing the Welcome to the Party, Pal! challenge is easier said than done.",
@@ -180,7 +240,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n11",
       "title": "The EFortune Cookie is an adorable e-paper fortune-telling device and I really want to give it a bite",
       "titleEN": "The EFortune Cookie is an adorable e-paper fortune-telling device and I really want to give it a bite",
       "desc": "Shake it to wake it.",
@@ -190,71 +250,11 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n12",
       "title": "It's Lenovo a-go-go as the company is responsible for nearly 1 in 4 of all PCs shipped worldwide",
       "titleEN": "It's Lenovo a-go-go as the company is responsible for nearly 1 in 4 of all PCs shipped worldwide",
       "desc": "I don't often apologise for a headline, but in this case I feel like I should.",
       "descEN": "I don't often apologise for a headline, but in this case I feel like I should.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "An Arc Raiders player who's 'sick of hearing about PvE' has come up with a 'Rival Gangs' PvP mode, and it sounds sick",
-      "titleEN": "An Arc Raiders player who's 'sick of hearing about PvE' has come up with a 'Rival Gangs' PvP mode, and it sounds sick",
-      "desc": "You've piqued my interest.",
-      "descEN": "You've piqued my interest.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "How to earn Speed Skills in Forza Horizon 6",
-      "titleEN": "How to earn Speed Skills in Forza Horizon 6",
-      "desc": "The Floor It and Gazoo Racer challenges both require you to go fast.",
-      "descEN": "The Floor It and Gazoo Racer challenges both require you to go fast.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Where to find the Hakone Nanamagari touge race in Forza Horizon 6, and my tips to win it",
-      "titleEN": "Where to find the Hakone Nanamagari touge race in Forza Horizon 6, and my tips to win it",
-      "desc": "Tune up your Toyota GR86 for the winding roads.",
-      "descEN": "Tune up your Toyota GR86 for the winding roads.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Riot taunts would-be hackers using physical hardware to cheat: 'congrats to the owners of a brand new $6k paperweight'",
-      "titleEN": "Riot taunts would-be hackers using physical hardware to cheat: 'congrats to the owners of a brand new $6k paperweight'",
-      "desc": "Vanguard gets a DMA-spanking upgrade.",
-      "descEN": "Vanguard gets a DMA-spanking upgrade.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n11",
-      "title": "Subnautica 2 could become a chilling horror game, if only it would shut up",
-      "titleEN": "Subnautica 2 could become a chilling horror game, if only it would shut up",
-      "desc": "The abyss should not be this chatty.",
-      "descEN": "The abyss should not be this chatty.",
-      "date": "22 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "'What we’re building is grounded in consent, credit, and compensation for the artists and songwriters that take part': Planned Spotify AI tool can generate remixes and covers",
-      "titleEN": "'What we’re building is grounded in consent, credit, and compensation for the artists and songwriters that take part': Planned Spotify AI tool can generate remixes and covers",
-      "desc": "I'm not really feeling this beat.",
-      "descEN": "I'm not really feeling this beat.",
       "date": "22 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
