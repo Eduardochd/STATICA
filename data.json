@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T13:23:00.214Z",
+  "generatedAt": "2026-05-24T19:15:24.065Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -95,7 +95,7 @@
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
       "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Tomb Raider I-III Remastered Starring Lara Croft on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Tomb Raider I-III Remastered Starring Lara Croft deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -110,8 +110,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Oferta especial de Middle-earth: The Shadow Bundle en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -141,123 +141,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "A game developer compared Godot and Unity by making the same game in both engines, and he's found a clear winner",
-      "titleEN": "A game developer compared Godot and Unity by making the same game in both engines, and he's found a clear winner",
-      "desc": "Godot is smaller, faster, and quicker to load than Unity, according to tests run by designer Thomas Grové.",
-      "descEN": "Godot is smaller, faster, and quicker to load than Unity, according to tests run by designer Thomas Grové.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time",
+      "titleEN": "Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time",
+      "desc": "Bungie fans are battling it out on Destiny 2's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more",
+      "descEN": "Bungie fans are battling it out on Destiny 2's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more",
+      "date": "23 de mayo de 2026",
+      "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "Space Marine 2 gets a steep discount, a free trial and an update that adds a 'major revamp' of Siege Mode, as its multiplayer continues to outpace games like Marathon",
-      "titleEN": "Space Marine 2 gets a steep discount, a free trial and an update that adds a 'major revamp' of Siege Mode, as its multiplayer continues to outpace games like Marathon",
-      "desc": "The overhaul makes horde sessions \"quicker and more intense\".",
-      "descEN": "The overhaul makes horde sessions \"quicker and more intense\".",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Ofertas"
+      "title": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer",
+      "titleEN": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer",
+      "desc": "Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.8bn was allegedly designed to \"help pave the way for Embracer to increase its foothold in the California market at ",
+      "descEN": "Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.8bn was allegedly designed to \"help pave the way for Embracer to increase its foothold in the California market at ",
+      "date": "23 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "I can't wait to get murdered by flowers in this rad-looking survival horror game",
-      "titleEN": "I can't wait to get murdered by flowers in this rad-looking survival horror game",
-      "desc": "The Florist looks like Resident Evil meets Annihilation.",
-      "descEN": "The Florist looks like Resident Evil meets Annihilation.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played",
+      "titleEN": "A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played",
+      "desc": "So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game. For many of u",
+      "descEN": "So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game. For many of u",
+      "date": "23 de mayo de 2026",
+      "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "Keep your GTA 6, the news I can finally play the console-exclusive DLC for Saints Row 2 from 2009 on PC is what I've been waiting for",
-      "titleEN": "Keep your GTA 6, the news I can finally play the console-exclusive DLC for Saints Row 2 from 2009 on PC is what I've been waiting for",
-      "desc": "Bless the modders.",
-      "descEN": "Bless the modders.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Expansión"
+      "title": "What we've been playing - \"I'd like to shout out a fun game you can only really do on the road\"",
+      "titleEN": "What we've been playing - \"I'd like to shout out a fun game you can only really do on the road\"",
+      "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie enjoys digital characters' musculature; Connor goes on a trip and discovers he's possibly the nosiest person around; and Kelse",
+      "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie enjoys digital characters' musculature; Connor goes on a trip and discovers he's possibly the nosiest person around; and Kelse",
+      "date": "23 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "Jackbox's first externally published game looks like the shot in the arm the stealth genre needs, and it'll be out this year",
-      "titleEN": "Jackbox's first externally published game looks like the shot in the arm the stealth genre needs, and it'll be out this year",
-      "desc": "Ha ha, get it, because it's called My Arms Are Longer Now.",
-      "descEN": "Ha ha, get it, because it's called My Arms Are Longer Now.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back",
+      "titleEN": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back",
+      "desc": "We don't even have an official name for the third entry in the Final Fantasy 7 Remake series yet, but already trilogy lead Naoki Hamaguchi is starting to tease what we're going to see in the game when it finally gets revealed. Read more",
+      "descEN": "We don't even have an official name for the third entry in the Final Fantasy 7 Remake series yet, but already trilogy lead Naoki Hamaguchi is starting to tease what we're going to see in the game when it finally gets revealed. Read more",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "A 23-year-old D&D CRPG just got patched to add achievements and fix a bug that stopped you from earning XP",
-      "titleEN": "A 23-year-old D&D CRPG just got patched to add achievements and fix a bug that stopped you from earning XP",
-      "desc": "Time to go back to The Temple of Elemental Evil.",
-      "descEN": "Time to go back to The Temple of Elemental Evil.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Actualización"
+      "title": "Call of Duty 2026 is a new Modern Warfare, and Infinity Ward promises it'll be a \"definitive\" entry",
+      "titleEN": "Call of Duty 2026 is a new Modern Warfare, and Infinity Ward promises it'll be a \"definitive\" entry",
+      "desc": "We already know a few things about this year's Call of Duty game. Earlier this year, Activision confirmed that the game would skip PS4 and Xbox One (something that wasn't true for last year's Black Ops 7). There were also rumours that the game would ",
+      "descEN": "We already know a few things about this year's Call of Duty game. Earlier this year, Activision confirmed that the game would skip PS4 and Xbox One (something that wasn't true for last year's Black Ops 7). There were also rumours that the game would ",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
     },
     {
       "id": "n7",
-      "title": "Great moments in PC gaming: Stealing and selling someone else's treasure in Sea of Thieves",
-      "titleEN": "Great moments in PC gaming: Stealing and selling someone else's treasure in Sea of Thieves",
-      "desc": "It's what the pirate life is all about.",
-      "descEN": "It's what the pirate life is all about.",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027",
+      "titleEN": "Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027",
+      "desc": "Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg. Read more",
+      "descEN": "Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg. Read more",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
     },
     {
       "id": "n8",
-      "title": "Our readers are clear: They want Destiny 3, which is awkward, because Bungie reportedly isn't making Destiny 3",
-      "titleEN": "Our readers are clear: They want Destiny 3, which is awkward, because Bungie reportedly isn't making Destiny 3",
-      "desc": "D'oh.",
-      "descEN": "D'oh.",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Don't worry, GTA 6 is still planned for November, marketing push will begin this summer",
+      "titleEN": "Don't worry, GTA 6 is still planned for November, marketing push will begin this summer",
+      "desc": "I know, I know, whenever you see a GTA headline at the moment, you're expecting a new trailer, right? There is currently a huge swathe of the internet obsessed with the idea we're going to get GTA 6 retail price and its third trailer any day now. And",
+      "descEN": "I know, I know, whenever you see a GTA headline at the moment, you're expecting a new trailer, right? There is currently a huge swathe of the internet obsessed with the idea we're going to get GTA 6 retail price and its third trailer any day now. And",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "Kickstarter rolls back new mature content guidelines after week of backlash",
-      "titleEN": "Kickstarter rolls back new mature content guidelines after week of backlash",
-      "desc": "The crowdfunder's payment processor, Stripe, \"can still suspend a campaign that Kickstarter has approved.\"",
-      "descEN": "The crowdfunder's payment processor, Stripe, \"can still suspend a campaign that Kickstarter has approved.\"",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "Bungie reportedly eyeing up \"significant\" layoffs, no plans for Destiny 3: what happens after Destiny 2's final update in June?",
+      "titleEN": "Bungie reportedly eyeing up \"significant\" layoffs, no plans for Destiny 3: what happens after Destiny 2's final update in June?",
+      "desc": "Overnight, Halo and Destiny developer Bungie announced the end of content updates for live service shooter Destiny 2. Nearly nine years after launch, and after a myriad of content updates and monetisation changes, the developer has called a day on th",
+      "descEN": "Overnight, Halo and Destiny developer Bungie announced the end of content updates for live service shooter Destiny 2. Nearly nine years after launch, and after a myriad of content updates and monetisation changes, the developer has called a day on th",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
     },
     {
       "id": "n10",
-      "title": "14 years ago we published our Elder Scrolls 6 wishlist, and honestly? It still holds up",
-      "titleEN": "14 years ago we published our Elder Scrolls 6 wishlist, and honestly? It still holds up",
-      "desc": "Waiting on a hero (named Todd Howard).",
-      "descEN": "Waiting on a hero (named Todd Howard).",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "\"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist",
+      "titleEN": "\"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist",
+      "desc": "Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between. Along with starring roles in established franchises such as the lead in Indiana Jones and the ",
+      "descEN": "Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between. Along with starring roles in established franchises such as the lead in Indiana Jones and the ",
+      "date": "22 de mayo de 2026",
+      "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Diablo 2 players made nearly 2 million warlocks in a single month",
-      "titleEN": "Diablo 2 players made nearly 2 million warlocks in a single month",
-      "desc": "Like the lord of terror himself, Diablo 2 has a remarkably long tail.",
-      "descEN": "Like the lord of terror himself, Diablo 2 has a remarkably long tail.",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Récord"
+      "title": "Warhammer 40K: Dawn of War 4 gets a release date, as devs suggest we could get even more factions after launch",
+      "titleEN": "Warhammer 40K: Dawn of War 4 gets a release date, as devs suggest we could get even more factions after launch",
+      "desc": "Warhammer 40K: Dawn of War 4 has a release date, and happily for fellow DoW fans it's not too far away. The excellent-looking RTS sequel will launch on 17th September this year, with a fancier Commander Edition also getting you access a few days earl",
+      "descEN": "Warhammer 40K: Dawn of War 4 has a release date, and happily for fellow DoW fans it's not too far away. The excellent-looking RTS sequel will launch on 17th September this year, with a fancier Commander Edition also getting you access a few days earl",
+      "date": "21 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "I'll never love another RPG like I loved Neverwinter Nights",
-      "titleEN": "I'll never love another RPG like I loved Neverwinter Nights",
-      "desc": "Let me tell you about the time when I used to build worlds.",
-      "descEN": "Let me tell you about the time when I used to build worlds.",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "PlayStation's dynamic pricing experiment, and Sony's lack of transparency about it, reportedly might violate European law",
+      "titleEN": "PlayStation's dynamic pricing experiment, and Sony's lack of transparency about it, reportedly might violate European law",
+      "desc": "Sony's recent dynamic pricing experiment on the PlayStation Store, which offers different game prices to different people, might violate European law, a new report has found. Read more",
+      "descEN": "Sony's recent dynamic pricing experiment on the PlayStation Store, which offers different game prices to different people, might violate European law, a new report has found. Read more",
+      "date": "21 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
     }
   ]
 }
