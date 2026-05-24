@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T03:28:58.194Z",
+  "generatedAt": "2026-05-24T08:27:29.982Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -79,7 +79,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Tomb Raider I-III Remastered Starring Lara Croft deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Tomb Raider I-III Remastered Starring Lara Croft on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -110,8 +110,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -141,6 +141,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Keep your GTA 6, the news I can finally play the console-exclusive DLC for Saints Row 2 from 2009 on PC is what I've been waiting for",
+      "titleEN": "Keep your GTA 6, the news I can finally play the console-exclusive DLC for Saints Row 2 from 2009 on PC is what I've been waiting for",
+      "desc": "Bless the modders.",
+      "descEN": "Bless the modders.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n2",
       "title": "Jackbox's first externally published game looks like the shot in the arm the stealth genre needs, and it'll be out this year",
       "titleEN": "Jackbox's first externally published game looks like the shot in the arm the stealth genre needs, and it'll be out this year",
       "desc": "Ha ha, get it, because it's called My Arms Are Longer Now.",
@@ -150,7 +160,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "A 23-year-old D&D CRPG just got patched to add achievements and fix a bug that stopped you from earning XP",
       "titleEN": "A 23-year-old D&D CRPG just got patched to add achievements and fix a bug that stopped you from earning XP",
       "desc": "Time to go back to The Temple of Elemental Evil.",
@@ -160,7 +170,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Great moments in PC gaming: Stealing and selling someone else's treasure in Sea of Thieves",
       "titleEN": "Great moments in PC gaming: Stealing and selling someone else's treasure in Sea of Thieves",
       "desc": "It's what the pirate life is all about.",
@@ -170,7 +180,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "Our readers are clear: They want Destiny 3, which is awkward, because Bungie reportedly isn't making Destiny 3",
       "titleEN": "Our readers are clear: They want Destiny 3, which is awkward, because Bungie reportedly isn't making Destiny 3",
       "desc": "D'oh.",
@@ -180,7 +190,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Kickstarter rolls back new mature content guidelines after week of backlash",
       "titleEN": "Kickstarter rolls back new mature content guidelines after week of backlash",
       "desc": "The crowdfunder's payment processor, Stripe, \"can still suspend a campaign that Kickstarter has approved.\"",
@@ -190,7 +200,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "14 years ago we published our Elder Scrolls 6 wishlist, and honestly? It still holds up",
       "titleEN": "14 years ago we published our Elder Scrolls 6 wishlist, and honestly? It still holds up",
       "desc": "Waiting on a hero (named Todd Howard).",
@@ -200,7 +210,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Diablo 2 players made nearly 2 million warlocks in a single month",
       "titleEN": "Diablo 2 players made nearly 2 million warlocks in a single month",
       "desc": "Like the lord of terror himself, Diablo 2 has a remarkably long tail.",
@@ -210,7 +220,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "I'll never love another RPG like I loved Neverwinter Nights",
       "titleEN": "I'll never love another RPG like I loved Neverwinter Nights",
       "desc": "Let me tell you about the time when I used to build worlds.",
@@ -220,7 +230,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "The best birding board game on PC is getting a sequel about dragons, which are like cooler birds",
       "titleEN": "The best birding board game on PC is getting a sequel about dragons, which are like cooler birds",
       "desc": "Roseate spoonbill son or shaly rockbreaker daughter?",
@@ -230,7 +240,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "Deadlock's latest 'small update' yet again remixes basic mechanics and rebalances most of the roster",
       "titleEN": "Deadlock's latest 'small update' yet again remixes basic mechanics and rebalances most of the roster",
       "desc": "It'll be harder to claim the soul urn without a fight, and the midboss spawns at match start.",
@@ -240,21 +250,11 @@
       "tag": "Actualización"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "PC Gamer's MMO readers are, according to you, fashion-forward healers who like your keybinds, and I couldn't be more proud",
       "titleEN": "PC Gamer's MMO readers are, according to you, fashion-forward healers who like your keybinds, and I couldn't be more proud",
       "desc": "MMO to the polls.",
       "descEN": "MMO to the polls.",
-      "date": "23 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "As the UK plunges once more into political chaos, I’ve found the roguelike deckbuilder that can help me process it",
-      "titleEN": "As the UK plunges once more into political chaos, I’ve found the roguelike deckbuilder that can help me process it",
-      "desc": "Prime Monster is a smartly satirical take on the antics of British MPs",
-      "descEN": "Prime Monster is a smartly satirical take on the antics of British MPs",
       "date": "23 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
