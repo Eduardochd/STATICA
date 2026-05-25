@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T10:02:48.175Z",
+  "generatedAt": "2026-05-25T14:51:18.612Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -79,7 +79,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -94,7 +94,7 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Oferta especial de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -110,7 +110,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -141,122 +141,122 @@
   "news": [
     {
       "id": "n1",
-      "title": "I'm glad they didn't release Subnautica 2 all at once—the episodic early access structure has me even more excited to explore its alien ocean",
-      "titleEN": "I'm glad they didn't release Subnautica 2 all at once—the episodic early access structure has me even more excited to explore its alien ocean",
-      "desc": "I'm more than happy with Unknown Worlds taking its time.",
-      "descEN": "I'm more than happy with Unknown Worlds taking its time.",
+      "title": "Most of Bungie's staff were reportedly unaware of the decision to end active development on Destiny 2 until it went public",
+      "titleEN": "Most of Bungie's staff were reportedly unaware of the decision to end active development on Destiny 2 until it went public",
+      "desc": "Last week, Bungie made a half surprising, half the writing was on the wall decision to end active development on Destiny 2. The long running live service shooter's final update has been set for June, with responses to the news generally oscillating b",
+      "descEN": "Last week, Bungie made a half surprising, half the writing was on the wall decision to end active development on Destiny 2. The long running live service shooter's final update has been set for June, with responses to the news generally oscillating b",
       "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n2",
-      "title": "Paralives launch times and release date",
-      "titleEN": "Paralives launch times and release date",
-      "desc": "Here's when we can finally get our hands on the latest life sim.",
-      "descEN": "Here's when we can finally get our hands on the latest life sim.",
+      "title": "Hop aboard Running Train, a lush Japanese train sim that's out in early access now",
+      "titleEN": "Hop aboard Running Train, a lush Japanese train sim that's out in early access now",
+      "desc": "There is no abundance of train sims in this world, that's for sure. But I am a person that likes two cakes, so you won't find me complaining when a new one rocks up. Today, that new one is Running Train, a quite lush looking train sim that places a b",
+      "descEN": "There is no abundance of train sims in this world, that's for sure. But I am a person that likes two cakes, so you won't find me complaining when a new one rocks up. Today, that new one is Running Train, a quite lush looking train sim that places a b",
       "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "One of the first games made in the Build Engine is about to be delisted",
-      "titleEN": "One of the first games made in the Build Engine is about to be delisted",
-      "desc": "Witchaven and its sequel have gone on sale ahead of their removal.",
-      "descEN": "Witchaven and its sequel have gone on sale ahead of their removal.",
+      "title": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
+      "titleEN": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
+      "desc": "As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early. That video has since been tak",
+      "descEN": "As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early. That video has since been tak",
       "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Ofertas"
     },
     {
       "id": "n4",
-      "title": "Steam Week in Review: Steam is flooded with liminal spaces games and I approve, but I think I've found the best to start with",
-      "titleEN": "Steam Week in Review: Steam is flooded with liminal spaces games and I approve, but I think I've found the best to start with",
-      "desc": "All the interesting Steam facts for the week ending May 24.",
-      "descEN": "All the interesting Steam facts for the week ending May 24.",
+      "title": "Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser",
+      "titleEN": "Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser",
+      "desc": "Epic Games have made no secret of the next release of Unreal Engine; they first shared some details about the follow-up back in 2024, namely that it's being built around the idea of \"interoperable content\" that can be switched between any game that u",
+      "descEN": "Epic Games have made no secret of the next release of Unreal Engine; they first shared some details about the follow-up back in 2024, namely that it's being built around the idea of \"interoperable content\" that can be switched between any game that u",
       "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "PC gaming's very own indie-themed Smash Bros. just added the guy from Spelunky, who I now know is named Guy Spelunky",
-      "titleEN": "PC gaming's very own indie-themed Smash Bros. just added the guy from Spelunky, who I now know is named Guy Spelunky",
-      "desc": "You know, Guy Spelunky. The guy… from Spelunky.",
-      "descEN": "You know, Guy Spelunky. The guy… from Spelunky.",
+      "title": "The Sunday Papers",
+      "titleEN": "The Sunday Papers",
+      "desc": "Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something. It's of indeterminate quality, at leas",
+      "descEN": "Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something. It's of indeterminate quality, at leas",
       "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "Deus Ex, Marathon actor Elias Toufexis doesn't get why people root for games to fail: 'Life is so short, man'",
-      "titleEN": "Deus Ex, Marathon actor Elias Toufexis doesn't get why people root for games to fail: 'Life is so short, man'",
-      "desc": "\"Just stop tweeting memes under things for six hours.\"",
-      "descEN": "\"Just stop tweeting memes under things for six hours.\"",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "In Crimson Desert's latest update, you can pick up baby wyverns as pets, throw your fish in a pond, and shut those pesky outlaws up",
+      "titleEN": "In Crimson Desert's latest update, you can pick up baby wyverns as pets, throw your fish in a pond, and shut those pesky outlaws up",
+      "desc": "Another day, another Crimson Desert patch. The devs behind the everything but the kitchen sink RPG, Pearl Abyss, seem deadset on somehow eventually including the sink too, as while this update is a small one, it continues to add yet more features, th",
+      "descEN": "Another day, another Crimson Desert patch. The devs behind the everything but the kitchen sink RPG, Pearl Abyss, seem deadset on somehow eventually including the sink too, as while this update is a small one, it continues to add yet more features, th",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n7",
-      "title": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite",
-      "titleEN": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite",
-      "desc": "It's Rocket League?",
-      "descEN": "It's Rocket League?",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "\"God is dead, and Heaven has gone corporate\" in Grindset T.V., an overstimulating speedrunning game by way of Cruelty Squad",
+      "titleEN": "\"God is dead, and Heaven has gone corporate\" in Grindset T.V., an overstimulating speedrunning game by way of Cruelty Squad",
+      "desc": "Cruelty Squad is quite quietly influential. It obviously isn't the first game to opt for visuals that look are debatably an affront to every sense you have and a few you don't, but its surprise level of popularity has bled into the design sensibiliti",
+      "descEN": "Cruelty Squad is quite quietly influential. It obviously isn't the first game to opt for visuals that look are debatably an affront to every sense you have and a few you don't, but its surprise level of popularity has bled into the design sensibiliti",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Peak boss doesn't mind us calling it friendslop: 'Why not make a game where the point is to hang out with your friends?'",
-      "titleEN": "Peak boss doesn't mind us calling it friendslop: 'Why not make a game where the point is to hang out with your friends?'",
-      "desc": "\"What's more beautiful than that?\"",
-      "descEN": "\"What's more beautiful than that?\"",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "title": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for",
+      "titleEN": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for",
+      "desc": "While I've never really played all that much of The Sims (does maybe four hours of My Sims Kingdom from when I was 11 count?), my partner certainly has, expositing all of the surprisingly deep lore to me from time to time. Yet nothing shocks me more ",
+      "descEN": "While I've never really played all that much of The Sims (does maybe four hours of My Sims Kingdom from when I was 11 count?), my partner certainly has, expositing all of the surprisingly deep lore to me from time to time. Yet nothing shocks me more ",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
+      "tag": "Ofertas"
     },
     {
       "id": "n9",
-      "title": "Forza Horizon 6 speeds into Steam's top 5 most played games with over 300k concurrent players",
-      "titleEN": "Forza Horizon 6 speeds into Steam's top 5 most played games with over 300k concurrent players",
-      "desc": "Drive it like it's stolen, even if it was in fact $70 (or $120 for the premium edition).",
-      "descEN": "Drive it like it's stolen, even if it was in fact $70 (or $120 for the premium edition).",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan",
+      "titleEN": "Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan",
+      "desc": "Birds, as we all know, are dinosaurs. Yet there exists a higher being above birds that answer the question \"what if dinosaurs really were birds?\": dragons. I can only assume the exact same logic I've laid out here was used during the design process f",
+      "descEN": "Birds, as we all know, are dinosaurs. Yet there exists a higher being above birds that answer the question \"what if dinosaurs really were birds?\": dragons. I can only assume the exact same logic I've laid out here was used during the design process f",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "I'm not ashamed to admit that The Sims 2 got me into house music, especially since its devs hired the best DJs in the biz to score it",
-      "titleEN": "I'm not ashamed to admit that The Sims 2 got me into house music, especially since its devs hired the best DJs in the biz to score it",
-      "desc": "Nightlife's remixes live rent-free in my head.",
-      "descEN": "Nightlife's remixes live rent-free in my head.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n11",
-      "title": "Comedian Alasdair Beckett-King was a die-hard adventure gamer until he discovered Morrowind: 'The first time I loaded it up, I walked straight into a little pond and was killed by a fish'",
-      "titleEN": "Comedian Alasdair Beckett-King was a die-hard adventure gamer until he discovered Morrowind: 'The first time I loaded it up, I walked straight into a little pond and was killed by a fish'",
-      "desc": "The YouTube sketch maestro and creator of Unforeseen Incidents guides us through the games on his PC.",
-      "descEN": "The YouTube sketch maestro and creator of Unforeseen Incidents guides us through the games on his PC.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off",
+      "titleEN": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off",
+      "desc": "All roads lead to, and sometimes return to, XCOM. In this case, it's more of a return, as a sequel to Warhammer 40,000: Chaos Gate - Daemonhunters was announced this week, replacing its demonic subtitle with an equally gloriously edgy \"Deathwatch.\" T",
+      "descEN": "All roads lead to, and sometimes return to, XCOM. In this case, it's more of a return, as a sequel to Warhammer 40,000: Chaos Gate - Daemonhunters was announced this week, replacing its demonic subtitle with an equally gloriously edgy \"Deathwatch.\" T",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
+      "id": "n11",
+      "title": "What are we all playing this weekend?",
+      "titleEN": "What are we all playing this weekend?",
+      "desc": "Ah, it's a Saturday and the start of a heat wave. What to do? What to do? Pull out the plastic storage box and fill it with cold water and ice cubes for a nice chilling foot bath. Get some damp flannels in the freezer to become an ice pack ready to b",
+      "descEN": "Ah, it's a Saturday and the start of a heat wave. What to do? What to do? Pull out the plastic storage box and fill it with cold water and ice cubes for a nice chilling foot bath. Get some damp flannels in the freezer to become an ice pack ready to b",
+      "date": "23 de mayo de 2026",
+      "source": "rockpapershotgun.com",
+      "tag": "Ofertas"
+    },
+    {
       "id": "n12",
-      "title": "Dawn of War 2 review (2009)",
-      "titleEN": "Dawn of War 2 review (2009)",
-      "desc": "Space Marines, ding gratz lol.",
-      "descEN": "Space Marines, ding gratz lol.",
-      "date": "24 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
+      "titleEN": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
+      "desc": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
+      "descEN": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
+      "date": "22 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     }
   ]
