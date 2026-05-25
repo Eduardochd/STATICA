@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-24T19:15:24.065Z",
+  "generatedAt": "2026-05-25T03:39:43.158Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -38,7 +38,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -78,7 +78,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -94,7 +94,7 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the Tomb Raider I-III Remastered Starring Lara Croft deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -110,7 +110,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -126,7 +126,7 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Middle-earth: The Shadow Bundle está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -141,123 +141,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time",
-      "titleEN": "Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time",
-      "desc": "Bungie fans are battling it out on Destiny 2's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more",
-      "descEN": "Bungie fans are battling it out on Destiny 2's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more",
-      "date": "23 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Paralives launch times and release date",
+      "titleEN": "Paralives launch times and release date",
+      "desc": "Here's when we can finally get our hands on the latest life sim.",
+      "descEN": "Here's when we can finally get our hands on the latest life sim.",
+      "date": "25 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer",
-      "titleEN": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer",
-      "desc": "Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.8bn was allegedly designed to \"help pave the way for Embracer to increase its foothold in the California market at ",
-      "descEN": "Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.8bn was allegedly designed to \"help pave the way for Embracer to increase its foothold in the California market at ",
-      "date": "23 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Steam Week in Review: Steam is flooded with liminal spaces games and I approve, but I think I've found the best to start with",
+      "titleEN": "Steam Week in Review: Steam is flooded with liminal spaces games and I approve, but I think I've found the best to start with",
+      "desc": "All the interesting Steam facts for the week ending May 24.",
+      "descEN": "All the interesting Steam facts for the week ending May 24.",
+      "date": "25 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played",
-      "titleEN": "A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played",
-      "desc": "So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game. For many of u",
-      "descEN": "So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game. For many of u",
-      "date": "23 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
+      "title": "One of the first games made in the Build Engine is about to be delisted",
+      "titleEN": "One of the first games made in the Build Engine is about to be delisted",
+      "desc": "Witchaven and its sequel have gone on sale ahead of their removal.",
+      "descEN": "Witchaven and its sequel have gone on sale ahead of their removal.",
+      "date": "25 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Ofertas"
     },
     {
       "id": "n4",
-      "title": "What we've been playing - \"I'd like to shout out a fun game you can only really do on the road\"",
-      "titleEN": "What we've been playing - \"I'd like to shout out a fun game you can only really do on the road\"",
-      "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie enjoys digital characters' musculature; Connor goes on a trip and discovers he's possibly the nosiest person around; and Kelse",
-      "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie enjoys digital characters' musculature; Connor goes on a trip and discovers he's possibly the nosiest person around; and Kelse",
-      "date": "23 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "PC gaming's very own indie-themed Smash Bros. just added the guy from Spelunky, who I now know is named Guy Spelunky",
+      "titleEN": "PC gaming's very own indie-themed Smash Bros. just added the guy from Spelunky, who I now know is named Guy Spelunky",
+      "desc": "You know, Guy Spelunky. The guy… from Spelunky.",
+      "descEN": "You know, Guy Spelunky. The guy… from Spelunky.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back",
-      "titleEN": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back",
-      "desc": "We don't even have an official name for the third entry in the Final Fantasy 7 Remake series yet, but already trilogy lead Naoki Hamaguchi is starting to tease what we're going to see in the game when it finally gets revealed. Read more",
-      "descEN": "We don't even have an official name for the third entry in the Final Fantasy 7 Remake series yet, but already trilogy lead Naoki Hamaguchi is starting to tease what we're going to see in the game when it finally gets revealed. Read more",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Deus Ex, Marathon actor Elias Toufexis doesn't get why people root for games to fail: 'Life is so short, man'",
+      "titleEN": "Deus Ex, Marathon actor Elias Toufexis doesn't get why people root for games to fail: 'Life is so short, man'",
+      "desc": "\"Just stop tweeting memes under things for six hours.\"",
+      "descEN": "\"Just stop tweeting memes under things for six hours.\"",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "Call of Duty 2026 is a new Modern Warfare, and Infinity Ward promises it'll be a \"definitive\" entry",
-      "titleEN": "Call of Duty 2026 is a new Modern Warfare, and Infinity Ward promises it'll be a \"definitive\" entry",
-      "desc": "We already know a few things about this year's Call of Duty game. Earlier this year, Activision confirmed that the game would skip PS4 and Xbox One (something that wasn't true for last year's Black Ops 7). There were also rumours that the game would ",
-      "descEN": "We already know a few things about this year's Call of Duty game. Earlier this year, Activision confirmed that the game would skip PS4 and Xbox One (something that wasn't true for last year's Black Ops 7). There were also rumours that the game would ",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
+      "title": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite",
+      "titleEN": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite",
+      "desc": "It's Rocket League?",
+      "descEN": "It's Rocket League?",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027",
-      "titleEN": "Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027",
-      "desc": "Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg. Read more",
-      "descEN": "Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg. Read more",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
+      "title": "Peak boss doesn't mind us calling it friendslop: 'Why not make a game where the point is to hang out with your friends?'",
+      "titleEN": "Peak boss doesn't mind us calling it friendslop: 'Why not make a game where the point is to hang out with your friends?'",
+      "desc": "\"What's more beautiful than that?\"",
+      "descEN": "\"What's more beautiful than that?\"",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Don't worry, GTA 6 is still planned for November, marketing push will begin this summer",
-      "titleEN": "Don't worry, GTA 6 is still planned for November, marketing push will begin this summer",
-      "desc": "I know, I know, whenever you see a GTA headline at the moment, you're expecting a new trailer, right? There is currently a huge swathe of the internet obsessed with the idea we're going to get GTA 6 retail price and its third trailer any day now. And",
-      "descEN": "I know, I know, whenever you see a GTA headline at the moment, you're expecting a new trailer, right? There is currently a huge swathe of the internet obsessed with the idea we're going to get GTA 6 retail price and its third trailer any day now. And",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Forza Horizon 6 speeds into Steam's top 5 most played games with over 300k concurrent players",
+      "titleEN": "Forza Horizon 6 speeds into Steam's top 5 most played games with over 300k concurrent players",
+      "desc": "Drive it like it's stolen, even if it was in fact $70 (or $120 for the premium edition).",
+      "descEN": "Drive it like it's stolen, even if it was in fact $70 (or $120 for the premium edition).",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "Bungie reportedly eyeing up \"significant\" layoffs, no plans for Destiny 3: what happens after Destiny 2's final update in June?",
-      "titleEN": "Bungie reportedly eyeing up \"significant\" layoffs, no plans for Destiny 3: what happens after Destiny 2's final update in June?",
-      "desc": "Overnight, Halo and Destiny developer Bungie announced the end of content updates for live service shooter Destiny 2. Nearly nine years after launch, and after a myriad of content updates and monetisation changes, the developer has called a day on th",
-      "descEN": "Overnight, Halo and Destiny developer Bungie announced the end of content updates for live service shooter Destiny 2. Nearly nine years after launch, and after a myriad of content updates and monetisation changes, the developer has called a day on th",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
+      "title": "I'm not ashamed to admit that The Sims 2 got me into house music, especially since its devs hired the best DJs in the biz to score it",
+      "titleEN": "I'm not ashamed to admit that The Sims 2 got me into house music, especially since its devs hired the best DJs in the biz to score it",
+      "desc": "Nightlife's remixes live rent-free in my head.",
+      "descEN": "Nightlife's remixes live rent-free in my head.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Ofertas"
     },
     {
       "id": "n10",
-      "title": "\"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist",
-      "titleEN": "\"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist",
-      "desc": "Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between. Along with starring roles in established franchises such as the lead in Indiana Jones and the ",
-      "descEN": "Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between. Along with starring roles in established franchises such as the lead in Indiana Jones and the ",
-      "date": "22 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Comedian Alasdair Beckett-King was a die-hard adventure gamer until he discovered Morrowind: 'The first time I loaded it up, I walked straight into a little pond and was killed by a fish'",
+      "titleEN": "Comedian Alasdair Beckett-King was a die-hard adventure gamer until he discovered Morrowind: 'The first time I loaded it up, I walked straight into a little pond and was killed by a fish'",
+      "desc": "The YouTube sketch maestro and creator of Unforeseen Incidents guides us through the games on his PC.",
+      "descEN": "The YouTube sketch maestro and creator of Unforeseen Incidents guides us through the games on his PC.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Warhammer 40K: Dawn of War 4 gets a release date, as devs suggest we could get even more factions after launch",
-      "titleEN": "Warhammer 40K: Dawn of War 4 gets a release date, as devs suggest we could get even more factions after launch",
-      "desc": "Warhammer 40K: Dawn of War 4 has a release date, and happily for fellow DoW fans it's not too far away. The excellent-looking RTS sequel will launch on 17th September this year, with a fancier Commander Edition also getting you access a few days earl",
-      "descEN": "Warhammer 40K: Dawn of War 4 has a release date, and happily for fellow DoW fans it's not too far away. The excellent-looking RTS sequel will launch on 17th September this year, with a fancier Commander Edition also getting you access a few days earl",
-      "date": "21 de mayo de 2026",
-      "source": "eurogamer.net",
+      "title": "Dawn of War 2 review (2009)",
+      "titleEN": "Dawn of War 2 review (2009)",
+      "desc": "Space Marines, ding gratz lol.",
+      "descEN": "Space Marines, ding gratz lol.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "PlayStation's dynamic pricing experiment, and Sony's lack of transparency about it, reportedly might violate European law",
-      "titleEN": "PlayStation's dynamic pricing experiment, and Sony's lack of transparency about it, reportedly might violate European law",
-      "desc": "Sony's recent dynamic pricing experiment on the PlayStation Store, which offers different game prices to different people, might violate European law, a new report has found. Read more",
-      "descEN": "Sony's recent dynamic pricing experiment on the PlayStation Store, which offers different game prices to different people, might violate European law, a new report has found. Read more",
-      "date": "21 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "title": "We live in a world where every single Hatsune Miku is canon, which means that includes Helldivers Miku and Pyramid Head Miku",
+      "titleEN": "We live in a world where every single Hatsune Miku is canon, which means that includes Helldivers Miku and Pyramid Head Miku",
+      "desc": "She's no longer just hiding in your wifi.",
+      "descEN": "She's no longer just hiding in your wifi.",
+      "date": "24 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
     }
   ]
 }
