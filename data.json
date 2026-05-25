@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-25T14:51:18.612Z",
+  "generatedAt": "2026-05-25T19:28:09.066Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -38,7 +38,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Aprovecha la oferta de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -110,8 +110,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -127,7 +127,7 @@
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
       "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -141,6 +141,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "After seven years of development, Paralives is out in early access",
+      "titleEN": "After seven years of development, Paralives is out in early access",
+      "desc": "The day has come. After first being announced all the way back in 2019 by then solo dev Alex Mass&eacute; (a small studio has been formed since then), Paralives is now out in early access. Being an early access release, that means you shouldn't expec",
+      "descEN": "The day has come. After first being announced all the way back in 2019 by then solo dev Alex Mass&eacute; (a small studio has been formed since then), Paralives is now out in early access. Being an early access release, that means you shouldn't expec",
+      "date": "25 de mayo de 2026",
+      "source": "rockpapershotgun.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "Most of Bungie's staff were reportedly unaware of the decision to end active development on Destiny 2 until it went public",
       "titleEN": "Most of Bungie's staff were reportedly unaware of the decision to end active development on Destiny 2 until it went public",
       "desc": "Last week, Bungie made a half surprising, half the writing was on the wall decision to end active development on Destiny 2. The long running live service shooter's final update has been set for June, with responses to the news generally oscillating b",
@@ -150,7 +160,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Hop aboard Running Train, a lush Japanese train sim that's out in early access now",
       "titleEN": "Hop aboard Running Train, a lush Japanese train sim that's out in early access now",
       "desc": "There is no abundance of train sims in this world, that's for sure. But I am a person that likes two cakes, so you won't find me complaining when a new one rocks up. Today, that new one is Running Train, a quite lush looking train sim that places a b",
@@ -160,7 +170,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
       "titleEN": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
       "desc": "As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early. That video has since been tak",
@@ -170,7 +180,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser",
       "titleEN": "Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser",
       "desc": "Epic Games have made no secret of the next release of Unreal Engine; they first shared some details about the follow-up back in 2024, namely that it's being built around the idea of \"interoperable content\" that can be switched between any game that u",
@@ -180,7 +190,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "The Sunday Papers",
       "titleEN": "The Sunday Papers",
       "desc": "Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something. It's of indeterminate quality, at leas",
@@ -190,7 +200,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "In Crimson Desert's latest update, you can pick up baby wyverns as pets, throw your fish in a pond, and shut those pesky outlaws up",
       "titleEN": "In Crimson Desert's latest update, you can pick up baby wyverns as pets, throw your fish in a pond, and shut those pesky outlaws up",
       "desc": "Another day, another Crimson Desert patch. The devs behind the everything but the kitchen sink RPG, Pearl Abyss, seem deadset on somehow eventually including the sink too, as while this update is a small one, it continues to add yet more features, th",
@@ -200,7 +210,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "\"God is dead, and Heaven has gone corporate\" in Grindset T.V., an overstimulating speedrunning game by way of Cruelty Squad",
       "titleEN": "\"God is dead, and Heaven has gone corporate\" in Grindset T.V., an overstimulating speedrunning game by way of Cruelty Squad",
       "desc": "Cruelty Squad is quite quietly influential. It obviously isn't the first game to opt for visuals that look are debatably an affront to every sense you have and a few you don't, but its surprise level of popularity has bled into the design sensibiliti",
@@ -210,7 +220,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for",
       "titleEN": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for",
       "desc": "While I've never really played all that much of The Sims (does maybe four hours of My Sims Kingdom from when I was 11 count?), my partner certainly has, expositing all of the surprisingly deep lore to me from time to time. Yet nothing shocks me more ",
@@ -220,7 +230,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan",
       "titleEN": "Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan",
       "desc": "Birds, as we all know, are dinosaurs. Yet there exists a higher being above birds that answer the question \"what if dinosaurs really were birds?\": dragons. I can only assume the exact same logic I've laid out here was used during the design process f",
@@ -230,7 +240,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off",
       "titleEN": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off",
       "desc": "All roads lead to, and sometimes return to, XCOM. In this case, it's more of a return, as a sequel to Warhammer 40,000: Chaos Gate - Daemonhunters was announced this week, replacing its demonic subtitle with an equally gloriously edgy \"Deathwatch.\" T",
@@ -240,7 +250,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "What are we all playing this weekend?",
       "titleEN": "What are we all playing this weekend?",
       "desc": "Ah, it's a Saturday and the start of a heat wave. What to do? What to do? Pull out the plastic storage box and fill it with cold water and ice cubes for a nice chilling foot bath. Get some damp flannels in the freezer to become an ice pack ready to b",
@@ -248,16 +258,6 @@
       "date": "23 de mayo de 2026",
       "source": "rockpapershotgun.com",
       "tag": "Ofertas"
-    },
-    {
-      "id": "n12",
-      "title": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
-      "titleEN": "Half-Life: Alyx is convincing me I don't have the knees for VR gaming, or perhaps I should stop cowering behind cars quite so often",
-      "desc": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
-      "descEN": "I know I don't have the best knees. My body informed me of this during a drunken dance-off in a Leeds night club when one of them popped out of place and tore a line through the back of my knee cap. It told me again a year later when I did the same t",
-      "date": "22 de mayo de 2026",
-      "source": "rockpapershotgun.com",
-      "tag": "Noticia"
     }
   ]
 }
