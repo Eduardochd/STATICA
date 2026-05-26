@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-26T09:53:43.643Z",
+  "generatedAt": "2026-05-26T15:22:13.872Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Aprovecha la oferta de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Tomb Raider I-III Remastered Starring Lara Croft on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Tomb Raider I-III Remastered Starring Lara Croft deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -110,7 +110,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Middle-earth: The Shadow Bundle está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -141,123 +141,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "'I do think Blow misunderstood what the game is about': Derelict Star made Jonathan Blow rage quit, but it's the most fascinating indie platformer I've played for years",
-      "titleEN": "'I do think Blow misunderstood what the game is about': Derelict Star made Jonathan Blow rage quit, but it's the most fascinating indie platformer I've played for years",
-      "desc": "Developer responds to Blow's criticism of his \"mutant-freak modern reimagining\" of Mario's P-Meter.",
-      "descEN": "Developer responds to Blow's criticism of his \"mutant-freak modern reimagining\" of Mario's P-Meter.",
+      "title": "TSMC employees reportedly following Samsung workers in threatening to strike over bonus cuts despite record profits",
+      "titleEN": "TSMC employees reportedly following Samsung workers in threatening to strike over bonus cuts despite record profits",
+      "desc": "Bumper times for tech firms but not necessarily tech employees?",
+      "descEN": "Bumper times for tech firms but not necessarily tech employees?",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Récord"
+    },
+    {
+      "id": "n2",
+      "title": "This new gaming mouse looks to combine tech similar to Logitech's analogue clicks and Razer's frame sync but I'm a little sceptical",
+      "titleEN": "This new gaming mouse looks to combine tech similar to Logitech's analogue clicks and Razer's frame sync but I'm a little sceptical",
+      "desc": "The clicks look similar to Keychron's recently announced solution, too.",
+      "descEN": "The clicks look similar to Keychron's recently announced solution, too.",
       "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
-      "id": "n2",
-      "title": "Talos Principle 3 will definitely be the last one in the series, because 'so many videogames just don't end, and then you have an endless kind of cliffhanger'",
-      "titleEN": "Talos Principle 3 will definitely be the last one in the series, because 'so many videogames just don't end, and then you have an endless kind of cliffhanger'",
-      "desc": "The game industry is built on long-running franchises, but Devolver says it doesn't want that for its narrative-focused puzzle game.",
-      "descEN": "The game industry is built on long-running franchises, but Devolver says it doesn't want that for its narrative-focused puzzle game.",
-      "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
       "id": "n3",
-      "title": "More Elden Ring filming leaks: Here's a castle with some suspiciously familiar guys on it",
-      "titleEN": "More Elden Ring filming leaks: Here's a castle with some suspiciously familiar guys on it",
-      "desc": "Specifically, it's Conwy Castle in Wales, with some suspiciously familiar guys on it.",
-      "descEN": "Specifically, it's Conwy Castle in Wales, with some suspiciously familiar guys on it.",
-      "date": "25 de mayo de 2026",
+      "title": "Brian Blessed says that playing Gotrek Gurnisson in Warhammer is 'six and a half times more demanding' than King Lear",
+      "titleEN": "Brian Blessed says that playing Gotrek Gurnisson in Warhammer is 'six and a half times more demanding' than King Lear",
+      "desc": "Blessed played the role in Total War: Warhammer and two Reamslayer audio productions.",
+      "descEN": "Blessed played the role in Total War: Warhammer and two Reamslayer audio productions.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "Ultra-hard survival sandbox Kenshi passes 3 million copies sold, teases fans with 'Kenshi 2 When?' website",
-      "titleEN": "Ultra-hard survival sandbox Kenshi passes 3 million copies sold, teases fans with 'Kenshi 2 When?' website",
-      "desc": "The indie hit is tough as nails, but it's less niche than you might expect.",
-      "descEN": "The indie hit is tough as nails, but it's less niche than you might expect.",
-      "date": "25 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Récord"
-    },
-    {
-      "id": "n5",
-      "title": "One Move Away is a great cosy packing game, even if it had me rage-flinging boxes into the back of a truck",
-      "titleEN": "One Move Away is a great cosy packing game, even if it had me rage-flinging boxes into the back of a truck",
-      "desc": "What the hell am I meant to do with this weird lamp?",
-      "descEN": "What the hell am I meant to do with this weird lamp?",
-      "date": "25 de mayo de 2026",
+      "title": "Nvidia's still-yet-to-be-announced N1X Arm chip is referenced on a Lenovo login page, so make of that what you will",
+      "titleEN": "Nvidia's still-yet-to-be-announced N1X Arm chip is referenced on a Lenovo login page, so make of that what you will",
+      "desc": "Sneaky little fella.",
+      "descEN": "Sneaky little fella.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
+      "id": "n5",
+      "title": "No, says Take-Two CEO Strauss Zelnick, of course Red Dead Online isn't a missed opportunity, the game sold 85 million copies",
+      "titleEN": "No, says Take-Two CEO Strauss Zelnick, of course Red Dead Online isn't a missed opportunity, the game sold 85 million copies",
+      "desc": "\"Red Dead Online has been immensely successful and long lasting.\"",
+      "descEN": "\"Red Dead Online has been immensely successful and long lasting.\"",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Récord"
+    },
+    {
       "id": "n6",
-      "title": "'We’re just thrilled the stars aligned': Less than 2 years after his own game fully shut down, Jason Voorhees is coming to Dead by Daylight",
-      "titleEN": "'We’re just thrilled the stars aligned': Less than 2 years after his own game fully shut down, Jason Voorhees is coming to Dead by Daylight",
-      "desc": "Tch tch tch, ha ha ha.",
-      "descEN": "Tch tch tch, ha ha ha.",
-      "date": "25 de mayo de 2026",
+      "title": "Hey PC Gamer, where's your 007 First Light review?",
+      "titleEN": "Hey PC Gamer, where's your 007 First Light review?",
+      "desc": "Dr No code.",
+      "descEN": "Dr No code.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "The new game from the makers of Botanicula and Chuchel is like 1984 meets the Keystone Kops, but in a way that actually works",
-      "titleEN": "The new game from the makers of Botanicula and Chuchel is like 1984 meets the Keystone Kops, but in a way that actually works",
-      "desc": "Phonopolis is out now, and it's every bit as good as I'd hoped—if a tad grim.",
-      "descEN": "Phonopolis is out now, and it's every bit as good as I'd hoped—if a tad grim.",
-      "date": "25 de mayo de 2026",
+      "title": "Samsung has reportedly developed 900-layer flash memory chips and I'm thinking SSDs could get seriously cheap if this AI bubble ever pops",
+      "titleEN": "Samsung has reportedly developed 900-layer flash memory chips and I'm thinking SSDs could get seriously cheap if this AI bubble ever pops",
+      "desc": "Two 450-layer memory chips bonded together.",
+      "descEN": "Two 450-layer memory chips bonded together.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Paralives has done the one exact thing I was begging life sims for",
-      "titleEN": "Paralives has done the one exact thing I was begging life sims for",
-      "desc": "I was on my knees pleading for a scrap of strategy gameplay and Paralives has laid me a feast of fun simulation effects.",
-      "descEN": "I was on my knees pleading for a scrap of strategy gameplay and Paralives has laid me a feast of fun simulation effects.",
-      "date": "25 de mayo de 2026",
+      "title": "Guess what else the PC industry is short of now? Yes, that's right: multilayer ceramic capacitors",
+      "titleEN": "Guess what else the PC industry is short of now? Yes, that's right: multilayer ceramic capacitors",
+      "desc": "You did think it was multilayer ceramic capacitors, didn't you?",
+      "descEN": "You did think it was multilayer ceramic capacitors, didn't you?",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "Before Dishonored, Arkane was tapped to make Thief 4, and my heart weeps for what might have been: 'We had an amazing pitch for Thief'",
-      "titleEN": "Before Dishonored, Arkane was tapped to make Thief 4, and my heart weeps for what might have been: 'We had an amazing pitch for Thief'",
-      "desc": "A Blade Runner game was also a possibility, which would have been fine too, I guess.",
-      "descEN": "A Blade Runner game was also a possibility, which would have been fine too, I guess.",
-      "date": "25 de mayo de 2026",
+      "title": "'Technology is never neutral': Pope Leo XIV criticises 'culture of power' driving AI race, and refuses to be taken in by consciousness claims",
+      "titleEN": "'Technology is never neutral': Pope Leo XIV criticises 'culture of power' driving AI race, and refuses to be taken in by consciousness claims",
+      "desc": "Finding common ground in unexpected places.",
+      "descEN": "Finding common ground in unexpected places.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "I solved the Strait of Hormuz crisis with videogames, simply by creating an even bigger Strait of Hormuz crisis",
-      "titleEN": "I solved the Strait of Hormuz crisis with videogames, simply by creating an even bigger Strait of Hormuz crisis",
-      "desc": "Put me in for the FIFA peace prize.",
-      "descEN": "Put me in for the FIFA peace prize.",
-      "date": "25 de mayo de 2026",
+      "title": "How to tame the Baby Wyvern pet in Crimson Desert",
+      "titleEN": "How to tame the Baby Wyvern pet in Crimson Desert",
+      "desc": "Hatch the wyvern egg to recruit this draconic companion.",
+      "descEN": "Hatch the wyvern egg to recruit this draconic companion.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Here's how to catch all the goodies from GamesRadar's dispatch from BitSummit Punch 2026",
-      "titleEN": "Here's how to catch all the goodies from GamesRadar's dispatch from BitSummit Punch 2026",
-      "desc": "The nature of the goodies is currently top secret.",
-      "descEN": "The nature of the goodies is currently top secret.",
-      "date": "25 de mayo de 2026",
+      "title": "GTA 6 was meant to release today, and amid everyone mourning what could have been one superfan decides to queue up at GameStop anyway",
+      "titleEN": "GTA 6 was meant to release today, and amid everyone mourning what could have been one superfan decides to queue up at GameStop anyway",
+      "desc": "GTA 6 during a heatwave after a bank holiday, we could've had it all.",
+      "descEN": "GTA 6 during a heatwave after a bank holiday, we could've had it all.",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Actualización"
+      "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Crimson Desert's latest patch adds 20 new types of small animal and then hands Kliff a shotgun",
-      "titleEN": "Crimson Desert's latest patch adds 20 new types of small animal and then hands Kliff a shotgun",
-      "desc": "Tameable wyverns have also arrived.",
-      "descEN": "Tameable wyverns have also arrived.",
-      "date": "25 de mayo de 2026",
+      "title": "MMOs don't need 'to be 200 hours of unique content' at launch, says industry vet",
+      "titleEN": "MMOs don't need 'to be 200 hours of unique content' at launch, says industry vet",
+      "desc": "\"There's probably a reason why EA never wanted to hire me.\"",
+      "descEN": "\"There's probably a reason why EA never wanted to hire me.\"",
+      "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Actualización"
+      "tag": "Noticia"
     }
   ]
 }
