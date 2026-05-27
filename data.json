@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-27T09:42:55.674Z",
+  "generatedAt": "2026-05-27T15:38:14.880Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -141,121 +141,121 @@
   "news": [
     {
       "id": "n1",
-      "title": "This soft and bendy hologram fan is touch friendly, and also *checks notes* can be used to prevent chemical burns",
-      "titleEN": "This soft and bendy hologram fan is touch friendly, and also *checks notes* can be used to prevent chemical burns",
-      "desc": "Reach out and touch space.",
-      "descEN": "Reach out and touch space.",
+      "title": "It looks like Nvidia's AI inference GPU won't see the light of day this year, which could actually be good news for PC gamers",
+      "titleEN": "It looks like Nvidia's AI inference GPU won't see the light of day this year, which could actually be good news for PC gamers",
+      "desc": "Vera Rubin, on the other hand, is all steam ahead. Which isn't good news for PC gamers, sadly.",
+      "descEN": "Vera Rubin, on the other hand, is all steam ahead. Which isn't good news for PC gamers, sadly.",
       "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "A rumoured Intel Nova Lake mobile chip that's 100% E-cores with a beefy iGPU would be great news for handhelds, if it wasn't destined for edge computing only",
-      "titleEN": "A rumoured Intel Nova Lake mobile chip that's 100% E-cores with a beefy iGPU would be great news for handhelds, if it wasn't destined for edge computing only",
-      "desc": "But that might not stop some companies from experimenting with it.",
-      "descEN": "But that might not stop some companies from experimenting with it.",
+      "title": "It looks like you'll soon be able to move the annoying voices in your Discord calls far away with an upcoming spatial audio feature",
+      "titleEN": "It looks like you'll soon be able to move the annoying voices in your Discord calls far away with an upcoming spatial audio feature",
+      "desc": "Sorry, can't hear you over there.",
+      "descEN": "Sorry, can't hear you over there.",
       "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "Paralives charmed me on day one, but the roadmap outlines the real life sim of my dreams",
-      "titleEN": "Paralives charmed me on day one, but the roadmap outlines the real life sim of my dreams",
-      "desc": "Count me in for a houseboat.",
-      "descEN": "Count me in for a houseboat.",
+      "title": "'This world means so much to us': Overwatch's game director celebrates its 10 year anniversary by mapping out how it all began",
+      "titleEN": "'This world means so much to us': Overwatch's game director celebrates its 10 year anniversary by mapping out how it all began",
+      "desc": "Here's to another 10 years.",
+      "descEN": "Here's to another 10 years.",
       "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "Paralives players are getting jumpscared by a naked chap called Charlie glitching into their games and now I too have been Charlie'd",
-      "titleEN": "Paralives players are getting jumpscared by a naked chap called Charlie glitching into their games and now I too have been Charlie'd",
-      "desc": "This unsettling, naked para is bodysnatching our characters and honestly, I want to keep them.",
-      "descEN": "This unsettling, naked para is bodysnatching our characters and honestly, I want to keep them.",
+      "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode",
+      "titleEN": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode",
+      "desc": "\"People just want a choice.\"",
+      "descEN": "\"People just want a choice.\"",
       "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Noticia"
+      "tag": "Ofertas"
     },
     {
       "id": "n5",
-      "title": "The sequel to one of my favorite survival games doesn't just respawn you back at home when you die: that'd be way too easy",
-      "titleEN": "The sequel to one of my favorite survival games doesn't just respawn you back at home when you die: that'd be way too easy",
-      "desc": "Outward 2 doesn't pull any punches, and that's just what I was hoping for.",
-      "descEN": "Outward 2 doesn't pull any punches, and that's just what I was hoping for.",
+      "title": "Mina the Hollower review",
+      "titleEN": "Mina the Hollower review",
+      "desc": "Mina can offer whatever challenge you're up for.",
+      "descEN": "Mina can offer whatever challenge you're up for.",
       "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
-      "tag": "Noticia"
+      "tag": "Ofertas"
     },
     {
       "id": "n6",
-      "title": "Remedy's new CEO thinks cross-media deals will help its games sell more, and for once I think I agree",
-      "titleEN": "Remedy's new CEO thinks cross-media deals will help its games sell more, and for once I think I agree",
-      "desc": "It's a lot of business talk, but that doesn't necessarily make it wrong.",
-      "descEN": "It's a lot of business talk, but that doesn't necessarily make it wrong.",
-      "date": "26 de mayo de 2026",
+      "title": "Potential DLSS 5 references have been found in the latest Nvidia driver, but it's all gone quiet on the AI image enhancement front",
+      "titleEN": "Potential DLSS 5 references have been found in the latest Nvidia driver, but it's all gone quiet on the AI image enhancement front",
+      "desc": "*Tumbleweed.*",
+      "descEN": "*Tumbleweed.*",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "007 First Light release date and launch times",
-      "titleEN": "007 First Light release date and launch times",
-      "desc": "Here's when you can start playing as Bond through his early days at MI6.",
-      "descEN": "Here's when you can start playing as Bond through his early days at MI6.",
-      "date": "26 de mayo de 2026",
+      "title": "Hideo Kojima finally gets to go to space—but only in an AI-generated ad for Prada",
+      "titleEN": "Hideo Kojima finally gets to go to space—but only in an AI-generated ad for Prada",
+      "desc": "He's embracing AI to advertise the luxury brand's private club, Prada Mode.",
+      "descEN": "He's embracing AI to advertise the luxury brand's private club, Prada Mode.",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "007 First Light review roundup: 'The best James Bond game since GoldenEye'",
-      "titleEN": "007 First Light review roundup: 'The best James Bond game since GoldenEye'",
-      "desc": "The initial reaction to IO Interactive's take on the famed British assassin is very positive.",
-      "descEN": "The initial reaction to IO Interactive's take on the famed British assassin is very positive.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "SimRacing Expo's first-ever US event proves driving sims have finally hit the American mainstream",
-      "titleEN": "SimRacing Expo's first-ever US event proves driving sims have finally hit the American mainstream",
-      "desc": "Can't afford a $15 million F1 car? Sim racing can get you seat time.",
-      "descEN": "Can't afford a $15 million F1 car? Sim racing can get you seat time.",
-      "date": "26 de mayo de 2026",
+      "title": "Resident Evil Requiem has a demo now, despite the fact it came out 3 months ago and sold over 7 million copies",
+      "titleEN": "Resident Evil Requiem has a demo now, despite the fact it came out 3 months ago and sold over 7 million copies",
+      "desc": "Giving a little Grace.",
+      "descEN": "Giving a little Grace.",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Récord"
     },
     {
+      "id": "n9",
+      "title": "007 First Light joins an ever-expanding list of 2026 games without up-to-date AMD FSR or Intel XeSS support",
+      "titleEN": "007 First Light joins an ever-expanding list of 2026 games without up-to-date AMD FSR or Intel XeSS support",
+      "desc": "Shaken, stirred, who cares? Just properly support all GPUs, please, not just some of them.",
+      "descEN": "Shaken, stirred, who cares? Just properly support all GPUs, please, not just some of them.",
+      "date": "27 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
       "id": "n10",
-      "title": "Destiny 2 players are processing their grief by posting their most embarrassing self-owns, and I've never felt more seen",
-      "titleEN": "Destiny 2 players are processing their grief by posting their most embarrassing self-owns, and I've never felt more seen",
-      "desc": "This is Destiny, to me.",
-      "descEN": "This is Destiny, to me.",
-      "date": "26 de mayo de 2026",
+      "title": "I'm trying to work out what Noctua's brush-like Computex teaser might be and all I can come up with is a hairy fan",
+      "titleEN": "I'm trying to work out what Noctua's brush-like Computex teaser might be and all I can come up with is a hairy fan",
+      "desc": "Brushie brushie brushie.",
+      "descEN": "Brushie brushie brushie.",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "How to try for a baby in Paralives and get pregnant",
-      "titleEN": "How to try for a baby in Paralives and get pregnant",
-      "desc": "Here's how to navigate your paramour paras into the world of parenthood.",
-      "descEN": "Here's how to navigate your paramour paras into the world of parenthood.",
-      "date": "26 de mayo de 2026",
+      "title": "Taiwanese buyers of Gigabyte's new RTX 5090 can register to receive a 'gold item', because nothing says wealth like Nvidia's most expensive gaming GPU",
+      "titleEN": "Taiwanese buyers of Gigabyte's new RTX 5090 can register to receive a 'gold item', because nothing says wealth like Nvidia's most expensive gaming GPU",
+      "desc": "And it's beans on toast for lunch again for me.",
+      "descEN": "And it's beans on toast for lunch again for me.",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Forza Horizon 6 players are being terrorised by the plague that is Bowie Knife99",
-      "titleEN": "Forza Horizon 6 players are being terrorised by the plague that is Bowie Knife99",
-      "desc": "\"Justice for all the Bowie Knife victims.\"",
-      "descEN": "\"Justice for all the Bowie Knife victims.\"",
-      "date": "26 de mayo de 2026",
+      "title": "Nvidia CEO Jensen Huang says the company plans to invest around $150,000,000,000 in Taiwan each year, describing the country as the 'epicentre of the AI revolution'",
+      "titleEN": "Nvidia CEO Jensen Huang says the company plans to invest around $150,000,000,000 in Taiwan each year, describing the country as the 'epicentre of the AI revolution'",
+      "desc": "In it for the long haul?",
+      "descEN": "In it for the long haul?",
+      "date": "27 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Noticia"
     }
