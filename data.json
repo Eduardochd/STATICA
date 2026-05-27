@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-27T15:38:14.880Z",
+  "generatedAt": "2026-05-27T20:13:40.134Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,7 +38,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -78,8 +78,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -94,8 +94,8 @@
       "steamAppId": 2478970,
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Middle-earth: The Shadow Bundle on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Middle-earth: The Shadow Bundle en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -141,122 +141,122 @@
   "news": [
     {
       "id": "n1",
-      "title": "It looks like Nvidia's AI inference GPU won't see the light of day this year, which could actually be good news for PC gamers",
-      "titleEN": "It looks like Nvidia's AI inference GPU won't see the light of day this year, which could actually be good news for PC gamers",
-      "desc": "Vera Rubin, on the other hand, is all steam ahead. Which isn't good news for PC gamers, sadly.",
-      "descEN": "Vera Rubin, on the other hand, is all steam ahead. Which isn't good news for PC gamers, sadly.",
+      "title": "The demand for weapons in Subnautica 2 reveals the difficulty of separating open worlds from conquest",
+      "titleEN": "The demand for weapons in Subnautica 2 reveals the difficulty of separating open worlds from conquest",
+      "desc": "When I play Subnautica 2, I often feel as though I am swimming in two worlds simultaneously. On the one hand, there's the world that goes on without me, the world of wonky indigenous beings living out their lives, careless of my presence: shoals of u",
+      "descEN": "When I play Subnautica 2, I often feel as though I am swimming in two worlds simultaneously. On the one hand, there's the world that goes on without me, the world of wonky indigenous beings living out their lives, careless of my presence: shoals of u",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "It looks like you'll soon be able to move the annoying voices in your Discord calls far away with an upcoming spatial audio feature",
-      "titleEN": "It looks like you'll soon be able to move the annoying voices in your Discord calls far away with an upcoming spatial audio feature",
-      "desc": "Sorry, can't hear you over there.",
-      "descEN": "Sorry, can't hear you over there.",
+      "title": "Paralives is possibly the first ever videogame with a character editor that gives people motion sickness",
+      "titleEN": "Paralives is possibly the first ever videogame with a character editor that gives people motion sickness",
+      "desc": "Cosy life sim Paralives launched into early access this week, sweetening the initial reception with a roadmap full of free goodies. I've been looking forward to the game, if only because there has been such disappointment of late on the life sim fron",
+      "descEN": "Cosy life sim Paralives launched into early access this week, sweetening the initial reception with a roadmap full of free goodies. I've been looking forward to the game, if only because there has been such disappointment of late on the life sim fron",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "source": "rockpapershotgun.com",
+      "tag": "Ofertas"
     },
     {
       "id": "n3",
-      "title": "'This world means so much to us': Overwatch's game director celebrates its 10 year anniversary by mapping out how it all began",
-      "titleEN": "'This world means so much to us': Overwatch's game director celebrates its 10 year anniversary by mapping out how it all began",
-      "desc": "Here's to another 10 years.",
-      "descEN": "Here's to another 10 years.",
+      "title": "007 First Light's PC performance isn't quite martini-smooth, but it's a damn sight better than that stuttering reveal footage",
+      "titleEN": "007 First Light's PC performance isn't quite martini-smooth, but it's a damn sight better than that stuttering reveal footage",
+      "desc": "While Mark&rsquo;s off doing the actual review and/or agonising over watch straps, I&rsquo;ve spent my time with 007 First Light slowly moving a laser beam up between its legs, demanding it reveal its PC performance secrets. Which it did immediately ",
+      "descEN": "While Mark&rsquo;s off doing the actual review and/or agonising over watch straps, I&rsquo;ve spent my time with 007 First Light slowly moving a laser beam up between its legs, demanding it reveal its PC performance secrets. Which it did immediately ",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode",
-      "titleEN": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode",
-      "desc": "\"People just want a choice.\"",
-      "descEN": "\"People just want a choice.\"",
+      "title": "007 First Light is now out in full, and I hope the masses are ready to face the most difficult decision of their lives",
+      "titleEN": "007 First Light is now out in full, and I hope the masses are ready to face the most difficult decision of their lives",
+      "desc": "What took you so long, Bond? I asked you to meet me here, with the nuclear codes I politely requested, in good time. Instead, you've turned up right as I'm about to give this presentation on said codes, meaning I've had no time to grill you about the",
+      "descEN": "What took you so long, Bond? I asked you to meet me here, with the nuclear codes I politely requested, in good time. Instead, you've turned up right as I'm about to give this presentation on said codes, meaning I've had no time to grill you about the",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Ofertas"
+      "source": "rockpapershotgun.com",
+      "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "Mina the Hollower review",
-      "titleEN": "Mina the Hollower review",
-      "desc": "Mina can offer whatever challenge you're up for.",
-      "descEN": "Mina can offer whatever challenge you're up for.",
+      "title": "Helldivers 2-esque war against a giant evil robo-eye beckons in No Man's Sky's The Swarm update, invading the galaxy right now",
+      "titleEN": "Helldivers 2-esque war against a giant evil robo-eye beckons in No Man's Sky's The Swarm update, invading the galaxy right now",
+      "desc": "It's the Death Star! Well, sort of. It's a big robo-eye invading the galaxy with a swarm of killer drones, as No Man's Sky goes a bit Helldivers 2-ish in its latest update. Dubbed The Swarm, it'll see folks filed away from their not quite Pokemon bat",
+      "descEN": "It's the Death Star! Well, sort of. It's a big robo-eye invading the galaxy with a swarm of killer drones, as No Man's Sky goes a bit Helldivers 2-ish in its latest update. Dubbed The Swarm, it'll see folks filed away from their not quite Pokemon bat",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Ofertas"
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n6",
-      "title": "Potential DLSS 5 references have been found in the latest Nvidia driver, but it's all gone quiet on the AI image enhancement front",
-      "titleEN": "Potential DLSS 5 references have been found in the latest Nvidia driver, but it's all gone quiet on the AI image enhancement front",
-      "desc": "*Tumbleweed.*",
-      "descEN": "*Tumbleweed.*",
+      "title": "After 10 years of work, modders have remade classic RPG Ultima Underworld in Unity with 3D models, new sound effects, and controller support",
+      "titleEN": "After 10 years of work, modders have remade classic RPG Ultima Underworld in Unity with 3D models, new sound effects, and controller support",
+      "desc": "Eyes up, dungeon delvers! Or down, rather. Some bright spark has remade Looking Glass classic Ultima Underworld: The Stygian Abyss in the Unity engine with new 3D models and sound effects, plus controller support. Ultima Underworld, often cited as th",
+      "descEN": "Eyes up, dungeon delvers! Or down, rather. Some bright spark has remade Looking Glass classic Ultima Underworld: The Stygian Abyss in the Unity engine with new 3D models and sound effects, plus controller support. Ultima Underworld, often cited as th",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "Hideo Kojima finally gets to go to space—but only in an AI-generated ad for Prada",
-      "titleEN": "Hideo Kojima finally gets to go to space—but only in an AI-generated ad for Prada",
-      "desc": "He's embracing AI to advertise the luxury brand's private club, Prada Mode.",
-      "descEN": "He's embracing AI to advertise the luxury brand's private club, Prada Mode.",
+      "title": "Geralt's back for one last Roach ride in long-rumoured The Witcher 3: Wild Hunt expansion Songs of the Past",
+      "titleEN": "Geralt's back for one last Roach ride in long-rumoured The Witcher 3: Wild Hunt expansion Songs of the Past",
+      "desc": "Silver-haired fox of an RPG The Witcher 3: Wild Hunt is officially getting a new expansion, ten years after Blood and Wine and over eleven since the base game launch. It&rsquo;s called Songs of the Past, it&rsquo;s being co-developed between CD Proje",
+      "descEN": "Silver-haired fox of an RPG The Witcher 3: Wild Hunt is officially getting a new expansion, ten years after Blood and Wine and over eleven since the base game launch. It&rsquo;s called Songs of the Past, it&rsquo;s being co-developed between CD Proje",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "source": "rockpapershotgun.com",
+      "tag": "Expansión"
     },
     {
       "id": "n8",
-      "title": "Resident Evil Requiem has a demo now, despite the fact it came out 3 months ago and sold over 7 million copies",
-      "titleEN": "Resident Evil Requiem has a demo now, despite the fact it came out 3 months ago and sold over 7 million copies",
-      "desc": "Giving a little Grace.",
-      "descEN": "Giving a little Grace.",
+      "title": "Red Dead Online wasn't a missed opportunity in the eyes of Take-Two's boss, but I'd say it's proof that following the GTA train doesn't guarantee the world",
+      "titleEN": "Red Dead Online wasn't a missed opportunity in the eyes of Take-Two's boss, but I'd say it's proof that following the GTA train doesn't guarantee the world",
+      "desc": "As Rockstar gear up to release GTA 6 (at least on consoles), spare a thought for Red Dead Online. The multiplayer element of Red Dead Redemption 2 had its steady flow of major update-carrying stagecoaches stopped all the way back in 2022, with its ma",
+      "descEN": "As Rockstar gear up to release GTA 6 (at least on consoles), spare a thought for Red Dead Online. The multiplayer element of Red Dead Redemption 2 had its steady flow of major update-carrying stagecoaches stopped all the way back in 2022, with its ma",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Récord"
+      "source": "rockpapershotgun.com",
+      "tag": "Actualización"
     },
     {
       "id": "n9",
-      "title": "007 First Light joins an ever-expanding list of 2026 games without up-to-date AMD FSR or Intel XeSS support",
-      "titleEN": "007 First Light joins an ever-expanding list of 2026 games without up-to-date AMD FSR or Intel XeSS support",
-      "desc": "Shaken, stirred, who cares? Just properly support all GPUs, please, not just some of them.",
-      "descEN": "Shaken, stirred, who cares? Just properly support all GPUs, please, not just some of them.",
+      "title": "There are a million ways to deliver ore in Starminer, a real-time space strategy sim with zero-G physics - just beware your greed doesn't attract the aliens",
+      "titleEN": "There are a million ways to deliver ore in Starminer, a real-time space strategy sim with zero-G physics - just beware your greed doesn't attract the aliens",
+      "desc": "Attention unidentified spacecraft, this is the USS Asteroid Paper Railgun. Please maintain your current heading and velocity. I am about to rotate 34 degrees and jettison a new early access space strategy game from my cargo hold. If my calculations a",
+      "descEN": "Attention unidentified spacecraft, this is the USS Asteroid Paper Railgun. Please maintain your current heading and velocity. I am about to rotate 34 degrees and jettison a new early access space strategy game from my cargo hold. If my calculations a",
       "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
+      "source": "rockpapershotgun.com",
+      "tag": "Récord"
     },
     {
       "id": "n10",
-      "title": "I'm trying to work out what Noctua's brush-like Computex teaser might be and all I can come up with is a hairy fan",
-      "titleEN": "I'm trying to work out what Noctua's brush-like Computex teaser might be and all I can come up with is a hairy fan",
-      "desc": "Brushie brushie brushie.",
-      "descEN": "Brushie brushie brushie.",
-      "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been",
+      "titleEN": "The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been",
+      "desc": "Marathon is a horror game. Well, it should be, anyway (or I suppose in some ways it already is). The ever under-respected genre is not where Bungie's take on an extraction shooter currently sits, even if there are still qualities to be found in the l",
+      "descEN": "Marathon is a horror game. Well, it should be, anyway (or I suppose in some ways it already is). The ever under-respected genre is not where Bungie's take on an extraction shooter currently sits, even if there are still qualities to be found in the l",
+      "date": "26 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Taiwanese buyers of Gigabyte's new RTX 5090 can register to receive a 'gold item', because nothing says wealth like Nvidia's most expensive gaming GPU",
-      "titleEN": "Taiwanese buyers of Gigabyte's new RTX 5090 can register to receive a 'gold item', because nothing says wealth like Nvidia's most expensive gaming GPU",
-      "desc": "And it's beans on toast for lunch again for me.",
-      "descEN": "And it's beans on toast for lunch again for me.",
-      "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Yerba Buena, out today, is a Portal-esque puzzle platformer where your weapon of choice is copying and pasting physics",
+      "titleEN": "Yerba Buena, out today, is a Portal-esque puzzle platformer where your weapon of choice is copying and pasting physics",
+      "desc": "The problem with Portal is that Valve only made two of them. Those are some dang good puzzle games! And they're not very long. I don't necessarily need more Portal exactly per se, I just want more of that style of puzzle platforming that's equal part",
+      "descEN": "The problem with Portal is that Valve only made two of them. Those are some dang good puzzle games! And they're not very long. I don't necessarily need more Portal exactly per se, I just want more of that style of puzzle platforming that's equal part",
+      "date": "26 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Nvidia CEO Jensen Huang says the company plans to invest around $150,000,000,000 in Taiwan each year, describing the country as the 'epicentre of the AI revolution'",
-      "titleEN": "Nvidia CEO Jensen Huang says the company plans to invest around $150,000,000,000 in Taiwan each year, describing the country as the 'epicentre of the AI revolution'",
-      "desc": "In it for the long haul?",
-      "descEN": "In it for the long haul?",
-      "date": "27 de mayo de 2026",
-      "source": "pcgamer.com",
+      "title": "Unsanctioned GTA Online modding platform Rage:MP is shutting down thanks to a cease and desist from Take-Two",
+      "titleEN": "Unsanctioned GTA Online modding platform Rage:MP is shutting down thanks to a cease and desist from Take-Two",
+      "desc": "As it currently stands, it's a bit unclear how Rockstar are planning to approach multiplayer with GTA 6. It seems that GTA Online will continue to run even after the impending sequel launches, but beyond that who really knows. What is clear is that R",
+      "descEN": "As it currently stands, it's a bit unclear how Rockstar are planning to approach multiplayer with GTA 6. It seems that GTA Online will continue to run even after the impending sequel launches, but beyond that who really knows. What is clear is that R",
+      "date": "26 de mayo de 2026",
+      "source": "rockpapershotgun.com",
       "tag": "Noticia"
     }
   ]
