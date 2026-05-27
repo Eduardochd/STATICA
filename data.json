@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-26T20:07:15.276Z",
+  "generatedAt": "2026-05-27T03:38:33.736Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -79,7 +79,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -95,7 +95,7 @@
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
       "desc": "Tomb Raider I-III Remastered Starring Lara Croft está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for Tomb Raider I-III Remastered Starring Lara Croft on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -111,7 +111,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -126,8 +126,8 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Oferta especial de Middle-earth: The Shadow Bundle en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -141,6 +141,86 @@
   "news": [
     {
       "id": "n1",
+      "title": "Paralives charmed me on day one, but the roadmap outlines the real life sim of my dreams",
+      "titleEN": "Paralives charmed me on day one, but the roadmap outlines the real life sim of my dreams",
+      "desc": "Count me in for a houseboat.",
+      "descEN": "Count me in for a houseboat.",
+      "date": "27 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Paralives players are getting jumpscared by a naked chap called Charlie glitching into their games and now I too have been Charlie'd",
+      "titleEN": "Paralives players are getting jumpscared by a naked chap called Charlie glitching into their games and now I too have been Charlie'd",
+      "desc": "This unsettling, naked para is bodysnatching our characters and honestly, I want to keep them.",
+      "descEN": "This unsettling, naked para is bodysnatching our characters and honestly, I want to keep them.",
+      "date": "27 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "The sequel to one of my favorite survival games doesn't just respawn you back at home when you die: that'd be way too easy",
+      "titleEN": "The sequel to one of my favorite survival games doesn't just respawn you back at home when you die: that'd be way too easy",
+      "desc": "Outward 2 doesn't pull any punches, and that's just what I was hoping for.",
+      "descEN": "Outward 2 doesn't pull any punches, and that's just what I was hoping for.",
+      "date": "27 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Remedy's new CEO thinks cross-media deals will help its games sell more, and for once I think I agree",
+      "titleEN": "Remedy's new CEO thinks cross-media deals will help its games sell more, and for once I think I agree",
+      "desc": "It's a lot of business talk, but that doesn't necessarily make it wrong.",
+      "descEN": "It's a lot of business talk, but that doesn't necessarily make it wrong.",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "007 First Light release date and launch times",
+      "titleEN": "007 First Light release date and launch times",
+      "desc": "Here's when you can start playing as Bond through his early days at MI6.",
+      "descEN": "Here's when you can start playing as Bond through his early days at MI6.",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "007 First Light review roundup: 'The best James Bond game since GoldenEye'",
+      "titleEN": "007 First Light review roundup: 'The best James Bond game since GoldenEye'",
+      "desc": "The initial reaction to IO Interactive's take on the famed British assassin is very positive.",
+      "descEN": "The initial reaction to IO Interactive's take on the famed British assassin is very positive.",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "SimRacing Expo's first-ever US event proves driving sims have finally hit the American mainstream",
+      "titleEN": "SimRacing Expo's first-ever US event proves driving sims have finally hit the American mainstream",
+      "desc": "Can't afford a $15 million F1 car? Sim racing can get you seat time.",
+      "descEN": "Can't afford a $15 million F1 car? Sim racing can get you seat time.",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Récord"
+    },
+    {
+      "id": "n8",
+      "title": "Destiny 2 players are processing their grief by posting their most embarrassing self-owns, and I've never felt more seen",
+      "titleEN": "Destiny 2 players are processing their grief by posting their most embarrassing self-owns, and I've never felt more seen",
+      "desc": "This is Destiny, to me.",
+      "descEN": "This is Destiny, to me.",
+      "date": "26 de mayo de 2026",
+      "source": "pcgamer.com",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
       "title": "How to try for a baby in Paralives and get pregnant",
       "titleEN": "How to try for a baby in Paralives and get pregnant",
       "desc": "Here's how to navigate your paramour paras into the world of parenthood.",
@@ -150,7 +230,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Forza Horizon 6 players are being terrorised by the plague that is Bowie Knife99",
       "titleEN": "Forza Horizon 6 players are being terrorised by the plague that is Bowie Knife99",
       "desc": "\"Justice for all the Bowie Knife victims.\"",
@@ -160,7 +240,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "'There's a lot of rogue attempts at this': Amid AI music remixing plans, Spotify chief says he wants the company to be 'the one that's legal' and 'the one that's controlled'",
       "titleEN": "'There's a lot of rogue attempts at this': Amid AI music remixing plans, Spotify chief says he wants the company to be 'the one that's legal' and 'the one that's controlled'",
       "desc": "Y'know, the good one.",
@@ -170,7 +250,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "Marvel Rivals has banned 485 accounts and dished out just 3 hardware bans after the latest slew of cheaters but players are begging for more",
       "titleEN": "Marvel Rivals has banned 485 accounts and dished out just 3 hardware bans after the latest slew of cheaters but players are begging for more",
       "desc": "Cheating in Marvel Rivals? Believe it or not straight to jail.",
@@ -178,86 +258,6 @@
       "date": "26 de mayo de 2026",
       "source": "pcgamer.com",
       "tag": "Hardware"
-    },
-    {
-      "id": "n5",
-      "title": "Nvidia's first in-house CPU benchmarked, beats x86 and ARM chips alike but only in Nvidia-sanctioned tests",
-      "titleEN": "Nvidia's first in-house CPU benchmarked, beats x86 and ARM chips alike but only in Nvidia-sanctioned tests",
-      "desc": "But when might we see such CPU cores in a PC?",
-      "descEN": "But when might we see such CPU cores in a PC?",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "After outliving 6 Star Trek TV shows, Star Trek Online deserves more love",
-      "titleEN": "After outliving 6 Star Trek TV shows, Star Trek Online deserves more love",
-      "desc": "Star Trek Online is a survivor, but it should be flourishing.",
-      "descEN": "Star Trek Online is a survivor, but it should be flourishing.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "Take-Two forces shutdown of Grand Theft Auto multiplayer modding platform Rage:MP",
-      "titleEN": "Take-Two forces shutdown of Grand Theft Auto multiplayer modding platform Rage:MP",
-      "desc": "There's only one officially authorized multiplayer modding platform for GTA, and it's not Rage:MP.",
-      "descEN": "There's only one officially authorized multiplayer modding platform for GTA, and it's not Rage:MP.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Deadlock new midlane objective turned games into such a mid-only fiasco that it only lasted one weekend, though Valve's still experimenting",
-      "titleEN": "Deadlock new midlane objective turned games into such a mid-only fiasco that it only lasted one weekend, though Valve's still experimenting",
-      "desc": "Oops, all urns.",
-      "descEN": "Oops, all urns.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Former Tekken boss completes his 30-year career with a pilgrimage to the fighting game's holy land: Waffle House",
-      "titleEN": "Former Tekken boss completes his 30-year career with a pilgrimage to the fighting game's holy land: Waffle House",
-      "desc": "Katsuhiro Harada might no longer be the boss, but he's still part of the community.",
-      "descEN": "Katsuhiro Harada might no longer be the boss, but he's still part of the community.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Cosplayer creates a real-life Cyberpunk 2077 jacket, complete with a flexible OLED collar that you can actually game on",
-      "titleEN": "Cosplayer creates a real-life Cyberpunk 2077 jacket, complete with a flexible OLED collar that you can actually game on",
-      "desc": "Following the thread.",
-      "descEN": "Following the thread.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "TSMC employees reportedly following Samsung workers in threatening to strike over bonus cuts despite record profits",
-      "titleEN": "TSMC employees reportedly following Samsung workers in threatening to strike over bonus cuts despite record profits",
-      "desc": "Bumper times for tech firms but not necessarily tech employees?",
-      "descEN": "Bumper times for tech firms but not necessarily tech employees?",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Récord"
-    },
-    {
-      "id": "n12",
-      "title": "This new gaming mouse looks to combine tech similar to Logitech's analogue clicks and Razer's frame sync but I'm a little sceptical",
-      "titleEN": "This new gaming mouse looks to combine tech similar to Logitech's analogue clicks and Razer's frame sync but I'm a little sceptical",
-      "desc": "The clicks look similar to Keychron's recently announced solution, too.",
-      "descEN": "The clicks look similar to Keychron's recently announced solution, too.",
-      "date": "26 de mayo de 2026",
-      "source": "pcgamer.com",
-      "tag": "Noticia"
     }
   ]
 }
