@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-28T10:03:11.021Z",
+  "generatedAt": "2026-05-28T15:50:10.511Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -51,7 +51,13 @@
           "store": "Epic",
           "price": 4.99,
           "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Sq38R25AnlmmDRXdmA%2BFMmLJ4crjxNxmlVFh5xXBMpE%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=x9sPdlHkKso7HR7cc6%2Fo5AGZnAm5K7EAdnDknBAJoWY%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 11.99,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=XyIIY%2BgeiJPMDHgAAFDvAWXSLba3dskyaLSZeitYbTI%3D"
         },
         {
           "store": "GMG",
@@ -78,40 +84,24 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
           "price": 3.49,
           "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=3dl9bBL%2FTCGTKmcgIZK%2BoGiQwxhJnYZLOPbVtWzFy0U%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=oyadBOu1z6MVss1%2BMfCBqCSpNd8cUcuA9cl2j7PtgMc%3D"
         }
       ]
     },
     {
       "id": "g5",
-      "steamAppId": 2478970,
-      "rating": 4,
-      "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "desc": "Oferta especial de Tomb Raider I-III Remastered Starring Lara Croft en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 0,
-          "original": 29.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=5Bpcy29NT%2BYM6Dnd8RaHZSLOZwlvSNktLOGJt8uFJ%2B8%3D"
-        }
-      ]
-    },
-    {
-      "id": "g6",
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -120,142 +110,126 @@
           "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D"
         }
       ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 648168,
-      "rating": 4,
-      "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=5u2%2Brrz%2BTcuDR9HAefNkfN%2BJsj6LIP8YpMQLuI%2F%2B16o%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
-      "title": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
-      "titleEN": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
-      "desc": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
-      "descEN": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
+      "title": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
+      "titleEN": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
+      "desc": "Activision and Infinity Ward have revealed Call of Duty: Modern Warfare 4. It's launching on Xbox Series X/S, PS5, PC, and Nintendo Switch 2 on the 23rd October, 2026. Read more",
+      "descEN": "Activision and Infinity Ward have revealed Call of Duty: Modern Warfare 4. It's launching on Xbox Series X/S, PS5, PC, and Nintendo Switch 2 on the 23rd October, 2026. Read more",
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Hardware"
     },
     {
       "id": "n2",
-      "title": "Valve announces significant Steam Deck price rise of almost £200 in the UK, over 40% around the world",
-      "titleEN": "Valve announces significant Steam Deck price rise of almost £200 in the UK, over 40% around the world",
-      "desc": "Valve has announced a substantial price increase for its Steam Deck OLED models, citing \"rising memory and storage costs\" as the reason. Read more",
-      "descEN": "Valve has announced a substantial price increase for its Steam Deck OLED models, citing \"rising memory and storage costs\" as the reason. Read more",
+      "title": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
+      "titleEN": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
+      "desc": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
+      "descEN": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "Alan Wake and Control \"should have sold more\", says Remedy's newly-appointed CEO, who promises he's not the evil exec people expected",
-      "titleEN": "Alan Wake and Control \"should have sold more\", says Remedy's newly-appointed CEO, who promises he's not the evil exec people expected",
-      "desc": "While both games were critically acclaimed, Remedy's newly-appointed CEO believes Alan Wake and Control \"should have sold more\" and been more commercially successful than they were. That being said, he has a remedy for Remedy's titles (thank you Matt",
-      "descEN": "While both games were critically acclaimed, Remedy's newly-appointed CEO believes Alan Wake and Control \"should have sold more\" and been more commercially successful than they were. That being said, he has a remedy for Remedy's titles (thank you Matt",
-      "date": "27 de mayo de 2026",
+      "title": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
+      "titleEN": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
+      "desc": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
+      "descEN": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll",
-      "titleEN": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll",
-      "desc": "As a linear, scripted action game, the replayability of James Bond game 007: First Light has been called into question. It's something Rick brought up in Eurogamer's 007: First Light review, mostly because it jars with the sandbox approach IO Interac",
-      "descEN": "As a linear, scripted action game, the replayability of James Bond game 007: First Light has been called into question. It's something Rick brought up in Eurogamer's 007: First Light review, mostly because it jars with the sandbox approach IO Interac",
-      "date": "27 de mayo de 2026",
+      "title": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
+      "titleEN": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
+      "desc": "Heroes of Might and Magic: Olden Era, the latest entry in the iconic turn-based fantasy strategy series, has convinced most players so far, but it's got a long early access journey ahead. Today, publisher Hooded Horse and developer Unfrozen Studio ha",
+      "descEN": "Heroes of Might and Magic: Olden Era, the latest entry in the iconic turn-based fantasy strategy series, has convinced most players so far, but it's got a long early access journey ahead. Today, publisher Hooded Horse and developer Unfrozen Studio ha",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "Dragon Quest 40th anniversary event reveals DQ12 restart with new title, DQ11 Switch 2 port, and the return of Dragon Quest Monsters series",
-      "titleEN": "Dragon Quest 40th anniversary event reveals DQ12 restart with new title, DQ11 Switch 2 port, and the return of Dragon Quest Monsters series",
-      "desc": "It's been a few years since Dragon Quest 12: The Flames of Fate's announcement, so fans were logically expecting news during today's 40th-anniversary stream. An update has indeed been shared, but it's not what we were expecting. Read more",
-      "descEN": "It's been a few years since Dragon Quest 12: The Flames of Fate's announcement, so fans were logically expecting news during today's 40th-anniversary stream. An update has indeed been shared, but it's not what we were expecting. Read more",
-      "date": "27 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n6",
-      "title": "\"Hoping we'll be spared\" - The bowieknife99 saga in Forza Horizon 6 continues as the urban legend goes viral and Walmart bans the mysterious racer",
-      "titleEN": "\"Hoping we'll be spared\" - The bowieknife99 saga in Forza Horizon 6 continues as the urban legend goes viral and Walmart bans the mysterious racer",
-      "desc": "Forza Horizon 6 is a blast, but there's a recurring 'drivatar' AI racer making things harder for many drivers. Their nickname is bowieknife99, and they've caused enough mayhem to become an urban legend of sorts. Now, the myth has gone viral. Read mor",
-      "descEN": "Forza Horizon 6 is a blast, but there's a recurring 'drivatar' AI racer making things harder for many drivers. Their nickname is bowieknife99, and they've caused enough mayhem to become an urban legend of sorts. Now, the myth has gone viral. Read mor",
-      "date": "27 de mayo de 2026",
+      "title": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
+      "titleEN": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
+      "desc": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light. Read more",
+      "descEN": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light. Read more",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
+      "id": "n6",
+      "title": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
+      "titleEN": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
+      "desc": "A third Witcher 3 expansion, Songs of the Past, was only announced yesterday, but it appears we've seen the sword Geralt unsheaths in the artwork before. Read more",
+      "descEN": "A third Witcher 3 expansion, Songs of the Past, was only announced yesterday, but it appears we've seen the sword Geralt unsheaths in the artwork before. Read more",
+      "date": "28 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
       "id": "n7",
-      "title": "Another live service game crashes as Sony switches off servers for PS5 exclusive Destruction AllStars",
-      "titleEN": "Another live service game crashes as Sony switches off servers for PS5 exclusive Destruction AllStars",
-      "desc": "Sony has abruptly shut down multiplayer services for PlayStation 5 launch exclusive Destruction AllStars, and it doesn't sound like they're ever coming back. Read more",
-      "descEN": "Sony has abruptly shut down multiplayer services for PlayStation 5 launch exclusive Destruction AllStars, and it doesn't sound like they're ever coming back. Read more",
-      "date": "27 de mayo de 2026",
+      "title": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
+      "titleEN": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
+      "desc": "Earlier this week, the park sim veterans at Frontier Developments began teasing Planet Zoo 2. Now, the sequel has been fully revealed, and it's coming later this year with a handful of huge additions. Read more",
+      "descEN": "Earlier this week, the park sim veterans at Frontier Developments began teasing Planet Zoo 2. Now, the sequel has been fully revealed, and it's coming later this year with a handful of huge additions. Read more",
+      "date": "28 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Subnautica 2 publisher Krafton now forced to pay $250m earnout to Unknown Worlds developers after more than 4m units sold",
+      "titleEN": "Subnautica 2 publisher Krafton now forced to pay $250m earnout to Unknown Worlds developers after more than 4m units sold",
+      "desc": "Subnautica 2 has been off to a stellar start despite some discussions over fighting alien fish, with 2m copies sold within 12 hours of launching on Steam and Xbox's storefronts. Since its 14th May launch, its success has only become bigger, and now K",
+      "descEN": "Subnautica 2 has been off to a stellar start despite some discussions over fighting alien fish, with 2m copies sold within 12 hours of launching on Steam and Xbox's storefronts. Since its 14th May launch, its success has only become bigger, and now K",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
-      "id": "n8",
-      "title": "Hideo Kojima and Nicolas Winding Refn have teamed up for a Prada mode event teaser exploring \"new creative possibilities through AI technology\"",
-      "titleEN": "Hideo Kojima and Nicolas Winding Refn have teamed up for a Prada mode event teaser exploring \"new creative possibilities through AI technology\"",
-      "desc": "Hideo Kojima and filmmaker Nicolas Winding Refn have teamed up again after Death Stranding 2, but they aren't working on a new game or movie. Instead, they've released a short made with the help of AI tools for Prada. Read more",
-      "descEN": "Hideo Kojima and filmmaker Nicolas Winding Refn have teamed up again after Death Stranding 2, but they aren't working on a new game or movie. Instead, they've released a short made with the help of AI tools for Prada. Read more",
-      "date": "27 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
       "id": "n9",
-      "title": "No Man's Sky goes to war as Swarm update brings universe-ending threat, hundred-ship space battles, and a splash of… Splatoon?",
-      "titleEN": "No Man's Sky goes to war as Swarm update brings universe-ending threat, hundred-ship space battles, and a splash of… Splatoon?",
-      "desc": "Even if you're not particularly up on your No Man's Sky lore, you'll likely have at least heard in-game mention of the World of Glass, a kind of archival afterlife linked to the exploratory sci-fi game's ill-fated simulation. And in its latest update",
-      "descEN": "Even if you're not particularly up on your No Man's Sky lore, you'll likely have at least heard in-game mention of the World of Glass, a kind of archival afterlife linked to the exploratory sci-fi game's ill-fated simulation. And in its latest update",
-      "date": "27 de mayo de 2026",
+      "title": "Donkey Kong 64 finally arrives on Nintendo Switch Online next month",
+      "titleEN": "Donkey Kong 64 finally arrives on Nintendo Switch Online next month",
+      "desc": "90s classic Donkey Kong 64 is finally coming to Nintendo Switch Online. It will be available for all those Nintendo Switch Online + Expansion Pack subscribers from next month, on 4th June. Read more",
+      "descEN": "90s classic Donkey Kong 64 is finally coming to Nintendo Switch Online. It will be available for all those Nintendo Switch Online + Expansion Pack subscribers from next month, on 4th June. Read more",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
-      "tag": "Actualización"
+      "tag": "Expansión"
     },
     {
       "id": "n10",
-      "title": "Mina the Hollower is an 8-bit world of complex wonder",
-      "titleEN": "Mina the Hollower is an 8-bit world of complex wonder",
-      "desc": "My favourite moment in The Legend of Zelda: Link's Awakening happens in a library. You're wandering between the stacks, trying to learn more about this strange island you've washed up on, when you spy a book that's hidden up high, stuck at the top of",
-      "descEN": "My favourite moment in The Legend of Zelda: Link's Awakening happens in a library. You're wandering between the stacks, trying to learn more about this strange island you've washed up on, when you spy a book that's hidden up high, stuck at the top of",
-      "date": "27 de mayo de 2026",
+      "title": "A Pragmata sequel? Well, \"of course\" Capcom's game director would love one, but alas, he is \"not the only one who decides\"",
+      "titleEN": "A Pragmata sequel? Well, \"of course\" Capcom's game director would love one, but alas, he is \"not the only one who decides\"",
+      "desc": "Pragmata's director would \"of course\" love to make a sequel to Capcom's space-based small girl and astronaut starring game, but he isn't the only person who needs to give it the green light. Read more",
+      "descEN": "Pragmata's director would \"of course\" love to make a sequel to Capcom's space-based small girl and astronaut starring game, but he isn't the only person who needs to give it the green light. Read more",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Resident Evil Requiem finally has a free PC and console demo, three months after the full game released",
-      "titleEN": "Resident Evil Requiem finally has a free PC and console demo, three months after the full game released",
-      "desc": "Three months after its full release, Capcom has announced a demo for Resident Evil Requiem. Read more",
-      "descEN": "Three months after its full release, Capcom has announced a demo for Resident Evil Requiem. Read more",
-      "date": "27 de mayo de 2026",
+      "title": "Fortnite's return to the Apple App Store and iOS has caused an eight-year record surge in downloads, with a spike in daily activity, too",
+      "titleEN": "Fortnite's return to the Apple App Store and iOS has caused an eight-year record surge in downloads, with a spike in daily activity, too",
+      "desc": "Fortnite has faced tons of difficulties in recent times, with engagement going down and massive layoffs at Epic affecting its short-term creative potential. However, its recent return to the Apple App Store has kickstarted a surge in downloads and ac",
+      "descEN": "Fortnite has faced tons of difficulties in recent times, with engagement going down and massive layoffs at Epic affecting its short-term creative potential. However, its recent return to the Apple App Store has kickstarted a surge in downloads and ac",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Récord"
     },
     {
       "id": "n12",
-      "title": "Pokémon game sales cross 515m units as The Pokémon Company looks to Winds and Waves next year, and TCG production is ramping up too",
-      "titleEN": "Pokémon game sales cross 515m units as The Pokémon Company looks to Winds and Waves next year, and TCG production is ramping up too",
-      "desc": "Pok&eacute;mon Winds and Waves will no doubt be huge when the two games launch on Nintendo Switch 2 in 2027, but Pok&eacute;mon is thriving regardless of what's going on in the mainline series. Legends: Z-A had a killer debut last year, and you don't",
-      "descEN": "Pok&eacute;mon Winds and Waves will no doubt be huge when the two games launch on Nintendo Switch 2 in 2027, but Pok&eacute;mon is thriving regardless of what's going on in the mainline series. Legends: Z-A had a killer debut last year, and you don't",
-      "date": "27 de mayo de 2026",
+      "title": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
+      "titleEN": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
+      "desc": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
+      "descEN": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
+      "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
     }
