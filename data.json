@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-27T20:13:40.134Z",
+  "generatedAt": "2026-05-28T02:57:56.446Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -78,7 +78,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -95,7 +95,7 @@
       "rating": 4,
       "title": "Tomb Raider I-III Remastered Starring Lara Croft",
       "desc": "Encuentra Tomb Raider I-III Remastered Starring Lara Croft al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Tomb Raider I-III Remastered Starring Lara Croft at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Tomb Raider I-III Remastered Starring Lara Croft is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -110,7 +110,7 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -127,7 +127,7 @@
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
       "desc": "Oferta especial de Middle-earth: The Shadow Bundle en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
