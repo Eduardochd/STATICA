@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:50:10.511Z",
+  "generatedAt": "2026-05-28T20:20:55.186Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -85,7 +85,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -100,8 +100,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -110,11 +110,57 @@
           "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D"
         }
       ]
+    },
+    {
+      "id": "g6",
+      "steamAppId": 648168,
+      "rating": 4,
+      "title": "Middle-earth: The Shadow Bundle",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=5u2%2Brrz%2BTcuDR9HAefNkfN%2BJsj6LIP8YpMQLuI%2F%2B16o%3D"
+        }
+      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct",
+      "titleEN": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct",
+      "desc": "So the rumours were true: CD Projekt Red did originally plan to release Witcher 3 expansion Songs of the Past this year, but it changed its plan to 2027 to achieve \"the best possible result\". Read more",
+      "descEN": "So the rumours were true: CD Projekt Red did originally plan to release Witcher 3 expansion Songs of the Past this year, but it changed its plan to 2027 to achieve \"the best possible result\". Read more",
+      "date": "28 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n2",
+      "title": "CD Projekt Red reveals huge The Witcher 3 sales milestone, which helps explain why a third expansion is in development 11 years later",
+      "titleEN": "CD Projekt Red reveals huge The Witcher 3 sales milestone, which helps explain why a third expansion is in development 11 years later",
+      "desc": "Why is CD Projekt Red making a third expansion for The Witcher 3: Wild Hunt, more than a decade after the original game was released? A newly revealed sales milestone of 65 million units probably has something to do with it. That's a hell of an insta",
+      "descEN": "Why is CD Projekt Red making a third expansion for The Witcher 3: Wild Hunt, more than a decade after the original game was released? A newly revealed sales milestone of 65 million units probably has something to do with it. That's a hell of an insta",
+      "date": "28 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n3",
+      "title": "Unlike The Sims, early access hit Paralives will \"never\" have paid DLC and will stick to free updates, devs say",
+      "titleEN": "Unlike The Sims, early access hit Paralives will \"never\" have paid DLC and will stick to free updates, devs say",
+      "desc": "Though we'd known about it for quite some time, breezy life simulator Paralives has managed to become one of this month's surprise hits. With over 250k copies sold in less than eight hours, it was off to a great start on Steam earlier this week, and ",
+      "descEN": "Though we'd known about it for quite some time, breezy life simulator Paralives has managed to become one of this month's surprise hits. With over 250k copies sold in less than eight hours, it was off to a great start on Steam earlier this week, and ",
+      "date": "28 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n4",
       "title": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
       "titleEN": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
       "desc": "Activision and Infinity Ward have revealed Call of Duty: Modern Warfare 4. It's launching on Xbox Series X/S, PS5, PC, and Nintendo Switch 2 on the 23rd October, 2026. Read more",
@@ -124,7 +170,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
       "titleEN": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
       "desc": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
@@ -134,7 +180,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
       "titleEN": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
       "desc": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
@@ -144,7 +190,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
       "titleEN": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
       "desc": "Heroes of Might and Magic: Olden Era, the latest entry in the iconic turn-based fantasy strategy series, has convinced most players so far, but it's got a long early access journey ahead. Today, publisher Hooded Horse and developer Unfrozen Studio ha",
@@ -154,7 +200,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
       "titleEN": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
       "desc": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light. Read more",
@@ -164,7 +210,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
       "titleEN": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
       "desc": "A third Witcher 3 expansion, Songs of the Past, was only announced yesterday, but it appears we've seen the sword Geralt unsheaths in the artwork before. Read more",
@@ -174,7 +220,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
       "titleEN": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
       "desc": "Earlier this week, the park sim veterans at Frontier Developments began teasing Planet Zoo 2. Now, the sequel has been fully revealed, and it's coming later this year with a handful of huge additions. Read more",
@@ -184,7 +230,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "Subnautica 2 publisher Krafton now forced to pay $250m earnout to Unknown Worlds developers after more than 4m units sold",
       "titleEN": "Subnautica 2 publisher Krafton now forced to pay $250m earnout to Unknown Worlds developers after more than 4m units sold",
       "desc": "Subnautica 2 has been off to a stellar start despite some discussions over fighting alien fish, with 2m copies sold within 12 hours of launching on Steam and Xbox's storefronts. Since its 14th May launch, its success has only become bigger, and now K",
@@ -194,7 +240,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "Donkey Kong 64 finally arrives on Nintendo Switch Online next month",
       "titleEN": "Donkey Kong 64 finally arrives on Nintendo Switch Online next month",
       "desc": "90s classic Donkey Kong 64 is finally coming to Nintendo Switch Online. It will be available for all those Nintendo Switch Online + Expansion Pack subscribers from next month, on 4th June. Read more",
@@ -202,36 +248,6 @@
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Expansión"
-    },
-    {
-      "id": "n10",
-      "title": "A Pragmata sequel? Well, \"of course\" Capcom's game director would love one, but alas, he is \"not the only one who decides\"",
-      "titleEN": "A Pragmata sequel? Well, \"of course\" Capcom's game director would love one, but alas, he is \"not the only one who decides\"",
-      "desc": "Pragmata's director would \"of course\" love to make a sequel to Capcom's space-based small girl and astronaut starring game, but he isn't the only person who needs to give it the green light. Read more",
-      "descEN": "Pragmata's director would \"of course\" love to make a sequel to Capcom's space-based small girl and astronaut starring game, but he isn't the only person who needs to give it the green light. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Fortnite's return to the Apple App Store and iOS has caused an eight-year record surge in downloads, with a spike in daily activity, too",
-      "titleEN": "Fortnite's return to the Apple App Store and iOS has caused an eight-year record surge in downloads, with a spike in daily activity, too",
-      "desc": "Fortnite has faced tons of difficulties in recent times, with engagement going down and massive layoffs at Epic affecting its short-term creative potential. However, its recent return to the Apple App Store has kickstarted a surge in downloads and ac",
-      "descEN": "Fortnite has faced tons of difficulties in recent times, with engagement going down and massive layoffs at Epic affecting its short-term creative potential. However, its recent return to the Apple App Store has kickstarted a surge in downloads and ac",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n12",
-      "title": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
-      "titleEN": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
-      "desc": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
-      "descEN": "Right after dropping the untimely news Destiny 2 won't be getting more support after June, Bungie is ramping up work on Marathon, with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
