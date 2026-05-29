@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:52:12.200Z",
+  "generatedAt": "2026-05-29T15:24:06.764Z",
   "games": [
     {
       "id": "g1",
@@ -19,26 +19,10 @@
     },
     {
       "id": "g2",
-      "steamAppId": 3472040,
-      "rating": 4,
-      "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "GMG",
-          "price": 8.04,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=dua6N5u4HYIU5lUexFlvkjLixz5RHy0a4lzdZENh64A%3D"
-        }
-      ]
-    },
-    {
-      "id": "g3",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -80,11 +64,11 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g3",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -96,11 +80,11 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Encuentra EA SPORTS PGA TOUR al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -112,11 +96,11 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Middle-earth: The Shadow Bundle is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -131,6 +115,56 @@
   "news": [
     {
       "id": "n1",
+      "title": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
+      "titleEN": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
+      "desc": "Earlier this week, Valve announced a steep price increase for its Steam Deck OLED models. In the UK, would-be-buyers saw a rise of over &pound;200 for the company's chunkier 1TB Steam Deck OLED model, which increased from &pound;569 to &pound;779. It",
+      "descEN": "Earlier this week, Valve announced a steep price increase for its Steam Deck OLED models. In the UK, would-be-buyers saw a rise of over &pound;200 for the company's chunkier 1TB Steam Deck OLED model, which increased from &pound;569 to &pound;779. It",
+      "date": "29 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
+      "titleEN": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
+      "desc": "The new James Bond game, 007 First Light, seems to be enjoying a very positive response. We were charmed in our 007 First Light review, and judging by the impressive 007 First Light launch sales, many of you were too. The chances of developer IO Inte",
+      "descEN": "The new James Bond game, 007 First Light, seems to be enjoying a very positive response. We were charmed in our 007 First Light review, and judging by the impressive 007 First Light launch sales, many of you were too. The chances of developer IO Inte",
+      "date": "29 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n3",
+      "title": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
+      "titleEN": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
+      "desc": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB). It comes as the IWGB is preparing to take the Grand T",
+      "descEN": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB). It comes as the IWGB is preparing to take the Grand T",
+      "date": "29 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
+      "titleEN": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
+      "desc": "The 1.09.00 Patch for Crimson Desert has arrived, just one week after the last patch - proving that developer Pearl Abyss is moving at a rate of knots when it comes to fixing and updating its massively popular RPG. Read more",
+      "descEN": "The 1.09.00 Patch for Crimson Desert has arrived, just one week after the last patch - proving that developer Pearl Abyss is moving at a rate of knots when it comes to fixing and updating its massively popular RPG. Read more",
+      "date": "29 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n5",
+      "title": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
+      "titleEN": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
+      "desc": "Microsoft's recent decision to cut the price of Xbox Game Pass seems to have done what it was designed to do and increase Game Pass subscriber activity. Read more",
+      "descEN": "Microsoft's recent decision to cut the price of Xbox Game Pass seems to have done what it was designed to do and increase Game Pass subscriber activity. Read more",
+      "date": "29 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
       "title": "Mina the Hollower review",
       "titleEN": "Mina the Hollower review",
       "desc": "Here is a game that feels like an adventure. And it feels like it was an adventure to make, too. Mina the Hollower took six years to design and build, six years that took it from what sounds like a kind of coding doodle to a panoramic journey across ",
@@ -140,7 +174,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n7",
       "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours",
       "titleEN": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours",
       "desc": "IO Interactive's Bond origin game 007 First Light has already reached an impressive milestone. Read more",
@@ -150,7 +184,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct",
       "titleEN": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct",
       "desc": "So the rumours were true: CD Projekt Red did originally plan to release Witcher 3 expansion Songs of the Past this year, but it changed its plan to 2027 to achieve \"the best possible result\". Read more",
@@ -160,7 +194,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "CD Projekt Red reveals huge The Witcher 3 sales milestone, which helps explain why a third expansion is in development 11 years later",
       "titleEN": "CD Projekt Red reveals huge The Witcher 3 sales milestone, which helps explain why a third expansion is in development 11 years later",
       "desc": "Why is CD Projekt Red making a third expansion for The Witcher 3: Wild Hunt, more than a decade after the original game was released? A newly revealed sales milestone of 65 million units probably has something to do with it. That's a hell of an insta",
@@ -170,7 +204,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "Unlike The Sims, early access hit Paralives will \"never\" have paid DLC and will stick to free updates, devs say",
       "titleEN": "Unlike The Sims, early access hit Paralives will \"never\" have paid DLC and will stick to free updates, devs say",
       "desc": "Though we'd known about it for quite some time, breezy life simulator Paralives has managed to become one of this month's surprise hits. With over 250k copies sold in less than eight hours, it was off to a great start on Steam earlier this week, and ",
@@ -180,7 +214,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
       "titleEN": "Call of Duty: Modern Warfare 4 finally revealed, and it's officially leaving last-generation consoles behind",
       "desc": "Activision and Infinity Ward have revealed Call of Duty: Modern Warfare 4. It's launching on Xbox Series X/S, PS5, PC, and Nintendo Switch 2 on the 23rd October, 2026. Read more",
@@ -190,61 +224,11 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
       "titleEN": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
       "desc": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
       "descEN": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
-      "titleEN": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
-      "desc": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
-      "descEN": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
-      "titleEN": "Heroes of Might and Magic: Olden Era reveals early access roadmap as publisher Hooded Horse celebrates 1m copies sold during its first month",
-      "desc": "Heroes of Might and Magic: Olden Era, the latest entry in the iconic turn-based fantasy strategy series, has convinced most players so far, but it's got a long early access journey ahead. Today, publisher Hooded Horse and developer Unfrozen Studio ha",
-      "descEN": "Heroes of Might and Magic: Olden Era, the latest entry in the iconic turn-based fantasy strategy series, has convinced most players so far, but it's got a long early access journey ahead. Today, publisher Hooded Horse and developer Unfrozen Studio ha",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
-      "titleEN": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\"",
-      "desc": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light. Read more",
-      "descEN": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
-      "titleEN": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before",
-      "desc": "A third Witcher 3 expansion, Songs of the Past, was only announced yesterday, but it appears we've seen the sword Geralt unsheaths in the artwork before. Read more",
-      "descEN": "A third Witcher 3 expansion, Songs of the Past, was only announced yesterday, but it appears we've seen the sword Geralt unsheaths in the artwork before. Read more",
-      "date": "28 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n12",
-      "title": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
-      "titleEN": "Planet Zoo 2 finally revealed after much teasing, with an autumn release date, aquatic and flying species, and the ability to conserve outside of your zoo",
-      "desc": "Earlier this week, the park sim veterans at Frontier Developments began teasing Planet Zoo 2. Now, the sequel has been fully revealed, and it's coming later this year with a handful of huge additions. Read more",
-      "descEN": "Earlier this week, the park sim veterans at Frontier Developments began teasing Planet Zoo 2. Now, the sequel has been fully revealed, and it's coming later this year with a handful of huge additions. Read more",
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
