@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-28T20:20:55.186Z",
+  "generatedAt": "2026-05-29T03:27:50.475Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -84,8 +84,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -100,8 +100,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -171,20 +171,20 @@
     },
     {
       "id": "n5",
-      "title": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
-      "titleEN": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
-      "desc": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
-      "descEN": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
+      "title": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
+      "titleEN": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
+      "desc": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
+      "descEN": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
-      "titleEN": "\"We make an entertainment product\" - Call of Duty: Modern Warfare 4 leads on their sure to be controversial North vs South Korea campaign",
-      "desc": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
-      "descEN": "Call of Duty: Modern Warfare 4 is taking the series to South Korea. The campaign starts with North Korean missiles reigning down on a densely packed urban environment, and puts you in the shoes of soldiers in the midst of this chaos. Read more",
+      "title": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
+      "titleEN": "Call of Duty is in need of a big win, and Modern Warfare 4's multiplayer might be it",
+      "desc": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
+      "descEN": "Call of Duty is in desperate need of a win. Black Ops 7 was the climax of rising displeasure in the established formula. It lacked that bite, amongst other things. It missed the mark for many, especially compared to older entries. Read more",
       "date": "28 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
