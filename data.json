@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:23:19.437Z",
+  "generatedAt": "2026-05-30T02:54:31.137Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -84,8 +84,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the EA SPORTS PGA TOUR deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -100,7 +100,7 @@
       "steamAppId": 648168,
       "rating": 4,
       "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Aprovecha la oferta de Middle-earth: The Shadow Bundle en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find Middle-earth: The Shadow Bundle at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
