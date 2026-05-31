@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-31T08:43:29.230Z",
+  "generatedAt": "2026-05-31T13:42:13.623Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Cheap Car Repair al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Cheap Car Repair is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -84,7 +84,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -100,8 +100,8 @@
       "steamAppId": 4216650,
       "rating": 4,
       "title": "Tennis Manager 26",
-      "desc": "Oferta especial de Tennis Manager 26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Tennis Manager 26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Tennis Manager 26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Tennis Manager 26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -117,7 +117,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -131,6 +131,56 @@
   "news": [
     {
       "id": "n1",
+      "title": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
+      "titleEN": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
+      "desc": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2. Read more",
+      "descEN": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2. Read more",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
+      "titleEN": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
+      "desc": "Ace Combat 8: Wings of Theve, has popped up on the PEGI website with a \"pre-release date\": 30th May, 2026. Read more",
+      "descEN": "Ace Combat 8: Wings of Theve, has popped up on the PEGI website with a \"pre-release date\": 30th May, 2026. Read more",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
+      "titleEN": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
+      "desc": "Tomodachi Life: Living the Dream was the best-selling game in the US last month. Read more",
+      "descEN": "Tomodachi Life: Living the Dream was the best-selling game in the US last month. Read more",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
+      "titleEN": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
+      "desc": "Twitch has announced it's launching dual-format streaming next month, a new system that lets creators stream in both horizontal and vertical formats at the same time. Read more",
+      "descEN": "Twitch has announced it's launching dual-format streaming next month, a new system that lets creators stream in both horizontal and vertical formats at the same time. Read more",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
+      "titleEN": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
+      "desc": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
+      "descEN": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
       "title": "Stop Killing Games consumer protection bill passes floor vote in California",
       "titleEN": "Stop Killing Games consumer protection bill passes floor vote in California",
       "desc": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
@@ -140,7 +190,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n7",
       "title": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
       "titleEN": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
       "desc": "Marcia Lucas, the Academy Award-winning editor and former wife of Star Wars creator George Lucas, has died aged 80. Read more",
@@ -150,7 +200,7 @@
       "tag": "Premios"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
       "titleEN": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
       "desc": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game. As an ARPG, the chase of ever more powerful loot is a core part of the experience, and the game's next season will deliver something of a shake-",
@@ -160,7 +210,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
       "titleEN": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
       "desc": "I will hold my hands up and say I did not expect Lego Batman: The Legacy of the Dark Knight to be this good, or to throw so many references to the Caped Crusader's vast history into your adventure around Gotham. Read more",
@@ -170,7 +220,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "What we've been playing - \"The following day, I kid you not, our TV broke\"",
       "titleEN": "What we've been playing - \"The following day, I kid you not, our TV broke\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Marie pootles around Japan in whatever season it happens to be; Victoria suspects her husband of breaking their TV; Chris walks the o",
@@ -180,7 +230,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "Fable reboot delayed to 2027 amid reported GTA 6 'worries'",
       "titleEN": "Fable reboot delayed to 2027 amid reported GTA 6 'worries'",
       "desc": "Playground Games' much-anticipated reboot of Fable has been delayed. It's now set to release in February 2027.\n Read more",
@@ -190,61 +240,11 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
       "titleEN": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
       "desc": "Earlier this week, Valve announced a steep price increase for its Steam Deck OLED models. In the UK, would-be-buyers saw a rise of over &pound;200 for the company's chunkier 1TB Steam Deck OLED model, which increased from &pound;569 to &pound;779. It",
       "descEN": "Earlier this week, Valve announced a steep price increase for its Steam Deck OLED models. In the UK, would-be-buyers saw a rise of over &pound;200 for the company's chunkier 1TB Steam Deck OLED model, which increased from &pound;569 to &pound;779. It",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
-      "titleEN": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
-      "desc": "The new James Bond game, 007 First Light, seems to be enjoying a very positive response. We were charmed in our 007 First Light review, and judging by the impressive 007 First Light launch sales, many of you were too. The chances of developer IO Inte",
-      "descEN": "The new James Bond game, 007 First Light, seems to be enjoying a very positive response. We were charmed in our 007 First Light review, and judging by the impressive 007 First Light launch sales, many of you were too. The chances of developer IO Inte",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n9",
-      "title": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
-      "titleEN": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
-      "desc": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB). It comes as the IWGB is preparing to take the Grand T",
-      "descEN": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB). It comes as the IWGB is preparing to take the Grand T",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
-      "titleEN": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
-      "desc": "The 1.09.00 Patch for Crimson Desert has arrived, just one week after the last patch - proving that developer Pearl Abyss is moving at a rate of knots when it comes to fixing and updating its massively popular RPG. Read more",
-      "descEN": "The 1.09.00 Patch for Crimson Desert has arrived, just one week after the last patch - proving that developer Pearl Abyss is moving at a rate of knots when it comes to fixing and updating its massively popular RPG. Read more",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
-      "titleEN": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
-      "desc": "Microsoft's recent decision to cut the price of Xbox Game Pass seems to have done what it was designed to do and increase Game Pass subscriber activity. Read more",
-      "descEN": "Microsoft's recent decision to cut the price of Xbox Game Pass seems to have done what it was designed to do and increase Game Pass subscriber activity. Read more",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Mina the Hollower review",
-      "titleEN": "Mina the Hollower review",
-      "desc": "Here is a game that feels like an adventure. And it feels like it was an adventure to make, too. Mina the Hollower took six years to design and build, six years that took it from what sounds like a kind of coding doodle to a panoramic journey across ",
-      "descEN": "Here is a game that feels like an adventure. And it feels like it was an adventure to make, too. Mina the Hollower took six years to design and build, six years that took it from what sounds like a kind of coding doodle to a panoramic journey across ",
       "date": "29 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
