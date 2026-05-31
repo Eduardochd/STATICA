@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T03:40:07.798Z",
+  "generatedAt": "2026-05-31T08:43:29.230Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Encuentra Cheap Car Repair al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Cheap Car Repair is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -55,21 +55,27 @@
         },
         {
           "store": "Epic",
+          "price": 6.99,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
+        },
+        {
+          "store": "Epic",
           "price": 11.99,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=XyIIY%2BgeiJPMDHgAAFDvAWXSLba3dskyaLSZeitYbTI%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 15.99,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2B%2B%2BZjI0GvjSw353acg1bDqxdxGmTk31Y1IXYt5w22Ik%3D"
         },
         {
           "store": "GMG",
           "price": 7.04,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=4RnTrGtxny7DX7k%2FrtgmDkYlFRiDVRSRkMdQ%2F6%2FmcCI%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=5NP9WTpLyOXJsCKLx7dvS%2FTY8AzM99FFStnmJalLdNg%3D"
         }
       ]
     },
@@ -78,7 +84,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -91,11 +97,27 @@
     },
     {
       "id": "g5",
+      "steamAppId": 4216650,
+      "rating": 4,
+      "title": "Tennis Manager 26",
+      "desc": "Oferta especial de Tennis Manager 26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Tennis Manager 26 on GMG. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "GMG",
+          "price": 29.51,
+          "original": 39.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=nlPOk3hmCxjv7wua2%2F7kIyb6CcUzeiPY%2FmLGosRcoTc%3D"
+        }
+      ]
+    },
+    {
+      "id": "g6",
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "EA SPORTS PGA TOUR está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -104,27 +126,21 @@
           "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D"
         }
       ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 648168,
-      "rating": 4,
-      "title": "Middle-earth: The Shadow Bundle",
-      "desc": "Encuentra Middle-earth: The Shadow Bundle al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Middle-earth: The Shadow Bundle deal on Epic. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=5u2%2Brrz%2BTcuDR9HAefNkfN%2BJsj6LIP8YpMQLuI%2F%2B16o%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Stop Killing Games consumer protection bill passes floor vote in California",
+      "titleEN": "Stop Killing Games consumer protection bill passes floor vote in California",
+      "desc": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
+      "descEN": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
+      "date": "31 de mayo de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
       "titleEN": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
       "desc": "Marcia Lucas, the Academy Award-winning editor and former wife of Star Wars creator George Lucas, has died aged 80. Read more",
@@ -134,7 +150,7 @@
       "tag": "Premios"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
       "titleEN": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
       "desc": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game. As an ARPG, the chase of ever more powerful loot is a core part of the experience, and the game's next season will deliver something of a shake-",
@@ -144,7 +160,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
       "titleEN": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
       "desc": "I will hold my hands up and say I did not expect Lego Batman: The Legacy of the Dark Knight to be this good, or to throw so many references to the Caped Crusader's vast history into your adventure around Gotham. Read more",
@@ -154,7 +170,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "What we've been playing - \"The following day, I kid you not, our TV broke\"",
       "titleEN": "What we've been playing - \"The following day, I kid you not, our TV broke\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Marie pootles around Japan in whatever season it happens to be; Victoria suspects her husband of breaking their TV; Chris walks the o",
@@ -164,7 +180,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Fable reboot delayed to 2027 amid reported GTA 6 'worries'",
       "titleEN": "Fable reboot delayed to 2027 amid reported GTA 6 'worries'",
       "desc": "Playground Games' much-anticipated reboot of Fable has been delayed. It's now set to release in February 2027.\n Read more",
@@ -174,7 +190,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
       "titleEN": "\"This market is not behaving normally\" - analysts react to Valve's Steam Deck price increases, and what it means for the cost of the upcoming Steam Machine",
       "desc": "Earlier this week, Valve announced a steep price increase for its Steam Deck OLED models. In the UK, would-be-buyers saw a rise of over &pound;200 for the company's chunkier 1TB Steam Deck OLED model, which increased from &pound;569 to &pound;779. It",
@@ -184,7 +200,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
       "titleEN": "After 007 First Light, IO Interactive's next game probably won't be another James Bond or a Hitman, but rather something else entirely",
       "desc": "The new James Bond game, 007 First Light, seems to be enjoying a very positive response. We were charmed in our 007 First Light review, and judging by the impressive 007 First Light launch sales, many of you were too. The chances of developer IO Inte",
@@ -194,7 +210,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
       "titleEN": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
       "desc": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB). It comes as the IWGB is preparing to take the Grand T",
@@ -204,7 +220,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
       "titleEN": "Crimson Desert's 1.09.00 patch adds another highly-requested player feature (as well as loads of new pets)",
       "desc": "The 1.09.00 Patch for Crimson Desert has arrived, just one week after the last patch - proving that developer Pearl Abyss is moving at a rate of knots when it comes to fixing and updating its massively popular RPG. Read more",
@@ -214,7 +230,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
       "titleEN": "The Xbox Game Pass price cut is working, Asha Sharma reportedly tells staff, but \"we will not solve this in one moment or one launch\"",
       "desc": "Microsoft's recent decision to cut the price of Xbox Game Pass seems to have done what it was designed to do and increase Game Pass subscriber activity. Read more",
@@ -224,7 +240,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "Mina the Hollower review",
       "titleEN": "Mina the Hollower review",
       "desc": "Here is a game that feels like an adventure. And it feels like it was an adventure to make, too. Mina the Hollower took six years to design and build, six years that took it from what sounds like a kind of coding doodle to a panoramic journey across ",
@@ -232,16 +248,6 @@
       "date": "29 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours",
-      "titleEN": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours",
-      "desc": "IO Interactive's Bond origin game 007 First Light has already reached an impressive milestone. Read more",
-      "descEN": "IO Interactive's Bond origin game 007 First Light has already reached an impressive milestone. Read more",
-      "date": "29 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
