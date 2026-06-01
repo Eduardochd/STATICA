@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-01T11:31:03.472Z",
+  "generatedAt": "2026-06-01T17:35:46.643Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Aprovecha la oferta de Cheap Car Repair en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Cheap Car Repair al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Cheap Car Repair deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -38,7 +38,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -72,6 +72,12 @@
           "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D"
         },
         {
+          "store": "GOG",
+          "price": 12.59,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Y0t%2FUeiUVoKbuJssjfc6yYV2KBawcSfYHz6i%2FyTdLEg%3D"
+        },
+        {
           "store": "GMG",
           "price": 13.5,
           "original": 99.99,
@@ -82,12 +88,6 @@
           "price": 14.4,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 18,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=22o5UnQfoTYBx%2B7WAPAQG58DTIqDyKD%2Bpk8t7YNZQaI%3D"
         }
       ]
     },
@@ -96,8 +96,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -112,7 +112,7 @@
       "steamAppId": 4216650,
       "rating": 4,
       "title": "Tennis Manager 26",
-      "desc": "Tennis Manager 26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Tennis Manager 26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Tennis Manager 26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -143,6 +143,116 @@
   "news": [
     {
       "id": "n1",
+      "title": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
+      "titleEN": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
+      "desc": "As player numbers leap alongside Path of Exile 2's final early access update, and the game's prospective 1.0 release later this year, a question arises about the future of Path of Exile 1. Will it be elbowed out? In short: no. Grinding Gear Games int",
+      "descEN": "As player numbers leap alongside Path of Exile 2's final early access update, and the game's prospective 1.0 release later this year, a question arises about the future of Path of Exile 1. Will it be elbowed out? In short: no. Grinding Gear Games int",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n2",
+      "title": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
+      "titleEN": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
+      "desc": "Nvidia has announced the RTX Spark computer chip, which it claims will revolutionize personal computing thanks to its AI capabilities. Read more",
+      "descEN": "Nvidia has announced the RTX Spark computer chip, which it claims will revolutionize personal computing thanks to its AI capabilities. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
+      "titleEN": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
+      "desc": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience. Since then, a few more balance patches have hit, bu",
+      "descEN": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience. Since then, a few more balance patches have hit, bu",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n4",
+      "title": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
+      "titleEN": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
+      "desc": "The Steam Machine, once thought to be targeting the first quarter of 2026, was pushed back earlier in the year to an indefinite date - even if maker Valve continued to insist the PC-in-console-clothing remains on track for release in 2026. The new ta",
+      "descEN": "The Steam Machine, once thought to be targeting the first quarter of 2026, was pushed back earlier in the year to an indefinite date - even if maker Valve continued to insist the PC-in-console-clothing remains on track for release in 2026. The new ta",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n5",
+      "title": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
+      "titleEN": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
+      "desc": "The sequel to last year's box office smash A Minecraft Movie - now officially known as A Minecraft Movie Squared - will be released next year, on 23rd July. Read more",
+      "descEN": "The sequel to last year's box office smash A Minecraft Movie - now officially known as A Minecraft Movie Squared - will be released next year, on 23rd July. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
+      "titleEN": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
+      "desc": "An ESRB rating for Minecraft on the Nintendo Switch 2 has appeared just a few days ahead of Summer Game Fest. Read more",
+      "descEN": "An ESRB rating for Minecraft on the Nintendo Switch 2 has appeared just a few days ahead of Summer Game Fest. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n7",
+      "title": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
+      "titleEN": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
+      "desc": "As HBO plots a Baldur's Gate 3 sequel series, the future of the property seems unclear, with BG3 developer Larian Studios choosing to pursue a new Divinity instead. A new report is now suggesting what's next might be a return to the past. Yes, Baldur",
+      "descEN": "As HBO plots a Baldur's Gate 3 sequel series, the future of the property seems unclear, with BG3 developer Larian Studios choosing to pursue a new Divinity instead. A new report is now suggesting what's next might be a return to the past. Yes, Baldur",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
+      "titleEN": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
+      "desc": "Mina the Hollower is a smash hit, with heaps of players flocking to Yacht Club's retro-inspired action adventure. However, a section of the playerbase have asked the bold question: is it too hard? Read more",
+      "descEN": "Mina the Hollower is a smash hit, with heaps of players flocking to Yacht Club's retro-inspired action adventure. However, a section of the playerbase have asked the bold question: is it too hard? Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
+      "title": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
+      "titleEN": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
+      "desc": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
+      "descEN": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n10",
+      "title": "\"The live-action Smurfs movie paid for itself entirely through product placement\" - Former Dragon Age boss suggests games can be funded another way",
+      "titleEN": "\"The live-action Smurfs movie paid for itself entirely through product placement\" - Former Dragon Age boss suggests games can be funded another way",
+      "desc": "Is there a better way to fund live service games that won't result in so many of them ending abruptly or being eventually turned off? Former Dragon Age and Anthem executive producer Mark Darrah believes there is. Read more",
+      "descEN": "Is there a better way to fund live service games that won't result in so many of them ending abruptly or being eventually turned off? Former Dragon Age and Anthem executive producer Mark Darrah believes there is. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n11",
+      "title": "The Witcher 3 expansion Songs of the Past is being made by as many people as made The Witcher 3 - potentially even more",
+      "titleEN": "The Witcher 3 expansion Songs of the Past is being made by as many people as made The Witcher 3 - potentially even more",
+      "desc": "There are as many people making The Witcher 3 expansion Songs of the Past - potentially more - than made the original base Witcher 3 game. Read more",
+      "descEN": "There are as many people making The Witcher 3 expansion Songs of the Past - potentially more - than made the original base Witcher 3 game. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n12",
       "title": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
       "titleEN": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
       "desc": "The Outer Worlds: Spacer's Choice Edition isn't a new release; it launched back in early 2023 with plenty of problems. Somehow, it's now giving players a headache more than three years later, after Obsidian Entertainment promised a free upgrade path ",
@@ -150,116 +260,6 @@
       "date": "1 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
-    },
-    {
-      "id": "n2",
-      "title": "Arc Raiders might be getting a PvE-focused map condition according to limited tests for the Chinese version of the extraction shooter",
-      "titleEN": "Arc Raiders might be getting a PvE-focused map condition according to limited tests for the Chinese version of the extraction shooter",
-      "desc": "Even if Arc Raiders isn't as high up on the Steam charts as it was a few months ago, it's still doing well and choosing to step away from live-service tradition. Meanwhile, a new Chinese version of the game with region-specific quirks might be teasin",
-      "descEN": "Even if Arc Raiders isn't as high up on the Steam charts as it was a few months ago, it's still doing well and choosing to step away from live-service tradition. Meanwhile, a new Chinese version of the game with region-specific quirks might be teasin",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n3",
-      "title": "Lara Croft actress Sophie Turner hints at a long future ahead for Amazon's Tomb Raider series",
-      "titleEN": "Lara Croft actress Sophie Turner hints at a long future ahead for Amazon's Tomb Raider series",
-      "desc": "Amazon may not have officially announced a second season of its Tomb Raider TV series, but Lara Croft actress Sophie Turner already sounds confident there will be one. Read more",
-      "descEN": "Amazon may not have officially announced a second season of its Tomb Raider TV series, but Lara Croft actress Sophie Turner already sounds confident there will be one. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n4",
-      "title": "Tekken 8 game director Kohei Ikeda leaves after 20 years at Bandai Namco, amidst on-going series woes",
-      "titleEN": "Tekken 8 game director Kohei Ikeda leaves after 20 years at Bandai Namco, amidst on-going series woes",
-      "desc": "Kohei Ikeda - director of Tekken 8 and 20-year veteran at Bandai Namco - has announced his departure from the company. Read more",
-      "descEN": "Kohei Ikeda - director of Tekken 8 and 20-year veteran at Bandai Namco - has announced his departure from the company. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "Call of Duty: Modern Warfare 4 invites you to \"keep the receipts\" as it fights to be a more \"authentic\", \"grounded, and transparent\" shooter experience",
-      "titleEN": "Call of Duty: Modern Warfare 4 invites you to \"keep the receipts\" as it fights to be a more \"authentic\", \"grounded, and transparent\" shooter experience",
-      "desc": "Call of Duty: Modern Warfare 4's community team insists players can \"keep the receipts\" as it fights to remain \"authentic to what Modern Warfare is\". Read more",
-      "descEN": "Call of Duty: Modern Warfare 4's community team insists players can \"keep the receipts\" as it fights to remain \"authentic to what Modern Warfare is\". Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Another unannounced Rayman game, Rayman Origins: Enhanced Edition, briefly popped up on the Xbox Store",
-      "titleEN": "Another unannounced Rayman game, Rayman Origins: Enhanced Edition, briefly popped up on the Xbox Store",
-      "desc": "Screenshots and details of the unannounced Rayman Origins: Enhanced Edition has briefly popped up on the Xbox store. Read more",
-      "descEN": "Screenshots and details of the unannounced Rayman Origins: Enhanced Edition has briefly popped up on the Xbox store. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n7",
-      "title": "Xbox will \"adjust\" its promotional materials after fans slam decision to use rival logos in its showcases",
-      "titleEN": "Xbox will \"adjust\" its promotional materials after fans slam decision to use rival logos in its showcases",
-      "desc": "Xbox boss Asha Sharma has admitted that including competitor logos in Xbox teasers and showcase presentations is \"a miss\", confirming this will be \"adjusted\" for future Xbox showcases. Read more",
-      "descEN": "Xbox boss Asha Sharma has admitted that including competitor logos in Xbox teasers and showcase presentations is \"a miss\", confirming this will be \"adjusted\" for future Xbox showcases. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n8",
-      "title": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
-      "titleEN": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
-      "desc": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2. Read more",
-      "descEN": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
-      "titleEN": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
-      "desc": "Ace Combat 8: Wings of Theve, has popped up on the PEGI website with a \"pre-release date\": 30th May, 2026. Read more",
-      "descEN": "Ace Combat 8: Wings of Theve, has popped up on the PEGI website with a \"pre-release date\": 30th May, 2026. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
-      "titleEN": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
-      "desc": "Tomodachi Life: Living the Dream was the best-selling game in the US last month. Read more",
-      "descEN": "Tomodachi Life: Living the Dream was the best-selling game in the US last month. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
-      "titleEN": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
-      "desc": "Twitch has announced it's launching dual-format streaming next month, a new system that lets creators stream in both horizontal and vertical formats at the same time. Read more",
-      "descEN": "Twitch has announced it's launching dual-format streaming next month, a new system that lets creators stream in both horizontal and vertical formats at the same time. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
-      "titleEN": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
-      "desc": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
-      "descEN": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
