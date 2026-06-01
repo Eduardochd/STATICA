@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-01T03:54:53.622Z",
+  "generatedAt": "2026-06-01T11:31:03.472Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Cheap Car Repair",
       "desc": "Aprovecha la oferta de Cheap Car Repair en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Cheap Car Repair is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Cheap Car Repair deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -60,22 +60,34 @@
           "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
         },
         {
-          "store": "Humble",
-          "price": 15.99,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Y93nGwniEqLFXWQw9sGQbO3Nf6YTzzWEzUNd7mqtYuk%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 11.99,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=XyIIY%2BgeiJPMDHgAAFDvAWXSLba3dskyaLSZeitYbTI%3D"
+          "store": "GMG",
+          "price": 9.45,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D"
         },
         {
           "store": "GMG",
-          "price": 7.04,
+          "price": 12.15,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 13.5,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 14.4,
           "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=4RnTrGtxny7DX7k%2FrtgmDkYlFRiDVRSRkMdQ%2F6%2FmcCI%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 18,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=22o5UnQfoTYBx%2B7WAPAQG58DTIqDyKD%2Bpk8t7YNZQaI%3D"
         }
       ]
     },
@@ -85,7 +97,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -100,7 +112,7 @@
       "steamAppId": 4216650,
       "rating": 4,
       "title": "Tennis Manager 26",
-      "desc": "Encuentra Tennis Manager 26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Tennis Manager 26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Tennis Manager 26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -117,7 +129,7 @@
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
       "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "EA SPORTS PGA TOUR is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -126,27 +138,51 @@
           "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D"
         }
       ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 48000,
-      "rating": 4,
-      "title": "LIMBO",
-      "desc": "Oferta especial de LIMBO en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for LIMBO on Steam. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.24,
-          "original": 12.49,
-          "url": "https://www.cheapshark.com/redirect?dealID=X9XEB%2Fw3H%2BmI80UYR458fzGB9zWEHde%2Bz2e8vPvNWl4%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
+      "titleEN": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
+      "desc": "The Outer Worlds: Spacer's Choice Edition isn't a new release; it launched back in early 2023 with plenty of problems. Somehow, it's now giving players a headache more than three years later, after Obsidian Entertainment promised a free upgrade path ",
+      "descEN": "The Outer Worlds: Spacer's Choice Edition isn't a new release; it launched back in early 2023 with plenty of problems. Somehow, it's now giving players a headache more than three years later, after Obsidian Entertainment promised a free upgrade path ",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n2",
+      "title": "Arc Raiders might be getting a PvE-focused map condition according to limited tests for the Chinese version of the extraction shooter",
+      "titleEN": "Arc Raiders might be getting a PvE-focused map condition according to limited tests for the Chinese version of the extraction shooter",
+      "desc": "Even if Arc Raiders isn't as high up on the Steam charts as it was a few months ago, it's still doing well and choosing to step away from live-service tradition. Meanwhile, a new Chinese version of the game with region-specific quirks might be teasin",
+      "descEN": "Even if Arc Raiders isn't as high up on the Steam charts as it was a few months ago, it's still doing well and choosing to step away from live-service tradition. Meanwhile, a new Chinese version of the game with region-specific quirks might be teasin",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Lara Croft actress Sophie Turner hints at a long future ahead for Amazon's Tomb Raider series",
+      "titleEN": "Lara Croft actress Sophie Turner hints at a long future ahead for Amazon's Tomb Raider series",
+      "desc": "Amazon may not have officially announced a second season of its Tomb Raider TV series, but Lara Croft actress Sophie Turner already sounds confident there will be one. Read more",
+      "descEN": "Amazon may not have officially announced a second season of its Tomb Raider TV series, but Lara Croft actress Sophie Turner already sounds confident there will be one. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Tekken 8 game director Kohei Ikeda leaves after 20 years at Bandai Namco, amidst on-going series woes",
+      "titleEN": "Tekken 8 game director Kohei Ikeda leaves after 20 years at Bandai Namco, amidst on-going series woes",
+      "desc": "Kohei Ikeda - director of Tekken 8 and 20-year veteran at Bandai Namco - has announced his departure from the company. Read more",
+      "descEN": "Kohei Ikeda - director of Tekken 8 and 20-year veteran at Bandai Namco - has announced his departure from the company. Read more",
+      "date": "1 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
       "title": "Call of Duty: Modern Warfare 4 invites you to \"keep the receipts\" as it fights to be a more \"authentic\", \"grounded, and transparent\" shooter experience",
       "titleEN": "Call of Duty: Modern Warfare 4 invites you to \"keep the receipts\" as it fights to be a more \"authentic\", \"grounded, and transparent\" shooter experience",
       "desc": "Call of Duty: Modern Warfare 4's community team insists players can \"keep the receipts\" as it fights to remain \"authentic to what Modern Warfare is\". Read more",
@@ -156,7 +192,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "Another unannounced Rayman game, Rayman Origins: Enhanced Edition, briefly popped up on the Xbox Store",
       "titleEN": "Another unannounced Rayman game, Rayman Origins: Enhanced Edition, briefly popped up on the Xbox Store",
       "desc": "Screenshots and details of the unannounced Rayman Origins: Enhanced Edition has briefly popped up on the Xbox store. Read more",
@@ -166,7 +202,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "Xbox will \"adjust\" its promotional materials after fans slam decision to use rival logos in its showcases",
       "titleEN": "Xbox will \"adjust\" its promotional materials after fans slam decision to use rival logos in its showcases",
       "desc": "Xbox boss Asha Sharma has admitted that including competitor logos in Xbox teasers and showcase presentations is \"a miss\", confirming this will be \"adjusted\" for future Xbox showcases. Read more",
@@ -176,7 +212,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
       "titleEN": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2",
       "desc": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2. Read more",
@@ -186,7 +222,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
       "titleEN": "Ace Combat 8: Wings of Theve just popped up on PEGI's website",
       "desc": "Ace Combat 8: Wings of Theve, has popped up on the PEGI website with a \"pre-release date\": 30th May, 2026. Read more",
@@ -196,7 +232,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
       "titleEN": "Tomodachi Life: Living the Dream was April 2026's best-selling game in the US",
       "desc": "Tomodachi Life: Living the Dream was the best-selling game in the US last month. Read more",
@@ -206,7 +242,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
       "titleEN": "Twitch's new Dual Format feature lets streamers broadcast horizontally and vertically at the same time",
       "desc": "Twitch has announced it's launching dual-format streaming next month, a new system that lets creators stream in both horizontal and vertical formats at the same time. Read more",
@@ -216,52 +252,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
       "titleEN": "Warren Spector studio's cheap as chips co-op heist adventure Thick as Thieves is wonky, conspicuously incomplete, and a surprisingly good time",
       "desc": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
       "descEN": "Thick as Thieves feels like it has a story to tell. And not just the one about talking effigies and mysterious diamonds that plays out across its relatively brisk campaign. Rather, the story of its seemingly sudden lurch away from PvP, its truncated ",
       "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Stop Killing Games consumer protection bill passes floor vote in California",
-      "titleEN": "Stop Killing Games consumer protection bill passes floor vote in California",
-      "desc": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
-      "descEN": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
-      "date": "31 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
-      "titleEN": "\"The secret weapon of Star Wars\" and editor Marcia Lucas dies aged 80",
-      "desc": "Marcia Lucas, the Academy Award-winning editor and former wife of Star Wars creator George Lucas, has died aged 80. Read more",
-      "descEN": "Marcia Lucas, the Academy Award-winning editor and former wife of Star Wars creator George Lucas, has died aged 80. Read more",
-      "date": "30 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Premios"
-    },
-    {
-      "id": "n11",
-      "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
-      "titleEN": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
-      "desc": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game. As an ARPG, the chase of ever more powerful loot is a core part of the experience, and the game's next season will deliver something of a shake-",
-      "descEN": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game. As an ARPG, the chase of ever more powerful loot is a core part of the experience, and the game's next season will deliver something of a shake-",
-      "date": "30 de mayo de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
-      "titleEN": "I'm a mega Batman nerd, so here's a selection of my favourite references in Lego Batman: Legacy of the Dark Knight",
-      "desc": "I will hold my hands up and say I did not expect Lego Batman: The Legacy of the Dark Knight to be this good, or to throw so many references to the Caped Crusader's vast history into your adventure around Gotham. Read more",
-      "descEN": "I will hold my hands up and say I did not expect Lego Batman: The Legacy of the Dark Knight to be this good, or to throw so many references to the Caped Crusader's vast history into your adventure around Gotham. Read more",
-      "date": "30 de mayo de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
