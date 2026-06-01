@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T17:35:46.643Z",
+  "generatedAt": "2026-06-01T21:31:43.608Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Encuentra Cheap Car Repair al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Cheap Car Repair deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Cheap Car Repair is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -96,8 +96,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -112,8 +112,8 @@
       "steamAppId": 4216650,
       "rating": 4,
       "title": "Tennis Manager 26",
-      "desc": "Oferta especial de Tennis Manager 26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Tennis Manager 26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Tennis Manager 26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Tennis Manager 26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -128,8 +128,8 @@
       "steamAppId": 1677350,
       "rating": 4,
       "title": "EA SPORTS PGA TOUR",
-      "desc": "Oferta especial de EA SPORTS PGA TOUR en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for EA SPORTS PGA TOUR on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de EA SPORTS PGA TOUR en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find EA SPORTS PGA TOUR at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
