@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-02T16:21:42.700Z",
+  "generatedAt": "2026-06-02T20:47:07.718Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Cheap Car Repair está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Gravity Circuit está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Gravity Circuit is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -51,11 +51,27 @@
     },
     {
       "id": "g4",
+      "steamAppId": 2211170,
+      "rating": 4,
+      "title": "Unrailed 2: Back on Track",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 18.38,
+          "original": 31.98,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2BBTrEsQhJi0CANx8Tr0%2BEAXawizxUcm%2BWOIoA2eMObs%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -114,11 +130,11 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g6",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
