@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-02T03:48:40.240Z",
+  "generatedAt": "2026-06-02T10:21:10.529Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Phonopolis está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -22,7 +22,7 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Cheap Car Repair está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for Cheap Car Repair on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "Gravity Circuit",
       "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Gravity Circuit deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -55,7 +55,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -101,6 +101,18 @@
         },
         {
           "store": "GMG",
+          "price": 1.29,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=QZfYsy910uPsoXaQTF654pgEDbQ%2BMP5FVcg8LEsbfAY%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 2.58,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=f72xXs5d3UE%2FZ2oFOC5SpWB381mfv4PluIjFe3kt8yc%3D"
+        },
+        {
+          "store": "GMG",
           "price": 14.4,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D"
@@ -122,27 +134,41 @@
           "url": "https://www.cheapshark.com/redirect?dealID=oyadBOu1z6MVss1%2BMfCBqCSpNd8cUcuA9cl2j7PtgMc%3D"
         }
       ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 4216650,
-      "rating": 4,
-      "title": "Tennis Manager 26",
-      "desc": "Tennis Manager 26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Tennis Manager 26 on GMG. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "GMG",
-          "price": 29.51,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=nlPOk3hmCxjv7wua2%2F7kIyb6CcUzeiPY%2FmLGosRcoTc%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
+      "titleEN": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
+      "desc": "We've known for a long time that a third Star Wars Jedi game is in active development, but the planned length of the series and the fate of Jedi survivor Cal Kestis - a hero who isn't available by the time Luke Skywalker takes on Darth Vader and the ",
+      "descEN": "We've known for a long time that a third Star Wars Jedi game is in active development, but the planned length of the series and the fate of Jedi survivor Cal Kestis - a hero who isn't available by the time Luke Skywalker takes on Darth Vader and the ",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "EA announces national line-up for FC 26's unofficial world cup mode",
+      "titleEN": "EA announces national line-up for FC 26's unofficial world cup mode",
+      "desc": "EA has announced the national team line-up for its unofficial world cup mode, which will kick off on the 4th June. Read more",
+      "descEN": "EA has announced the national team line-up for its unofficial world cup mode, which will kick off on the 4th June. Read more",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
+      "titleEN": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
+      "desc": "Acclaimed The Witcher 3: Wild Hunt expansion Blood and Wine was originally called Bells of Beauclair, with its final name only being settled on midway through production. Read more",
+      "descEN": "Acclaimed The Witcher 3: Wild Hunt expansion Blood and Wine was originally called Bells of Beauclair, with its final name only being settled on midway through production. Read more",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n4",
       "title": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
       "titleEN": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
       "desc": "As player numbers leap alongside Path of Exile 2's final early access update, and the game's prospective 1.0 release later this year, a question arises about the future of Path of Exile 1. Will it be elbowed out? In short: no. Grinding Gear Games int",
@@ -152,7 +178,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
       "titleEN": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
       "desc": "Nvidia has announced the RTX Spark computer chip, which it claims will revolutionize personal computing thanks to its AI capabilities. Read more",
@@ -162,7 +188,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
       "titleEN": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
       "desc": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience. Since then, a few more balance patches have hit, bu",
@@ -172,7 +198,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
       "titleEN": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
       "desc": "The Steam Machine, once thought to be targeting the first quarter of 2026, was pushed back earlier in the year to an indefinite date - even if maker Valve continued to insist the PC-in-console-clothing remains on track for release in 2026. The new ta",
@@ -182,7 +208,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
       "titleEN": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
       "desc": "The sequel to last year's box office smash A Minecraft Movie - now officially known as A Minecraft Movie Squared - will be released next year, on 23rd July. Read more",
@@ -192,7 +218,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
       "titleEN": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
       "desc": "An ESRB rating for Minecraft on the Nintendo Switch 2 has appeared just a few days ahead of Summer Game Fest. Read more",
@@ -202,7 +228,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
       "titleEN": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
       "desc": "As HBO plots a Baldur's Gate 3 sequel series, the future of the property seems unclear, with BG3 developer Larian Studios choosing to pursue a new Divinity instead. A new report is now suggesting what's next might be a return to the past. Yes, Baldur",
@@ -212,7 +238,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
       "titleEN": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
       "desc": "Mina the Hollower is a smash hit, with heaps of players flocking to Yacht Club's retro-inspired action adventure. However, a section of the playerbase have asked the bold question: is it too hard? Read more",
@@ -222,41 +248,11 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
       "titleEN": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
       "desc": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
       "descEN": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n10",
-      "title": "\"The live-action Smurfs movie paid for itself entirely through product placement\" - Former Dragon Age boss suggests games can be funded another way",
-      "titleEN": "\"The live-action Smurfs movie paid for itself entirely through product placement\" - Former Dragon Age boss suggests games can be funded another way",
-      "desc": "Is there a better way to fund live service games that won't result in so many of them ending abruptly or being eventually turned off? Former Dragon Age and Anthem executive producer Mark Darrah believes there is. Read more",
-      "descEN": "Is there a better way to fund live service games that won't result in so many of them ending abruptly or being eventually turned off? Former Dragon Age and Anthem executive producer Mark Darrah believes there is. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "The Witcher 3 expansion Songs of the Past is being made by as many people as made The Witcher 3 - potentially even more",
-      "titleEN": "The Witcher 3 expansion Songs of the Past is being made by as many people as made The Witcher 3 - potentially even more",
-      "desc": "There are as many people making The Witcher 3 expansion Songs of the Past - potentially more - than made the original base Witcher 3 game. Read more",
-      "descEN": "There are as many people making The Witcher 3 expansion Songs of the Past - potentially more - than made the original base Witcher 3 game. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n12",
-      "title": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
-      "titleEN": "The Outer Worlds: Spacer's Choice Edition continues to cause headaches as Obsidian somehow botches free upgrade deployment on consoles",
-      "desc": "The Outer Worlds: Spacer's Choice Edition isn't a new release; it launched back in early 2023 with plenty of problems. Somehow, it's now giving players a headache more than three years later, after Obsidian Entertainment promised a free upgrade path ",
-      "descEN": "The Outer Worlds: Spacer's Choice Edition isn't a new release; it launched back in early 2023 with plenty of problems. Somehow, it's now giving players a headache more than three years later, after Obsidian Entertainment promised a free upgrade path ",
       "date": "1 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
