@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:21:10.529Z",
+  "generatedAt": "2026-06-02T16:21:42.700Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Phonopolis is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Cheap Car Repair",
       "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Cheap Car Repair on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Gravity Circuit deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Gravity Circuit está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Gravity Circuit is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -55,7 +55,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -68,12 +68,6 @@
           "price": 4.99,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=x9sPdlHkKso7HR7cc6%2Fo5AGZnAm5K7EAdnDknBAJoWY%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=q1ag%2ByKTbCANc8AuW2iUPTigsjuwwjAqaSK974j0wmQ%3D"
         },
         {
           "store": "GMG",
@@ -124,8 +118,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -139,6 +133,96 @@
   "news": [
     {
       "id": "n1",
+      "title": "Super Yooka-Laylee Kart leaks ahead of Summer Game Fest as developer Playtonic Games teases \"there may be faster ways to go\"",
+      "titleEN": "Super Yooka-Laylee Kart leaks ahead of Summer Game Fest as developer Playtonic Games teases \"there may be faster ways to go\"",
+      "desc": "Summer Game Fest 2026 is happening this week, and while that usually means we can ready ourselves for plenty of surprise video game reveals, invariably not everything will manage to stay a secret until its big day. And it looks like developer Playton",
+      "descEN": "Summer Game Fest 2026 is happening this week, and while that usually means we can ready ourselves for plenty of surprise video game reveals, invariably not everything will manage to stay a secret until its big day. And it looks like developer Playton",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Subnautica 2 gets first hotfix to tweak the behaviour of certain creatures",
+      "titleEN": "Subnautica 2 gets first hotfix to tweak the behaviour of certain creatures",
+      "desc": "Subnautica 2 has rolled out a new hotfix, the third since it launched into early access a little over two weeks ago. This particular update is special, however, as it's the first to arrive following the debate among players about whether or not you s",
+      "descEN": "Subnautica 2 has rolled out a new hotfix, the third since it launched into early access a little over two weeks ago. This particular update is special, however, as it's the first to arrive following the debate among players about whether or not you s",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n3",
+      "title": "Crimson Desert DLC officially in development at Pearl Abyss as the studio surprises everyone by agreeing to change the game's story",
+      "titleEN": "Crimson Desert DLC officially in development at Pearl Abyss as the studio surprises everyone by agreeing to change the game's story",
+      "desc": "Crimson Desert continues to grow and evolve following both financial success and player feedback, simultaneously squashing issues and adding more content to a game that was already dense at launch. Now, Pearl Abyss has confirmed the plans for this su",
+      "descEN": "Crimson Desert continues to grow and evolve following both financial success and player feedback, simultaneously squashing issues and adding more content to a game that was already dense at launch. Now, Pearl Abyss has confirmed the plans for this su",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n4",
+      "title": "PlayStation State of Play live report - all of today's news from Sony's 2026 summer showcase",
+      "titleEN": "PlayStation State of Play live report - all of today's news from Sony's 2026 summer showcase",
+      "desc": "Sound the horn, for the summer gaming festivities are about to begin. Sony goes first with its PlayStation State of Play showcase, which starts tonight at 10pm UK time (that's 11pm CEST/2pm PDT/5pm EDT). And we'll be covering it in this article, live",
+      "descEN": "Sound the horn, for the summer gaming festivities are about to begin. Sony goes first with its PlayStation State of Play showcase, which starts tonight at 10pm UK time (that's 11pm CEST/2pm PDT/5pm EDT). And we'll be covering it in this article, live",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Pokémon TCG announces 30th anniversary set with \"all foil cards\", 30 new unique Pikachu illustrations, and the return of classic Charizard",
+      "titleEN": "Pokémon TCG announces 30th anniversary set with \"all foil cards\", 30 new unique Pikachu illustrations, and the return of classic Charizard",
+      "desc": "The Pok&eacute;mon Company has revealed \"a commemorative expansion\" for Pok&eacute;mon TCG which celebrates the Pok&eacute;mon series' 30th anniversary. It'll hit stores worldwide on 16th September this year, and I'll bet we're going to see fights ov",
+      "descEN": "The Pok&eacute;mon Company has revealed \"a commemorative expansion\" for Pok&eacute;mon TCG which celebrates the Pok&eacute;mon series' 30th anniversary. It'll hit stores worldwide on 16th September this year, and I'll bet we're going to see fights ov",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n6",
+      "title": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020",
+      "titleEN": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020",
+      "desc": "Sales of PlayStation's first-party exclusive games have been on the decline since the company's 2020 fiscal year, according to new data, only registering a brief spike last year (2025). That perceptible drop is notable, in part because Sony has alway",
+      "descEN": "Sales of PlayStation's first-party exclusive games have been on the decline since the company's 2020 fiscal year, according to new data, only registering a brief spike last year (2025). That perceptible drop is notable, in part because Sony has alway",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n7",
+      "title": "Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere",
+      "titleEN": "Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere",
+      "desc": "Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros. - who fail to ",
+      "descEN": "Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros. - who fail to ",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Resident Evil Requiem producer suggests the legendary horror series could finally visit Japan in the future - \"I think every member [of the team] has given it some thought\"",
+      "titleEN": "Resident Evil Requiem producer suggests the legendary horror series could finally visit Japan in the future - \"I think every member [of the team] has given it some thought\"",
+      "desc": "Despite coming from a Japanese studio, the Resident Evil series has never dipped its toe into Japan, at least in terms of a game's setting. However, Resident Evil Requiem's producer thinks every member of Capcom's development team has at the very lea",
+      "descEN": "Despite coming from a Japanese studio, the Resident Evil series has never dipped its toe into Japan, at least in terms of a game's setting. However, Resident Evil Requiem's producer thinks every member of Capcom's development team has at the very lea",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
+      "title": "Streets of Rage movie gains momentum as Sonic the Hedgehog writers and The Harder They Fall director board the adaptation",
+      "titleEN": "Streets of Rage movie gains momentum as Sonic the Hedgehog writers and The Harder They Fall director board the adaptation",
+      "desc": "Though you may have forgotten about it, a Streets of Rage movie has been in the works since 2022. Originally, Hollywood's current go-to action screenwriter Derek Kolstad (of John Wick fame) was attached. Now, the slow-moving project has evolved and r",
+      "descEN": "Though you may have forgotten about it, a Streets of Rage movie has been in the works since 2022. Originally, Hollywood's current go-to action screenwriter Derek Kolstad (of John Wick fame) was attached. Now, the slow-moving project has evolved and r",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n10",
       "title": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
       "titleEN": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
       "desc": "We've known for a long time that a third Star Wars Jedi game is in active development, but the planned length of the series and the fate of Jedi survivor Cal Kestis - a hero who isn't available by the time Luke Skywalker takes on Darth Vader and the ",
@@ -148,7 +232,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n11",
       "title": "EA announces national line-up for FC 26's unofficial world cup mode",
       "titleEN": "EA announces national line-up for FC 26's unofficial world cup mode",
       "desc": "EA has announced the national team line-up for its unofficial world cup mode, which will kick off on the 4th June. Read more",
@@ -158,7 +242,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n12",
       "title": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
       "titleEN": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
       "desc": "Acclaimed The Witcher 3: Wild Hunt expansion Blood and Wine was originally called Bells of Beauclair, with its final name only being settled on midway through production. Read more",
@@ -166,96 +250,6 @@
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Expansión"
-    },
-    {
-      "id": "n4",
-      "title": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
-      "titleEN": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
-      "desc": "As player numbers leap alongside Path of Exile 2's final early access update, and the game's prospective 1.0 release later this year, a question arises about the future of Path of Exile 1. Will it be elbowed out? In short: no. Grinding Gear Games int",
-      "descEN": "As player numbers leap alongside Path of Exile 2's final early access update, and the game's prospective 1.0 release later this year, a question arises about the future of Path of Exile 1. Will it be elbowed out? In short: no. Grinding Gear Games int",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n5",
-      "title": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
-      "titleEN": "\"The PC is being reinvented\" - Nvidia announces new AI-focused RTX Spark chip for laptops as widespread doubt bubbles",
-      "desc": "Nvidia has announced the RTX Spark computer chip, which it claims will revolutionize personal computing thanks to its AI capabilities. Read more",
-      "descEN": "Nvidia has announced the RTX Spark computer chip, which it claims will revolutionize personal computing thanks to its AI capabilities. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
-      "titleEN": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
-      "desc": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience. Since then, a few more balance patches have hit, bu",
-      "descEN": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience. Since then, a few more balance patches have hit, bu",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n7",
-      "title": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
-      "titleEN": "We may learn the Steam Machine launch date very soon, as Steam's backend just got updated with a welcome tour",
-      "desc": "The Steam Machine, once thought to be targeting the first quarter of 2026, was pushed back earlier in the year to an indefinite date - even if maker Valve continued to insist the PC-in-console-clothing remains on track for release in 2026. The new ta",
-      "descEN": "The Steam Machine, once thought to be targeting the first quarter of 2026, was pushed back earlier in the year to an indefinite date - even if maker Valve continued to insist the PC-in-console-clothing remains on track for release in 2026. The new ta",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n8",
-      "title": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
-      "titleEN": "Matt Berry won't tell us who is he playing in the A Minecraft Movie sequel, but at least the film has an official release date",
-      "desc": "The sequel to last year's box office smash A Minecraft Movie - now officially known as A Minecraft Movie Squared - will be released next year, on 23rd July. Read more",
-      "descEN": "The sequel to last year's box office smash A Minecraft Movie - now officially known as A Minecraft Movie Squared - will be released next year, on 23rd July. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
-      "titleEN": "Minecraft may be headed to the Switch 2, as an ESRB rating has suddenly appeared ahead of Summer Game Fest",
-      "desc": "An ESRB rating for Minecraft on the Nintendo Switch 2 has appeared just a few days ahead of Summer Game Fest. Read more",
-      "descEN": "An ESRB rating for Minecraft on the Nintendo Switch 2 has appeared just a few days ahead of Summer Game Fest. Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n10",
-      "title": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
-      "titleEN": "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too",
-      "desc": "As HBO plots a Baldur's Gate 3 sequel series, the future of the property seems unclear, with BG3 developer Larian Studios choosing to pursue a new Divinity instead. A new report is now suggesting what's next might be a return to the past. Yes, Baldur",
-      "descEN": "As HBO plots a Baldur's Gate 3 sequel series, the future of the property seems unclear, with BG3 developer Larian Studios choosing to pursue a new Divinity instead. A new report is now suggesting what's next might be a return to the past. Yes, Baldur",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
-      "titleEN": "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit",
-      "desc": "Mina the Hollower is a smash hit, with heaps of players flocking to Yacht Club's retro-inspired action adventure. However, a section of the playerbase have asked the bold question: is it too hard? Read more",
-      "descEN": "Mina the Hollower is a smash hit, with heaps of players flocking to Yacht Club's retro-inspired action adventure. However, a section of the playerbase have asked the bold question: is it too hard? Read more",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
-      "titleEN": "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now",
-      "desc": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
-      "descEN": "Modern Warfare 4 developer Infinity Ward has been firing off episodes of its quasi-documentary series, From the Ward, at a rapid pace since the game's reveal last week. The show, filmed at the studio, has so far offered some insight into the developm",
-      "date": "1 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
