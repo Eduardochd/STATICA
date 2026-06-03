@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-02T20:47:07.718Z",
+  "generatedAt": "2026-06-03T03:56:33.483Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -22,7 +22,7 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Cheap Car Repair está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,7 +38,7 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Gravity Circuit en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -55,7 +55,7 @@
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -71,13 +71,19 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
           "price": 0,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 6.95,
+          "original": 69.5,
+          "url": "https://www.cheapshark.com/redirect?dealID=SmsaXTBWCcgJyOW0zG%2BuTbwH%2F1QL11rC2Yqb%2FMFqxCs%3D"
         },
         {
           "store": "Epic",
@@ -120,12 +126,6 @@
           "price": 2.58,
           "original": 29.99,
           "url": "https://www.cheapshark.com/redirect?dealID=f72xXs5d3UE%2FZ2oFOC5SpWB381mfv4PluIjFe3kt8yc%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 14.4,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D"
         }
       ]
     },
@@ -134,7 +134,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -149,123 +149,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "Super Yooka-Laylee Kart leaks ahead of Summer Game Fest as developer Playtonic Games teases \"there may be faster ways to go\"",
-      "titleEN": "Super Yooka-Laylee Kart leaks ahead of Summer Game Fest as developer Playtonic Games teases \"there may be faster ways to go\"",
-      "desc": "Summer Game Fest 2026 is happening this week, and while that usually means we can ready ourselves for plenty of surprise video game reveals, invariably not everything will manage to stay a secret until its big day. And it looks like developer Playton",
-      "descEN": "Summer Game Fest 2026 is happening this week, and while that usually means we can ready ourselves for plenty of surprise video game reveals, invariably not everything will manage to stay a secret until its big day. And it looks like developer Playton",
+      "title": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5",
+      "titleEN": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5",
+      "desc": "Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\n Read more",
+      "descEN": "Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\n Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n2",
-      "title": "Subnautica 2 gets first hotfix to tweak the behaviour of certain creatures",
-      "titleEN": "Subnautica 2 gets first hotfix to tweak the behaviour of certain creatures",
-      "desc": "Subnautica 2 has rolled out a new hotfix, the third since it launched into early access a little over two weeks ago. This particular update is special, however, as it's the first to arrive following the debate among players about whether or not you s",
-      "descEN": "Subnautica 2 has rolled out a new hotfix, the third since it launched into early access a little over two weeks ago. This particular update is special, however, as it's the first to arrive following the debate among players about whether or not you s",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n3",
-      "title": "Crimson Desert DLC officially in development at Pearl Abyss as the studio surprises everyone by agreeing to change the game's story",
-      "titleEN": "Crimson Desert DLC officially in development at Pearl Abyss as the studio surprises everyone by agreeing to change the game's story",
-      "desc": "Crimson Desert continues to grow and evolve following both financial success and player feedback, simultaneously squashing issues and adding more content to a game that was already dense at launch. Now, Pearl Abyss has confirmed the plans for this su",
-      "descEN": "Crimson Desert continues to grow and evolve following both financial success and player feedback, simultaneously squashing issues and adding more content to a game that was already dense at launch. Now, Pearl Abyss has confirmed the plans for this su",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n4",
-      "title": "PlayStation State of Play live report - all of today's news from Sony's 2026 summer showcase",
-      "titleEN": "PlayStation State of Play live report - all of today's news from Sony's 2026 summer showcase",
-      "desc": "Sound the horn, for the summer gaming festivities are about to begin. Sony goes first with its PlayStation State of Play showcase, which starts tonight at 10pm UK time (that's 11pm CEST/2pm PDT/5pm EDT). And we'll be covering it in this article, live",
-      "descEN": "Sound the horn, for the summer gaming festivities are about to begin. Sony goes first with its PlayStation State of Play showcase, which starts tonight at 10pm UK time (that's 11pm CEST/2pm PDT/5pm EDT). And we'll be covering it in this article, live",
+      "title": "The leaks were real:  God of War Laufey is all about Faye, and it's coming to PlayStation 5 'soon'",
+      "titleEN": "The leaks were real:  God of War Laufey is all about Faye, and it's coming to PlayStation 5 'soon'",
+      "desc": "Sony Santa Monica has announced its next God of War game. It's known as God of War Laufey, and was revealed as part of this evening's PlayStation State of Play.  Read more",
+      "descEN": "Sony Santa Monica has announced its next God of War game. It's known as God of War Laufey, and was revealed as part of this evening's PlayStation State of Play.  Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
-      "id": "n5",
-      "title": "Pokémon TCG announces 30th anniversary set with \"all foil cards\", 30 new unique Pikachu illustrations, and the return of classic Charizard",
-      "titleEN": "Pokémon TCG announces 30th anniversary set with \"all foil cards\", 30 new unique Pikachu illustrations, and the return of classic Charizard",
-      "desc": "The Pok&eacute;mon Company has revealed \"a commemorative expansion\" for Pok&eacute;mon TCG which celebrates the Pok&eacute;mon series' 30th anniversary. It'll hit stores worldwide on 16th September this year, and I'll bet we're going to see fights ov",
-      "descEN": "The Pok&eacute;mon Company has revealed \"a commemorative expansion\" for Pok&eacute;mon TCG which celebrates the Pok&eacute;mon series' 30th anniversary. It'll hit stores worldwide on 16th September this year, and I'll bet we're going to see fights ov",
+      "id": "n3",
+      "title": "A decade later, PlayStation's cult classic cinematic horror hit Until Dawn is returning with a fully fledged, sun-kissed sequel",
+      "titleEN": "A decade later, PlayStation's cult classic cinematic horror hit Until Dawn is returning with a fully fledged, sun-kissed sequel",
+      "desc": "Over a decade after cult-classic cinematic horror game Until Dawn launched for PS4, Sony has revealed a sequel is in the works, and it's out on PS5 next year. Read more",
+      "descEN": "Over a decade after cult-classic cinematic horror game Until Dawn launched for PS4, Sony has revealed a sequel is in the works, and it's out on PS5 next year. Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Expansión"
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Marvel's Wolverine is incredibly violent but Insomniac says it needed to be, and there's a way to turn off a lot of the gore",
+      "titleEN": "Marvel's Wolverine is incredibly violent but Insomniac says it needed to be, and there's a way to turn off a lot of the gore",
+      "desc": "One of the most striking things about the upcoming Marvel's Wolverine game is the level of sheer violence in it - something now underlined in a State of Play gameplay trailer aired tonight. While developer Insomniac's enormously successful Marvel's S",
+      "descEN": "One of the most striking things about the upcoming Marvel's Wolverine game is the level of sheer violence in it - something now underlined in a State of Play gameplay trailer aired tonight. While developer Insomniac's enormously successful Marvel's S",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "The Lost Wild - a dinosaur survival horror game by former Alien: Isolation developers - announced at Sony State of Play",
+      "titleEN": "The Lost Wild - a dinosaur survival horror game by former Alien: Isolation developers - announced at Sony State of Play",
+      "desc": "The Lost Wild - a new dinosaur survival horror game - has just been announced at Sony's State of Play.\n Read more",
+      "descEN": "The Lost Wild - a new dinosaur survival horror game - has just been announced at Sony's State of Play.\n Read more",
+      "date": "2 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020",
-      "titleEN": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020",
-      "desc": "Sales of PlayStation's first-party exclusive games have been on the decline since the company's 2020 fiscal year, according to new data, only registering a brief spike last year (2025). That perceptible drop is notable, in part because Sony has alway",
-      "descEN": "Sales of PlayStation's first-party exclusive games have been on the decline since the company's 2020 fiscal year, according to new data, only registering a brief spike last year (2025). That perceptible drop is notable, in part because Sony has alway",
+      "title": "Control Resonant's release date revealed in bombshell Sony State of Play story trailer",
+      "titleEN": "Control Resonant's release date revealed in bombshell Sony State of Play story trailer",
+      "desc": "The release date for Control Resonant has been revealed, as part of a new trailer shown off at tonight's Sony State of Play event.\n Read more",
+      "descEN": "The release date for Control Resonant has been revealed, as part of a new trailer shown off at tonight's Sony State of Play event.\n Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere",
-      "titleEN": "Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere",
-      "desc": "Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros. - who fail to ",
-      "descEN": "Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros. - who fail to ",
+      "title": "Silent Hill: Townfall has a PS5 release date, and things are getting scary in very foggy Scotland this September",
+      "titleEN": "Silent Hill: Townfall has a PS5 release date, and things are getting scary in very foggy Scotland this September",
+      "desc": "Silent Hill's long-awaited resurgence has seen a strong start thanks to Bloober Team's Silent HIll 2 remake and developer Neobards' Silent Hill f. So hopes are high for the survival horror series next outing, Silent Hill Townfall, which is now confir",
+      "descEN": "Silent Hill's long-awaited resurgence has seen a strong start thanks to Bloober Team's Silent HIll 2 remake and developer Neobards' Silent Hill f. So hopes are high for the survival horror series next outing, Silent Hill Townfall, which is now confir",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Resident Evil Requiem producer suggests the legendary horror series could finally visit Japan in the future - \"I think every member [of the team] has given it some thought\"",
-      "titleEN": "Resident Evil Requiem producer suggests the legendary horror series could finally visit Japan in the future - \"I think every member [of the team] has given it some thought\"",
-      "desc": "Despite coming from a Japanese studio, the Resident Evil series has never dipped its toe into Japan, at least in terms of a game's setting. However, Resident Evil Requiem's producer thinks every member of Capcom's development team has at the very lea",
-      "descEN": "Despite coming from a Japanese studio, the Resident Evil series has never dipped its toe into Japan, at least in terms of a game's setting. However, Resident Evil Requiem's producer thinks every member of Capcom's development team has at the very lea",
+      "title": "For the first time in its 25-year history, Runescape comes to PlayStation 5 this year with survival game RuneScape Dragonwilds",
+      "titleEN": "For the first time in its 25-year history, Runescape comes to PlayStation 5 this year with survival game RuneScape Dragonwilds",
+      "desc": "Jagex announced, as part of today's PlayStation State of Play showcase, that its survival game RuneScape: Dragonwilds will make series' history and be the first Runescape game to land on consoles - ever.  Read more",
+      "descEN": "Jagex announced, as part of today's PlayStation State of Play showcase, that its survival game RuneScape: Dragonwilds will make series' history and be the first Runescape game to land on consoles - ever.  Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Hardware"
     },
     {
       "id": "n9",
-      "title": "Streets of Rage movie gains momentum as Sonic the Hedgehog writers and The Harder They Fall director board the adaptation",
-      "titleEN": "Streets of Rage movie gains momentum as Sonic the Hedgehog writers and The Harder They Fall director board the adaptation",
-      "desc": "Though you may have forgotten about it, a Streets of Rage movie has been in the works since 2022. Originally, Hollywood's current go-to action screenwriter Derek Kolstad (of John Wick fame) was attached. Now, the slow-moving project has evolved and r",
-      "descEN": "Though you may have forgotten about it, a Streets of Rage movie has been in the works since 2022. Originally, Hollywood's current go-to action screenwriter Derek Kolstad (of John Wick fame) was attached. Now, the slow-moving project has evolved and r",
+      "title": "Ace Combat 8 soars onto the Sony State of Play with a new release date trailer",
+      "titleEN": "Ace Combat 8 soars onto the Sony State of Play with a new release date trailer",
+      "desc": "A new trailer for Ace Combat 8: Wings of Theve has been revealed at today's Sony State of Play livestream. As part of this trailer, we now know the game will release on the 2nd October, 2026.\n Read more",
+      "descEN": "A new trailer for Ace Combat 8: Wings of Theve has been revealed at today's Sony State of Play livestream. As part of this trailer, we now know the game will release on the 2nd October, 2026.\n Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
-      "titleEN": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
-      "desc": "We've known for a long time that a third Star Wars Jedi game is in active development, but the planned length of the series and the fate of Jedi survivor Cal Kestis - a hero who isn't available by the time Luke Skywalker takes on Darth Vader and the ",
-      "descEN": "We've known for a long time that a third Star Wars Jedi game is in active development, but the planned length of the series and the fate of Jedi survivor Cal Kestis - a hero who isn't available by the time Luke Skywalker takes on Darth Vader and the ",
+      "title": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
+      "titleEN": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
+      "desc": "At this evening's PlayStation State of Play we were treated to another look at Tomb Raider: Legacy of Atlantis. Legacy of Atlantis is the upcoming remake of the original Tomb Raider, which was unveiled at The Game Awards in December. Read more",
+      "descEN": "At this evening's PlayStation State of Play we were treated to another look at Tomb Raider: Legacy of Atlantis. Legacy of Atlantis is the upcoming remake of the original Tomb Raider, which was unveiled at The Game Awards in December. Read more",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Hardware"
     },
     {
       "id": "n11",
-      "title": "EA announces national line-up for FC 26's unofficial world cup mode",
-      "titleEN": "EA announces national line-up for FC 26's unofficial world cup mode",
-      "desc": "EA has announced the national team line-up for its unofficial world cup mode, which will kick off on the 4th June. Read more",
-      "descEN": "EA has announced the national team line-up for its unofficial world cup mode, which will kick off on the 4th June. Read more",
+      "title": "Onimusha: Way of the Sword gets September release date, and a playable demo available right now",
+      "titleEN": "Onimusha: Way of the Sword gets September release date, and a playable demo available right now",
+      "desc": "After months of teasing, we finally have a release date for Onimusha: Way of the Sword. As per Sony's latest State of Play showcase, the 1500s-Japan-set action-RPG is scheduled for release 25th September, on PC, PS5, and Xbox Series X/S. And there is",
+      "descEN": "After months of teasing, we finally have a release date for Onimusha: Way of the Sword. As per Sony's latest State of Play showcase, the 1500s-Japan-set action-RPG is scheduled for release 25th September, on PC, PS5, and Xbox Series X/S. And there is",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Hardware"
     },
     {
       "id": "n12",
-      "title": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
-      "titleEN": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
-      "desc": "Acclaimed The Witcher 3: Wild Hunt expansion Blood and Wine was originally called Bells of Beauclair, with its final name only being settled on midway through production. Read more",
-      "descEN": "Acclaimed The Witcher 3: Wild Hunt expansion Blood and Wine was originally called Bells of Beauclair, with its final name only being settled on midway through production. Read more",
+      "title": "Marvel's Wolverine gets gruesome with over seven minutes of uninterrupted gameplay footage, and he's bought a familiar X-Men pal",
+      "titleEN": "Marvel's Wolverine gets gruesome with over seven minutes of uninterrupted gameplay footage, and he's bought a familiar X-Men pal",
+      "desc": "Honestly, it feels like forever ago (time, eh?) developer Insomniac announced it would be following up its excellent Spider-Man games by taking on a very different kind of Marvel hero. But five years later, Wolverine is almost ready to pounce, and th",
+      "descEN": "Honestly, it feels like forever ago (time, eh?) developer Insomniac announced it would be following up its excellent Spider-Man games by taking on a very different kind of Marvel hero. But five years later, Wolverine is almost ready to pounce, and th",
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Expansión"
+      "tag": "Noticia"
     }
   ]
 }
