@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-03T03:56:33.483Z",
+  "generatedAt": "2026-06-03T10:55:50.629Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Encuentra Phonopolis al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Cheap Car Repair en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Cheap Car Repair on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Oferta especial de Gravity Circuit en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -54,8 +54,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -70,14 +70,20 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
           "price": 0,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 6.39,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=KK3hWmzMGACZZq9c1BOzo8e4%2B1TpW%2FQpKS2K21%2FLbF4%3D"
         },
         {
           "store": "Epic",
@@ -120,12 +126,6 @@
           "price": 1.29,
           "original": 29.99,
           "url": "https://www.cheapshark.com/redirect?dealID=QZfYsy910uPsoXaQTF654pgEDbQ%2BMP5FVcg8LEsbfAY%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 2.58,
-          "original": 29.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=f72xXs5d3UE%2FZ2oFOC5SpWB381mfv4PluIjFe3kt8yc%3D"
         }
       ]
     },
@@ -134,8 +134,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -149,6 +149,46 @@
   "news": [
     {
       "id": "n1",
+      "title": "Fallout 76 is finally getting native PS5 and Xbox Series X/S versions with improved graphics and performance, but Bethesda needs to test them first",
+      "titleEN": "Fallout 76 is finally getting native PS5 and Xbox Series X/S versions with improved graphics and performance, but Bethesda needs to test them first",
+      "desc": "Fallout 76 has had quite the evolution over the years, slowly but steadily going from a \"broken mess\" to becoming what is essentially seen as 'Fallout Online', complete with proper questlines and wandering friendly NPCs. Despite all the new content a",
+      "descEN": "Fallout 76 has had quite the evolution over the years, slowly but steadily going from a \"broken mess\" to becoming what is essentially seen as 'Fallout Online', complete with proper questlines and wandering friendly NPCs. Despite all the new content a",
+      "date": "3 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Marathon season 2 suffers rocky launch thanks to rampant errors and bugs",
+      "titleEN": "Marathon season 2 suffers rocky launch thanks to rampant errors and bugs",
+      "desc": "Marathon season 2 launched yesterday evening, bringing with it sweeping changes to the core game as well as a full progression reset and new modes to leap into. It also, sadly, came with heaps of bugs. Read more",
+      "descEN": "Marathon season 2 launched yesterday evening, bringing with it sweeping changes to the core game as well as a full progression reset and new modes to leap into. It also, sadly, came with heaps of bugs. Read more",
+      "date": "3 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Grand Theft Auto 6 looms like a black hole in the release schedule, but is pushing everything into September the way to deal with it?",
+      "titleEN": "Grand Theft Auto 6 looms like a black hole in the release schedule, but is pushing everything into September the way to deal with it?",
+      "desc": "I'm going to start by addressing a game that Sony didn't even deign to mention in last night's PlayStation State of Play broadcast: Grand Theft Auto 6. Except, Sony did sort-of mention it, just in the margins of its showcase. From the very beginning,",
+      "descEN": "I'm going to start by addressing a game that Sony didn't even deign to mention in last night's PlayStation State of Play broadcast: Grand Theft Auto 6. Except, Sony did sort-of mention it, just in the margins of its showcase. From the very beginning,",
+      "date": "3 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "\"I don't think we can ask people to pay $30 for a pixel art game\" - How Mina the Hollower's modest $20 price point may have saved developer Yacht Club Games",
+      "titleEN": "\"I don't think we can ask people to pay $30 for a pixel art game\" - How Mina the Hollower's modest $20 price point may have saved developer Yacht Club Games",
+      "desc": "Mina the Hollower sold 300,000 copies in three days over its launch weekend, with developer Yacht Club Games assuring it is going to be \"fine\" after previously saying this game would be \"make-or-break\" for the studio. Read more",
+      "descEN": "Mina the Hollower sold 300,000 copies in three days over its launch weekend, with developer Yacht Club Games assuring it is going to be \"fine\" after previously saying this game would be \"make-or-break\" for the studio. Read more",
+      "date": "3 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
       "title": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5",
       "titleEN": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5",
       "desc": "Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\n Read more",
@@ -158,7 +198,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "The leaks were real:  God of War Laufey is all about Faye, and it's coming to PlayStation 5 'soon'",
       "titleEN": "The leaks were real:  God of War Laufey is all about Faye, and it's coming to PlayStation 5 'soon'",
       "desc": "Sony Santa Monica has announced its next God of War game. It's known as God of War Laufey, and was revealed as part of this evening's PlayStation State of Play.  Read more",
@@ -168,7 +208,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "A decade later, PlayStation's cult classic cinematic horror hit Until Dawn is returning with a fully fledged, sun-kissed sequel",
       "titleEN": "A decade later, PlayStation's cult classic cinematic horror hit Until Dawn is returning with a fully fledged, sun-kissed sequel",
       "desc": "Over a decade after cult-classic cinematic horror game Until Dawn launched for PS4, Sony has revealed a sequel is in the works, and it's out on PS5 next year. Read more",
@@ -178,7 +218,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "Marvel's Wolverine is incredibly violent but Insomniac says it needed to be, and there's a way to turn off a lot of the gore",
       "titleEN": "Marvel's Wolverine is incredibly violent but Insomniac says it needed to be, and there's a way to turn off a lot of the gore",
       "desc": "One of the most striking things about the upcoming Marvel's Wolverine game is the level of sheer violence in it - something now underlined in a State of Play gameplay trailer aired tonight. While developer Insomniac's enormously successful Marvel's S",
@@ -188,7 +228,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "The Lost Wild - a dinosaur survival horror game by former Alien: Isolation developers - announced at Sony State of Play",
       "titleEN": "The Lost Wild - a dinosaur survival horror game by former Alien: Isolation developers - announced at Sony State of Play",
       "desc": "The Lost Wild - a new dinosaur survival horror game - has just been announced at Sony's State of Play.\n Read more",
@@ -198,7 +238,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "Control Resonant's release date revealed in bombshell Sony State of Play story trailer",
       "titleEN": "Control Resonant's release date revealed in bombshell Sony State of Play story trailer",
       "desc": "The release date for Control Resonant has been revealed, as part of a new trailer shown off at tonight's Sony State of Play event.\n Read more",
@@ -208,7 +248,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "Silent Hill: Townfall has a PS5 release date, and things are getting scary in very foggy Scotland this September",
       "titleEN": "Silent Hill: Townfall has a PS5 release date, and things are getting scary in very foggy Scotland this September",
       "desc": "Silent Hill's long-awaited resurgence has seen a strong start thanks to Bloober Team's Silent HIll 2 remake and developer Neobards' Silent Hill f. So hopes are high for the survival horror series next outing, Silent Hill Townfall, which is now confir",
@@ -218,7 +258,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "For the first time in its 25-year history, Runescape comes to PlayStation 5 this year with survival game RuneScape Dragonwilds",
       "titleEN": "For the first time in its 25-year history, Runescape comes to PlayStation 5 this year with survival game RuneScape Dragonwilds",
       "desc": "Jagex announced, as part of today's PlayStation State of Play showcase, that its survival game RuneScape: Dragonwilds will make series' history and be the first Runescape game to land on consoles - ever.  Read more",
@@ -226,46 +266,6 @@
       "date": "2 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Ace Combat 8 soars onto the Sony State of Play with a new release date trailer",
-      "titleEN": "Ace Combat 8 soars onto the Sony State of Play with a new release date trailer",
-      "desc": "A new trailer for Ace Combat 8: Wings of Theve has been revealed at today's Sony State of Play livestream. As part of this trailer, we now know the game will release on the 2nd October, 2026.\n Read more",
-      "descEN": "A new trailer for Ace Combat 8: Wings of Theve has been revealed at today's Sony State of Play livestream. As part of this trailer, we now know the game will release on the 2nd October, 2026.\n Read more",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
-      "titleEN": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
-      "desc": "At this evening's PlayStation State of Play we were treated to another look at Tomb Raider: Legacy of Atlantis. Legacy of Atlantis is the upcoming remake of the original Tomb Raider, which was unveiled at The Game Awards in December. Read more",
-      "descEN": "At this evening's PlayStation State of Play we were treated to another look at Tomb Raider: Legacy of Atlantis. Legacy of Atlantis is the upcoming remake of the original Tomb Raider, which was unveiled at The Game Awards in December. Read more",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n11",
-      "title": "Onimusha: Way of the Sword gets September release date, and a playable demo available right now",
-      "titleEN": "Onimusha: Way of the Sword gets September release date, and a playable demo available right now",
-      "desc": "After months of teasing, we finally have a release date for Onimusha: Way of the Sword. As per Sony's latest State of Play showcase, the 1500s-Japan-set action-RPG is scheduled for release 25th September, on PC, PS5, and Xbox Series X/S. And there is",
-      "descEN": "After months of teasing, we finally have a release date for Onimusha: Way of the Sword. As per Sony's latest State of Play showcase, the 1500s-Japan-set action-RPG is scheduled for release 25th September, on PC, PS5, and Xbox Series X/S. And there is",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Marvel's Wolverine gets gruesome with over seven minutes of uninterrupted gameplay footage, and he's bought a familiar X-Men pal",
-      "titleEN": "Marvel's Wolverine gets gruesome with over seven minutes of uninterrupted gameplay footage, and he's bought a familiar X-Men pal",
-      "desc": "Honestly, it feels like forever ago (time, eh?) developer Insomniac announced it would be following up its excellent Spider-Man games by taking on a very different kind of Marvel hero. But five years later, Wolverine is almost ready to pounce, and th",
-      "descEN": "Honestly, it feels like forever ago (time, eh?) developer Insomniac announced it would be following up its excellent Spider-Man games by taking on a very different kind of Marvel hero. But five years later, Wolverine is almost ready to pounce, and th",
-      "date": "2 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
