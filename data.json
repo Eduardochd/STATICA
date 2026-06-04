@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-04T09:53:58.301Z",
+  "generatedAt": "2026-06-04T14:57:07.286Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 1206070,
       "rating": 4,
       "title": "Phonopolis",
-      "desc": "Oferta especial de Phonopolis en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Phonopolis at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "Cheap Car Repair",
       "desc": "Aprovecha la oferta de Cheap Car Repair en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Cheap Car Repair on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -54,8 +54,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Gravity Circuit está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Gravity Circuit deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -70,8 +70,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -86,8 +86,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -144,8 +144,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -159,6 +159,56 @@
   "news": [
     {
       "id": "n1",
+      "title": "Kratos will return in future games, God of War developer assures fans following the Laufey reveal",
+      "titleEN": "Kratos will return in future games, God of War developer assures fans following the Laufey reveal",
+      "desc": "Following the reveal of God of War Laufey, series developer Sony Santa Monica has had to clarify, on multiple occasions, that longtime protagonist Kratos remains the eponymous God of War, and more games starring Kratos are in indeed the works. Read m",
+      "descEN": "Following the reveal of God of War Laufey, series developer Sony Santa Monica has had to clarify, on multiple occasions, that longtime protagonist Kratos remains the eponymous God of War, and more games starring Kratos are in indeed the works. Read m",
+      "date": "4 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Nintendo's finally developing replaceable batteries, so we presumably won't have to bin a Switch because the battery conked out",
+      "titleEN": "Nintendo's finally developing replaceable batteries, so we presumably won't have to bin a Switch because the battery conked out",
+      "desc": "Nintendo has announced it is creating hardware with replaceable batteries, which presumably will include its Switch consoles, due to new EU regulations tackling electronic waste. Read more",
+      "descEN": "Nintendo has announced it is creating hardware with replaceable batteries, which presumably will include its Switch consoles, due to new EU regulations tackling electronic waste. Read more",
+      "date": "4 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in",
+      "titleEN": "Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in",
+      "desc": "It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games. There won't be a wider city to explore in the way Spider-Man swings around New York, nor will there be a base of operations for downtime betw",
+      "descEN": "It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games. There won't be a wider city to explore in the way Spider-Man swings around New York, nor will there be a base of operations for downtime betw",
+      "date": "4 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Think you've got a handle on Mina the Hollower? Yacht Club reckons many playthroughs are \"missing 50 percent of the game\", and \"there are a few very secret things\" players are yet to find",
+      "titleEN": "Think you've got a handle on Mina the Hollower? Yacht Club reckons many playthroughs are \"missing 50 percent of the game\", and \"there are a few very secret things\" players are yet to find",
+      "desc": "Mina the Hollower may look like a cute and unassuming game at first glance, with its retro pixel aesthetic and demure mouse hero, but don't be fooled. Developer Yacht Club Game has hidden myriad secrets within its world, the Tenebrous Isle, for playe",
+      "descEN": "Mina the Hollower may look like a cute and unassuming game at first glance, with its retro pixel aesthetic and demure mouse hero, but don't be fooled. Developer Yacht Club Game has hidden myriad secrets within its world, the Tenebrous Isle, for playe",
+      "date": "4 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "\"We know players want it. WE want it\" - Dune Awakening developers respond to lack of crossplay for console release",
+      "titleEN": "\"We know players want it. WE want it\" - Dune Awakening developers respond to lack of crossplay for console release",
+      "desc": "Dune Awakening developer Funcom has responded to the news crossplay won't be included in the game's  upcoming console release, telling Eurogamer, \"We know players want it. WE want it.\" Read more",
+      "descEN": "Dune Awakening developer Funcom has responded to the news crossplay won't be included in the game's  upcoming console release, telling Eurogamer, \"We know players want it. WE want it.\" Read more",
+      "date": "4 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
       "title": "James Bond game 007 First Light sales estimated to have reached an impressive milestone a week after launch",
       "titleEN": "James Bond game 007 First Light sales estimated to have reached an impressive milestone a week after launch",
       "desc": "007 First Light has been out for just over a week and already it may have surpassed two million copies sold. Read more",
@@ -168,7 +218,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n2",
+      "id": "n7",
       "title": "Here are our Xbox Game Pass games for June",
       "titleEN": "Here are our Xbox Game Pass games for June",
       "desc": "Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more",
@@ -178,7 +228,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "Lego Batman: Legacy of the Dark Knight swoops onto Switch 2 this autumn, and its first major DLC arrives the same day",
       "titleEN": "Lego Batman: Legacy of the Dark Knight swoops onto Switch 2 this autumn, and its first major DLC arrives the same day",
       "desc": "After a bit of a wait, Switch 2 owners can get their hands on Lego Batman: Legacy of the Dark Knight this autumn, publisher Warner Bros. has announced, as it joins the many other games arriving in September. Read more",
@@ -188,7 +238,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "CD Projekt Red's new mystery IP 'Hadar' is \"an emotional, open-world experience\" in line with the developer's Witcher and Cyberpunk games",
       "titleEN": "CD Projekt Red's new mystery IP 'Hadar' is \"an emotional, open-world experience\" in line with the developer's Witcher and Cyberpunk games",
       "desc": "We've known about Hadar, CD Projekt Red's new franchise, for a few years now, but it wasn't until March 2026 the studio \"established the foundations\" of what it's actually going to be. With only promises and a codename, little is known about its natu",
@@ -198,7 +248,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "Rayman's best, most beautiful adventure is being remade in 3D, for some reason, and it'll be bundled with the leaked Rayman Origins remaster",
       "titleEN": "Rayman's best, most beautiful adventure is being remade in 3D, for some reason, and it'll be bundled with the leaked Rayman Origins remaster",
       "desc": "You probably don't need me to tell you Rayman Legends is an absolute classic. And despite it being over a decade old at this point, the celebrated 2D platformer - with its sumptuous hand-drawn art and wildly imaginative action - still looks and sound",
@@ -208,7 +258,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "Nintendo Music now supports PC, tablets, and car screens as a whopping four hours of Mario Kart World bangers join the streaming service",
       "titleEN": "Nintendo Music now supports PC, tablets, and car screens as a whopping four hours of Mario Kart World bangers join the streaming service",
       "desc": "Nintendo Music has been around for a good while now, but despite many updates to its musical selection since launch, the streaming service has only been accessible via Nintendo's mobile app. That's now changed. Read more",
@@ -218,61 +268,11 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "Pokémon gets the Lego Smart Play treatment with new sets arriving this summer, and they're not as eye-wateringly expensive as the previous Pokémon builds",
       "titleEN": "Pokémon gets the Lego Smart Play treatment with new sets arriving this summer, and they're not as eye-wateringly expensive as the previous Pokémon builds",
       "desc": "Lego Pok&eacute;mon sets finally arrived earlier this year, but they were on the costly side, with a strong focus on big builds. Of course, that was just the beginning of The Lego Group and The Pok&eacute;mon Company's partnership, and now they've re",
       "descEN": "Lego Pok&eacute;mon sets finally arrived earlier this year, but they were on the costly side, with a strong focus on big builds. Of course, that was just the beginning of The Lego Group and The Pok&eacute;mon Company's partnership, and now they've re",
-      "date": "3 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "A conspicuous absence of live-service, a wealth of single-player games, and the spectre of a £500 console: what we made of PlayStation's June State of Play",
-      "titleEN": "A conspicuous absence of live-service, a wealth of single-player games, and the spectre of a £500 console: what we made of PlayStation's June State of Play",
-      "desc": "Last night's PlayStation State of Play was a big one for Sony. We're still reeling from the platform holder's announcement in March that the PS5, PS5 Pro, and Portal would be getting major price hikes thanks to \"continued pressures in the global econ",
-      "descEN": "Last night's PlayStation State of Play was a big one for Sony. We're still reeling from the platform holder's announcement in March that the PS5, PS5 Pro, and Portal would be getting major price hikes thanks to \"continued pressures in the global econ",
-      "date": "3 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "The X-Men don't exist in Marvel's Wolverine, and while Spider-Man does, he'll only appear fleetingly in an \"Easter-eggy\" kind of way",
-      "titleEN": "The X-Men don't exist in Marvel's Wolverine, and while Spider-Man does, he'll only appear fleetingly in an \"Easter-eggy\" kind of way",
-      "desc": "Seeing Jean Gray in the trailer for Marvel's Wolverine yesterday, and her ability to work with Logan as an ally in combat, naturally gave rise to another question about the game: which other famous X-Men characters will we see? Read more",
-      "descEN": "Seeing Jean Gray in the trailer for Marvel's Wolverine yesterday, and her ability to work with Logan as an ally in combat, naturally gave rise to another question about the game: which other famous X-Men characters will we see? Read more",
-      "date": "3 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "God of War Laufey is bringing back the original trilogy's faster combat",
-      "titleEN": "God of War Laufey is bringing back the original trilogy's faster combat",
-      "desc": "Though it takes place in the same world as the 2018 God of War reboot, and God of War Ragnar&ouml;k, God of War Laufey surprisingly borrows some of the most defining characteristics of the original trilogy. Read more",
-      "descEN": "Though it takes place in the same world as the 2018 God of War reboot, and God of War Ragnar&ouml;k, God of War Laufey surprisingly borrows some of the most defining characteristics of the original trilogy. Read more",
-      "date": "3 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Dune Awakening is coming to consoles at long last, but for some reason, it will not have crossplay",
-      "titleEN": "Dune Awakening is coming to consoles at long last, but for some reason, it will not have crossplay",
-      "desc": "Dune Awakening is coming to consoles at long last, and is getting a dedicated single-player mode. Unfortunately, there'll be no crossplay between most platforms. Read more",
-      "descEN": "Dune Awakening is coming to consoles at long last, and is getting a dedicated single-player mode. Unfortunately, there'll be no crossplay between most platforms. Read more",
-      "date": "3 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Toy Story is the next series to get Digital Eclipse's acclaimed retro collection treatment, and a remaster of Toy Story 3 is also on the way",
-      "titleEN": "Toy Story is the next series to get Digital Eclipse's acclaimed retro collection treatment, and a remaster of Toy Story 3 is also on the way",
-      "desc": "Following Digital Eclipse's Mortal Kombat: Legacy Kollection last year, the studio famed for its preservation and restoration work - including the critically acclaimed Gold Master Series - has unveiled a collection of retro Toy Story titles, plus a s",
-      "descEN": "Following Digital Eclipse's Mortal Kombat: Legacy Kollection last year, the studio famed for its preservation and restoration work - including the critically acclaimed Gold Master Series - has unveiled a collection of retro Toy Story titles, plus a s",
       "date": "3 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
