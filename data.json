@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:43:59.330Z",
+  "generatedAt": "2026-06-05T14:47:47.233Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Phonopolis",
       "desc": "Aprovecha la oferta de Phonopolis en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Phonopolis deal on Steam. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Phonopolis on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Cheap Car Repair está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Cheap Car Repair deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Cheap Car Repair en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Cheap Car Repair at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -54,8 +54,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "Rogue Waters",
       "desc": "Rogue Waters está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Rogue Waters is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -102,8 +102,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Songs of Conquest on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Songs of Conquest en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Songs of Conquest at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -118,7 +118,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -153,7 +153,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -169,7 +169,7 @@
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
       "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -183,6 +183,76 @@
   "news": [
     {
       "id": "n1",
+      "title": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
+      "titleEN": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
+      "desc": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role. Speaking recently at Bloomberg Tech Live, the executive was asked yet again about the company's stance on exclusivity for first-party games, and whether or not this c",
+      "descEN": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role. Speaking recently at Bloomberg Tech Live, the executive was asked yet again about the company's stance on exclusivity for first-party games, and whether or not this c",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Marathon Deluxe Edition discount offers free-trial players bonuses without the full game, confusion ensues",
+      "titleEN": "Marathon Deluxe Edition discount offers free-trial players bonuses without the full game, confusion ensues",
+      "desc": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
+      "descEN": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n3",
+      "title": "\"We are seeing a certain degree of effectiveness from the use of generative AI\" - Capcom clarifies its stance on using the controversial tech",
+      "titleEN": "\"We are seeing a certain degree of effectiveness from the use of generative AI\" - Capcom clarifies its stance on using the controversial tech",
+      "desc": "Capcom has said why it is using generative AI in its business, stating its policy is \"to improve the efficiency of routine operations so that our developers can devote more time to essential value creation\". Read more",
+      "descEN": "Capcom has said why it is using generative AI in its business, stating its policy is \"to improve the efficiency of routine operations so that our developers can devote more time to essential value creation\". Read more",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Summer Game Fest 2026 live report - all the news and announcements from Geoff Keighley's E3 but not E3 showcase",
+      "titleEN": "Summer Game Fest 2026 live report - all the news and announcements from Geoff Keighley's E3 but not E3 showcase",
+      "desc": "The centre-piece show of Summer Game Fest - the literal Summer Game Fest showcase - takes place tonight at 9pm UK time (10pm CEST / 5pm EDT / 2pm PDT), and we'll be covering all the news and announcements from it, live, right here in this article. Re",
+      "descEN": "The centre-piece show of Summer Game Fest - the literal Summer Game Fest showcase - takes place tonight at 9pm UK time (10pm CEST / 5pm EDT / 2pm PDT), and we'll be covering all the news and announcements from it, live, right here in this article. Re",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "June's PlayStation State of Play breaks records, is reportedly the most-watched ever",
+      "titleEN": "June's PlayStation State of Play breaks records, is reportedly the most-watched ever",
+      "desc": "Sony has successfully made its State of Play showcase series into a brand that brings in millions of views with each episode. The most recent showcase, which took place 2nd June ahead of Summer Game Fest 2026, was apparently its biggest-ever, no matt",
+      "descEN": "Sony has successfully made its State of Play showcase series into a brand that brings in millions of views with each episode. The most recent showcase, which took place 2nd June ahead of Summer Game Fest 2026, was apparently its biggest-ever, no matt",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n6",
+      "title": "Did this week's PlayStation State of Play host the largest number of games running on PS5 Pro? Not technically, but close",
+      "titleEN": "Did this week's PlayStation State of Play host the largest number of games running on PS5 Pro? Not technically, but close",
+      "desc": "For a while after it launched, I never felt like the PlayStation 5 Pro ever actually came out. You could argue Sony hasn't been promoting it well. The initial Ghost of Yotei reveal took place in a September 2024 State of Play, yet its trailer didn't ",
+      "descEN": "For a while after it launched, I never felt like the PlayStation 5 Pro ever actually came out. You could argue Sony hasn't been promoting it well. The initial Ghost of Yotei reveal took place in a September 2024 State of Play, yet its trailer didn't ",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n7",
+      "title": "Yet another new Crimson Desert update is here, and this one adding Pinball, because of course",
+      "titleEN": "Yet another new Crimson Desert update is here, and this one adding Pinball, because of course",
+      "desc": "Pearl Abyss is on quite the Crimson Desert patch roll, and has just released another update for its popular single player RPG spin-off from hit Korean MMO Black Desert. Just last week, the developer added the ability to remap your controller, and now",
+      "descEN": "Pearl Abyss is on quite the Crimson Desert patch roll, and has just released another update for its popular single player RPG spin-off from hit Korean MMO Black Desert. Just last week, the developer added the ability to remap your controller, and now",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n8",
       "title": "PlayStation 5 hardware sales dropped dramatically in the UK last month vs Xbox",
       "titleEN": "PlayStation 5 hardware sales dropped dramatically in the UK last month vs Xbox",
       "desc": "Current-generation Xbox hardware sales have been low in all major markets, registering its worst-ever year in the UK last year. Fortunes almost turned in May, however, a month when PlayStation suffered a big drop in its own sales. Read more",
@@ -192,7 +262,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n2",
+      "id": "n9",
       "title": "Steam Machine and Steam Frame both shipping \"this summer\", Valve affirms",
       "titleEN": "Steam Machine and Steam Frame both shipping \"this summer\", Valve affirms",
       "desc": "Valve intends to release its Steam Machine and Steam Frame this summer. Read more",
@@ -202,7 +272,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n10",
       "title": "Subnautica 2 studio \"hard at work\" on new updates as it shares more details on the features its 4 million players can expect next",
       "titleEN": "Subnautica 2 studio \"hard at work\" on new updates as it shares more details on the features its 4 million players can expect next",
       "desc": "Subnautica 2 is off to a roaring start, and developer Unknown Worlds recently celebrated the fact that 4m players have now dipped their toes into the waters of the ocean planet Proteus. That's a lot of early access feedback to comb through, but the s",
@@ -212,7 +282,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n4",
+      "id": "n11",
       "title": "Amazon will publish whatever 007 First Light sequels there may be, as it muscles in on IO Interactive's operation as new owner of James Bond",
       "titleEN": "Amazon will publish whatever 007 First Light sequels there may be, as it muscles in on IO Interactive's operation as new owner of James Bond",
       "desc": "UPDATE 6.18pm: Amazon has shared a new statement regarding its relationship with 007 First Light developer IO Interactive and any future Bond games.  Read more",
@@ -222,7 +292,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n5",
+      "id": "n12",
       "title": "FromSoftware has finally announced an Elden Ring Switch 2 release date",
       "titleEN": "FromSoftware has finally announced an Elden Ring Switch 2 release date",
       "desc": "FromSoftware and Bandai Namco Entertainment have finally announced a Switch 2 release date for Elden Ring. Read more",
@@ -230,76 +300,6 @@
       "date": "4 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Kratos will return in future games, God of War developer assures fans following the Laufey reveal",
-      "titleEN": "Kratos will return in future games, God of War developer assures fans following the Laufey reveal",
-      "desc": "Following the reveal of God of War Laufey, series developer Sony Santa Monica has had to clarify, on multiple occasions, that longtime protagonist Kratos remains the eponymous God of War, and more games starring Kratos are in indeed the works. Read m",
-      "descEN": "Following the reveal of God of War Laufey, series developer Sony Santa Monica has had to clarify, on multiple occasions, that longtime protagonist Kratos remains the eponymous God of War, and more games starring Kratos are in indeed the works. Read m",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "Nintendo's finally developing replaceable batteries, so we presumably won't have to bin a Switch because the battery conked out",
-      "titleEN": "Nintendo's finally developing replaceable batteries, so we presumably won't have to bin a Switch because the battery conked out",
-      "desc": "Nintendo has announced it is creating hardware with replaceable batteries, which presumably will include its Switch consoles, due to new EU regulations tackling electronic waste. Read more",
-      "descEN": "Nintendo has announced it is creating hardware with replaceable batteries, which presumably will include its Switch consoles, due to new EU regulations tackling electronic waste. Read more",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n8",
-      "title": "Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in",
-      "titleEN": "Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in",
-      "desc": "It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games. There won't be a wider city to explore in the way Spider-Man swings around New York, nor will there be a base of operations for downtime betw",
-      "descEN": "It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games. There won't be a wider city to explore in the way Spider-Man swings around New York, nor will there be a base of operations for downtime betw",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Think you've got a handle on Mina the Hollower? Yacht Club reckons many playthroughs are \"missing 50 percent of the game\", and \"there are a few very secret things\" players are yet to find",
-      "titleEN": "Think you've got a handle on Mina the Hollower? Yacht Club reckons many playthroughs are \"missing 50 percent of the game\", and \"there are a few very secret things\" players are yet to find",
-      "desc": "Mina the Hollower may look like a cute and unassuming game at first glance, with its retro pixel aesthetic and demure mouse hero, but don't be fooled. Developer Yacht Club Game has hidden myriad secrets within its world, the Tenebrous Isle, for playe",
-      "descEN": "Mina the Hollower may look like a cute and unassuming game at first glance, with its retro pixel aesthetic and demure mouse hero, but don't be fooled. Developer Yacht Club Game has hidden myriad secrets within its world, the Tenebrous Isle, for playe",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "\"We know players want it. WE want it\" - Dune Awakening developers respond to lack of crossplay for console release",
-      "titleEN": "\"We know players want it. WE want it\" - Dune Awakening developers respond to lack of crossplay for console release",
-      "desc": "Dune Awakening developer Funcom has responded to the news crossplay won't be included in the game's  upcoming console release, telling Eurogamer, \"We know players want it. WE want it.\" Read more",
-      "descEN": "Dune Awakening developer Funcom has responded to the news crossplay won't be included in the game's  upcoming console release, telling Eurogamer, \"We know players want it. WE want it.\" Read more",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "James Bond game 007 First Light sales estimated to have reached an impressive milestone a week after launch",
-      "titleEN": "James Bond game 007 First Light sales estimated to have reached an impressive milestone a week after launch",
-      "desc": "007 First Light has been out for just over a week and already it may have surpassed two million copies sold. Read more",
-      "descEN": "007 First Light has been out for just over a week and already it may have surpassed two million copies sold. Read more",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n12",
-      "title": "Here are our Xbox Game Pass games for June",
-      "titleEN": "Here are our Xbox Game Pass games for June",
-      "desc": "Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more",
-      "descEN": "Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more",
-      "date": "4 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
