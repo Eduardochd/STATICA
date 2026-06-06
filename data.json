@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-06T13:39:32.707Z",
+  "generatedAt": "2026-06-06T19:20:29.492Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Cheap Car Repair",
       "desc": "Encuentra Cheap Car Repair al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Cheap Car Repair deal on Steam. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Cheap Car Repair on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -38,7 +38,7 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Gravity Circuit en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -54,8 +54,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Rogue Waters",
       "desc": "Encuentra Rogue Waters al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Rogue Waters deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "Songs of Conquest",
       "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Songs of Conquest on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Songs of Conquest deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -102,7 +102,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -142,7 +142,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -159,7 +159,7 @@
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
       "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -173,6 +173,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Palworld is finally leaving early access - here's when",
+      "titleEN": "Palworld is finally leaving early access - here's when",
+      "desc": "It's finally happening: Palworld is leaving early access on 10th July. Read more",
+      "descEN": "It's finally happening: Palworld is leaving early access on 10th July. Read more",
+      "date": "6 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent",
       "titleEN": "Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent",
       "desc": "LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project. When Sirens Fall Silent is a psychological serial killer horror and it's coming to PC next y",
@@ -182,7 +192,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Acclaimed co-op series Trine is returning for a fresh adventure with new and familiar faces, and a heist that goes wrong",
       "titleEN": "Acclaimed co-op series Trine is returning for a fresh adventure with new and familiar faces, and a heist that goes wrong",
       "desc": "If your life's been lacking a bit of colour lately, have no fear: developer Frozenbyte's acclaimed co-op platforming series Trine is back for a sixth outing, and once again it's the aesthetic equivalent of a Dulux catalogue. It's not too far off rele",
@@ -192,7 +202,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Yooka-Laylee is back in a SNES-style kart racer from some of the team behind Diddy Kong Racing",
       "titleEN": "Yooka-Laylee is back in a SNES-style kart racer from some of the team behind Diddy Kong Racing",
       "desc": "It's somehow been seven years since Yooka-Laylee's last proper adventure (I'm not sure 2025's remake, as enjoyable as it was, entirely counts), but the bat and lizard duo are finally back, and this time in a brand-new form. Yes, those recent leaks we",
@@ -202,7 +212,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "What we've been playing - \"Have you ever downloaded a game on Steam just to boot it up and delete it five minutes later?\"",
       "titleEN": "What we've been playing - \"Have you ever downloaded a game on Steam just to boot it up and delete it five minutes later?\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie and Connor break the rules slightly, but it's okay because Bertie organises What We've Been Playing and Connor regularly contr",
@@ -212,7 +222,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
       "titleEN": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
       "desc": "007 First Light is already racking up some pretty impressive sales figures for IO Interactive. Today, in a presentation given to the press after the Summer Game Fest 2026 showcase, IO studio director Hakan Abrak told Eurogamer that the game sold 2.7 ",
@@ -222,7 +232,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
       "titleEN": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
       "desc": "Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games Showcase, for instan",
@@ -232,7 +242,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Aion 2's global release date announced at Summer Game Fest",
       "titleEN": "Aion 2's global release date announced at Summer Game Fest",
       "desc": "Aion 2 - the sequel to legendary Korean MMORPG Aion - has had its global release date revealed at Summer Game Fest. Read more",
@@ -242,7 +252,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "The Wolf Among Us 2 finally arrives next year, a decade after it was announced, but a remaster of the acclaimed original is coming first",
       "titleEN": "The Wolf Among Us 2 finally arrives next year, a decade after it was announced, but a remaster of the acclaimed original is coming first",
       "desc": "It's finally happening, apparently. After a protracted and extremely tumultusous decade of development, The Wolf Among Us 2 is supposedly now launching next year. And there's a remaster of the much-loved original on the way to tide us over until then",
@@ -252,7 +262,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
       "titleEN": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
       "desc": "Monster Hunter Wilds' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more",
@@ -262,7 +272,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "Maverick Games reveals Clutch, an open-world racer set in the rather gorgeous-looking French Riviera",
       "titleEN": "Maverick Games reveals Clutch, an open-world racer set in the rather gorgeous-looking French Riviera",
       "desc": "Clutch - the cinematic, open-world, action-driving game from the team at Maverick Games, and which is being headed up by former Forza Horizon creative director Mike Brown - just got itself a very slick new trailer at this evening's Summer Game Fest, ",
@@ -272,7 +282,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "Final Fantasy 7 Remake Part 3 is called Revelation, coming to PS5, Xbox and Switch 2 simultaneously Spring 2027",
       "titleEN": "Final Fantasy 7 Remake Part 3 is called Revelation, coming to PS5, Xbox and Switch 2 simultaneously Spring 2027",
       "desc": "Square Enix has finally announced, as part of today's Summer Games Fest showcase, some more information about the third instalment of Final Fantasy 7 Remake series. It's called Final Fantasy 7 Revelation Read more",
@@ -280,16 +290,6 @@
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Stellar Blade Blood Rain takes a big swing with a Summer Game Fest reveal trailer",
-      "titleEN": "Stellar Blade Blood Rain takes a big swing with a Summer Game Fest reveal trailer",
-      "desc": "Stellar Blade Blood Rain has just been revealed at Summer Game Fest, with an action-packed new gameplay trailer. Read more",
-      "descEN": "Stellar Blade Blood Rain has just been revealed at Summer Game Fest, with an action-packed new gameplay trailer. Read more",
-      "date": "5 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
