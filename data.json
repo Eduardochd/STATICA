@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-05T19:52:36.505Z",
+  "generatedAt": "2026-06-06T02:57:37.082Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -22,7 +22,7 @@
       "steamAppId": 2904040,
       "rating": 4,
       "title": "Cheap Car Repair",
-      "desc": "Cheap Car Repair está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Cheap Car Repair en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Cheap Car Repair is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Gravity Circuit está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Gravity Circuit deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Gravity Circuit en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -55,7 +55,7 @@
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -70,8 +70,8 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Oferta especial de Rogue Waters en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Rogue Waters is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Rogue Waters en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Rogue Waters deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Aprovecha la oferta de Songs of Conquest en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Songs of Conquest on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Songs of Conquest en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Songs of Conquest deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -103,7 +103,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -142,8 +142,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -173,123 +173,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "Buffy the Vampire Slayer and Ted Lasso star Anthony Head dies aged 72",
-      "titleEN": "Buffy the Vampire Slayer and Ted Lasso star Anthony Head dies aged 72",
-      "desc": "British actor Anthony Head, known widely for his portrayal of Giles in the Buffy the Vampire Slayer, has died from complications due to pneumonia, aged 72 years old. Read more",
-      "descEN": "British actor Anthony Head, known widely for his portrayal of Giles in the Buffy the Vampire Slayer, has died from complications due to pneumonia, aged 72 years old. Read more",
-      "date": "5 de junio de 2026",
+      "title": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
+      "titleEN": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
+      "desc": "007 First Light is already racking up some pretty impressive sales figures for IO Interactive. Today, in a presentation given to the press after the Summer Game Fest 2026 showcase, IO studio director Hakan Abrak told Eurogamer that the game sold 2.7 ",
+      "descEN": "007 First Light is already racking up some pretty impressive sales figures for IO Interactive. Today, in a presentation given to the press after the Summer Game Fest 2026 showcase, IO studio director Hakan Abrak told Eurogamer that the game sold 2.7 ",
+      "date": "6 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Ofertas"
     },
     {
       "id": "n2",
-      "title": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
-      "titleEN": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
-      "desc": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role. Speaking recently at Bloomberg Tech Live, the executive was asked yet again about the company's stance on exclusivity for first-party games, and whether or not this c",
-      "descEN": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role. Speaking recently at Bloomberg Tech Live, the executive was asked yet again about the company's stance on exclusivity for first-party games, and whether or not this c",
-      "date": "5 de junio de 2026",
+      "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
+      "titleEN": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
+      "desc": "Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games Showcase, for instan",
+      "descEN": "Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games Showcase, for instan",
+      "date": "6 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n3",
-      "title": "Marathon Deluxe Edition discount offers free-trial players bonuses without the full game, confusion ensues",
-      "titleEN": "Marathon Deluxe Edition discount offers free-trial players bonuses without the full game, confusion ensues",
-      "desc": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
-      "descEN": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
+      "title": "Aion 2's global release date announced at Summer Game Fest",
+      "titleEN": "Aion 2's global release date announced at Summer Game Fest",
+      "desc": "Aion 2 - the sequel to legendary Korean MMORPG Aion - has had its global release date revealed at Summer Game Fest. Read more",
+      "descEN": "Aion 2 - the sequel to legendary Korean MMORPG Aion - has had its global release date revealed at Summer Game Fest. Read more",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n4",
-      "title": "\"We are seeing a certain degree of effectiveness from the use of generative AI\" - Capcom clarifies its stance on using the controversial tech",
-      "titleEN": "\"We are seeing a certain degree of effectiveness from the use of generative AI\" - Capcom clarifies its stance on using the controversial tech",
-      "desc": "Capcom has said why it is using generative AI in its business, stating its policy is \"to improve the efficiency of routine operations so that our developers can devote more time to essential value creation\". Read more",
-      "descEN": "Capcom has said why it is using generative AI in its business, stating its policy is \"to improve the efficiency of routine operations so that our developers can devote more time to essential value creation\". Read more",
+      "title": "The Wolf Among Us 2 finally arrives next year, a decade after it was announced, but a remaster of the acclaimed original is coming first",
+      "titleEN": "The Wolf Among Us 2 finally arrives next year, a decade after it was announced, but a remaster of the acclaimed original is coming first",
+      "desc": "It's finally happening, apparently. After a protracted and extremely tumultusous decade of development, The Wolf Among Us 2 is supposedly now launching next year. And there's a remaster of the much-loved original on the way to tide us over until then",
+      "descEN": "It's finally happening, apparently. After a protracted and extremely tumultusous decade of development, The Wolf Among Us 2 is supposedly now launching next year. And there's a remaster of the much-loved original on the way to tide us over until then",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "Summer Game Fest 2026 live report - all the news and announcements from Geoff Keighley's E3 but not E3 showcase",
-      "titleEN": "Summer Game Fest 2026 live report - all the news and announcements from Geoff Keighley's E3 but not E3 showcase",
-      "desc": "The centre-piece show of Summer Game Fest - the literal Summer Game Fest showcase - takes place tonight at 10pm UK time (11pm CEST / 5pm EDT / 2pm PDT), and we'll be covering all the news and announcements from it, live, right here in this article. T",
-      "descEN": "The centre-piece show of Summer Game Fest - the literal Summer Game Fest showcase - takes place tonight at 10pm UK time (11pm CEST / 5pm EDT / 2pm PDT), and we'll be covering all the news and announcements from it, live, right here in this article. T",
+      "title": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
+      "titleEN": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
+      "desc": "Monster Hunter Wilds' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more",
+      "descEN": "Monster Hunter Wilds' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more",
+      "date": "5 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n6",
+      "title": "Maverick Games reveals Clutch, an open-world racer set in the rather gorgeous-looking French Riviera",
+      "titleEN": "Maverick Games reveals Clutch, an open-world racer set in the rather gorgeous-looking French Riviera",
+      "desc": "Clutch - the cinematic, open-world, action-driving game from the team at Maverick Games, and which is being headed up by former Forza Horizon creative director Mike Brown - just got itself a very slick new trailer at this evening's Summer Game Fest, ",
+      "descEN": "Clutch - the cinematic, open-world, action-driving game from the team at Maverick Games, and which is being headed up by former Forza Horizon creative director Mike Brown - just got itself a very slick new trailer at this evening's Summer Game Fest, ",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
-      "id": "n6",
-      "title": "June's PlayStation State of Play breaks records, is reportedly the most-watched ever",
-      "titleEN": "June's PlayStation State of Play breaks records, is reportedly the most-watched ever",
-      "desc": "Sony has successfully made its State of Play showcase series into a brand that brings in millions of views with each episode. The most recent showcase, which took place 2nd June ahead of Summer Game Fest 2026, was apparently its biggest-ever, no matt",
-      "descEN": "Sony has successfully made its State of Play showcase series into a brand that brings in millions of views with each episode. The most recent showcase, which took place 2nd June ahead of Summer Game Fest 2026, was apparently its biggest-ever, no matt",
-      "date": "5 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
       "id": "n7",
-      "title": "Did this week's PlayStation State of Play host the largest number of games running on PS5 Pro? Not technically, but close",
-      "titleEN": "Did this week's PlayStation State of Play host the largest number of games running on PS5 Pro? Not technically, but close",
-      "desc": "For a while after it launched, I never felt like the PlayStation 5 Pro ever actually came out. You could argue Sony hasn't been promoting it well. The initial Ghost of Yotei reveal took place in a September 2024 State of Play, yet its trailer didn't ",
-      "descEN": "For a while after it launched, I never felt like the PlayStation 5 Pro ever actually came out. You could argue Sony hasn't been promoting it well. The initial Ghost of Yotei reveal took place in a September 2024 State of Play, yet its trailer didn't ",
+      "title": "Final Fantasy 7 Remake Part 3 is called Revelation, coming to PS5, Xbox and Switch 2 simultaneously Spring 2027",
+      "titleEN": "Final Fantasy 7 Remake Part 3 is called Revelation, coming to PS5, Xbox and Switch 2 simultaneously Spring 2027",
+      "desc": "Square Enix has finally announced, as part of today's Summer Games Fest showcase, some more information about the third instalment of Final Fantasy 7 Remake series. It's called Final Fantasy 7 Revelation Read more",
+      "descEN": "Square Enix has finally announced, as part of today's Summer Games Fest showcase, some more information about the third instalment of Final Fantasy 7 Remake series. It's called Final Fantasy 7 Revelation Read more",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n8",
-      "title": "Yet another new Crimson Desert update is here, and this one adding Pinball, because of course",
-      "titleEN": "Yet another new Crimson Desert update is here, and this one adding Pinball, because of course",
-      "desc": "Pearl Abyss is on quite the Crimson Desert patch roll, and has just released another update for its popular single player RPG spin-off from hit Korean MMO Black Desert. Just last week, the developer added the ability to remap your controller, and now",
-      "descEN": "Pearl Abyss is on quite the Crimson Desert patch roll, and has just released another update for its popular single player RPG spin-off from hit Korean MMO Black Desert. Just last week, the developer added the ability to remap your controller, and now",
+      "title": "Stellar Blade Blood Rain takes a big swing with a Summer Game Fest reveal trailer",
+      "titleEN": "Stellar Blade Blood Rain takes a big swing with a Summer Game Fest reveal trailer",
+      "desc": "Stellar Blade Blood Rain has just been revealed at Summer Game Fest, with an action-packed new gameplay trailer. Read more",
+      "descEN": "Stellar Blade Blood Rain has just been revealed at Summer Game Fest, with an action-packed new gameplay trailer. Read more",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Actualización"
+      "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "PlayStation 5 hardware sales dropped dramatically in the UK last month vs Xbox",
-      "titleEN": "PlayStation 5 hardware sales dropped dramatically in the UK last month vs Xbox",
-      "desc": "Current-generation Xbox hardware sales have been low in all major markets, registering its worst-ever year in the UK last year. Fortunes almost turned in May, however, a month when PlayStation suffered a big drop in its own sales. Read more",
-      "descEN": "Current-generation Xbox hardware sales have been low in all major markets, registering its worst-ever year in the UK last year. Fortunes almost turned in May, however, a month when PlayStation suffered a big drop in its own sales. Read more",
+      "title": "Saw's the latest movie to get the asymmetrical horror game treatment and it's coming from Silent Hill 2 remake studio Bloober Team",
+      "titleEN": "Saw's the latest movie to get the asymmetrical horror game treatment and it's coming from Silent Hill 2 remake studio Bloober Team",
+      "desc": "So far, Dead by Daylight is the only one that's managed to stick, but that hasn't stopped the deluge of asymmetrical horror games from continuing to flow. And now it's Saw turn to try its luck where others have failed in the newly announced Saw: Gene",
+      "descEN": "So far, Dead by Daylight is the only one that's managed to stick, but that hasn't stopped the deluge of asymmetrical horror games from continuing to flow. And now it's Saw turn to try its luck where others have failed in the newly announced Saw: Gene",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "Steam Machine and Steam Frame both shipping \"this summer\", Valve affirms",
-      "titleEN": "Steam Machine and Steam Frame both shipping \"this summer\", Valve affirms",
-      "desc": "Valve intends to release its Steam Machine and Steam Frame this summer. Read more",
-      "descEN": "Valve intends to release its Steam Machine and Steam Frame this summer. Read more",
+      "title": "Hot Wheels Infinite Rush announced at Summer Game Fest, launching later this year",
+      "titleEN": "Hot Wheels Infinite Rush announced at Summer Game Fest, launching later this year",
+      "desc": "Hot Wheels Infinite Rush has just been announced at Summer Game Fest. Read more",
+      "descEN": "Hot Wheels Infinite Rush has just been announced at Summer Game Fest. Read more",
       "date": "5 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Subnautica 2 studio \"hard at work\" on new updates as it shares more details on the features its 4 million players can expect next",
-      "titleEN": "Subnautica 2 studio \"hard at work\" on new updates as it shares more details on the features its 4 million players can expect next",
-      "desc": "Subnautica 2 is off to a roaring start, and developer Unknown Worlds recently celebrated the fact that 4m players have now dipped their toes into the waters of the ocean planet Proteus. That's a lot of early access feedback to comb through, but the s",
-      "descEN": "Subnautica 2 is off to a roaring start, and developer Unknown Worlds recently celebrated the fact that 4m players have now dipped their toes into the waters of the ocean planet Proteus. That's a lot of early access feedback to comb through, but the s",
-      "date": "4 de junio de 2026",
+      "title": "Gundam is getting a flashy new action game with Gundam Rogue Orbit, coming 2027",
+      "titleEN": "Gundam is getting a flashy new action game with Gundam Rogue Orbit, coming 2027",
+      "desc": "Gundam Rogue Orbit has been revealed with an exciting new gameplay trailer at Summer Game Fest. Read more",
+      "descEN": "Gundam Rogue Orbit has been revealed with an exciting new gameplay trailer at Summer Game Fest. Read more",
+      "date": "5 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Récord"
+      "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Amazon will publish whatever 007 First Light sequels there may be, as it muscles in on IO Interactive's operation as new owner of James Bond",
-      "titleEN": "Amazon will publish whatever 007 First Light sequels there may be, as it muscles in on IO Interactive's operation as new owner of James Bond",
-      "desc": "UPDATE 6.18pm: Amazon has shared a new statement regarding its relationship with 007 First Light developer IO Interactive and any future Bond games.  Read more",
-      "descEN": "UPDATE 6.18pm: Amazon has shared a new statement regarding its relationship with 007 First Light developer IO Interactive and any future Bond games.  Read more",
-      "date": "4 de junio de 2026",
+      "title": "After the success of Black Myth: Wukong and Wuchang: Fallen Feather, Swords of Legends aims to elevate the Chinese action-RPG even further",
+      "titleEN": "After the success of Black Myth: Wukong and Wuchang: Fallen Feather, Swords of Legends aims to elevate the Chinese action-RPG even further",
+      "desc": "Tonight during the Summer Game Fest showcase, developer Aurogon Shanghai unveiled a brand new trailer for the upcoming action-adventure RPG Swords of Legends. Read more",
+      "descEN": "Tonight during the Summer Game Fest showcase, developer Aurogon Shanghai unveiled a brand new trailer for the upcoming action-adventure RPG Swords of Legends. Read more",
+      "date": "5 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Actualización"
+      "tag": "Noticia"
     }
   ]
 }
