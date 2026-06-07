@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-07T03:43:40.855Z",
+  "generatedAt": "2026-06-07T08:54:22.098Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": 858710,
       "rating": 4,
       "title": "Gravity Circuit",
-      "desc": "Gravity Circuit está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -54,7 +54,7 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -70,7 +70,7 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Encuentra Rogue Waters al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Rogue Waters está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Rogue Waters is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -86,8 +86,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Songs of Conquest deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Songs of Conquest está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -103,7 +103,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -158,8 +158,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -175,7 +175,7 @@
       "rating": 5,
       "title": "Tumblestone",
       "desc": "Tumblestone está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Tumblestone deal on Humble. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find Tumblestone at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
