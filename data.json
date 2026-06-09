@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:40:23.412Z",
+  "generatedAt": "2026-06-09T14:47:28.597Z",
   "games": [
     {
       "id": "g1",
@@ -19,26 +19,10 @@
     },
     {
       "id": "g2",
-      "steamAppId": 858710,
-      "rating": 4,
-      "title": "Gravity Circuit",
-      "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 0,
-          "original": 18.68,
-          "url": "https://www.cheapshark.com/redirect?dealID=zmS4o0E%2FnDQY25xSFhqB6rQlds0CHQZre0%2BaYLkhU4A%3D"
-        }
-      ]
-    },
-    {
-      "id": "g3",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -50,12 +34,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g3",
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Aprovecha la oferta de Rogue Waters en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Rogue Waters al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -66,12 +50,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Aprovecha la oferta de Songs of Conquest en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Songs of Conquest at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -82,12 +66,12 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -96,10 +80,10 @@
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
         },
         {
-          "store": "Humble",
-          "price": 3.47,
-          "original": 69.51,
-          "url": "https://www.cheapshark.com/redirect?dealID=7Dn8NudFqgYnCBiADC%2BF2ToNGEDtrMwgzftuD3PU5ys%3D"
+          "store": "GOG",
+          "price": 6.95,
+          "original": 69.5,
+          "url": "https://www.cheapshark.com/redirect?dealID=Tp8gemBsqhKHEqPDDOz5JOjPlwucgGPN%2FcrwDnWT%2FGE%3D"
         },
         {
           "store": "GOG",
@@ -120,20 +104,20 @@
           "url": "https://www.cheapshark.com/redirect?dealID=x9sPdlHkKso7HR7cc6%2Fo5AGZnAm5K7EAdnDknBAJoWY%3D"
         },
         {
-          "store": "GMG",
-          "price": 14.39,
-          "original": 79.95,
-          "url": "https://www.cheapshark.com/redirect?dealID=l8Nwl7tibiVKsrf48OWFLw5Ha59F3H%2B3xMkKuK%2FknBQ%3D"
+          "store": "GOG",
+          "price": 19.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=1fvV4IE5EoA4%2B%2BNTI8jdg3iXbGo8vQg7UXCY1rsEX28%3D"
         }
       ]
     },
     {
-      "id": "g7",
+      "id": "g6",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -144,12 +128,12 @@
       ]
     },
     {
-      "id": "g8",
+      "id": "g7",
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -160,12 +144,12 @@
       ]
     },
     {
-      "id": "g9",
+      "id": "g8",
       "steamAppId": 269710,
       "rating": 5,
       "title": "Tumblestone",
       "desc": "Oferta especial de Tumblestone en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Tumblestone deal on Humble. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for Tumblestone on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
@@ -179,123 +163,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "Nintendo Direct live report - all the news and announcements from the summer 2026 show",
-      "titleEN": "Nintendo Direct live report - all the news and announcements from the summer 2026 show",
-      "desc": "We're not done yet. This afternoon, at the very agreeable time of 3pm UK, Nintendo will broadcast a Direct showcase showing us what it's got for Switch and Switch 2 in the weeks and months ahead. And we'll be covering all of the news and announcement",
-      "descEN": "We're not done yet. This afternoon, at the very agreeable time of 3pm UK, Nintendo will broadcast a Direct showcase showing us what it's got for Switch and Switch 2 in the weeks and months ahead. And we'll be covering all of the news and announcement",
+      "title": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
+      "titleEN": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
+      "desc": "Xenoblade Genesis has been revealed at today's Nintendo Direct. It's coming in 2027 to the Nintendo Switch 2, with a specific release date or window not announced quite yet. Read more",
+      "descEN": "Xenoblade Genesis has been revealed at today's Nintendo Direct. It's coming in 2027 to the Nintendo Switch 2, with a specific release date or window not announced quite yet. Read more",
       "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n2",
-      "title": "Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory",
-      "titleEN": "Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory",
-      "desc": "It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive, hours after a PEGI rating for the PS5 version surfaced. Read more",
-      "descEN": "It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive, hours after a PEGI rating for the PS5 version surfaced. Read more",
+      "title": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
+      "titleEN": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
+      "desc": "All the fan theories were correct: Dragon's Dogma 2 is getting an expansion later this year... plus a Nintendo Switch 2 port. Read more",
+      "descEN": "All the fan theories were correct: Dragon's Dogma 2 is getting an expansion later this year... plus a Nintendo Switch 2 port. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n3",
+      "title": "Pokémon Pokopia is diving beneath the waves in a free update and the first of three paid DLC releases out later this year",
+      "titleEN": "Pokémon Pokopia is diving beneath the waves in a free update and the first of three paid DLC releases out later this year",
+      "desc": "Well, that's me back in. Just when I thought my time with Pok&eacute;mon Pokopia might be coming to an end, Nintendo has unveiled a whole bunch of new stuff launching this August. Read more",
+      "descEN": "Well, that's me back in. Just when I thought my time with Pok&eacute;mon Pokopia might be coming to an end, Nintendo has unveiled a whole bunch of new stuff launching this August. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n4",
+      "title": "Fire Emblem: Fortune's Weave crams itself into an already packed-out September 2026 on Switch 2",
+      "titleEN": "Fire Emblem: Fortune's Weave crams itself into an already packed-out September 2026 on Switch 2",
+      "desc": "I hope your wallet and social lives are ready, because September 2026 is looking like an absolute disaster for game releases. Today, at a Nintendo Direct, the publisher finally announced a release date Fire Emblem: Fortune's Weave. The game arrives 1",
+      "descEN": "I hope your wallet and social lives are ready, because September 2026 is looking like an absolute disaster for game releases. Today, at a Nintendo Direct, the publisher finally announced a release date Fire Emblem: Fortune's Weave. The game arrives 1",
       "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
-      "id": "n3",
-      "title": "I've played Resonance: A Plague Tale Legacy and it's very different to Requiem and Innocence - but that's not necessarily a bad thing",
-      "titleEN": "I've played Resonance: A Plague Tale Legacy and it's very different to Requiem and Innocence - but that's not necessarily a bad thing",
-      "desc": "It's all-change in Resonance: A Plague Tale Legacy. This series - known for stealth and the emotional adventures of brother and sister Hugo and Amicia in plague-ridden France - now no longer has stealth, no longer has Amicia and Hugo, and no longer t",
-      "descEN": "It's all-change in Resonance: A Plague Tale Legacy. This series - known for stealth and the emotional adventures of brother and sister Hugo and Amicia in plague-ridden France - now no longer has stealth, no longer has Amicia and Hugo, and no longer t",
-      "date": "8 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n4",
-      "title": "Vampire: The Masquerade - Eternal Whispers is a narrative-driven CRPG channelling Disco Elysium",
-      "titleEN": "Vampire: The Masquerade - Eternal Whispers is a narrative-driven CRPG channelling Disco Elysium",
-      "desc": "Vampire: The Masquerade - Bloodlines 2 was a considerable disappointment, but that isn't stopping the IP's video game efforts in their tracks. In fact, Eternal Whispers - a new CRPG taking more than a few cues from Disco Elysium - might be the balm w",
-      "descEN": "Vampire: The Masquerade - Bloodlines 2 was a considerable disappointment, but that isn't stopping the IP's video game efforts in their tracks. In fact, Eternal Whispers - a new CRPG taking more than a few cues from Disco Elysium - might be the balm w",
-      "date": "8 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
       "id": "n5",
-      "title": "Microsoft's next big release Halo: Campaign Evolved just got a slick story trailer, with footage captured on PS5 Pro",
-      "titleEN": "Microsoft's next big release Halo: Campaign Evolved just got a slick story trailer, with footage captured on PS5 Pro",
-      "desc": "Halo: Campaign Evolved, one of Microsoft's next big triple-A releases, just got a cool-looking cinematic story trailer. And all footage you'll see in it has been captured on a PS5 Pro, of course. Read more",
-      "descEN": "Halo: Campaign Evolved, one of Microsoft's next big triple-A releases, just got a cool-looking cinematic story trailer. And all footage you'll see in it has been captured on a PS5 Pro, of course. Read more",
-      "date": "8 de junio de 2026",
+      "title": "Onimusha: Way of the Sword is slashing its way to the Nintendo Switch 2",
+      "titleEN": "Onimusha: Way of the Sword is slashing its way to the Nintendo Switch 2",
+      "desc": "Onimusha: Way of the Sword has been announced for the Nintendo Switch 2. You can pre-order it now, with the game releasing on the 25th September. Read more",
+      "descEN": "Onimusha: Way of the Sword has been announced for the Nintendo Switch 2. You can pre-order it now, with the game releasing on the 25th September. Read more",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Hardware"
     },
     {
       "id": "n6",
-      "title": "State of Decay 3 dev wanted the first gameplay trailer to show off how much higher the game's quality is, but promises deeper systems are still there",
-      "titleEN": "State of Decay 3 dev wanted the first gameplay trailer to show off how much higher the game's quality is, but promises deeper systems are still there",
-      "desc": "State of Decay 3 was among the few surprising reveals during the Xbox Games Showcase. We've been waiting years to hear, or see, well, anything from the zombie survival management sim since the moment it was initially announced - which was nearly six ",
-      "descEN": "State of Decay 3 was among the few surprising reveals during the Xbox Games Showcase. We've been waiting years to hear, or see, well, anything from the zombie survival management sim since the moment it was initially announced - which was nearly six ",
-      "date": "8 de junio de 2026",
+      "title": "Sony Pictures' Helldivers movie has lost Jason Momoa as its lead, just months after announcing the star's involvement",
+      "titleEN": "Sony Pictures' Helldivers movie has lost Jason Momoa as its lead, just months after announcing the star's involvement",
+      "desc": "Sony Pictures and PlayStation Productions have been moving relatively fast on the Helldivers movie adaptation announced back in January 2025, securing Fast & Furious veteran Justin Lin to direct and, earlier this year, Jason Momoa (Aquaman, A Minecra",
+      "descEN": "Sony Pictures and PlayStation Productions have been moving relatively fast on the Helldivers movie adaptation announced back in January 2025, securing Fast & Furious veteran Justin Lin to direct and, earlier this year, Jason Momoa (Aquaman, A Minecra",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n7",
-      "title": "Doom: The Dark Ages expanding with Revelations DLC in July, plus a free Ripatorium update adding to the game's customisable arena mode",
-      "titleEN": "Doom: The Dark Ages expanding with Revelations DLC in July, plus a free Ripatorium update adding to the game's customisable arena mode",
-      "desc": "Doom: The Dark Ages was a fun time, but we'd been wondering about the release window for its DLC (and its very nature) since a Premium Edition was released day one. During the Xbox Games Showcase, Bethesda Softworks and id Software finally unveiled t",
-      "descEN": "Doom: The Dark Ages was a fun time, but we'd been wondering about the release window for its DLC (and its very nature) since a Premium Edition was released day one. During the Xbox Games Showcase, Bethesda Softworks and id Software finally unveiled t",
-      "date": "8 de junio de 2026",
+      "title": "\"It's a choice\" - A Plague Tale developer Asobo doesn't believe smaller teams need to use gen-AI to compete",
+      "titleEN": "\"It's a choice\" - A Plague Tale developer Asobo doesn't believe smaller teams need to use gen-AI to compete",
+      "desc": "French developer Asobo, creator of the Plague Tale series and the Microsoft Flight Simulator games, doesn't believe smaller teams need to use generative AI tools to compete with bigger development studios. Read more",
+      "descEN": "French developer Asobo, creator of the Plague Tale series and the Microsoft Flight Simulator games, doesn't believe smaller teams need to use generative AI tools to compete with bigger development studios. Read more",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Expansión"
+      "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "Nintendo Direct announced for tomorrow",
-      "titleEN": "Nintendo Direct announced for tomorrow",
-      "desc": "If you thought we were done with the showcases, think again, as Nintendo has just announced a Direct. This Direct will air tomorrow, 9th June, at 3pm UK time. Read more",
-      "descEN": "If you thought we were done with the showcases, think again, as Nintendo has just announced a Direct. This Direct will air tomorrow, 9th June, at 3pm UK time. Read more",
-      "date": "8 de junio de 2026",
+      "title": "Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used",
+      "titleEN": "Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used",
+      "desc": "Crazy Taxi: World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series. The excitement was quickly soured, however, when its Steam page revealed Sega has used generative",
+      "descEN": "Crazy Taxi: World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series. The excitement was quickly soured, however, when its Steam page revealed Sega has used generative",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Ofertas"
     },
     {
       "id": "n9",
-      "title": "Guild Wars 3 will have no battle pass or subscription because ArenaNet studio lead doesn't want to \"keep people hostage\"",
-      "titleEN": "Guild Wars 3 will have no battle pass or subscription because ArenaNet studio lead doesn't want to \"keep people hostage\"",
-      "desc": "Guild Wars 3 will feature no mandatory subscription or premium battlepass, and will be buyable as a premium product like previous games in the series. Read more",
-      "descEN": "Guild Wars 3 will feature no mandatory subscription or premium battlepass, and will be buyable as a premium product like previous games in the series. Read more",
-      "date": "8 de junio de 2026",
+      "title": "Mina the Hollower sells 500k copies less than two weeks after launch as Yacht Club Games teases \"the adventure is just getting started\"",
+      "titleEN": "Mina the Hollower sells 500k copies less than two weeks after launch as Yacht Club Games teases \"the adventure is just getting started\"",
+      "desc": "Shovel Knight studio Yacht Club Games was worried last year about Mina the Hollower's launch after such a long time away from the public, but it turns out it had nothing to worry about. Mina's debut has now sold over 500k copies in less than two week",
+      "descEN": "Shovel Knight studio Yacht Club Games was worried last year about Mina the Hollower's launch after such a long time away from the public, but it turns out it had nothing to worry about. Mina's debut has now sold over 500k copies in less than two week",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n10",
-      "title": "Arkane Lyon's Blade game isn't dead, despite rumours following Xbox Games Showcase no-show",
-      "titleEN": "Arkane Lyon's Blade game isn't dead, despite rumours following Xbox Games Showcase no-show",
-      "desc": "UPDATE 2.38pm: Arkane's Blade project has not been cancelled.  Read more",
-      "descEN": "UPDATE 2.38pm: Arkane's Blade project has not been cancelled.  Read more",
-      "date": "8 de junio de 2026",
+      "title": "Game Pass lost millions of subscribers as a result of last year's controversial price hike, Xbox chief strategy officer reveals",
+      "titleEN": "Game Pass lost millions of subscribers as a result of last year's controversial price hike, Xbox chief strategy officer reveals",
+      "desc": "Xbox Game Pass lost millions of subscribers following the fall 2025 price hike, Xbox's chief strategy officer Matthew Ball has revealed. Read more",
+      "descEN": "Xbox Game Pass lost millions of subscribers following the fall 2025 price hike, Xbox's chief strategy officer Matthew Ball has revealed. Read more",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Récord"
     },
     {
       "id": "n11",
-      "title": "Monster Hunter: World has now sold over 30m units worldwide, becoming Capcom's \"best-selling single title of all time\"",
-      "titleEN": "Monster Hunter: World has now sold over 30m units worldwide, becoming Capcom's \"best-selling single title of all time\"",
-      "desc": "Monster Hunter Wilds' much-anticipated expansion-sized DLC, titled Ascendance, is coming next year. But with lots of performance woes and a long wait for meaty endgame battles, we aren't surprised the game always struggled to live up to the heights o",
-      "descEN": "Monster Hunter Wilds' much-anticipated expansion-sized DLC, titled Ascendance, is coming next year. But with lots of performance woes and a long wait for meaty endgame battles, we aren't surprised the game always struggled to live up to the heights o",
-      "date": "8 de junio de 2026",
+      "title": "Final Fantasy 10/10-2 HD Remaster gets a dedicated Switch 2 port next month, but there's a catch",
+      "titleEN": "Final Fantasy 10/10-2 HD Remaster gets a dedicated Switch 2 port next month, but there's a catch",
+      "desc": "Later today, we're getting a pretty big Nintendo Direct, but ahead of the showcase going live Square Enix has decided to treat us to something a little early: a trailer for a Switch 2 version of the Final Fantasy 10/10-2 HD Remaster. Read more",
+      "descEN": "Later today, we're getting a pretty big Nintendo Direct, but ahead of the showcase going live Square Enix has decided to treat us to something a little early: a trailer for a Switch 2 version of the Final Fantasy 10/10-2 HD Remaster. Read more",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Expansión"
+      "tag": "Hardware"
     },
     {
       "id": "n12",
-      "title": "Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned",
-      "titleEN": "Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned",
-      "desc": "As promised, Gears of War: E-Day developer The Coalition followed up the Xbox Games Showcase with a presentation entirely dedicated to the upcoming third-person shooter. The nearly 28-minute-long Direct expanded on the gameplay demo we saw at the Sho",
-      "descEN": "As promised, Gears of War: E-Day developer The Coalition followed up the Xbox Games Showcase with a presentation entirely dedicated to the upcoming third-person shooter. The nearly 28-minute-long Direct expanded on the gameplay demo we saw at the Sho",
-      "date": "8 de junio de 2026",
+      "title": "Sea of Stars: Sunset Edition is the hit retro-inspired RPG's final update, but it \"sets the stage for the adventure to come\"",
+      "titleEN": "Sea of Stars: Sunset Edition is the hit retro-inspired RPG's final update, but it \"sets the stage for the adventure to come\"",
+      "desc": "Sabotage Studio has revealed it's planning to move on from Sea of Stars after nearly three years of post-launch support which has included substantial free content updates. But don't worry; there's life beyond this Sunset Edition patch. Read more",
+      "descEN": "Sabotage Studio has revealed it's planning to move on from Sea of Stars after nearly three years of post-launch support which has included substantial free content updates. But don't worry; there's life beyond this Sunset Edition patch. Read more",
+      "date": "9 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Ofertas"
     }
   ]
 }
