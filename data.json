@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-09T02:56:41.978Z",
+  "generatedAt": "2026-06-09T09:40:23.412Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Gravity Circuit",
       "desc": "Encuentra Gravity Circuit al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Gravity Circuit at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Gravity Circuit on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -54,8 +54,8 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Encuentra Rogue Waters al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Rogue Waters en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -70,7 +70,7 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de Songs of Conquest en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find Songs of Conquest at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -132,8 +132,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -148,8 +148,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -164,8 +164,8 @@
       "steamAppId": 269710,
       "rating": 5,
       "title": "Tumblestone",
-      "desc": "Tumblestone está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Tumblestone is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Tumblestone en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Tumblestone deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Humble",
@@ -179,6 +179,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Nintendo Direct live report - all the news and announcements from the summer 2026 show",
+      "titleEN": "Nintendo Direct live report - all the news and announcements from the summer 2026 show",
+      "desc": "We're not done yet. This afternoon, at the very agreeable time of 3pm UK, Nintendo will broadcast a Direct showcase showing us what it's got for Switch and Switch 2 in the weeks and months ahead. And we'll be covering all of the news and announcement",
+      "descEN": "We're not done yet. This afternoon, at the very agreeable time of 3pm UK, Nintendo will broadcast a Direct showcase showing us what it's got for Switch and Switch 2 in the weeks and months ahead. And we'll be covering all of the news and announcement",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory",
+      "titleEN": "Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory",
+      "desc": "It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive, hours after a PEGI rating for the PS5 version surfaced. Read more",
+      "descEN": "It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive, hours after a PEGI rating for the PS5 version surfaced. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
       "title": "I've played Resonance: A Plague Tale Legacy and it's very different to Requiem and Innocence - but that's not necessarily a bad thing",
       "titleEN": "I've played Resonance: A Plague Tale Legacy and it's very different to Requiem and Innocence - but that's not necessarily a bad thing",
       "desc": "It's all-change in Resonance: A Plague Tale Legacy. This series - known for stealth and the emotional adventures of brother and sister Hugo and Amicia in plague-ridden France - now no longer has stealth, no longer has Amicia and Hugo, and no longer t",
@@ -188,7 +208,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "Vampire: The Masquerade - Eternal Whispers is a narrative-driven CRPG channelling Disco Elysium",
       "titleEN": "Vampire: The Masquerade - Eternal Whispers is a narrative-driven CRPG channelling Disco Elysium",
       "desc": "Vampire: The Masquerade - Bloodlines 2 was a considerable disappointment, but that isn't stopping the IP's video game efforts in their tracks. In fact, Eternal Whispers - a new CRPG taking more than a few cues from Disco Elysium - might be the balm w",
@@ -198,7 +218,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n5",
       "title": "Microsoft's next big release Halo: Campaign Evolved just got a slick story trailer, with footage captured on PS5 Pro",
       "titleEN": "Microsoft's next big release Halo: Campaign Evolved just got a slick story trailer, with footage captured on PS5 Pro",
       "desc": "Halo: Campaign Evolved, one of Microsoft's next big triple-A releases, just got a cool-looking cinematic story trailer. And all footage you'll see in it has been captured on a PS5 Pro, of course. Read more",
@@ -208,7 +228,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "State of Decay 3 dev wanted the first gameplay trailer to show off how much higher the game's quality is, but promises deeper systems are still there",
       "titleEN": "State of Decay 3 dev wanted the first gameplay trailer to show off how much higher the game's quality is, but promises deeper systems are still there",
       "desc": "State of Decay 3 was among the few surprising reveals during the Xbox Games Showcase. We've been waiting years to hear, or see, well, anything from the zombie survival management sim since the moment it was initially announced - which was nearly six ",
@@ -218,7 +238,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "Doom: The Dark Ages expanding with Revelations DLC in July, plus a free Ripatorium update adding to the game's customisable arena mode",
       "titleEN": "Doom: The Dark Ages expanding with Revelations DLC in July, plus a free Ripatorium update adding to the game's customisable arena mode",
       "desc": "Doom: The Dark Ages was a fun time, but we'd been wondering about the release window for its DLC (and its very nature) since a Premium Edition was released day one. During the Xbox Games Showcase, Bethesda Softworks and id Software finally unveiled t",
@@ -228,7 +248,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n6",
+      "id": "n8",
       "title": "Nintendo Direct announced for tomorrow",
       "titleEN": "Nintendo Direct announced for tomorrow",
       "desc": "If you thought we were done with the showcases, think again, as Nintendo has just announced a Direct. This Direct will air tomorrow, 9th June, at 3pm UK time. Read more",
@@ -238,7 +258,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Guild Wars 3 will have no battle pass or subscription because ArenaNet studio lead doesn't want to \"keep people hostage\"",
       "titleEN": "Guild Wars 3 will have no battle pass or subscription because ArenaNet studio lead doesn't want to \"keep people hostage\"",
       "desc": "Guild Wars 3 will feature no mandatory subscription or premium battlepass, and will be buyable as a premium product like previous games in the series. Read more",
@@ -248,7 +268,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "Arkane Lyon's Blade game isn't dead, despite rumours following Xbox Games Showcase no-show",
       "titleEN": "Arkane Lyon's Blade game isn't dead, despite rumours following Xbox Games Showcase no-show",
       "desc": "UPDATE 2.38pm: Arkane's Blade project has not been cancelled.  Read more",
@@ -258,7 +278,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n9",
+      "id": "n11",
       "title": "Monster Hunter: World has now sold over 30m units worldwide, becoming Capcom's \"best-selling single title of all time\"",
       "titleEN": "Monster Hunter: World has now sold over 30m units worldwide, becoming Capcom's \"best-selling single title of all time\"",
       "desc": "Monster Hunter Wilds' much-anticipated expansion-sized DLC, titled Ascendance, is coming next year. But with lots of performance woes and a long wait for meaty endgame battles, we aren't surprised the game always struggled to live up to the heights o",
@@ -268,7 +288,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "title": "Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned",
       "titleEN": "Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned",
       "desc": "As promised, Gears of War: E-Day developer The Coalition followed up the Xbox Games Showcase with a presentation entirely dedicated to the upcoming third-person shooter. The nearly 28-minute-long Direct expanded on the gameplay demo we saw at the Sho",
@@ -276,26 +296,6 @@
       "date": "8 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n11",
-      "title": "\"Maybe AI could create art, but while I live, I don't think I'll see it\" - weeks after starring in a Prada art promotion created with AI tools, Hideo Kojima seems to dismiss the controversial tech's creative abilities",
-      "titleEN": "\"Maybe AI could create art, but while I live, I don't think I'll see it\" - weeks after starring in a Prada art promotion created with AI tools, Hideo Kojima seems to dismiss the controversial tech's creative abilities",
-      "desc": "Cast your minds back to last month, and you will recall a rather bizarre video featuring Death Stranding creator Hideo Kojima travelling through space and crashing on a hostile planet. This wasn't a promotion for a new game, rather it was a collabora",
-      "descEN": "Cast your minds back to last month, and you will recall a rather bizarre video featuring Death Stranding creator Hideo Kojima travelling through space and crashing on a hostile planet. This wasn't a promotion for a new game, rather it was a collabora",
-      "date": "8 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Carcass Clad, the Mouthwashing team's next game, is a horrifying co-op tank game, announced at the PC Gaming Show",
-      "titleEN": "Carcass Clad, the Mouthwashing team's next game, is a horrifying co-op tank game, announced at the PC Gaming Show",
-      "desc": "The developers of Mouthwashing - the sci-fi horror hit - have announced their next game: Carcass Clad. Read more",
-      "descEN": "The developers of Mouthwashing - the sci-fi horror hit - have announced their next game: Carcass Clad. Read more",
-      "date": "8 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
