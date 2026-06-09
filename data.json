@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-09T14:47:28.597Z",
+  "generatedAt": "2026-06-09T20:05:33.326Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Encuentra Rogue Waters al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Rogue Waters está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Songs of Conquest en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Songs of Conquest deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -87,9 +87,21 @@
         },
         {
           "store": "GOG",
+          "price": 8.25,
+          "original": 82.65,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2BrHIxXrBkRZrZD5%2F7i0d%2BTDCEt%2BITRS6i%2BM7Muf0NQk%3D"
+        },
+        {
+          "store": "GOG",
           "price": 6.39,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=KK3hWmzMGACZZq9c1BOzo8e4%2B1TpW%2FQpKS2K21%2FLbF4%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 1.49,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=N9qFod3e6Uyqdno8n9ZqqKZsYOsXxrKKhK3qTPhUaUg%3D"
         },
         {
           "store": "GMG",
@@ -99,15 +111,9 @@
         },
         {
           "store": "Epic",
-          "price": 4.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=x9sPdlHkKso7HR7cc6%2Fo5AGZnAm5K7EAdnDknBAJoWY%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 19.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=1fvV4IE5EoA4%2B%2BNTI8jdg3iXbGo8vQg7UXCY1rsEX28%3D"
+          "price": 2.99,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=KbnBFxdKXWYbNjWhGTa9j5Pn7e4glbvnY99hz%2BL721c%3D"
         }
       ]
     },
@@ -116,7 +122,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -132,8 +138,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -142,27 +148,91 @@
           "url": "https://www.cheapshark.com/redirect?dealID=1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D"
         }
       ]
-    },
-    {
-      "id": "g8",
-      "steamAppId": 269710,
-      "rating": 5,
-      "title": "Tumblestone",
-      "desc": "Oferta especial de Tumblestone en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Tumblestone on Humble. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Humble",
-          "price": 2.49,
-          "original": 24.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=vBcBR5HWelc%2BiepW0ceo1R9oJ%2B9wpjDbDU2s07JCbvk%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Nintendo Switch Sports Resort is whisking us back to Wuhu Island later this year, for boxing, bowling, skateboarding and more",
+      "titleEN": "Nintendo Switch Sports Resort is whisking us back to Wuhu Island later this year, for boxing, bowling, skateboarding and more",
+      "desc": "Wuhu Island is calling once more: Nintendo has revealed it'll be taking us back to its well-travelled retreat for a spot of Joy-Con-powered action when Nintendo Switch Sports Resort comes to Switch 2 on 22nd October. Read more",
+      "descEN": "Wuhu Island is calling once more: Nintendo has revealed it'll be taking us back to its well-travelled retreat for a spot of Joy-Con-powered action when Nintendo Switch Sports Resort comes to Switch 2 on 22nd October. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "We're getting our first HD-2D Final Fantasy game, and it's based on the now-shuttered mobile title Brave Exvius",
+      "titleEN": "We're getting our first HD-2D Final Fantasy game, and it's based on the now-shuttered mobile title Brave Exvius",
+      "desc": "Today, as part of the June 2026 Nintendo Direct, Square Enix revealed that we'll be getting our first HD-2D Final Fantasy game later this year. Named Final Fantasy Resonance, the title arrives 22nd October on PlayStation, Xbox, PC, and Nintendo Swtic",
+      "descEN": "Today, as part of the June 2026 Nintendo Direct, Square Enix revealed that we'll be getting our first HD-2D Final Fantasy game later this year. Named Final Fantasy Resonance, the title arrives 22nd October on PlayStation, Xbox, PC, and Nintendo Swtic",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "Xbox's chief strategy officer says it's currently hard to meet console demand and suggests Microsoft is rethinking Project Helix approach",
+      "titleEN": "Xbox's chief strategy officer says it's currently hard to meet console demand and suggests Microsoft is rethinking Project Helix approach",
+      "desc": "Following a solid Xbox Games Showcase when it came to the brand's software lineup, players continue to have questions about the brand's larger strategy - especially pertaining exclusives - and whether Project Helix can realistically release in the ne",
+      "descEN": "Following a solid Xbox Games Showcase when it came to the brand's software lineup, players continue to have questions about the brand's larger strategy - especially pertaining exclusives - and whether Project Helix can realistically release in the ne",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Star Fox free demo dropping today on Nintendo Switch 2",
+      "titleEN": "Star Fox free demo dropping today on Nintendo Switch 2",
+      "desc": "UPDATE 5.38pm: The Star Fox demo is now live and available to download. Read more",
+      "descEN": "UPDATE 5.38pm: The Star Fox demo is now live and available to download. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n5",
+      "title": "4 years later, we finally got another look at Kingdom Hearts 4 (and it's coming to Switch 2 at launch)",
+      "titleEN": "4 years later, we finally got another look at Kingdom Hearts 4 (and it's coming to Switch 2 at launch)",
+      "desc": "Today, at Nintendo Direct June 2026's showcase, we finally got another look at Kingdom Hearts 4. Yes, it's real, and yes, it looks like development is progressing well. Read more",
+      "descEN": "Today, at Nintendo Direct June 2026's showcase, we finally got another look at Kingdom Hearts 4. Yes, it's real, and yes, it looks like development is progressing well. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
+      "title": "The Legend of Zelda: Ocarina of Time's rumoured Switch 2 remake is real, but all we're getting is a teaser for now",
+      "titleEN": "The Legend of Zelda: Ocarina of Time's rumoured Switch 2 remake is real, but all we're getting is a teaser for now",
+      "desc": "It's two for two on the Nintendo rumours front. After whispers of a Star Fox remake turned out to be true, the company has confirmed it's also got a The Legend of Zelda: Ocarina of Time remake on the way, and it's coming to Switch 2 later this year. ",
+      "descEN": "It's two for two on the Nintendo rumours front. After whispers of a Star Fox remake turned out to be true, the company has confirmed it's also got a The Legend of Zelda: Ocarina of Time remake on the way, and it's coming to Switch 2 later this year. ",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n7",
+      "title": "Minecraft is coming to Nintendo Switch 2 this year",
+      "titleEN": "Minecraft is coming to Nintendo Switch 2 this year",
+      "desc": "Minecraft is coming to the Nintendo Switch 2 later this year, with no specific release date announced. Read more",
+      "descEN": "Minecraft is coming to the Nintendo Switch 2 later this year, with no specific release date announced. Read more",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n8",
+      "title": "FromSoftware's The Duskbloods still doesn't have a release date, but there's a Switch 2 playtest coming soon",
+      "titleEN": "FromSoftware's The Duskbloods still doesn't have a release date, but there's a Switch 2 playtest coming soon",
+      "desc": "It's been over a year since we first got a look at Elden Ring developer FromSoftware's fascinatingly weird multiplayer adventure The Duskbloods, but finally - after its publisher stepped in to offer assurances that it's still out this year - it's rea",
+      "descEN": "It's been over a year since we first got a look at Elden Ring developer FromSoftware's fascinatingly weird multiplayer adventure The Duskbloods, but finally - after its publisher stepped in to offer assurances that it's still out this year - it's rea",
+      "date": "9 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n9",
       "title": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
       "titleEN": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
       "desc": "Xenoblade Genesis has been revealed at today's Nintendo Direct. It's coming in 2027 to the Nintendo Switch 2, with a specific release date or window not announced quite yet. Read more",
@@ -172,17 +242,17 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
       "titleEN": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
-      "desc": "All the fan theories were correct: Dragon's Dogma 2 is getting an expansion later this year... plus a Nintendo Switch 2 port. Read more",
-      "descEN": "All the fan theories were correct: Dragon's Dogma 2 is getting an expansion later this year... plus a Nintendo Switch 2 port. Read more",
+      "desc": "The original story continues below. Read more",
+      "descEN": "The original story continues below. Read more",
       "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Expansión"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "Pokémon Pokopia is diving beneath the waves in a free update and the first of three paid DLC releases out later this year",
       "titleEN": "Pokémon Pokopia is diving beneath the waves in a free update and the first of three paid DLC releases out later this year",
       "desc": "Well, that's me back in. Just when I thought my time with Pok&eacute;mon Pokopia might be coming to an end, Nintendo has unveiled a whole bunch of new stuff launching this August. Read more",
@@ -192,7 +262,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "Fire Emblem: Fortune's Weave crams itself into an already packed-out September 2026 on Switch 2",
       "titleEN": "Fire Emblem: Fortune's Weave crams itself into an already packed-out September 2026 on Switch 2",
       "desc": "I hope your wallet and social lives are ready, because September 2026 is looking like an absolute disaster for game releases. Today, at a Nintendo Direct, the publisher finally announced a release date Fire Emblem: Fortune's Weave. The game arrives 1",
@@ -200,86 +270,6 @@
       "date": "9 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n5",
-      "title": "Onimusha: Way of the Sword is slashing its way to the Nintendo Switch 2",
-      "titleEN": "Onimusha: Way of the Sword is slashing its way to the Nintendo Switch 2",
-      "desc": "Onimusha: Way of the Sword has been announced for the Nintendo Switch 2. You can pre-order it now, with the game releasing on the 25th September. Read more",
-      "descEN": "Onimusha: Way of the Sword has been announced for the Nintendo Switch 2. You can pre-order it now, with the game releasing on the 25th September. Read more",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n6",
-      "title": "Sony Pictures' Helldivers movie has lost Jason Momoa as its lead, just months after announcing the star's involvement",
-      "titleEN": "Sony Pictures' Helldivers movie has lost Jason Momoa as its lead, just months after announcing the star's involvement",
-      "desc": "Sony Pictures and PlayStation Productions have been moving relatively fast on the Helldivers movie adaptation announced back in January 2025, securing Fast & Furious veteran Justin Lin to direct and, earlier this year, Jason Momoa (Aquaman, A Minecra",
-      "descEN": "Sony Pictures and PlayStation Productions have been moving relatively fast on the Helldivers movie adaptation announced back in January 2025, securing Fast & Furious veteran Justin Lin to direct and, earlier this year, Jason Momoa (Aquaman, A Minecra",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n7",
-      "title": "\"It's a choice\" - A Plague Tale developer Asobo doesn't believe smaller teams need to use gen-AI to compete",
-      "titleEN": "\"It's a choice\" - A Plague Tale developer Asobo doesn't believe smaller teams need to use gen-AI to compete",
-      "desc": "French developer Asobo, creator of the Plague Tale series and the Microsoft Flight Simulator games, doesn't believe smaller teams need to use generative AI tools to compete with bigger development studios. Read more",
-      "descEN": "French developer Asobo, creator of the Plague Tale series and the Microsoft Flight Simulator games, doesn't believe smaller teams need to use generative AI tools to compete with bigger development studios. Read more",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used",
-      "titleEN": "Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used",
-      "desc": "Crazy Taxi: World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series. The excitement was quickly soured, however, when its Steam page revealed Sega has used generative",
-      "descEN": "Crazy Taxi: World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series. The excitement was quickly soured, however, when its Steam page revealed Sega has used generative",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n9",
-      "title": "Mina the Hollower sells 500k copies less than two weeks after launch as Yacht Club Games teases \"the adventure is just getting started\"",
-      "titleEN": "Mina the Hollower sells 500k copies less than two weeks after launch as Yacht Club Games teases \"the adventure is just getting started\"",
-      "desc": "Shovel Knight studio Yacht Club Games was worried last year about Mina the Hollower's launch after such a long time away from the public, but it turns out it had nothing to worry about. Mina's debut has now sold over 500k copies in less than two week",
-      "descEN": "Shovel Knight studio Yacht Club Games was worried last year about Mina the Hollower's launch after such a long time away from the public, but it turns out it had nothing to worry about. Mina's debut has now sold over 500k copies in less than two week",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Game Pass lost millions of subscribers as a result of last year's controversial price hike, Xbox chief strategy officer reveals",
-      "titleEN": "Game Pass lost millions of subscribers as a result of last year's controversial price hike, Xbox chief strategy officer reveals",
-      "desc": "Xbox Game Pass lost millions of subscribers following the fall 2025 price hike, Xbox's chief strategy officer Matthew Ball has revealed. Read more",
-      "descEN": "Xbox Game Pass lost millions of subscribers following the fall 2025 price hike, Xbox's chief strategy officer Matthew Ball has revealed. Read more",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n11",
-      "title": "Final Fantasy 10/10-2 HD Remaster gets a dedicated Switch 2 port next month, but there's a catch",
-      "titleEN": "Final Fantasy 10/10-2 HD Remaster gets a dedicated Switch 2 port next month, but there's a catch",
-      "desc": "Later today, we're getting a pretty big Nintendo Direct, but ahead of the showcase going live Square Enix has decided to treat us to something a little early: a trailer for a Switch 2 version of the Final Fantasy 10/10-2 HD Remaster. Read more",
-      "descEN": "Later today, we're getting a pretty big Nintendo Direct, but ahead of the showcase going live Square Enix has decided to treat us to something a little early: a trailer for a Switch 2 version of the Final Fantasy 10/10-2 HD Remaster. Read more",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Sea of Stars: Sunset Edition is the hit retro-inspired RPG's final update, but it \"sets the stage for the adventure to come\"",
-      "titleEN": "Sea of Stars: Sunset Edition is the hit retro-inspired RPG's final update, but it \"sets the stage for the adventure to come\"",
-      "desc": "Sabotage Studio has revealed it's planning to move on from Sea of Stars after nearly three years of post-launch support which has included substantial free content updates. But don't worry; there's life beyond this Sunset Edition patch. Read more",
-      "descEN": "Sabotage Studio has revealed it's planning to move on from Sea of Stars after nearly three years of post-launch support which has included substantial free content updates. But don't worry; there's life beyond this Sunset Edition patch. Read more",
-      "date": "9 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
