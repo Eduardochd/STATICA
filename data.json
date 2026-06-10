@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T09:56:44.826Z",
+  "generatedAt": "2026-06-10T15:31:15.120Z",
   "games": [
     {
       "id": "g1",
@@ -22,7 +22,7 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Oferta especial de Rogue Waters en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Rogue Waters está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Rogue Waters deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Oferta especial de Songs of Conquest en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Songs of Conquest on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Songs of Conquest está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Songs of Conquest deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -116,8 +116,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -133,7 +133,7 @@
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
       "desc": "Aprovecha la oferta de The Incredible Adventures of Van Helsing Anthology en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -147,123 +147,123 @@
   "news": [
     {
       "id": "n1",
-      "title": "Gears of War creator Cliff Bleszinski believes Xbox is \"steering the 'ship' back in the right direction\", as E-Day skips PS5",
-      "titleEN": "Gears of War creator Cliff Bleszinski believes Xbox is \"steering the 'ship' back in the right direction\", as E-Day skips PS5",
-      "desc": "Many were surprised to learn that Gears of War: E-Day would be an Xbox console exclusive on its release and skip PlayStation 5, but the series' original creator believes this is a wise move by the platform holder. Read more",
-      "descEN": "Many were surprised to learn that Gears of War: E-Day would be an Xbox console exclusive on its release and skip PlayStation 5, but the series' original creator believes this is a wise move by the platform holder. Read more",
+      "title": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
+      "titleEN": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
+      "desc": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
+      "descEN": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n2",
-      "title": "Death Stranding movie director Michael Sarnoski says we may see some characters from the games despite the adaptation being \"very much its own thing\"",
-      "titleEN": "Death Stranding movie director Michael Sarnoski says we may see some characters from the games despite the adaptation being \"very much its own thing\"",
-      "desc": "A24 is now in the business of making video game adaptations, and while everyone's eyes are on Elden Ring, it sounds like Death Stranding could be rapidly approaching production, too. During a recent chat about The Death of Robin Hood, writer-director",
-      "descEN": "A24 is now in the business of making video game adaptations, and while everyone's eyes are on Elden Ring, it sounds like Death Stranding could be rapidly approaching production, too. During a recent chat about The Death of Robin Hood, writer-director",
+      "title": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
+      "titleEN": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
+      "desc": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
+      "descEN": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
       "id": "n3",
-      "title": "Nintendo Switch Sports Resort is whisking us back to Wuhu Island later this year, for boxing, bowling, skateboarding and more",
-      "titleEN": "Nintendo Switch Sports Resort is whisking us back to Wuhu Island later this year, for boxing, bowling, skateboarding and more",
-      "desc": "Wuhu Island is calling once more: Nintendo has revealed it'll be taking us back to its well-travelled retreat for a spot of Joy-Con-powered action when Nintendo Switch Sports Resort comes to Switch 2 on 22nd October. Read more",
-      "descEN": "Wuhu Island is calling once more: Nintendo has revealed it'll be taking us back to its well-travelled retreat for a spot of Joy-Con-powered action when Nintendo Switch Sports Resort comes to Switch 2 on 22nd October. Read more",
-      "date": "9 de junio de 2026",
+      "title": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
+      "titleEN": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
+      "desc": "Gears of War: E-Day developers have reassured fans that multiplayer information is coming soon, following the game's single player-focused Xbox Game Showcase appearance. Read more",
+      "descEN": "Gears of War: E-Day developers have reassured fans that multiplayer information is coming soon, following the game's single player-focused Xbox Game Showcase appearance. Read more",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     },
     {
       "id": "n4",
-      "title": "We're getting our first HD-2D Final Fantasy game, and it's based on the now-shuttered mobile title Brave Exvius",
-      "titleEN": "We're getting our first HD-2D Final Fantasy game, and it's based on the now-shuttered mobile title Brave Exvius",
-      "desc": "Today, as part of the June 2026 Nintendo Direct, Square Enix revealed that we'll be getting our first HD-2D Final Fantasy game later this year. Named Final Fantasy Resonance, the title arrives 22nd October on PlayStation, Xbox, PC, and Nintendo Swtic",
-      "descEN": "Today, as part of the June 2026 Nintendo Direct, Square Enix revealed that we'll be getting our first HD-2D Final Fantasy game later this year. Named Final Fantasy Resonance, the title arrives 22nd October on PlayStation, Xbox, PC, and Nintendo Swtic",
-      "date": "9 de junio de 2026",
+      "title": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
+      "titleEN": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
+      "desc": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
+      "descEN": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n5",
-      "title": "Xbox's chief strategy officer says it's currently hard to meet console demand and suggests Microsoft is rethinking Project Helix approach",
-      "titleEN": "Xbox's chief strategy officer says it's currently hard to meet console demand and suggests Microsoft is rethinking Project Helix approach",
-      "desc": "Following a solid Xbox Games Showcase when it came to the brand's software lineup, players continue to have questions about the brand's larger strategy - especially pertaining exclusives - and whether Project Helix can realistically release in the ne",
-      "descEN": "Following a solid Xbox Games Showcase when it came to the brand's software lineup, players continue to have questions about the brand's larger strategy - especially pertaining exclusives - and whether Project Helix can realistically release in the ne",
-      "date": "9 de junio de 2026",
+      "title": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
+      "titleEN": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
+      "desc": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
+      "descEN": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n6",
-      "title": "Star Fox free demo dropping today on Nintendo Switch 2",
-      "titleEN": "Star Fox free demo dropping today on Nintendo Switch 2",
-      "desc": "UPDATE 5.38pm: The Star Fox demo is now live and available to download. Read more",
-      "descEN": "UPDATE 5.38pm: The Star Fox demo is now live and available to download. Read more",
-      "date": "9 de junio de 2026",
+      "title": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
+      "titleEN": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
+      "desc": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
+      "descEN": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n7",
-      "title": "4 years later, we finally got another look at Kingdom Hearts 4 (and it's coming to Switch 2 at launch)",
-      "titleEN": "4 years later, we finally got another look at Kingdom Hearts 4 (and it's coming to Switch 2 at launch)",
-      "desc": "Today, at Nintendo Direct June 2026's showcase, we finally got another look at Kingdom Hearts 4. Yes, it's real, and yes, it looks like development is progressing well. Read more",
-      "descEN": "Today, at Nintendo Direct June 2026's showcase, we finally got another look at Kingdom Hearts 4. Yes, it's real, and yes, it looks like development is progressing well. Read more",
-      "date": "9 de junio de 2026",
+      "title": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
+      "titleEN": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
+      "desc": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
+      "descEN": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n8",
-      "title": "The Legend of Zelda: Ocarina of Time's rumoured Switch 2 remake is real, but all we're getting is a teaser for now",
-      "titleEN": "The Legend of Zelda: Ocarina of Time's rumoured Switch 2 remake is real, but all we're getting is a teaser for now",
-      "desc": "It's two for two on the Nintendo rumours front. After whispers of a Star Fox remake turned out to be true, the company has confirmed it's also got a The Legend of Zelda: Ocarina of Time remake on the way, and it's coming to Switch 2 later this year. ",
-      "descEN": "It's two for two on the Nintendo rumours front. After whispers of a Star Fox remake turned out to be true, the company has confirmed it's also got a The Legend of Zelda: Ocarina of Time remake on the way, and it's coming to Switch 2 later this year. ",
-      "date": "9 de junio de 2026",
+      "title": "Physical Steam gift cards are being ended by Valve because scammers keep using them to trick people",
+      "titleEN": "Physical Steam gift cards are being ended by Valve because scammers keep using them to trick people",
+      "desc": "One of the most popular ways for Steam users to charge their store wallets is through the purchase of gift cards. For years, Steam has allowed players to purchase gift cards in different denominations, which they could then redeem for their value on ",
+      "descEN": "One of the most popular ways for Steam users to charge their store wallets is through the purchase of gift cards. For years, Steam has allowed players to purchase gift cards in different denominations, which they could then redeem for their value on ",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n9",
-      "title": "Minecraft is coming to Nintendo Switch 2 this year",
-      "titleEN": "Minecraft is coming to Nintendo Switch 2 this year",
-      "desc": "Minecraft is coming to the Nintendo Switch 2 later this year, with no specific release date announced. Read more",
-      "descEN": "Minecraft is coming to the Nintendo Switch 2 later this year, with no specific release date announced. Read more",
-      "date": "9 de junio de 2026",
+      "title": "The Dragon's Dogma 2 expansion and Switch 2 port provide Capcom with a perfect opportunity to substantially update the game - and work has already begun",
+      "titleEN": "The Dragon's Dogma 2 expansion and Switch 2 port provide Capcom with a perfect opportunity to substantially update the game - and work has already begun",
+      "desc": "The reveal of a Dragon's Dogma 2 port for Nintendo Switch 2 was one of the biggest surprises  in yesterday's Nintendo Direct. Moreover, it's the Dark Arisen version that includes a new expansion also coming to other versions of the game. And Capcom i",
+      "descEN": "The reveal of a Dragon's Dogma 2 port for Nintendo Switch 2 was one of the biggest surprises  in yesterday's Nintendo Direct. Moreover, it's the Dark Arisen version that includes a new expansion also coming to other versions of the game. And Capcom i",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Expansión"
     },
     {
       "id": "n10",
-      "title": "FromSoftware's The Duskbloods still doesn't have a release date, but there's a Switch 2 playtest coming soon",
-      "titleEN": "FromSoftware's The Duskbloods still doesn't have a release date, but there's a Switch 2 playtest coming soon",
-      "desc": "It's been over a year since we first got a look at Elden Ring developer FromSoftware's fascinatingly weird multiplayer adventure The Duskbloods, but finally - after its publisher stepped in to offer assurances that it's still out this year - it's rea",
-      "descEN": "It's been over a year since we first got a look at Elden Ring developer FromSoftware's fascinatingly weird multiplayer adventure The Duskbloods, but finally - after its publisher stepped in to offer assurances that it's still out this year - it's rea",
-      "date": "9 de junio de 2026",
+      "title": "With Guild Wars 3 announced at long last, here's why its beloved predecessor has survived the test of time",
+      "titleEN": "With Guild Wars 3 announced at long last, here's why its beloved predecessor has survived the test of time",
+      "desc": "This year's Summer Game Fest was packed full of plenty of great reveals, but for my money, Guild Wars 3 was one of the biggest bombshells. There had been whisperings of its existence, a few stray job postings here and there, but to actually see it on",
+      "descEN": "This year's Summer Game Fest was packed full of plenty of great reveals, but for my money, Guild Wars 3 was one of the biggest bombshells. There had been whisperings of its existence, a few stray job postings here and there, but to actually see it on",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Noticia"
     },
     {
       "id": "n11",
-      "title": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
-      "titleEN": "Xenoblade Genesis announced during Nintendo Direct, coming in 2027 to the Nintendo Switch 2",
-      "desc": "Xenoblade Genesis has been revealed at today's Nintendo Direct. It's coming in 2027 to the Nintendo Switch 2, with a specific release date or window not announced quite yet. Read more",
-      "descEN": "Xenoblade Genesis has been revealed at today's Nintendo Direct. It's coming in 2027 to the Nintendo Switch 2, with a specific release date or window not announced quite yet. Read more",
-      "date": "9 de junio de 2026",
+      "title": "\"It's not just one definition or meaning\" - legendary designer Fumito Ueda says Gen Atlas, the title of his new game, means more than you might think",
+      "titleEN": "\"It's not just one definition or meaning\" - legendary designer Fumito Ueda says Gen Atlas, the title of his new game, means more than you might think",
+      "desc": "Fumito Ueda - the legendary designer of ICO, Shadow of the Colossus and The Last Guardian - has explained what the title of his new game, Gen Atlas, means. And it seems like it carries more meaning than you might think. Read more",
+      "descEN": "Fumito Ueda - the legendary designer of ICO, Shadow of the Colossus and The Last Guardian - has explained what the title of his new game, Gen Atlas, means. And it seems like it carries more meaning than you might think. Read more",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Hardware"
+      "tag": "Noticia"
     },
     {
       "id": "n12",
-      "title": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
-      "titleEN": "Dragon's Dogma 2 getting Nintendo Switch 2 port and Dark Arisen DLC later this year",
-      "desc": "The original story continues below. Read more",
-      "descEN": "The original story continues below. Read more",
-      "date": "9 de junio de 2026",
+      "title": "Fire Emblem: Fortune's Weave's world map is partially inspired by medieval Spain, even if the Dagdan Empire setting looks much older",
+      "titleEN": "Fire Emblem: Fortune's Weave's world map is partially inspired by medieval Spain, even if the Dagdan Empire setting looks much older",
+      "desc": "Yesterday's Nintendo Direct was a meaty one, and one of its biggest announcements was the new look at Fire Emblem: Fortune's Weave (release date included); a new entry in the huge turn-based strategy-RPG series set in the Greece and Rome-inspired (bu",
+      "descEN": "Yesterday's Nintendo Direct was a meaty one, and one of its biggest announcements was the new look at Fire Emblem: Fortune's Weave (release date included); a new entry in the huge turn-based strategy-RPG series set in the Greece and Rome-inspired (bu",
+      "date": "10 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Expansión"
+      "tag": "Hardware"
     }
   ]
 }
