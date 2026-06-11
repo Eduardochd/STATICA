@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-11T10:21:00.875Z",
+  "generatedAt": "2026-06-11T15:57:22.756Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
-          "price": 8.04,
+          "price": 8.82,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=dua6N5u4HYIU5lUexFlvkjLixz5RHy0a4lzdZENh64A%3D"
         }
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -35,42 +35,10 @@
     },
     {
       "id": "g3",
-      "steamAppId": 1691190,
-      "rating": 4,
-      "title": "Rogue Waters",
-      "desc": "Aprovecha la oferta de Rogue Waters en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Rogue Waters is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 0,
-          "original": 29.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=ClaWCBpdtno5iYF3RyVR3%2BVXy71YWsZyoTRBxTQIwu8%3D"
-        }
-      ]
-    },
-    {
-      "id": "g4",
-      "steamAppId": 867210,
-      "rating": 4,
-      "title": "Songs of Conquest",
-      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 0,
-          "original": 29.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=VF9sdPJEhhDS8Uredt4kVc5wic%2FIQUQ%2Bf0KV81VYRps%3D"
-        }
-      ]
-    },
-    {
-      "id": "g5",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -78,6 +46,12 @@
           "price": 0,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=x8bu%2Bj%2BU0BedyBq04YtFGW%2BtW7TOdNYGp628gWMVceE%3D"
+        },
+        {
+          "store": "Epic",
+          "price": 0,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=lp1v5hJMJYuFMPI16Ttyd7Uj%2BISuY2asHQwBvDAsG8A%3D"
         },
         {
           "store": "GOG",
@@ -108,32 +82,28 @@
           "price": 9.45,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
-        }
-      ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 315210,
-      "rating": 3,
-      "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
+        },
         {
           "store": "Epic",
-          "price": 3.49,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=oyadBOu1z6MVss1%2BMfCBqCSpNd8cUcuA9cl2j7PtgMc%3D"
+          "price": 2.99,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=KbnBFxdKXWYbNjWhGTa9j5Pn7e4glbvnY99hz%2BL721c%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 0.99,
+          "original": 9.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=xIw9HM0nNMvfoinvG7WvfFp4k2ISvs5XMESJGIuRT8w%3D"
         }
       ]
     },
     {
-      "id": "g7",
+      "id": "g4",
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -147,6 +117,46 @@
   "news": [
     {
       "id": "n1",
+      "title": "After fans' decade-long search for Shadow of the Colossus' final secret, creator Fumito Ueda says he feels \"so fortunate\" people want to be in his worlds",
+      "titleEN": "After fans' decade-long search for Shadow of the Colossus' final secret, creator Fumito Ueda says he feels \"so fortunate\" people want to be in his worlds",
+      "desc": "It's been six years since PlayStation nuked its forums, taking with it one of video gaming's most legendary communities - a team of dedicated secret-hunters convinced Fumito Ueda's Shadow of the Colossus held one last mystery, and who invested almost",
+      "descEN": "It's been six years since PlayStation nuked its forums, taking with it one of video gaming's most legendary communities - a team of dedicated secret-hunters convinced Fumito Ueda's Shadow of the Colossus held one last mystery, and who invested almost",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Crimson Desert passes another big sales milestone as demand continues three months after release",
+      "titleEN": "Crimson Desert passes another big sales milestone as demand continues three months after release",
+      "desc": "We're just under three months since the release of Crimson Desert, the open-world action RPG from Korean studio Pearl Abyss. The game has continued to break sales records since it first became available for sale, and its developer has today announced",
+      "descEN": "We're just under three months since the release of Crimson Desert, the open-world action RPG from Korean studio Pearl Abyss. The game has continued to break sales records since it first became available for sale, and its developer has today announced",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n3",
+      "title": "Tomb Raider: Legacy of Atlantis feels strangely double-A",
+      "titleEN": "Tomb Raider: Legacy of Atlantis feels strangely double-A",
+      "desc": "I am not a Tomb Raider expert - my memories go about as far back as playing the bulk of the original and its sequel at a friend's house, aged something like seven to 10 years old, and attempting to break free of the same demo disc level for a few too",
+      "descEN": "I am not a Tomb Raider expert - my memories go about as far back as playing the bulk of the original and its sequel at a friend's house, aged something like seven to 10 years old, and attempting to break free of the same demo disc level for a few too",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n4",
+      "title": "Destiny 2's final update causes the biggest jump in players in nearly two years, as Marathon numbers coincidentally drop to near their lowest",
+      "titleEN": "Destiny 2's final update causes the biggest jump in players in nearly two years, as Marathon numbers coincidentally drop to near their lowest",
+      "desc": "Bungie may be done updating Destiny 2 forever, but the love players have for the sci-fi loot shooter clearly runs deep. Read more",
+      "descEN": "Bungie may be done updating Destiny 2 forever, but the love players have for the sci-fi loot shooter clearly runs deep. Read more",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n5",
       "title": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
       "titleEN": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
       "desc": "Two of Ubisoft's smaller studios, Ubisoft Winnipeg, and Ubisoft Belgrade, are being shuttered. Insider Gaming was first to break the news, but reports from Game Developer, and VGC have shed more light on the broader impact. Read more",
@@ -156,7 +166,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
       "titleEN": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
       "desc": "Days after its gaming showcase, Xbox is reportedly slashing budgets and preparing to lay off a \"significant\" number of staff, as part of new CEO Asha Sharma's business \"reset\" for the Xbox brand. Read more",
@@ -166,7 +176,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "titleEN": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "desc": "Frontier Developments has just announced Planet Zoo 2 and the first Jurassic World Evolution 3 expansion, but the developer is already hard at work on its next \"construction and management simulation\" game. And it isn't a sequel. Read more",
@@ -176,7 +186,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "Here are our PS Plus Premium and Extra games for June",
       "titleEN": "Here are our PS Plus Premium and Extra games for June",
       "desc": "Summer might be right around the corner, tempting us out toward sun, sand, and sea, but that isn't stopping Sony from releasing a strong list of PS Plus Premium and Extra games in June that might just tempt you to stay inside. Read more",
@@ -186,7 +196,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "titleEN": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "desc": "Hidetaka \"Swery\" Suehiro's oddball roguelike Hotel Barcelona didn't impress us when it dropped last year, but there was something charming and earnest about it. But months later - and many updates later - Swery and White Owl appear to have turned opi",
@@ -196,9 +206,9 @@
       "tag": "Actualización"
     },
     {
-      "id": "n6",
-      "title": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
-      "titleEN": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
+      "id": "n10",
+      "title": "Despite reports and a video takedown, Gears of War: E-Day devs insist Xbox \"never changed\" plans for a PS5 release - because it never announced one",
+      "titleEN": "Despite reports and a video takedown, Gears of War: E-Day devs insist Xbox \"never changed\" plans for a PS5 release - because it never announced one",
       "desc": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
       "descEN": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
       "date": "10 de junio de 2026",
@@ -206,7 +216,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
       "titleEN": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
       "desc": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
@@ -216,7 +226,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
       "titleEN": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
       "desc": "Gears of War: E-Day developers have reassured fans that multiplayer information is coming soon, following the game's single player-focused Xbox Game Showcase appearance. Read more",
@@ -224,46 +234,6 @@
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
-      "titleEN": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
-      "desc": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
-      "descEN": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
-      "titleEN": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
-      "desc": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
-      "descEN": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
-      "titleEN": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
-      "desc": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
-      "descEN": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
-      "titleEN": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
-      "desc": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
-      "descEN": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
