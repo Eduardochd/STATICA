@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-10T20:28:22.874Z",
+  "generatedAt": "2026-06-11T03:49:46.688Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "Rogue Waters",
       "desc": "Oferta especial de Rogue Waters en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Rogue Waters at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Songs of Conquest está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Songs of Conquest en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Songs of Conquest at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "RAVEN2 Half anniversary Starter Pack está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -132,8 +132,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -207,16 +207,6 @@
     },
     {
       "id": "n7",
-      "title": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
-      "titleEN": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
-      "desc": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
-      "descEN": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
       "title": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
       "titleEN": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
       "desc": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
@@ -226,7 +216,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n8",
       "title": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
       "titleEN": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
       "desc": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
@@ -236,11 +226,21 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n9",
       "title": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
       "titleEN": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
       "desc": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
       "descEN": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
+      "date": "10 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n10",
+      "title": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
+      "titleEN": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
+      "desc": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
+      "descEN": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
