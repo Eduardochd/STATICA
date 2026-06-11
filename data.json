@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T03:49:46.688Z",
+  "generatedAt": "2026-06-11T10:21:00.875Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": 1691190,
       "rating": 4,
       "title": "Rogue Waters",
-      "desc": "Oferta especial de Rogue Waters en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Rogue Waters on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Rogue Waters en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Rogue Waters is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 867210,
       "rating": 4,
       "title": "Songs of Conquest",
-      "desc": "Oferta especial de Songs of Conquest en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Songs of Conquest at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Songs of Conquest al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Songs of Conquest is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -116,8 +116,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -132,8 +132,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -147,6 +147,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
+      "titleEN": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
+      "desc": "Two of Ubisoft's smaller studios, Ubisoft Winnipeg, and Ubisoft Belgrade, are being shuttered. Insider Gaming was first to break the news, but reports from Game Developer, and VGC have shed more light on the broader impact. Read more",
+      "descEN": "Two of Ubisoft's smaller studios, Ubisoft Winnipeg, and Ubisoft Belgrade, are being shuttered. Insider Gaming was first to break the news, but reports from Game Developer, and VGC have shed more light on the broader impact. Read more",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
+      "titleEN": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
+      "desc": "Days after its gaming showcase, Xbox is reportedly slashing budgets and preparing to lay off a \"significant\" number of staff, as part of new CEO Asha Sharma's business \"reset\" for the Xbox brand. Read more",
+      "descEN": "Days after its gaming showcase, Xbox is reportedly slashing budgets and preparing to lay off a \"significant\" number of staff, as part of new CEO Asha Sharma's business \"reset\" for the Xbox brand. Read more",
+      "date": "11 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
       "title": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "titleEN": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "desc": "Frontier Developments has just announced Planet Zoo 2 and the first Jurassic World Evolution 3 expansion, but the developer is already hard at work on its next \"construction and management simulation\" game. And it isn't a sequel. Read more",
@@ -156,7 +176,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "Here are our PS Plus Premium and Extra games for June",
       "titleEN": "Here are our PS Plus Premium and Extra games for June",
       "desc": "Summer might be right around the corner, tempting us out toward sun, sand, and sea, but that isn't stopping Sony from releasing a strong list of PS Plus Premium and Extra games in June that might just tempt you to stay inside. Read more",
@@ -166,7 +186,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n5",
       "title": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "titleEN": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "desc": "Hidetaka \"Swery\" Suehiro's oddball roguelike Hotel Barcelona didn't impress us when it dropped last year, but there was something charming and earnest about it. But months later - and many updates later - Swery and White Owl appear to have turned opi",
@@ -176,7 +196,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
       "titleEN": "Despite reports and a video takedown, Gears of War: E-Day developers insist it was never in development for PS5",
       "desc": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
@@ -186,7 +206,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
       "titleEN": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
       "desc": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
@@ -196,7 +216,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n8",
       "title": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
       "titleEN": "\"It's coming\" Gears of War: E-Day developer reassures multiplayer fans that more information is on the way",
       "desc": "Gears of War: E-Day developers have reassured fans that multiplayer information is coming soon, following the game's single player-focused Xbox Game Showcase appearance. Read more",
@@ -206,7 +226,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
       "titleEN": "Wondering why Resident Evil Veronica has ditched the \"Code\" from the original's name? Capcom explains all",
       "desc": "In all the excitement surrounding the announcement of Capcom's long-awaited Resident Evil Code Veronica remake last week, it was pretty easy to miss the fact its do-over has had a bit of a name change. And if you've been wondering why that might be, ",
@@ -216,7 +236,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
       "titleEN": "I went into Halo: Campaign Evolved thinking it didn't need to exist, but after playing two levels I want full remakes of the original trilogy and Reach",
       "desc": "When Microsoft revealed that Halo: Campaign Evolved last year, I balked at its claim that this would be \"a faithful yet modernised remake of Halo: Combat Evolved's campaign\". How could it be? It's made in Unreal Engine 5, very few of the original tea",
@@ -226,17 +246,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
-      "title": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
-      "titleEN": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
-      "desc": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
-      "descEN": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
+      "id": "n11",
       "title": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
       "titleEN": "Despite its trailer, Capcom says its Resident Evil - Code: Veronica remake is third-person and taking its cue from Resident Evil 2",
       "desc": "If you saw Resident Evil Veronica's announcement trailer during last week's Summer Game Fest, you might reasonably assume it'll be continuing the modern series' forays into first-person horror. However, Capcom has now confirmed its Code Veronica rema",
@@ -246,24 +256,14 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
-      "title": "Physical Steam gift cards are being ended by Valve because scammers keep using them to trick people",
-      "titleEN": "Physical Steam gift cards are being ended by Valve because scammers keep using them to trick people",
-      "desc": "One of the most popular ways for Steam users to charge their store wallets is through the purchase of gift cards. For years, Steam has allowed players to purchase gift cards in different denominations, which they could then redeem for their value on ",
-      "descEN": "One of the most popular ways for Steam users to charge their store wallets is through the purchase of gift cards. For years, Steam has allowed players to purchase gift cards in different denominations, which they could then redeem for their value on ",
+      "id": "n12",
+      "title": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
+      "titleEN": "Lord help me, Fable's behind-closed-doors demo has got me very excited",
+      "desc": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
+      "descEN": "It wouldn't be a Fable preview if I wasn't at least a little bit wary of encouraging you to get your hopes up. But, forgive me, I'm going to. I've seen a good half hour of continuous gameplay and, although it comes with plenty of caveats, it really w",
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "The Dragon's Dogma 2 expansion and Switch 2 port provide Capcom with a perfect opportunity to substantially update the game - and work has already begun",
-      "titleEN": "The Dragon's Dogma 2 expansion and Switch 2 port provide Capcom with a perfect opportunity to substantially update the game - and work has already begun",
-      "desc": "The reveal of a Dragon's Dogma 2 port for Nintendo Switch 2 was one of the biggest surprises  in yesterday's Nintendo Direct. Moreover, it's the Dark Arisen version that includes a new expansion also coming to other versions of the game. And Capcom i",
-      "descEN": "The reveal of a Dragon's Dogma 2 port for Nintendo Switch 2 was one of the biggest surprises  in yesterday's Nintendo Direct. Moreover, it's the Dark Arisen version that includes a new expansion also coming to other versions of the game. And Capcom i",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
     }
   ]
 }
