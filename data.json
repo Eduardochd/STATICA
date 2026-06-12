@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-12T03:47:32.769Z",
+  "generatedAt": "2026-06-12T10:09:40.074Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -72,6 +72,12 @@
           "price": 2.99,
           "original": 29.99,
           "url": "https://www.cheapshark.com/redirect?dealID=KbnBFxdKXWYbNjWhGTa9j5Pn7e4glbvnY99hz%2BL721c%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 0.99,
+          "original": 9.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=xIw9HM0nNMvfoinvG7WvfFp4k2ISvs5XMESJGIuRT8w%3D"
         }
       ]
     },
@@ -80,8 +86,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Aprovecha la oferta de The Incredible Adventures of Van Helsing Anthology en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -93,26 +99,10 @@
     },
     {
       "id": "g4",
-      "steamAppId": 1409840,
-      "rating": 4,
-      "title": "Aztecs: The Last Sun",
-      "desc": "Aprovecha la oferta de Aztecs: The Last Sun en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Aztecs: The Last Sun at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 17.58,
-          "original": 31.98,
-          "url": "https://www.cheapshark.com/redirect?dealID=UAj7O6s5Y2oRYJvvKVnO18v%2BkCfqVEoSB3XQpXQQkF8%3D"
-        }
-      ]
-    },
-    {
-      "id": "g5",
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Hotline Miami en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -124,12 +114,12 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": 632470,
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
-      "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Disco Elysium - The Final Cut on Humble. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Disco Elysium - The Final Cut en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Disco Elysium - The Final Cut is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Humble",
@@ -143,6 +133,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Tomb Raider: Legacy of Atlantis developers used gen AI to get \"the right answers faster\", Crystal Dynamics explains",
+      "titleEN": "Tomb Raider: Legacy of Atlantis developers used gen AI to get \"the right answers faster\", Crystal Dynamics explains",
+      "desc": "Tomb Raider: Legacy of Atlantis made headlines last week not just for its release date trailer, but also for the developers' use of AI during the game's creation. Read more",
+      "descEN": "Tomb Raider: Legacy of Atlantis made headlines last week not just for its release date trailer, but also for the developers' use of AI during the game's creation. Read more",
+      "date": "12 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Sega is beefing up the Sonic Team on its 35th anniversary, hiring across multiple key roles",
+      "titleEN": "Sega is beefing up the Sonic Team on its 35th anniversary, hiring across multiple key roles",
+      "desc": "Sega is hiring up for the Sonic Team, just as the series is celebrating its 35th anniversary. Read more",
+      "descEN": "Sega is hiring up for the Sonic Team, just as the series is celebrating its 35th anniversary. Read more",
+      "date": "12 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
       "title": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
       "titleEN": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
       "desc": "It didn't much of this year's Summer Game Fest to realise that, in racing to escape the orbit of GTA 6, the games industry has created a new problem: a September 2026 so packed with releases that it's going to take some dedication - not to mention ti",
@@ -152,7 +162,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "After fans' decade-long search for Shadow of the Colossus' final secret, creator Fumito Ueda says he feels \"so fortunate\" people want to be in his worlds",
       "titleEN": "After fans' decade-long search for Shadow of the Colossus' final secret, creator Fumito Ueda says he feels \"so fortunate\" people want to be in his worlds",
       "desc": "It's been six years since PlayStation nuked its forums, taking with it one of video gaming's most legendary communities - a team of dedicated secret-hunters convinced Fumito Ueda's Shadow of the Colossus held one last mystery, and who invested almost",
@@ -162,7 +172,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n5",
       "title": "Crimson Desert passes another big sales milestone as demand continues three months after release",
       "titleEN": "Crimson Desert passes another big sales milestone as demand continues three months after release",
       "desc": "We're just under three months since the release of Crimson Desert, the open-world action RPG from Korean studio Pearl Abyss. The game has continued to break sales records since it first became available for sale, and its developer has today announced",
@@ -172,7 +182,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "Tomb Raider: Legacy of Atlantis feels strangely double-A",
       "titleEN": "Tomb Raider: Legacy of Atlantis feels strangely double-A",
       "desc": "I am not a Tomb Raider expert - my memories go about as far back as playing the bulk of the original and its sequel at a friend's house, aged something like seven to 10 years old, and attempting to break free of the same demo disc level for a few too",
@@ -182,7 +192,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "Destiny 2's final update causes the biggest jump in players in nearly two years, as Marathon numbers coincidentally drop to near their lowest",
       "titleEN": "Destiny 2's final update causes the biggest jump in players in nearly two years, as Marathon numbers coincidentally drop to near their lowest",
       "desc": "Bungie may be done updating Destiny 2 forever, but the love players have for the sci-fi loot shooter clearly runs deep. Read more",
@@ -192,7 +202,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n6",
+      "id": "n8",
       "title": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
       "titleEN": "Ubisoft is reportedly closing two studios and restructuring another, with around 380 people expected to be laid off",
       "desc": "Two of Ubisoft's smaller studios, Ubisoft Winnipeg, and Ubisoft Belgrade, are being shuttered. Insider Gaming was first to break the news, but reports from Game Developer, and VGC have shed more light on the broader impact. Read more",
@@ -202,7 +212,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
       "titleEN": "Xbox reportedly preparing for \"significant\" lay-offs, as Asha Sharma's big \"reset\" plan comes into full force",
       "desc": "Days after its gaming showcase, Xbox is reportedly slashing budgets and preparing to lay off a \"significant\" number of staff, as part of new CEO Asha Sharma's business \"reset\" for the Xbox brand. Read more",
@@ -212,7 +222,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "titleEN": "Frontier quietly announces a \"brand-new\" Planet game and everyone's trying to guess what it might be",
       "desc": "Frontier Developments has just announced Planet Zoo 2 and the first Jurassic World Evolution 3 expansion, but the developer is already hard at work on its next \"construction and management simulation\" game. And it isn't a sequel. Read more",
@@ -222,7 +232,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n9",
+      "id": "n11",
       "title": "Here are our PS Plus Premium and Extra games for June",
       "titleEN": "Here are our PS Plus Premium and Extra games for June",
       "desc": "Summer might be right around the corner, tempting us out toward sun, sand, and sea, but that isn't stopping Sony from releasing a strong list of PS Plus Premium and Extra games in June that might just tempt you to stay inside. Read more",
@@ -232,7 +242,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "title": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "titleEN": "\"The curse of Mixed is broken\" - Swery turns opinion around on oddball roguelike Hotel Barcelona by removing gen-AI voices and substantially reworking the game",
       "desc": "Hidetaka \"Swery\" Suehiro's oddball roguelike Hotel Barcelona didn't impress us when it dropped last year, but there was something charming and earnest about it. But months later - and many updates later - Swery and White Owl appear to have turned opi",
@@ -240,26 +250,6 @@
       "date": "10 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Despite reports and a video takedown, Gears of War: E-Day devs insist Xbox \"never changed\" plans for a PS5 release - because it never announced one",
-      "titleEN": "Despite reports and a video takedown, Gears of War: E-Day devs insist Xbox \"never changed\" plans for a PS5 release - because it never announced one",
-      "desc": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
-      "descEN": "Gears of War: E-Day showed off incredibly well during last Sunday's Xbox Games Showcase. The show opened with a meaty first look at gameplay, before we were later treated to a much deeper dive into the upcoming prequel in a dedicated Direct. Read mor",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
-      "titleEN": "Gears of War: E-Day is making big changes to one of the series' most iconic mechanics",
-      "desc": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
-      "descEN": "You can really tell that Gears of War: E-Day developer, The Coalition, wants the upcoming third-person shooter to be enjoyed by more than just Gears diehards. In last Sunday's developer Direct, the studio recalled the decision to start development fr",
-      "date": "10 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
