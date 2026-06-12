@@ -1,45 +1,29 @@
 {
-  "generatedAt": "2026-06-11T20:19:39.331Z",
+  "generatedAt": "2026-06-12T03:47:32.769Z",
   "games": [
     {
       "id": "g1",
-      "steamAppId": 3472040,
-      "rating": 4,
-      "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "GMG",
-          "price": 8.82,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=dua6N5u4HYIU5lUexFlvkjLixz5RHy0a4lzdZENh64A%3D"
-        }
-      ]
-    },
-    {
-      "id": "g2",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
-          "price": 18.38,
+          "price": 14.38,
           "original": 31.98,
           "url": "https://www.cheapshark.com/redirect?dealID=%2BBTrEsQhJi0CANx8Tr0%2BEAXawizxUcm%2BWOIoA2eMObs%3D"
         }
       ]
     },
     {
-      "id": "g3",
+      "id": "g2",
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
       "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the RAVEN2 Half anniversary Starter Pack deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find RAVEN2 Half anniversary Starter Pack at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -78,10 +62,10 @@
           "url": "https://www.cheapshark.com/redirect?dealID=QZfYsy910uPsoXaQTF654pgEDbQ%2BMP5FVcg8LEsbfAY%3D"
         },
         {
-          "store": "GMG",
-          "price": 9.45,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
+          "store": "Humble",
+          "price": 19.99,
+          "original": 99.98,
+          "url": "https://www.cheapshark.com/redirect?dealID=6MPf5EEX5fZsrZ7sBkeOEOVf2IiNuqLm0rHrOQLllfw%3D"
         },
         {
           "store": "Epic",
@@ -92,7 +76,7 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g3",
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
@@ -108,18 +92,50 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 1409840,
       "rating": 4,
       "title": "Aztecs: The Last Sun",
-      "desc": "Oferta especial de Aztecs: The Last Sun en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Aztecs: The Last Sun deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Aztecs: The Last Sun en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Aztecs: The Last Sun at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
           "price": 17.58,
           "original": 31.98,
           "url": "https://www.cheapshark.com/redirect?dealID=UAj7O6s5Y2oRYJvvKVnO18v%2BkCfqVEoSB3XQpXQQkF8%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "steamAppId": 219150,
+      "rating": 4,
+      "title": "Hotline Miami",
+      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 0.99,
+          "original": 9.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=2IwBO0UdJ359ZtNH6w%2FndgB%2FGYvv%2F1xURwC328hsXFo%3D"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "steamAppId": 632470,
+      "rating": 5,
+      "title": "Disco Elysium - The Final Cut",
+      "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Disco Elysium - The Final Cut on Humble. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Humble",
+          "price": 9.99,
+          "original": 39.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=nkvWzyFGvil0uAtwrtKRjjBN%2F14UaGVvolBejMaYZsY%3D"
         }
       ]
     }
