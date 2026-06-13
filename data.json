@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-13T08:56:13.875Z",
+  "generatedAt": "2026-06-13T13:56:20.908Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra RAVEN2 Half anniversary Starter Pack al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Oferta especial de Hotline Miami en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Hotline Miami at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Hotline Miami is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -102,8 +102,8 @@
       "steamAppId": 201420,
       "rating": 4,
       "title": "Toki Tori 2",
-      "desc": "Toki Tori 2 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Toki Tori 2 on Humble. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Toki Tori 2 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Toki Tori 2 is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Humble",
@@ -118,8 +118,8 @@
       "steamAppId": 632470,
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
-      "desc": "Aprovecha la oferta de Disco Elysium - The Final Cut en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Disco Elysium - The Final Cut deal on Humble. A great game at an incredible price, available for a limited time.",
+      "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Disco Elysium - The Final Cut on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
