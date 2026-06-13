@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-12T20:08:53.610Z",
+  "generatedAt": "2026-06-13T03:34:26.913Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "RAVEN2 Half anniversary Starter Pack",
-      "desc": "Aprovecha la oferta de RAVEN2 Half anniversary Starter Pack en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for RAVEN2 Half anniversary Starter Pack on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de RAVEN2 Half anniversary Starter Pack en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "RAVEN2 Half anniversary Starter Pack is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -83,27 +83,11 @@
     },
     {
       "id": "g3",
-      "steamAppId": 75825,
-      "rating": 4,
-      "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Epic",
-          "price": 7.49,
-          "original": 74.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D"
-        }
-      ]
-    },
-    {
-      "id": "g4",
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
       "desc": "Encuentra Hotline Miami al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Hotline Miami is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -114,12 +98,28 @@
       ]
     },
     {
+      "id": "g4",
+      "steamAppId": 201420,
+      "rating": 4,
+      "title": "Toki Tori 2",
+      "desc": "Aprovecha la oferta de Toki Tori 2 en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Toki Tori 2 on Humble. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Humble",
+          "price": 0.74,
+          "original": 14.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=8W4lXXPy81XpEM92aU2bFxEOwYS3N1jimKacVixg4DI%3D"
+        }
+      ]
+    },
+    {
       "id": "g5",
       "steamAppId": 632470,
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
-      "desc": "Oferta especial de Disco Elysium - The Final Cut en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Disco Elysium - The Final Cut deal on Humble. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Disco Elysium - The Final Cut al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Disco Elysium - The Final Cut is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Humble",
