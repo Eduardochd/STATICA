@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-14T03:55:21.122Z",
+  "generatedAt": "2026-06-14T09:31:45.945Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
-      "desc": "Warhammer 40K Speed Freeks está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Warhammer 40K Speed Freeks en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find Warhammer 40K Speed Freeks at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -96,7 +96,7 @@
       "steamAppId": 201420,
       "rating": 4,
       "title": "Toki Tori 2",
-      "desc": "Aprovecha la oferta de Toki Tori 2 en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Toki Tori 2 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Toki Tori 2 deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -113,7 +113,7 @@
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
       "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Disco Elysium - The Final Cut is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Disco Elysium - The Final Cut at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Humble",
@@ -128,7 +128,7 @@
       "steamAppId": 322330,
       "rating": 4,
       "title": "Don't Starve Together",
-      "desc": "Oferta especial de Don't Starve Together en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Don't Starve Together está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the Don't Starve Together deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -136,6 +136,22 @@
           "price": 1.49,
           "original": 14.99,
           "url": "https://www.cheapshark.com/redirect?dealID=RT0MM9CroP%2B1nAPJWKUk6YjXFlleTjIp4IQeVIzG758%3D"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "steamAppId": 278100,
+      "rating": 4,
+      "title": "RIVE",
+      "desc": "Oferta especial de RIVE en Humble. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find RIVE at the best price on Humble. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Humble",
+          "price": 0.74,
+          "original": 14.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=TDYC%2BBf1jgcKXZOMNYstfbJbUQmcCHK6mn6Tod4Umsc%3D"
         }
       ]
     }
