@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-15T12:10:07.812Z",
+  "generatedAt": "2026-06-15T20:53:45.633Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
-      "desc": "Oferta especial de Warhammer 40K Speed Freeks en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Warhammer 40K Speed Freeks en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for Warhammer 40K Speed Freeks on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -60,28 +60,64 @@
           "price": 2.99,
           "original": 29.99,
           "url": "https://www.cheapshark.com/redirect?dealID=KbnBFxdKXWYbNjWhGTa9j5Pn7e4glbvnY99hz%2BL721c%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 0.99,
-          "original": 9.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=xIw9HM0nNMvfoinvG7WvfFp4k2ISvs5XMESJGIuRT8w%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 19.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=1fvV4IE5EoA4%2B%2BNTI8jdg3iXbGo8vQg7UXCY1rsEX28%3D"
         }
       ]
     },
     {
       "id": "g3",
+      "steamAppId": 1388770,
+      "rating": 4,
+      "title": "Cruelty Squad",
+      "desc": "Oferta especial de Cruelty Squad en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Cruelty Squad at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 1.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=z7QIDb1gN5GCKZ%2FoJN88DNqeGqnf7r1J4XQ0tT6q1zY%3D"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "steamAppId": 3900,
+      "rating": 5,
+      "title": "Sid Meier's Civilization IV",
+      "desc": "Aprovecha la oferta de Sid Meier's Civilization IV en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Sid Meier's Civilization IV on Steam. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 3.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=khSrhkgpaxgOWWEYV9MdKid%2FcDzIGa0zHzvh5j73lLo%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "steamAppId": 289070,
+      "rating": 4,
+      "title": "Sid Meiers Civilization VI",
+      "desc": "Oferta especial de Sid Meiers Civilization VI en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Sid Meiers Civilization VI at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 5.99,
+          "original": 59.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=5xRuVIgFiH0TW2PTPJPlTN4NYMjAt4bg3p1CvKMMJv8%3D"
+        }
+      ]
+    },
+    {
+      "id": "g6",
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Hotline Miami en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Hotline Miami on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -92,12 +128,28 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g7",
+      "steamAppId": 319450,
+      "rating": 4,
+      "title": "Chariot",
+      "desc": "Oferta especial de Chariot en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Chariot is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 1.49,
+          "original": 14.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=SJtwMqHmcdHzhryD5NoKvH6Nnk%2BblWEhlew2F42uPHk%3D"
+        }
+      ]
+    },
+    {
+      "id": "g8",
       "steamAppId": 201420,
       "rating": 4,
       "title": "Toki Tori 2",
-      "desc": "Toki Tori 2 está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Toki Tori 2 deal on Humble. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Toki Tori 2 en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Toki Tori 2 on Humble. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Humble",
@@ -108,12 +160,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g9",
       "steamAppId": 632470,
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
       "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Disco Elysium - The Final Cut on Humble. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Disco Elysium - The Final Cut deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Humble",
@@ -122,43 +174,81 @@
           "url": "https://www.cheapshark.com/redirect?dealID=nkvWzyFGvil0uAtwrtKRjjBN%2F14UaGVvolBejMaYZsY%3D"
         }
       ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 322330,
-      "rating": 4,
-      "title": "Don't Starve Together",
-      "desc": "Aprovecha la oferta de Don't Starve Together en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Don't Starve Together is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.49,
-          "original": 14.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=RT0MM9CroP%2B1nAPJWKUk6YjXFlleTjIp4IQeVIzG758%3D"
-        }
-      ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 278100,
-      "rating": 4,
-      "title": "RIVE",
-      "desc": "Encuentra RIVE al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "RIVE is on sale on Humble. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Humble",
-          "price": 0.74,
-          "original": 14.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=TDYC%2BBf1jgcKXZOMNYstfbJbUQmcCHK6mn6Tod4Umsc%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
+      "titleEN": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
+      "desc": "Almost 18 months after Civilization 7's bumpy launch - which saw it panned by players for a range of issues, including a poor UI, controversial changes to the series' classic formula, and a lack of features - developer Firaxis' slow and steady course",
+      "descEN": "Almost 18 months after Civilization 7's bumpy launch - which saw it panned by players for a range of issues, including a poor UI, controversial changes to the series' classic formula, and a lack of features - developer Firaxis' slow and steady course",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
+      "titleEN": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
+      "desc": "Nightdive Studios has been consistently knocking out impressive remasters of both beloved and niche oldies for a long time now, but the refresh of 1998's cult-classic first-person shooter SiN - originally announced in 2020 - was put on ice in 2023 in",
+      "descEN": "Nightdive Studios has been consistently knocking out impressive remasters of both beloved and niche oldies for a long time now, but the refresh of 1998's cult-classic first-person shooter SiN - originally announced in 2020 - was put on ice in 2023 in",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
+      "titleEN": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
+      "desc": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
+      "descEN": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
+      "titleEN": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
+      "desc": "Craig Duncan has stepped down from his role as head of Xbox Game Studios after less than two years. He will be departing the company this week. Read more",
+      "descEN": "Craig Duncan has stepped down from his role as head of Xbox Game Studios after less than two years. He will be departing the company this week. Read more",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
+      "titleEN": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
+      "desc": "Electronic Arts has officially launched EA Advertising, a new platform that the company says will enable brands to more directly connect with players of its games - by integrating them \"directly into gameplay\". Read more",
+      "descEN": "Electronic Arts has officially launched EA Advertising, a new platform that the company says will enable brands to more directly connect with players of its games - by integrating them \"directly into gameplay\". Read more",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
+      "titleEN": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
+      "desc": "A full decade in, Behaviour Interactive's Dead by Daylight has settled into a comfortable rhythm of content updates and seasonal events, including some surprises. But as the asymmetrical horror game enters its 11th year, there are big changes coming,",
+      "descEN": "A full decade in, Behaviour Interactive's Dead by Daylight has settled into a comfortable rhythm of content updates and seasonal events, including some surprises. But as the asymmetrical horror game enters its 11th year, there are big changes coming,",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n7",
+      "title": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
+      "titleEN": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
+      "desc": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter. According to former Bungie community man",
+      "descEN": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter. According to former Bungie community man",
+      "date": "15 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n8",
       "title": "Dead by Daylight movie adaptation has found its director",
       "titleEN": "Dead by Daylight movie adaptation has found its director",
       "desc": "Dead by Daylight's live-action film adaptation has found its director in Thordur Palsson. Read more",
@@ -168,7 +258,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n9",
       "title": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
       "titleEN": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
       "desc": "A rare copy of Super Mario Bros. has been sold at auction for a record-breaking $3m USD. Read more",
@@ -178,7 +268,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n3",
+      "id": "n10",
       "title": "Ultimate Marvel vs. Capcom 3 just received its first significant patch in nearly a decade on Steam, but it appears to have broken more than it fixed",
       "titleEN": "Ultimate Marvel vs. Capcom 3 just received its first significant patch in nearly a decade on Steam, but it appears to have broken more than it fixed",
       "desc": "Capcom is currently in full 'unexpected update' mode, it seems. After returning to the two-year-old Dragon's Dogma 2 last week to clean things up ahead of its Dark Arisen expansion, the PC port of 2011's Ultimate Marvel vs. Capcom 3 has also just rec",
@@ -188,7 +278,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n4",
+      "id": "n11",
       "title": "Following Gears of War: E-Day's declaration of Xbox exclusivity, Halo: Campaign Evolved is already climbing PlayStation pre-order charts",
       "titleEN": "Following Gears of War: E-Day's declaration of Xbox exclusivity, Halo: Campaign Evolved is already climbing PlayStation pre-order charts",
       "desc": "One of 2025's most shocking reveals was Halo: Campaign Evolved coming to PS5. Xbox's iconic \"mascot\" is limited to Microsoft consoles and PC no more. It almost signalled a larger strategic shift, yet Gears of War: E-Day is skipping Sony's console des",
@@ -198,82 +288,12 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n12",
       "title": "After three years, Call of Duty is bringing back campaign early access with Modern Warfare 4",
       "titleEN": "After three years, Call of Duty is bringing back campaign early access with Modern Warfare 4",
       "desc": "Activision has announced that Modern Warfare 4 will make its single-player campaign available to play up to one week prior to the full game's launch date. This makes the Korean Peninsula-set campaign accessible as early as 16th October for some playe",
       "descEN": "Activision has announced that Modern Warfare 4 will make its single-player campaign available to play up to one week prior to the full game's launch date. This makes the Korean Peninsula-set campaign accessible as early as 16th October for some playe",
       "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor",
-      "titleEN": "Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor",
-      "desc": "Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad. The dialogue has a lot of Proper Nouns, and is cryptic enough for you to fill in the",
-      "descEN": "Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad. The dialogue has a lot of Proper Nouns, and is cryptic enough for you to fill in the",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam",
-      "titleEN": "As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam",
-      "desc": "It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix: between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a massive media tou",
-      "descEN": "It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix: between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a massive media tou",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransactions",
-      "titleEN": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransactions",
-      "desc": "Capcom is discontinuing the deluxe edition of Dragon's Dogma 2 on 24th June, as well as pulling many of its more controversial time-saving microtransactions. Read more",
-      "descEN": "Capcom is discontinuing the deluxe edition of Dragon's Dogma 2 on 24th June, as well as pulling many of its more controversial time-saving microtransactions. Read more",
-      "date": "14 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Vampire: The Masquerade - Bloodlines 2 development comes to an end with a big patch and some huge community-requested features",
-      "titleEN": "Vampire: The Masquerade - Bloodlines 2 development comes to an end with a big patch and some huge community-requested features",
-      "desc": "Vampire: The Masquerade - Bloodlines 2's final post-launch update is here, bringing a number of fixes and \"community-requested\" features, including photo mode, sniper sights, and dual-wield pistols. Read more",
-      "descEN": "Vampire: The Masquerade - Bloodlines 2's final post-launch update is here, bringing a number of fixes and \"community-requested\" features, including photo mode, sniper sights, and dual-wield pistols. Read more",
-      "date": "14 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n10",
-      "title": "Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress",
-      "titleEN": "Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress",
-      "desc": "Playground Games is investigating an issue where \"game save progress may be lost or reset\" in Forza Horizon 6. Read more",
-      "descEN": "Playground Games is investigating an issue where \"game save progress may be lost or reset\" in Forza Horizon 6. Read more",
-      "date": "14 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
-      "titleEN": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
-      "desc": "A new report claims Microsoft is considering \"spinning out\" Xbox into its own company. Read more",
-      "descEN": "A new report claims Microsoft is considering \"spinning out\" Xbox into its own company. Read more",
-      "date": "13 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea",
-      "titleEN": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea",
-      "desc": "Crimson Desert, the open-world action RPG from Pearl Abyss, has a new challenge for Greymanes &ndash; a community challenge event that invites you all to commemorate your time in Pywel by sharing a video. Read more",
-      "descEN": "Crimson Desert, the open-world action RPG from Pearl Abyss, has a new challenge for Greymanes &ndash; a community challenge event that invites you all to commemorate your time in Pywel by sharing a video. Read more",
-      "date": "13 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
