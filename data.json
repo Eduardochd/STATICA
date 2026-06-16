@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-16T11:07:46.679Z",
+  "generatedAt": "2026-06-16T16:48:37.318Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
       "desc": "Warhammer 40K Speed Freeks está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Warhammer 40K Speed Freeks deal on Epic. A great game at an incredible price, available for a limited time.",
+      "descEN": "Warhammer 40K Speed Freeks is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -54,12 +54,6 @@
           "price": 19.99,
           "original": 99.98,
           "url": "https://www.cheapshark.com/redirect?dealID=6MPf5EEX5fZsrZ7sBkeOEOVf2IiNuqLm0rHrOQLllfw%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 2.99,
-          "original": 29.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=KbnBFxdKXWYbNjWhGTa9j5Pn7e4glbvnY99hz%2BL721c%3D"
         }
       ]
     },
@@ -68,8 +62,8 @@
       "steamAppId": 1388770,
       "rating": 4,
       "title": "Cruelty Squad",
-      "desc": "Cruelty Squad está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Cruelty Squad deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Cruelty Squad en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Cruelty Squad at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -100,8 +94,8 @@
       "steamAppId": 289070,
       "rating": 4,
       "title": "Sid Meiers Civilization VI",
-      "desc": "Oferta especial de Sid Meiers Civilization VI en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Sid Meiers Civilization VI deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Sid Meiers Civilization VI está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Sid Meiers Civilization VI on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -113,11 +107,75 @@
     },
     {
       "id": "g6",
+      "steamAppId": 1525660,
+      "rating": 4,
+      "title": "Sunblaze",
+      "desc": "Oferta especial de Sunblaze en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Sunblaze on Steam. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 1.49,
+          "original": 14.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=7ZM2K79CnwSBONNrfXiG9RYk5%2FwFBGTdArq5BBOaR7U%3D"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "steamAppId": 960990,
+      "rating": 4,
+      "title": "Beyond: Two Souls",
+      "desc": "Oferta especial de Beyond: Two Souls en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Beyond: Two Souls is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 1.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Gh1iZn6voDK1O0nMXqVmXaEw4cLI%2FRBdO00UldzaEgo%3D"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "steamAppId": 960910,
+      "rating": 4,
+      "title": "Heavy Rain",
+      "desc": "Encuentra Heavy Rain al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Heavy Rain on Epic. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 1.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=iW%2BGRGAAxC4ElzpCvgfpQh%2FedPYQI1o4GUBfAk9jtKc%3D"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "steamAppId": 1975440,
+      "rating": 4,
+      "title": "Under The Waves",
+      "desc": "Encuentra Under The Waves al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Under The Waves on Epic. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Epic",
+          "price": 2.99,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=mtu%2B59ry4X2BNUXQ8%2FWyYThr%2BuGWzyn17LB2wOXg5HE%3D"
+        }
+      ]
+    },
+    {
+      "id": "g10",
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Hotline Miami on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Hotline Miami en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -126,59 +184,101 @@
           "url": "https://www.cheapshark.com/redirect?dealID=2IwBO0UdJ359ZtNH6w%2FndgB%2FGYvv%2F1xURwC328hsXFo%3D"
         }
       ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 319450,
-      "rating": 4,
-      "title": "Chariot",
-      "desc": "Oferta especial de Chariot en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Chariot is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.49,
-          "original": 14.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=SJtwMqHmcdHzhryD5NoKvH6Nnk%2BblWEhlew2F42uPHk%3D"
-        }
-      ]
-    },
-    {
-      "id": "g8",
-      "steamAppId": 201420,
-      "rating": 4,
-      "title": "Toki Tori 2",
-      "desc": "Encuentra Toki Tori 2 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Toki Tori 2 deal on Humble. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "Humble",
-          "price": 0.74,
-          "original": 14.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=8W4lXXPy81XpEM92aU2bFxEOwYS3N1jimKacVixg4DI%3D"
-        }
-      ]
-    },
-    {
-      "id": "g9",
-      "steamAppId": 632470,
-      "rating": 5,
-      "title": "Disco Elysium - The Final Cut",
-      "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Disco Elysium - The Final Cut deal on Humble. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "Humble",
-          "price": 9.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=nkvWzyFGvil0uAtwrtKRjjBN%2F14UaGVvolBejMaYZsY%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
+      "titleEN": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
+      "desc": "Switch 2 production may be ramping up after approaching the 20m units sold mark, but that doesn't mean the original Switch is going anywhere. And in seeming acknowledgement of that, Nintendo has just released a new system update that's improved the e",
+      "descEN": "Switch 2 production may be ramping up after approaching the 20m units sold mark, but that doesn't mean the original Switch is going anywhere. And in seeming acknowledgement of that, Nintendo has just released a new system update that's improved the e",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Overwatch's new motorcycle-riding DPS hero Shion originally had a Devil May Cry-like style meter for skill combos, and she arrives today in Season 3",
+      "titleEN": "Overwatch's new motorcycle-riding DPS hero Shion originally had a Devil May Cry-like style meter for skill combos, and she arrives today in Season 3",
+      "desc": "Overwatch is in a better spot than it was a year ago thanks to its early 2026 sort-of-reboot. And it's expanding once more as new hero Shion literally rides into Season 3's action today. Read more",
+      "descEN": "Overwatch is in a better spot than it was a year ago thanks to its early 2026 sort-of-reboot. And it's expanding once more as new hero Shion literally rides into Season 3's action today. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "In a week of Xbox leadership changes, longtime Treyarch boss Mark Gordon is retiring from the Call of Duty studio to \"focus on his next chapter\"",
+      "titleEN": "In a week of Xbox leadership changes, longtime Treyarch boss Mark Gordon is retiring from the Call of Duty studio to \"focus on his next chapter\"",
+      "desc": "Treyarch, the Xbox-owned studio behind Call of Duty's Black Ops games, has announced studio head Mark Gordon is retiring from his role after 22 years with the company. Read more",
+      "descEN": "Treyarch, the Xbox-owned studio behind Call of Duty's Black Ops games, has announced studio head Mark Gordon is retiring from his role after 22 years with the company. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Here's your next batch of Xbox Game Pass games for June",
+      "titleEN": "Here's your next batch of Xbox Game Pass games for June",
+      "desc": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this June and early July. Read more",
+      "descEN": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this June and early July. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Sony has patented a controller with buttons that harden when you play with it",
+      "titleEN": "Sony has patented a controller with buttons that harden when you play with it",
+      "desc": "Sony Interactive Entertainment has published an intriguing patent for a new type of controller whose buttons can alter their resistance and tactile feel - becoming harder or softer - to adapt to what's being shown on screen. Sony initially filed the ",
+      "descEN": "Sony Interactive Entertainment has published an intriguing patent for a new type of controller whose buttons can alter their resistance and tactile feel - becoming harder or softer - to adapt to what's being shown on screen. Sony initially filed the ",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "More than a thousand games in Steam Next Fest feature a generative AI disclosure of some kind",
+      "titleEN": "More than a thousand games in Steam Next Fest feature a generative AI disclosure of some kind",
+      "desc": "Steam Next Fest is back on the PC's largest gaming store, offering a vast selection of demos for upcoming games. And many of these, it turns out, have generative AI disclosures present. Read more",
+      "descEN": "Steam Next Fest is back on the PC's largest gaming store, offering a vast selection of demos for upcoming games. And many of these, it turns out, have generative AI disclosures present. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n7",
+      "title": "Hellraiser: Revival hooks a release date with trailer full of Doom-like glory kills and otherworldly powers",
+      "titleEN": "Hellraiser: Revival hooks a release date with trailer full of Doom-like glory kills and otherworldly powers",
+      "desc": "Clive Barker's Hellraiser: Revival was announced a year ago, and developer diaries have fed us scraps of information since, but we've been lacking a release date until now. Hellraiser: Revival launches on PC (Steam), PlayStation 5, and Xbox Series X/",
+      "descEN": "Clive Barker's Hellraiser: Revival was announced a year ago, and developer diaries have fed us scraps of information since, but we've been lacking a release date until now. Hellraiser: Revival launches on PC (Steam), PlayStation 5, and Xbox Series X/",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n8",
+      "title": "After second season success, the Twisted Metal TV show is back with the legendary Mark Hamill in a familiar role",
+      "titleEN": "After second season success, the Twisted Metal TV show is back with the legendary Mark Hamill in a familiar role",
+      "desc": "Mark Hamill has joined the cast of Peacock and Sony Pictures Television's Twisted Metal adaptation. The actor will have a recurring role in the show's third season. Read more",
+      "descEN": "Mark Hamill has joined the cast of Peacock and Sony Pictures Television's Twisted Metal adaptation. The actor will have a recurring role in the show's third season. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
+      "title": "CD Projekt reportedly has a second multiplayer Witcher game in development that's free-to-play and coming to mobile and PC",
+      "titleEN": "CD Projekt reportedly has a second multiplayer Witcher game in development that's free-to-play and coming to mobile and PC",
+      "desc": "As The Witcher 4's development continues and we await a release date for The Witcher 3's next expansion - its first DLC in ten years - a new report has claimed developer CD Projekt has a second, previously unannounced multiplayer Witcher game in the ",
+      "descEN": "As The Witcher 4's development continues and we await a release date for The Witcher 3's next expansion - its first DLC in ten years - a new report has claimed developer CD Projekt has a second, previously unannounced multiplayer Witcher game in the ",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n10",
       "title": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
       "titleEN": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
       "desc": "Don't Nod, the French studio behind Life is Strange 1 & 2, Lost Records, Jusant, and more recently Aphelion, could soon run out of money. The developer and publisher revealed in a new financial report that its cash reserves may be depleted by Novembe",
@@ -188,7 +288,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n2",
+      "id": "n11",
       "title": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
       "titleEN": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
       "desc": "The UK prime minister Keir Starmer has announced plans to ban 16-years-olds and younger from accessing social media platforms like X and Instagram. He's also revealed the government is planning to introduce a similar ban for as yet undisclosed stream",
@@ -198,7 +298,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n12",
       "title": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
       "titleEN": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
       "desc": "Multiple Microsoft-owned Xbox game studios are reportedly in danger of being shut down. Read more",
@@ -206,96 +306,6 @@
       "date": "16 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n4",
-      "title": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
-      "titleEN": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
-      "desc": "Almost 18 months after Civilization 7's bumpy launch - which saw it panned by players for a range of issues, including a poor UI, controversial changes to the series' classic formula, and a lack of features - developer Firaxis' slow and steady course",
-      "descEN": "Almost 18 months after Civilization 7's bumpy launch - which saw it panned by players for a range of issues, including a poor UI, controversial changes to the series' classic formula, and a lack of features - developer Firaxis' slow and steady course",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
-      "titleEN": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
-      "desc": "Nightdive Studios has been consistently knocking out impressive remasters of both beloved and niche oldies for a long time now, but the refresh of 1998's cult-classic first-person shooter SiN - originally announced in 2020 - was put on ice in 2023 in",
-      "descEN": "Nightdive Studios has been consistently knocking out impressive remasters of both beloved and niche oldies for a long time now, but the refresh of 1998's cult-classic first-person shooter SiN - originally announced in 2020 - was put on ice in 2023 in",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
-      "titleEN": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
-      "desc": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
-      "descEN": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n7",
-      "title": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
-      "titleEN": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
-      "desc": "Craig Duncan has stepped down from his role as head of Xbox Game Studios after less than two years. He will be departing the company this week. Read more",
-      "descEN": "Craig Duncan has stepped down from his role as head of Xbox Game Studios after less than two years. He will be departing the company this week. Read more",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n8",
-      "title": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
-      "titleEN": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
-      "desc": "Electronic Arts has officially launched EA Advertising, a new platform that the company says will enable brands to more directly connect with players of its games - by integrating them \"directly into gameplay\". Read more",
-      "descEN": "Electronic Arts has officially launched EA Advertising, a new platform that the company says will enable brands to more directly connect with players of its games - by integrating them \"directly into gameplay\". Read more",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
-      "titleEN": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
-      "desc": "A full decade in, Behaviour Interactive's Dead by Daylight has settled into a comfortable rhythm of content updates and seasonal events, including some surprises. But as the asymmetrical horror game enters its 11th year, there are big changes coming,",
-      "descEN": "A full decade in, Behaviour Interactive's Dead by Daylight has settled into a comfortable rhythm of content updates and seasonal events, including some surprises. But as the asymmetrical horror game enters its 11th year, there are big changes coming,",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n10",
-      "title": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
-      "titleEN": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
-      "desc": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter. According to former Bungie community man",
-      "descEN": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter. According to former Bungie community man",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Dead by Daylight movie adaptation has found its director",
-      "titleEN": "Dead by Daylight movie adaptation has found its director",
-      "desc": "Dead by Daylight's live-action film adaptation has found its director in Thordur Palsson. Read more",
-      "descEN": "Dead by Daylight's live-action film adaptation has found its director in Thordur Palsson. Read more",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
-      "titleEN": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
-      "desc": "A rare copy of Super Mario Bros. has been sold at auction for a record-breaking $3m USD. Read more",
-      "descEN": "A rare copy of Super Mario Bros. has been sold at auction for a record-breaking $3m USD. Read more",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
     }
   ]
 }
