@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-06-16T16:48:37.318Z",
+  "generatedAt": "2026-06-16T20:49:14.541Z",
   "games": [
     {
       "id": "g1",
-      "steamAppId": 2211170,
-      "rating": 4,
-      "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 14.38,
-          "original": 31.98,
-          "url": "https://www.cheapshark.com/redirect?dealID=%2BBTrEsQhJi0CANx8Tr0%2BEAXawizxUcm%2BWOIoA2eMObs%3D"
-        }
-      ]
-    },
-    {
-      "id": "g2",
       "steamAppId": null,
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
-      "desc": "Warhammer 40K Speed Freeks está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Warhammer 40K Speed Freeks en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Warhammer 40K Speed Freeks is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -58,7 +42,7 @@
       ]
     },
     {
-      "id": "g3",
+      "id": "g2",
       "steamAppId": 1388770,
       "rating": 4,
       "title": "Cruelty Squad",
@@ -74,12 +58,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g3",
       "steamAppId": 3900,
       "rating": 5,
       "title": "Sid Meier's Civilization IV",
-      "desc": "Sid Meier's Civilization IV está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Sid Meier's Civilization IV deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Sid Meier's Civilization IV al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Sid Meier's Civilization IV at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -90,12 +74,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 289070,
       "rating": 4,
       "title": "Sid Meiers Civilization VI",
-      "desc": "Sid Meiers Civilization VI está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Sid Meiers Civilization VI on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Sid Meiers Civilization VI al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Sid Meiers Civilization VI is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -106,12 +90,12 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": 1525660,
       "rating": 4,
       "title": "Sunblaze",
       "desc": "Oferta especial de Sunblaze en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Sunblaze on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Sunblaze deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -122,12 +106,12 @@
       ]
     },
     {
-      "id": "g7",
+      "id": "g6",
       "steamAppId": 960990,
       "rating": 4,
       "title": "Beyond: Two Souls",
       "desc": "Oferta especial de Beyond: Two Souls en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Beyond: Two Souls is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Beyond: Two Souls at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -138,12 +122,12 @@
       ]
     },
     {
-      "id": "g8",
+      "id": "g7",
       "steamAppId": 960910,
       "rating": 4,
       "title": "Heavy Rain",
       "desc": "Encuentra Heavy Rain al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Heavy Rain on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Heavy Rain deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -154,12 +138,44 @@
       ]
     },
     {
+      "id": "g8",
+      "steamAppId": 535930,
+      "rating": 4,
+      "title": "Two Point Hospital",
+      "desc": "Oferta especial de Two Point Hospital en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Two Point Hospital is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 4.49,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=HsyqqdVQFZgDe0bGRcDWUhNJnxsI1suKLHF%2BB4SQd8c%3D"
+        }
+      ]
+    },
+    {
       "id": "g9",
+      "steamAppId": 1649080,
+      "rating": 4,
+      "title": "Two Point Campus",
+      "desc": "Aprovecha la oferta de Two Point Campus en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Two Point Campus deal on Steam. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 4.49,
+          "original": 29.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=IlYgXmiECqjShU%2FcRzwDdIPlnJ5A7p%2FWBqZHz81D7Zc%3D"
+        }
+      ]
+    },
+    {
+      "id": "g10",
       "steamAppId": 1975440,
       "rating": 4,
       "title": "Under The Waves",
-      "desc": "Encuentra Under The Waves al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Under The Waves on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Under The Waves en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Under The Waves deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -170,12 +186,12 @@
       ]
     },
     {
-      "id": "g10",
+      "id": "g11",
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Aprovecha la oferta de Hotline Miami en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Hotline Miami deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Hotline Miami on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
