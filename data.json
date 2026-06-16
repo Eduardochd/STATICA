@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T03:57:08.305Z",
+  "generatedAt": "2026-06-16T11:07:46.679Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
-      "desc": "Aprovecha la oferta de Warhammer 40K Speed Freeks en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Warhammer 40K Speed Freeks on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Warhammer 40K Speed Freeks está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Warhammer 40K Speed Freeks deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -68,7 +68,7 @@
       "steamAppId": 1388770,
       "rating": 4,
       "title": "Cruelty Squad",
-      "desc": "Aprovecha la oferta de Cruelty Squad en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Cruelty Squad está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the Cruelty Squad deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -84,7 +84,7 @@
       "steamAppId": 3900,
       "rating": 5,
       "title": "Sid Meier's Civilization IV",
-      "desc": "Aprovecha la oferta de Sid Meier's Civilization IV en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Sid Meier's Civilization IV está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the Sid Meier's Civilization IV deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -100,7 +100,7 @@
       "steamAppId": 289070,
       "rating": 4,
       "title": "Sid Meiers Civilization VI",
-      "desc": "Aprovecha la oferta de Sid Meiers Civilization VI en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Sid Meiers Civilization VI en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Sid Meiers Civilization VI deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -117,7 +117,7 @@
       "rating": 4,
       "title": "Hotline Miami",
       "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Hotline Miami at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Hotline Miami on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -132,8 +132,8 @@
       "steamAppId": 319450,
       "rating": 4,
       "title": "Chariot",
-      "desc": "Chariot está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Chariot at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Chariot en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Chariot is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -148,8 +148,8 @@
       "steamAppId": 201420,
       "rating": 4,
       "title": "Toki Tori 2",
-      "desc": "Aprovecha la oferta de Toki Tori 2 en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Toki Tori 2 on Humble. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Toki Tori 2 al mejor precio en Humble. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Toki Tori 2 deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Humble",
@@ -164,7 +164,7 @@
       "steamAppId": 632470,
       "rating": 5,
       "title": "Disco Elysium - The Final Cut",
-      "desc": "Aprovecha la oferta de Disco Elysium - The Final Cut en Humble. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Disco Elysium - The Final Cut está en oferta en Humble. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the Disco Elysium - The Final Cut deal on Humble. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -179,6 +179,36 @@
   "news": [
     {
       "id": "n1",
+      "title": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
+      "titleEN": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
+      "desc": "Don't Nod, the French studio behind Life is Strange 1 & 2, Lost Records, Jusant, and more recently Aphelion, could soon run out of money. The developer and publisher revealed in a new financial report that its cash reserves may be depleted by Novembe",
+      "descEN": "Don't Nod, the French studio behind Life is Strange 1 & 2, Lost Records, Jusant, and more recently Aphelion, could soon run out of money. The developer and publisher revealed in a new financial report that its cash reserves may be depleted by Novembe",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n2",
+      "title": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
+      "titleEN": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
+      "desc": "The UK prime minister Keir Starmer has announced plans to ban 16-years-olds and younger from accessing social media platforms like X and Instagram. He's also revealed the government is planning to introduce a similar ban for as yet undisclosed stream",
+      "descEN": "The UK prime minister Keir Starmer has announced plans to ban 16-years-olds and younger from accessing social media platforms like X and Instagram. He's also revealed the government is planning to introduce a similar ban for as yet undisclosed stream",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
+      "titleEN": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
+      "desc": "Multiple Microsoft-owned Xbox game studios are reportedly in danger of being shut down. Read more",
+      "descEN": "Multiple Microsoft-owned Xbox game studios are reportedly in danger of being shut down. Read more",
+      "date": "16 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
       "title": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
       "titleEN": "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week",
       "desc": "Almost 18 months after Civilization 7's bumpy launch - which saw it panned by players for a range of issues, including a poor UI, controversial changes to the series' classic formula, and a lack of features - developer Firaxis' slow and steady course",
@@ -188,7 +218,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
       "titleEN": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold",
       "desc": "Nightdive Studios has been consistently knocking out impressive remasters of both beloved and niche oldies for a long time now, but the refresh of 1998's cult-classic first-person shooter SiN - originally announced in 2020 - was put on ice in 2023 in",
@@ -198,7 +228,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
       "titleEN": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
       "desc": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
@@ -208,7 +238,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
       "titleEN": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
       "desc": "Craig Duncan has stepped down from his role as head of Xbox Game Studios after less than two years. He will be departing the company this week. Read more",
@@ -218,7 +248,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
       "titleEN": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
       "desc": "Electronic Arts has officially launched EA Advertising, a new platform that the company says will enable brands to more directly connect with players of its games - by integrating them \"directly into gameplay\". Read more",
@@ -228,7 +258,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
       "titleEN": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
       "desc": "A full decade in, Behaviour Interactive's Dead by Daylight has settled into a comfortable rhythm of content updates and seasonal events, including some surprises. But as the asymmetrical horror game enters its 11th year, there are big changes coming,",
@@ -238,7 +268,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
       "titleEN": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
       "desc": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter. According to former Bungie community man",
@@ -248,7 +278,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "Dead by Daylight movie adaptation has found its director",
       "titleEN": "Dead by Daylight movie adaptation has found its director",
       "desc": "Dead by Daylight's live-action film adaptation has found its director in Thordur Palsson. Read more",
@@ -258,7 +288,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
       "titleEN": "A \"holy grail\" copy of Super Mario Bros. has sold for $3m",
       "desc": "A rare copy of Super Mario Bros. has been sold at auction for a record-breaking $3m USD. Read more",
@@ -266,36 +296,6 @@
       "date": "15 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Récord"
-    },
-    {
-      "id": "n10",
-      "title": "Ultimate Marvel vs. Capcom 3 just received its first significant patch in nearly a decade on Steam, but it appears to have broken more than it fixed",
-      "titleEN": "Ultimate Marvel vs. Capcom 3 just received its first significant patch in nearly a decade on Steam, but it appears to have broken more than it fixed",
-      "desc": "Capcom is currently in full 'unexpected update' mode, it seems. After returning to the two-year-old Dragon's Dogma 2 last week to clean things up ahead of its Dark Arisen expansion, the PC port of 2011's Ultimate Marvel vs. Capcom 3 has also just rec",
-      "descEN": "Capcom is currently in full 'unexpected update' mode, it seems. After returning to the two-year-old Dragon's Dogma 2 last week to clean things up ahead of its Dark Arisen expansion, the PC port of 2011's Ultimate Marvel vs. Capcom 3 has also just rec",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n11",
-      "title": "Following Gears of War: E-Day's declaration of Xbox exclusivity, Halo: Campaign Evolved is already climbing PlayStation pre-order charts",
-      "titleEN": "Following Gears of War: E-Day's declaration of Xbox exclusivity, Halo: Campaign Evolved is already climbing PlayStation pre-order charts",
-      "desc": "One of 2025's most shocking reveals was Halo: Campaign Evolved coming to PS5. Xbox's iconic \"mascot\" is limited to Microsoft consoles and PC no more. It almost signalled a larger strategic shift, yet Gears of War: E-Day is skipping Sony's console des",
-      "descEN": "One of 2025's most shocking reveals was Halo: Campaign Evolved coming to PS5. Xbox's iconic \"mascot\" is limited to Microsoft consoles and PC no more. It almost signalled a larger strategic shift, yet Gears of War: E-Day is skipping Sony's console des",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "After three years, Call of Duty is bringing back campaign early access with Modern Warfare 4",
-      "titleEN": "After three years, Call of Duty is bringing back campaign early access with Modern Warfare 4",
-      "desc": "Activision has announced that Modern Warfare 4 will make its single-player campaign available to play up to one week prior to the full game's launch date. This makes the Korean Peninsula-set campaign accessible as early as 16th October for some playe",
-      "descEN": "Activision has announced that Modern Warfare 4 will make its single-player campaign available to play up to one week prior to the full game's launch date. This makes the Korean Peninsula-set campaign accessible as early as 16th October for some playe",
-      "date": "15 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
