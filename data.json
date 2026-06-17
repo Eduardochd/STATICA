@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-17T03:58:25.854Z",
+  "generatedAt": "2026-06-17T10:52:32.154Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "Warhammer 40K Speed Freeks",
-      "desc": "Oferta especial de Warhammer 40K Speed Freeks en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Warhammer 40K Speed Freeks on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Warhammer 40K Speed Freeks en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Warhammer 40K Speed Freeks deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -22,12 +22,6 @@
           "url": "https://www.cheapshark.com/redirect?dealID=%2BrHIxXrBkRZrZD5%2F7i0d%2BTDCEt%2BITRS6i%2BM7Muf0NQk%3D"
         },
         {
-          "store": "GOG",
-          "price": 6.39,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=KK3hWmzMGACZZq9c1BOzo8e4%2B1TpW%2FQpKS2K21%2FLbF4%3D"
-        },
-        {
           "store": "Humble",
           "price": 19.99,
           "original": 99.98,
@@ -40,8 +34,8 @@
       "steamAppId": 1388770,
       "rating": 4,
       "title": "Cruelty Squad",
-      "desc": "Oferta especial de Cruelty Squad en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Cruelty Squad at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Encuentra Cruelty Squad al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Cruelty Squad deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -57,7 +51,7 @@
       "rating": 5,
       "title": "Sid Meier's Civilization IV",
       "desc": "Sid Meier's Civilization IV está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Sid Meier's Civilization IV deal on Steam. A great game at an incredible price, available for a limited time.",
+      "descEN": "Sid Meier's Civilization IV is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -88,8 +82,8 @@
       "steamAppId": 1525660,
       "rating": 4,
       "title": "Sunblaze",
-      "desc": "Encuentra Sunblaze al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Sunblaze at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Sunblaze está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Sunblaze is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -104,8 +98,8 @@
       "steamAppId": 960990,
       "rating": 4,
       "title": "Beyond: Two Souls",
-      "desc": "Beyond: Two Souls está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Beyond: Two Souls is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Beyond: Two Souls en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Beyond: Two Souls at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -120,8 +114,8 @@
       "steamAppId": 960910,
       "rating": 4,
       "title": "Heavy Rain",
-      "desc": "Heavy Rain está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Heavy Rain deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Heavy Rain al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Heavy Rain is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -136,8 +130,8 @@
       "steamAppId": 535930,
       "rating": 4,
       "title": "Two Point Hospital",
-      "desc": "Two Point Hospital está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Two Point Hospital is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Two Point Hospital en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Two Point Hospital deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -152,7 +146,7 @@
       "steamAppId": 1649080,
       "rating": 4,
       "title": "Two Point Campus",
-      "desc": "Oferta especial de Two Point Campus en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Two Point Campus en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Two Point Campus is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -184,8 +178,8 @@
       "steamAppId": 1975440,
       "rating": 4,
       "title": "Under The Waves",
-      "desc": "Oferta especial de Under The Waves en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Under The Waves is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Under The Waves al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Under The Waves at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -200,8 +194,8 @@
       "steamAppId": 219150,
       "rating": 4,
       "title": "Hotline Miami",
-      "desc": "Encuentra Hotline Miami al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Hotline Miami at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Hotline Miami está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Hotline Miami is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -215,6 +209,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Guild Wars 3 mission statement: no pay-to-win, no subscription fees - \"The lines between an MMO and a live-service game have blurred\"",
+      "titleEN": "Guild Wars 3 mission statement: no pay-to-win, no subscription fees - \"The lines between an MMO and a live-service game have blurred\"",
+      "desc": "Guild Wars 3 developer ArenaNet has released a mission statement after the game's sudden and celebrated debut during Summer Game Fest earlier this month. The main points? No pay-to-win, no subscription fees, and the goal of evolving the MMO genre. Re",
+      "descEN": "Guild Wars 3 developer ArenaNet has released a mission statement after the game's sudden and celebrated debut during Summer Game Fest earlier this month. The main points? No pay-to-win, no subscription fees, and the goal of evolving the MMO genre. Re",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Multiplayer servers for Battlefield Hardline close in under a week, but that's not necessarily the end for this zany off-shoot",
+      "titleEN": "Multiplayer servers for Battlefield Hardline close in under a week, but that's not necessarily the end for this zany off-shoot",
+      "desc": "We're now just five days away from Battlefield Hardline multiplayer ceasing to function on Xbox and PlayStation. Servers go offline for good on Monday, 22nd June. Read more",
+      "descEN": "We're now just five days away from Battlefield Hardline multiplayer ceasing to function on Xbox and PlayStation. Servers go offline for good on Monday, 22nd June. Read more",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
       "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
       "titleEN": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
       "desc": "Switch 2 production may be ramping up after approaching the 20m units sold mark, but that doesn't mean the original Switch is going anywhere. And in seeming acknowledgement of that, Nintendo has just released a new system update that's improved the e",
@@ -224,7 +238,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "Overwatch's new motorcycle-riding DPS hero Shion originally had a Devil May Cry-like style meter for skill combos, and she arrives today in Season 3",
       "titleEN": "Overwatch's new motorcycle-riding DPS hero Shion originally had a Devil May Cry-like style meter for skill combos, and she arrives today in Season 3",
       "desc": "Overwatch is in a better spot than it was a year ago thanks to its early 2026 sort-of-reboot. And it's expanding once more as new hero Shion literally rides into Season 3's action today. Read more",
@@ -234,7 +248,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n5",
       "title": "In a week of Xbox leadership changes, longtime Treyarch boss Mark Gordon is retiring from the Call of Duty studio to \"focus on his next chapter\"",
       "titleEN": "In a week of Xbox leadership changes, longtime Treyarch boss Mark Gordon is retiring from the Call of Duty studio to \"focus on his next chapter\"",
       "desc": "Treyarch, the Xbox-owned studio behind Call of Duty's Black Ops games, has announced studio head Mark Gordon is retiring from his role after 22 years with the company. Read more",
@@ -244,7 +258,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "Here's your next batch of Xbox Game Pass games for June",
       "titleEN": "Here's your next batch of Xbox Game Pass games for June",
       "desc": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this June and early July. Read more",
@@ -254,7 +268,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "Sony has patented a controller with buttons that harden when you play with it",
       "titleEN": "Sony has patented a controller with buttons that harden when you play with it",
       "desc": "Sony Interactive Entertainment has published an intriguing patent for a new type of controller whose buttons can alter their resistance and tactile feel - becoming harder or softer - to adapt to what's being shown on screen. Sony initially filed the ",
@@ -264,7 +278,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n8",
       "title": "More than a thousand games in Steam Next Fest feature a generative AI disclosure of some kind",
       "titleEN": "More than a thousand games in Steam Next Fest feature a generative AI disclosure of some kind",
       "desc": "Steam Next Fest is back on the PC's largest gaming store, offering a vast selection of demos for upcoming games. And many of these, it turns out, have generative AI disclosures present. Read more",
@@ -274,7 +288,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Hellraiser: Revival hooks a release date with trailer full of Doom-like glory kills and otherworldly powers",
       "titleEN": "Hellraiser: Revival hooks a release date with trailer full of Doom-like glory kills and otherworldly powers",
       "desc": "Clive Barker's Hellraiser: Revival was announced a year ago, and developer diaries have fed us scraps of information since, but we've been lacking a release date until now. Hellraiser: Revival launches on PC (Steam), PlayStation 5, and Xbox Series X/",
@@ -284,7 +298,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "After second season success, the Twisted Metal TV show is back with the legendary Mark Hamill in a familiar role",
       "titleEN": "After second season success, the Twisted Metal TV show is back with the legendary Mark Hamill in a familiar role",
       "desc": "Mark Hamill has joined the cast of Peacock and Sony Pictures Television's Twisted Metal adaptation. The actor will have a recurring role in the show's third season. Read more",
@@ -294,7 +308,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n11",
       "title": "CD Projekt reportedly has a second multiplayer Witcher game in development that's free-to-play and coming to mobile and PC",
       "titleEN": "CD Projekt reportedly has a second multiplayer Witcher game in development that's free-to-play and coming to mobile and PC",
       "desc": "As The Witcher 4's development continues and we await a release date for The Witcher 3's next expansion - its first DLC in ten years - a new report has claimed developer CD Projekt has a second, previously unannounced multiplayer Witcher game in the ",
@@ -304,7 +318,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "title": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
       "titleEN": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project",
       "desc": "Don't Nod, the French studio behind Life is Strange 1 & 2, Lost Records, Jusant, and more recently Aphelion, could soon run out of money. The developer and publisher revealed in a new financial report that its cash reserves may be depleted by Novembe",
@@ -312,26 +326,6 @@
       "date": "16 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Récord"
-    },
-    {
-      "id": "n11",
-      "title": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
-      "titleEN": "UK to ban social media and streaming platforms for under 16-year-olds, but the full impact on games and the gaming industry remains unclear",
-      "desc": "The UK prime minister Keir Starmer has announced plans to ban 16-years-olds and younger from accessing social media platforms like X and Instagram. He's also revealed the government is planning to introduce a similar ban for as yet undisclosed stream",
-      "descEN": "The UK prime minister Keir Starmer has announced plans to ban 16-years-olds and younger from accessing social media platforms like X and Instagram. He's also revealed the government is planning to introduce a similar ban for as yet undisclosed stream",
-      "date": "16 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
-      "titleEN": "Microsoft reportedly negotiating closures of multiple Xbox studios, including Psychonauts' Double Fine, South of Midnight's Compulsion and Hellblade's Ninja Theory",
-      "desc": "Multiple Microsoft-owned Xbox game studios are reportedly in danger of being shut down. Read more",
-      "descEN": "Multiple Microsoft-owned Xbox game studios are reportedly in danger of being shut down. Read more",
-      "date": "16 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
