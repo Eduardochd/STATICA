@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-17T15:24:17.323Z",
+  "generatedAt": "2026-06-17T20:10:28.205Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": null,
       "rating": 4,
       "title": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition",
-      "desc": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Neverwinter Nights: Enhanced Edition Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Neverwinter Nights: Enhanced Edition Digital Deluxe Edition deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -56,12 +56,6 @@
           "price": 19.99,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=ciJVHdyKKCr6SD6lrgmES5Ijql%2F1%2F6RSBsmtcU5Pa6A%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 18.39,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=n9EDVOQMzCV76BJlUBFSel7LKKIGRXvHjTHBLaxcIak%3D"
         }
       ]
     },
@@ -71,7 +65,7 @@
       "rating": 4,
       "title": "The LEGO Games Bundle",
       "desc": "Encuentra The LEGO Games Bundle al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "The LEGO Games Bundle is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -99,11 +93,27 @@
     },
     {
       "id": "g4",
+      "steamAppId": 286690,
+      "rating": 5,
+      "title": "Metro 2033 Redux",
+      "desc": "Oferta especial de Metro 2033 Redux en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Metro 2033 Redux is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 1.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=0lJwpbepaimkcrhG1GOnffv3tDxFtmjkuOzBzsT0TUQ%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
       "steamAppId": 6850,
       "rating": 4,
       "title": "Hitman 2: Silent Assassin",
       "desc": "Encuentra Hitman 2: Silent Assassin al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Hitman 2: Silent Assassin at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Hitman 2: Silent Assassin on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -114,12 +124,28 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g6",
+      "steamAppId": 238010,
+      "rating": 5,
+      "title": "Deus Ex: Human Revolution - Director's Cut",
+      "desc": "Aprovecha la oferta de Deus Ex: Human Revolution - Director's Cut en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Deus Ex: Human Revolution - Director's Cut on GOG. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 2.99,
+          "original": 19.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=CHSUkUA5Qsd%2Fz%2BBJ6a95p7hGCN0oyXK83Mg9G5yhnyY%3D"
+        }
+      ]
+    },
+    {
+      "id": "g7",
       "steamAppId": 1388770,
       "rating": 4,
       "title": "Cruelty Squad",
       "desc": "Cruelty Squad está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Cruelty Squad deal on Steam. A great game at an incredible price, available for a limited time.",
+      "descEN": "Cruelty Squad is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -130,11 +156,11 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g8",
       "steamAppId": 1162130,
       "rating": 4,
       "title": "Windbound",
-      "desc": "Oferta especial de Windbound en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Windbound en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Windbound is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -144,27 +170,51 @@
           "url": "https://www.cheapshark.com/redirect?dealID=Zyhhf3v6x%2Bre%2FrS6O%2F6hkztQbMqUltbsDGUT%2B%2FHGD%2BY%3D"
         }
       ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 632470,
-      "rating": 5,
-      "title": "Disco Elysium - The Final Cut",
-      "desc": "Disco Elysium - The Final Cut está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Disco Elysium - The Final Cut at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "GOG",
-          "price": 9.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=fo%2BHT27GrgZT0g2USsPLQ2dVGTnq%2Fb%2FBnY2L2%2Bi8BWk%3D"
-        }
-      ]
     }
   ],
   "news": [
     {
       "id": "n1",
+      "title": "Unreal Engine 6 has a novel idea: you using your Fortnite skins in other Unreal games and vice versa",
+      "titleEN": "Unreal Engine 6 has a novel idea: you using your Fortnite skins in other Unreal games and vice versa",
+      "desc": "Epic Games has detailed some of the features in its next generation Unreal Engine - Unreal Engine 6 - and one of the ideas it's testing is the ability for players to move their Fortnite skins into other Unreal Engine games, and for other Unreal Engin",
+      "descEN": "Epic Games has detailed some of the features in its next generation Unreal Engine - Unreal Engine 6 - and one of the ideas it's testing is the ability for players to move their Fortnite skins into other Unreal Engine games, and for other Unreal Engin",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "10 years later, asymmetrical horror game Dead by Daylight sets a new concurrent player record on Steam, showing that the ongoing support is definitely working",
+      "titleEN": "10 years later, asymmetrical horror game Dead by Daylight sets a new concurrent player record on Steam, showing that the ongoing support is definitely working",
+      "desc": "Last weekend, Behaviour Interactive delivered a strong showcase for Dead by Daylight teasing major visual overhauls and more. Alongside the arrival of Friday the 13th legend Jason Voorhees, the updates have pushed the asymmetrical online horror game'",
+      "descEN": "Last weekend, Behaviour Interactive delivered a strong showcase for Dead by Daylight teasing major visual overhauls and more. Alongside the arrival of Friday the 13th legend Jason Voorhees, the updates have pushed the asymmetrical online horror game'",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n3",
+      "title": "Black Myth: Wukong has \"achieved results beyond our expectations\", says developer, as sales reportedly pass a colossal milestone",
+      "titleEN": "Black Myth: Wukong has \"achieved results beyond our expectations\", says developer, as sales reportedly pass a colossal milestone",
+      "desc": "Action RPG Black Myth: Wukong broke records on its release in 2024. It attracted the biggest concurrent peak player count of any single-player game in Steam history and established itself as the most-viewed game on Chinese live-streaming platforms on",
+      "descEN": "Action RPG Black Myth: Wukong broke records on its release in 2024. It attracted the biggest concurrent peak player count of any single-player game in Steam history and established itself as the most-viewed game on Chinese live-streaming platforms on",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n4",
+      "title": "Assassin's Creed Shadows' final content update brings new story tying directly into Black Flag Resynced, but it's bigger than that",
+      "titleEN": "Assassin's Creed Shadows' final content update brings new story tying directly into Black Flag Resynced, but it's bigger than that",
+      "desc": "With Assassin's Creed Black Flag Resynced right around the corner and Codename Hexe still brewing (mostly) in secret, Ubisoft is finally saying goodbye to last year's Assassin's Creed Shadows. Its very last content update has now been released, and w",
+      "descEN": "With Assassin's Creed Black Flag Resynced right around the corner and Codename Hexe still brewing (mostly) in secret, Ubisoft is finally saying goodbye to last year's Assassin's Creed Shadows. Its very last content update has now been released, and w",
+      "date": "17 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n5",
       "title": "Unreal Engine's big new idea is letting gen-AI LLMs plug directly into it and talk to it",
       "titleEN": "Unreal Engine's big new idea is letting gen-AI LLMs plug directly into it and talk to it",
       "desc": "Epic Games has revealed a new tool for Unreal Engine 5.8 which allows generative AI large language models (LLMs) to plug into and communicate with the engine directly, using its tools while being directed by text prompts. Read more",
@@ -174,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
       "titleEN": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
       "desc": "An employment tribunal has ruled against Rockstar Games' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
@@ -184,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "How Warframe is building upon its most heartbreaking quest in a continuation \"no one saw coming\"",
       "titleEN": "How Warframe is building upon its most heartbreaking quest in a continuation \"no one saw coming\"",
       "desc": "Roughly two years ago, Warframe received a delightful dose of heartbreak in the form of Jade Shadows. Digital Extremes' free-to-play sci-fi shooter has a history of 'intermission' quests - smaller stories that helped fill the space between larger nar",
@@ -194,7 +244,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "SanDisk's officially licensed PlayStation 5 SSDs cost more than the console itself - even a PS5 Pro",
       "titleEN": "SanDisk's officially licensed PlayStation 5 SSDs cost more than the console itself - even a PS5 Pro",
       "desc": "SanDisk has today unveiled Optimus GX PRO 850P, a series of officially-licensed NVMe SSDs for PlayStation 5 and PlayStation 5 Pro. The SSDs, which users can insert into their console to expand its storage, also work with PCs. Read more",
@@ -204,7 +254,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "Finally you can use all PlayStation DualSense controller features wirelessly on PC, but you will need to pay for it",
       "titleEN": "Finally you can use all PlayStation DualSense controller features wirelessly on PC, but you will need to pay for it",
       "desc": "Ray tracing and faster load-times be damned: the DualSense controller is the PS5's most impressive innovation. And while the controller does work on PC, Sony only supports its feature package when connected using a cable. Read more",
@@ -214,7 +264,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "As Blizzard continues its private server takedown spree, dataminers may have uncovered what's next for World of Warcraft: Classic",
       "titleEN": "As Blizzard continues its private server takedown spree, dataminers may have uncovered what's next for World of Warcraft: Classic",
       "desc": "World of Warcraft dataminers may have discovered the next big reveal for Classic WoW - just months before BlizzCon, where a major announcement for the game has been teased. Read more",
@@ -224,7 +274,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "\"This is just the start\" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around",
       "titleEN": "\"This is just the start\" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around",
       "desc": "Housemarque is a team with a long history of creating games for a certain type of audience. The Finnish studio, which started out making smaller, arcadey titles, has grown to be among the most prestigious PlayStation first-party studios. But despite ",
@@ -234,7 +284,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "Death Stranding movie director promises we're \"not gonna see a lot of jaws getting ripped off\" after his gory Robin Hood flick, as preparations for next year's filming continue",
       "titleEN": "Death Stranding movie director promises we're \"not gonna see a lot of jaws getting ripped off\" after his gory Robin Hood flick, as preparations for next year's filming continue",
       "desc": "Squeamish sorts can rest assured that Death Stranding's live-action movie adaptation won't have the same level of violence as director Michael Sarnoski's previous films, but it will, he says, still honour the video game's \"bleak and barren post-apoca",
@@ -242,46 +292,6 @@
       "date": "17 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Stop Killing Games suffers setback following European Parliamentary hearing - but all is not lost",
-      "titleEN": "Stop Killing Games suffers setback following European Parliamentary hearing - but all is not lost",
-      "desc": "Disappointment ripples across the Stop Killing Games movement today after the European Commission delivered its verdict on the recent parliamentary hearings around online game preservation, and how the EU intends to help - or not - the movement going",
-      "descEN": "Disappointment ripples across the Stop Killing Games movement today after the European Commission delivered its verdict on the recent parliamentary hearings around online game preservation, and how the EU intends to help - or not - the movement going",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Kwalee lays off the entire Luna Abyss development team as one of this year's overlooked bullet-hell games falls victim to an overcrowded release schedule",
-      "titleEN": "Kwalee lays off the entire Luna Abyss development team as one of this year's overlooked bullet-hell games falls victim to an overcrowded release schedule",
-      "desc": "May was a remarkably busy month for high-profile game releases, which could explain why Luna Abyss' launch went relatively unnoticed on PC and current-gen consoles. It's a sci-fi bullet-hell shooter that seemed to review pretty well, but despite that",
-      "descEN": "May was a remarkably busy month for high-profile game releases, which could explain why Luna Abyss' launch went relatively unnoticed on PC and current-gen consoles. It's a sci-fi bullet-hell shooter that seemed to review pretty well, but despite that",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Guild Wars 3 mission statement: no pay-to-win, no subscription fees - \"The lines between an MMO and a live-service game have blurred\"",
-      "titleEN": "Guild Wars 3 mission statement: no pay-to-win, no subscription fees - \"The lines between an MMO and a live-service game have blurred\"",
-      "desc": "Guild Wars 3 developer ArenaNet has released a mission statement after the game's sudden and celebrated debut during Summer Game Fest earlier this month. The main points? No pay-to-win, no subscription fees, and the goal of evolving the MMO genre. Re",
-      "descEN": "Guild Wars 3 developer ArenaNet has released a mission statement after the game's sudden and celebrated debut during Summer Game Fest earlier this month. The main points? No pay-to-win, no subscription fees, and the goal of evolving the MMO genre. Re",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Multiplayer servers for Battlefield Hardline close in under a week, but that's not necessarily the end for this zany off-shoot",
-      "titleEN": "Multiplayer servers for Battlefield Hardline close in under a week, but that's not necessarily the end for this zany off-shoot",
-      "desc": "We're now just five days away from Battlefield Hardline multiplayer ceasing to function on Xbox and PlayStation. Servers go offline for good on Monday, 22nd June. Read more",
-      "descEN": "We're now just five days away from Battlefield Hardline multiplayer ceasing to function on Xbox and PlayStation. Servers go offline for good on Monday, 22nd June. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
