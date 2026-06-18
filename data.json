@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-18T03:46:02.176Z",
+  "generatedAt": "2026-06-18T10:18:34.627Z",
   "games": [
     {
       "id": "g1",
+      "steamAppId": 3472040,
+      "rating": 4,
+      "title": "NBA 2K26",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "NBA 2K26 is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 9.79,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Wau%2BWcakB0FkWtgV77FMph4fPEJPGjrtE22FRvi3PmM%3D"
+        }
+      ]
+    },
+    {
+      "id": "g2",
       "steamAppId": null,
       "rating": 4,
       "title": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition",
-      "desc": "Aprovecha la oferta de Neverwinter Nights: Enhanced Edition Digital Deluxe Edition en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Neverwinter Nights: Enhanced Edition Digital Deluxe Edition at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Neverwinter Nights: Enhanced Edition Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Neverwinter Nights: Enhanced Edition Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -37,6 +53,12 @@
           "store": "GOG",
           "price": 15.99,
           "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=OY3zeLY5zQzTIrmNLL4VZhDxo7Kwt6xmW4o2DmWv4nE%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 15.99,
+          "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Cq2W0ecormrYsbGDN4r6Bl%2BRAubgkI52W%2FniF1jHPNU%3D"
         },
         {
@@ -47,24 +69,24 @@
         },
         {
           "store": "GOG",
-          "price": 8.25,
-          "original": 82.65,
-          "url": "https://www.cheapshark.com/redirect?dealID=%2BrHIxXrBkRZrZD5%2F7i0d%2BTDCEt%2BITRS6i%2BM7Muf0NQk%3D"
+          "price": 19.99,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=6A0vO7ivQJLRQ9JMv4KOFqECN%2BwfvrNzuG1UxCqbufs%3D"
         },
         {
           "store": "GOG",
-          "price": 19.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=ciJVHdyKKCr6SD6lrgmES5Ijql%2F1%2F6RSBsmtcU5Pa6A%3D"
+          "price": 8.25,
+          "original": 82.65,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2BrHIxXrBkRZrZD5%2F7i0d%2BTDCEt%2BITRS6i%2BM7Muf0NQk%3D"
         }
       ]
     },
     {
-      "id": "g2",
+      "id": "g3",
       "steamAppId": 466140,
       "rating": 4,
       "title": "The LEGO Games Bundle",
-      "desc": "The LEGO Games Bundle está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de The LEGO Games Bundle en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -76,12 +98,12 @@
       ]
     },
     {
-      "id": "g3",
+      "id": "g4",
       "steamAppId": 292030,
       "rating": 5,
       "title": "The Witcher 3: Wild Hunt",
       "desc": "The Witcher 3: Wild Hunt está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the The Witcher 3: Wild Hunt deal on GOG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Special offer for The Witcher 3: Wild Hunt on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -92,12 +114,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g5",
       "steamAppId": 286690,
       "rating": 5,
       "title": "Metro 2033 Redux",
       "desc": "Metro 2033 Redux está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Metro 2033 Redux on GOG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Metro 2033 Redux is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -108,12 +130,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g6",
       "steamAppId": 6850,
       "rating": 4,
       "title": "Hitman 2: Silent Assassin",
-      "desc": "Aprovecha la oferta de Hitman 2: Silent Assassin en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Hitman 2: Silent Assassin on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Hitman 2: Silent Assassin está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Hitman 2: Silent Assassin at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -124,50 +146,18 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g7",
       "steamAppId": 238010,
       "rating": 5,
       "title": "Deus Ex: Human Revolution - Director's Cut",
-      "desc": "Deus Ex: Human Revolution - Director's Cut está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Deus Ex: Human Revolution - Director's Cut is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Deus Ex: Human Revolution - Director's Cut al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Deus Ex: Human Revolution - Director's Cut at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
           "price": 2.99,
           "original": 19.99,
           "url": "https://www.cheapshark.com/redirect?dealID=CHSUkUA5Qsd%2Fz%2BBJ6a95p7hGCN0oyXK83Mg9G5yhnyY%3D"
-        }
-      ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 229580,
-      "rating": 4,
-      "title": "Dream",
-      "desc": "Encuentra Dream al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Dream deal on GOG. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "GOG",
-          "price": 1.85,
-          "original": 16.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=pslZK8EAZI5jNFvY1VRW3WvpPk0FlsEoodxXPjtSacA%3D"
-        }
-      ]
-    },
-    {
-      "id": "g8",
-      "steamAppId": 1388770,
-      "rating": 4,
-      "title": "Cruelty Squad",
-      "desc": "Aprovecha la oferta de Cruelty Squad en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Cruelty Squad on Steam. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.99,
-          "original": 19.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=z7QIDb1gN5GCKZ%2FoJN88DNqeGqnf7r1J4XQ0tT6q1zY%3D"
         }
       ]
     }
