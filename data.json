@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-18T10:18:34.627Z",
+  "generatedAt": "2026-06-18T15:20:10.389Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "NBA 2K26 is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -22,8 +22,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition",
-      "desc": "Oferta especial de Neverwinter Nights: Enhanced Edition Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Neverwinter Nights: Enhanced Edition Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "The LEGO Games Bundle",
       "desc": "Aprovecha la oferta de The LEGO Games Bundle en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find The LEGO Games Bundle at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -103,7 +103,7 @@
       "rating": 5,
       "title": "The Witcher 3: Wild Hunt",
       "desc": "The Witcher 3: Wild Hunt está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for The Witcher 3: Wild Hunt on GOG. An essential game that shouldn't be missing from your library.",
+      "descEN": "The Witcher 3: Wild Hunt is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -119,7 +119,7 @@
       "rating": 5,
       "title": "Metro 2033 Redux",
       "desc": "Metro 2033 Redux está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Metro 2033 Redux is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Metro 2033 Redux deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -134,8 +134,8 @@
       "steamAppId": 6850,
       "rating": 4,
       "title": "Hitman 2: Silent Assassin",
-      "desc": "Hitman 2: Silent Assassin está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Hitman 2: Silent Assassin at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Hitman 2: Silent Assassin en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Hitman 2: Silent Assassin on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -151,7 +151,7 @@
       "rating": 5,
       "title": "Deus Ex: Human Revolution - Director's Cut",
       "desc": "Encuentra Deus Ex: Human Revolution - Director's Cut al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Deus Ex: Human Revolution - Director's Cut at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for Deus Ex: Human Revolution - Director's Cut on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -165,6 +165,86 @@
   "news": [
     {
       "id": "n1",
+      "title": "Rockstar quietly gives us probably our best look at GTA 6's Vice City yet",
+      "titleEN": "Rockstar quietly gives us probably our best look at GTA 6's Vice City yet",
+      "desc": "Along with today's cover art reveal, Rockstar has also quietly revealed its best visual overview so far of Grand Theft Auto 6's crime-laiden metropolis, Vice City. Read more",
+      "descEN": "Along with today's cover art reveal, Rockstar has also quietly revealed its best visual overview so far of Grand Theft Auto 6's crime-laiden metropolis, Vice City. Read more",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "\"Our players can swing different types of ways\" - Warframe studio talks  avoiding Protoframe burnout, and fending off fans' furious appetite for romance",
+      "titleEN": "\"Our players can swing different types of ways\" - Warframe studio talks  avoiding Protoframe burnout, and fending off fans' furious appetite for romance",
+      "desc": "Warframe's next update - Jade Shadows: Constellations - has finally arrived, bringing with it  two new Protoframes: Ryoku and Vena. A relatively recent addition to the sci-fi shooter's  playable repertoire, Protoframes - essentially human versions of",
+      "descEN": "Warframe's next update - Jade Shadows: Constellations - has finally arrived, bringing with it  two new Protoframes: Ryoku and Vena. A relatively recent addition to the sci-fi shooter's  playable repertoire, Protoframes - essentially human versions of",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n3",
+      "title": "For some reason, Riot Games is creating a Valorant 'pub' in east London hosted by a British takeaway guy who likes to yell \"bosh!\"",
+      "titleEN": "For some reason, Riot Games is creating a Valorant 'pub' in east London hosted by a British takeaway guy who likes to yell \"bosh!\"",
+      "desc": "Ever watched a Big John video? He's a big guy from London who films himself eating food that'd probably floor me. I watched one video where he ordered three pies and two scoops of mash potato and some swamp-like sauce. Proper hearty food he calls it,",
+      "descEN": "Ever watched a Big John video? He's a big guy from London who films himself eating food that'd probably floor me. I watched one video where he ordered three pies and two scoops of mash potato and some swamp-like sauce. Proper hearty food he calls it,",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game",
+      "titleEN": "Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game",
+      "desc": "Rockstar Games has revealed the box art for Grand Theft Auto 6, which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more",
+      "descEN": "Rockstar Games has revealed the box art for Grand Theft Auto 6, which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "As GTA Online readies for another large update, and GTA 6 approaches, Rockstar offers free upgrades to GTA 5 on PS5 and Xbox Series S/X",
+      "titleEN": "As GTA Online readies for another large update, and GTA 6 approaches, Rockstar offers free upgrades to GTA 5 on PS5 and Xbox Series S/X",
+      "desc": "In a surprise move, Grand Theft Auto developer Rockstar Games is giving players of GTA 5 on PS4 or Xbox One a free upgrade to GTA 5 on PS5 or Xbox Series X/S. Read more",
+      "descEN": "In a surprise move, Grand Theft Auto developer Rockstar Games is giving players of GTA 5 on PS4 or Xbox One a free upgrade to GTA 5 on PS5 or Xbox Series X/S. Read more",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n6",
+      "title": "Battlefield Studios addresses annoying Battlefield 6 Season 3 bugs, including the mysterious black void, but many issues remain",
+      "titleEN": "Battlefield Studios addresses annoying Battlefield 6 Season 3 bugs, including the mysterious black void, but many issues remain",
+      "desc": "Battlefield Studios has rolled out a new hotfix for Battlefield 6 players across PC, PS5, and Xbox Series X/S. The small patch, version 1.3.2.1, went live Wednesday morning. This is the first client-side patch to arrive in response to the mess of bug",
+      "descEN": "Battlefield Studios has rolled out a new hotfix for Battlefield 6 players across PC, PS5, and Xbox Series X/S. The small patch, version 1.3.2.1, went live Wednesday morning. This is the first client-side patch to arrive in response to the mess of bug",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n7",
+      "title": "Vampire Survivors studio Poncle is \"reviewing\" its Fortnite collaboration after the State of Unreal show and Epic's focus on generative AI",
+      "titleEN": "Vampire Survivors studio Poncle is \"reviewing\" its Fortnite collaboration after the State of Unreal show and Epic's focus on generative AI",
+      "desc": "Last night, during its State of Unreal presentation, Epic unveiled a number of upcoming Fortnite collaborations with Control Resonant, Sonic Crossworlds Racing, Phantom Blade Zero, and the award-winning Vampire Survivors. However, a mere matter of ho",
+      "descEN": "Last night, during its State of Unreal presentation, Epic unveiled a number of upcoming Fortnite collaborations with Control Resonant, Sonic Crossworlds Racing, Phantom Blade Zero, and the award-winning Vampire Survivors. However, a mere matter of ho",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Premios"
+    },
+    {
+      "id": "n8",
+      "title": "No, Tom Cruise wasn't nearly Halo's Master Chief, and Julia Roberts wasn't nearly in the series either - but there was this conversation at a party",
+      "titleEN": "No, Tom Cruise wasn't nearly Halo's Master Chief, and Julia Roberts wasn't nearly in the series either - but there was this conversation at a party",
+      "desc": "Hollywood superstar Tom Cruise didn't nearly voice Halo's famous protagonist Master Chief, and Hollywood superstar Julia Roberts wasn't nearly in Halo either. There was a conversation at a party once, between a casting agent and Halo voice director a",
+      "descEN": "Hollywood superstar Tom Cruise didn't nearly voice Halo's famous protagonist Master Chief, and Hollywood superstar Julia Roberts wasn't nearly in Halo either. There was a conversation at a party once, between a casting agent and Halo voice director a",
+      "date": "18 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n9",
       "title": "Unreal Engine 6 has a novel idea: you using your Fortnite skins in other Unreal games and vice versa",
       "titleEN": "Unreal Engine 6 has a novel idea: you using your Fortnite skins in other Unreal games and vice versa",
       "desc": "Epic Games has detailed some of the features in its next generation Unreal Engine - Unreal Engine 6 - and one of the ideas it's testing is the ability for players to move their Fortnite skins into other Unreal Engine games, and for other Unreal Engin",
@@ -174,7 +254,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "10 years later, asymmetrical horror game Dead by Daylight sets a new concurrent player record on Steam, showing that the ongoing support is definitely working",
       "titleEN": "10 years later, asymmetrical horror game Dead by Daylight sets a new concurrent player record on Steam, showing that the ongoing support is definitely working",
       "desc": "Last weekend, Behaviour Interactive delivered a strong showcase for Dead by Daylight teasing major visual overhauls and more. Alongside the arrival of Friday the 13th legend Jason Voorhees, the updates have pushed the asymmetrical online horror game'",
@@ -184,7 +264,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "Black Myth: Wukong has \"achieved results beyond our expectations\", says developer, as sales reportedly pass a colossal milestone",
       "titleEN": "Black Myth: Wukong has \"achieved results beyond our expectations\", says developer, as sales reportedly pass a colossal milestone",
       "desc": "Action RPG Black Myth: Wukong broke records on its release in 2024. It attracted the biggest concurrent peak player count of any single-player game in Steam history and established itself as the most-viewed game on Chinese live-streaming platforms on",
@@ -194,7 +274,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "Assassin's Creed Shadows' final content update brings new story tying directly into Black Flag Resynced, but it's bigger than that",
       "titleEN": "Assassin's Creed Shadows' final content update brings new story tying directly into Black Flag Resynced, but it's bigger than that",
       "desc": "With Assassin's Creed Black Flag Resynced right around the corner and Codename Hexe still brewing (mostly) in secret, Ubisoft is finally saying goodbye to last year's Assassin's Creed Shadows. Its very last content update has now been released, and w",
@@ -202,86 +282,6 @@
       "date": "17 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Actualización"
-    },
-    {
-      "id": "n5",
-      "title": "Unreal Engine's big new idea is letting gen-AI LLMs plug directly into it and talk to it",
-      "titleEN": "Unreal Engine's big new idea is letting gen-AI LLMs plug directly into it and talk to it",
-      "desc": "Epic Games has revealed a new tool for Unreal Engine 5.8 which allows generative AI large language models (LLMs) to plug into and communicate with the engine directly, using its tools while being directed by text prompts. Read more",
-      "descEN": "Epic Games has revealed a new tool for Unreal Engine 5.8 which allows generative AI large language models (LLMs) to plug into and communicate with the engine directly, using its tools while being directed by text prompts. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
-      "titleEN": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
-      "desc": "An employment tribunal has ruled against Rockstar Games' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
-      "descEN": "An employment tribunal has ruled against Rockstar Games' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "How Warframe is building upon its most heartbreaking quest in a continuation \"no one saw coming\"",
-      "titleEN": "How Warframe is building upon its most heartbreaking quest in a continuation \"no one saw coming\"",
-      "desc": "Roughly two years ago, Warframe received a delightful dose of heartbreak in the form of Jade Shadows. Digital Extremes' free-to-play sci-fi shooter has a history of 'intermission' quests - smaller stories that helped fill the space between larger nar",
-      "descEN": "Roughly two years ago, Warframe received a delightful dose of heartbreak in the form of Jade Shadows. Digital Extremes' free-to-play sci-fi shooter has a history of 'intermission' quests - smaller stories that helped fill the space between larger nar",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n8",
-      "title": "SanDisk's officially licensed PlayStation 5 SSDs cost more than the console itself - even a PS5 Pro",
-      "titleEN": "SanDisk's officially licensed PlayStation 5 SSDs cost more than the console itself - even a PS5 Pro",
-      "desc": "SanDisk has today unveiled Optimus GX PRO 850P, a series of officially-licensed NVMe SSDs for PlayStation 5 and PlayStation 5 Pro. The SSDs, which users can insert into their console to expand its storage, also work with PCs. Read more",
-      "descEN": "SanDisk has today unveiled Optimus GX PRO 850P, a series of officially-licensed NVMe SSDs for PlayStation 5 and PlayStation 5 Pro. The SSDs, which users can insert into their console to expand its storage, also work with PCs. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Finally you can use all PlayStation DualSense controller features wirelessly on PC, but you will need to pay for it",
-      "titleEN": "Finally you can use all PlayStation DualSense controller features wirelessly on PC, but you will need to pay for it",
-      "desc": "Ray tracing and faster load-times be damned: the DualSense controller is the PS5's most impressive innovation. And while the controller does work on PC, Sony only supports its feature package when connected using a cable. Read more",
-      "descEN": "Ray tracing and faster load-times be damned: the DualSense controller is the PS5's most impressive innovation. And while the controller does work on PC, Sony only supports its feature package when connected using a cable. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n10",
-      "title": "As Blizzard continues its private server takedown spree, dataminers may have uncovered what's next for World of Warcraft: Classic",
-      "titleEN": "As Blizzard continues its private server takedown spree, dataminers may have uncovered what's next for World of Warcraft: Classic",
-      "desc": "World of Warcraft dataminers may have discovered the next big reveal for Classic WoW - just months before BlizzCon, where a major announcement for the game has been teased. Read more",
-      "descEN": "World of Warcraft dataminers may have discovered the next big reveal for Classic WoW - just months before BlizzCon, where a major announcement for the game has been teased. Read more",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "\"This is just the start\" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around",
-      "titleEN": "\"This is just the start\" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around",
-      "desc": "Housemarque is a team with a long history of creating games for a certain type of audience. The Finnish studio, which started out making smaller, arcadey titles, has grown to be among the most prestigious PlayStation first-party studios. But despite ",
-      "descEN": "Housemarque is a team with a long history of creating games for a certain type of audience. The Finnish studio, which started out making smaller, arcadey titles, has grown to be among the most prestigious PlayStation first-party studios. But despite ",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n12",
-      "title": "Death Stranding movie director promises we're \"not gonna see a lot of jaws getting ripped off\" after his gory Robin Hood flick, as preparations for next year's filming continue",
-      "titleEN": "Death Stranding movie director promises we're \"not gonna see a lot of jaws getting ripped off\" after his gory Robin Hood flick, as preparations for next year's filming continue",
-      "desc": "Squeamish sorts can rest assured that Death Stranding's live-action movie adaptation won't have the same level of violence as director Michael Sarnoski's previous films, but it will, he says, still honour the video game's \"bleak and barren post-apoca",
-      "descEN": "Squeamish sorts can rest assured that Death Stranding's live-action movie adaptation won't have the same level of violence as director Michael Sarnoski's previous films, but it will, he says, still honour the video game's \"bleak and barren post-apoca",
-      "date": "17 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
