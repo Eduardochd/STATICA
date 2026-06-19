@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-19T04:08:41.191Z",
+  "generatedAt": "2026-06-19T10:23:32.031Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de NBA 2K26 en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "ROBOBEAT",
       "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Citizen Sleeper at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Battlefield 2042 Elite Edition",
-      "desc": "Battlefield 2042 Elite Edition está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Battlefield 2042 Elite Edition on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Battlefield 2042 Elite Edition al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Battlefield 2042 Elite Edition is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -104,6 +104,12 @@
           "price": 11.99,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 14.4,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=U9NbKz2Xwv%2FRiVIuG8lF%2BLrtSRpVPqkaoLL0uamoKWg%3D"
         }
       ]
     },
@@ -112,7 +118,7 @@
       "steamAppId": 466140,
       "rating": 4,
       "title": "The LEGO Games Bundle",
-      "desc": "Encuentra The LEGO Games Bundle al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de The LEGO Games Bundle en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find The LEGO Games Bundle at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -128,8 +134,8 @@
       "steamAppId": 292030,
       "rating": 5,
       "title": "The Witcher 3: Wild Hunt",
-      "desc": "Oferta especial de The Witcher 3: Wild Hunt en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for The Witcher 3: Wild Hunt on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra The Witcher 3: Wild Hunt al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "The Witcher 3: Wild Hunt is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -144,30 +150,14 @@
       "steamAppId": 1238820,
       "rating": 4,
       "title": "Battlefield 3",
-      "desc": "Oferta especial de Battlefield 3 en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Battlefield 3 at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Battlefield 3 está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Battlefield 3 on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
           "price": 1.99,
           "original": 39.99,
           "url": "https://www.cheapshark.com/redirect?dealID=FhBKK4XJ0dmqH9xN1YideiIrjTWPk6dXxgGVFlJzO7s%3D"
-        }
-      ]
-    },
-    {
-      "id": "g8",
-      "steamAppId": 1238840,
-      "rating": 4,
-      "title": "Battlefield 1",
-      "desc": "Encuentra Battlefield 1 al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Battlefield 1 at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=ICV0L0NmwniVHpc4NjfQsDO5gRILOIkqPz05jfxFtCM%3D"
         }
       ]
     }
