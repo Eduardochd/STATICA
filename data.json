@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T15:12:13.914Z",
+  "generatedAt": "2026-06-19T19:48:07.278Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,7 +38,7 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -53,15 +53,39 @@
       "id": "g4",
       "steamAppId": null,
       "rating": 4,
-      "title": "Battlefield 2042 Elite Edition",
-      "desc": "Encuentra Battlefield 2042 Elite Edition al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Battlefield 2042 Elite Edition deal on Epic. A great game at an incredible price, available for a limited time.",
+      "title": "Rims Racing : Ultimate Edition",
+      "desc": "Aprovecha la oferta de Rims Racing : Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
+        {
+          "store": "GMG",
+          "price": 2.89,
+          "original": 69.51,
+          "url": "https://www.cheapshark.com/redirect?dealID=pL0ycMYPaE%2BwgqKKjSfUcEa3U1w8H9Zg6ao93asq7g0%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 4.5,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=iirL%2BohewxhLZZSW7iig94q3r286K4MCAiVCYnSS%2FZg%3D"
+        },
         {
           "store": "Epic",
           "price": 4.49,
           "original": 89.99,
           "url": "https://www.cheapshark.com/redirect?dealID=R5%2BjR4JAIKfsladpdimmTohNsOEZvvqE%2Fd1PVTV6eUQ%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 6.3,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 9,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
         },
         {
           "store": "Epic",
@@ -76,82 +100,22 @@
           "url": "https://www.cheapshark.com/redirect?dealID=zOo1QcUQF3I0vL%2FxZTZoS1qTVP0spLhq6ofVsGISW8M%3D"
         },
         {
-          "store": "Humble",
-          "price": 9.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=a%2FiWTwZspB8aRacs7i6TwX5LkAAmJRJkArMY4urSygM%3D"
-        },
-        {
           "store": "GOG",
           "price": 6.85,
           "original": 68.29,
           "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
         },
         {
+          "store": "GMG",
+          "price": 9.45,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=aN%2FS0Nw%2BHUqN%2FIqq7FqI6MmBkw40fM5el5%2BB%2B9iD9wY%3D"
+        },
+        {
           "store": "Epic",
           "price": 11.99,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=WCSc2GF509hC9vbSf%2BUu0mwoz9BUn1a2jwT%2FWTYwIX0%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 12.59,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Y0t%2FUeiUVoKbuJssjfc6yYV2KBawcSfYHz6i%2FyTdLEg%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 11.99,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D"
-        }
-      ]
-    },
-    {
-      "id": "g5",
-      "steamAppId": 466140,
-      "rating": 4,
-      "title": "The LEGO Games Bundle",
-      "desc": "Aprovecha la oferta de The LEGO Games Bundle en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the The LEGO Games Bundle deal on GOG. A great game at an incredible price, available for a limited time.",
-      "deals": [
-        {
-          "store": "GOG",
-          "price": 12.99,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=lx1Ldqb2ETEm0PJHIwoF8aVhlAvtMNpyHN%2B3M64aUek%3D"
-        }
-      ]
-    },
-    {
-      "id": "g6",
-      "steamAppId": 292030,
-      "rating": 5,
-      "title": "The Witcher 3: Wild Hunt",
-      "desc": "Encuentra The Witcher 3: Wild Hunt al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for The Witcher 3: Wild Hunt on Steam. An essential game that shouldn't be missing from your library.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 3.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=zm2ORJ1RIWrq7UFFCs9J4ps4rgsNUV7FTSnWxzxxj8Q%3D"
-        }
-      ]
-    },
-    {
-      "id": "g7",
-      "steamAppId": 1238820,
-      "rating": 4,
-      "title": "Battlefield 3",
-      "desc": "Oferta especial de Battlefield 3 en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Battlefield 3 at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 1.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=FhBKK4XJ0dmqH9xN1YideiIrjTWPk6dXxgGVFlJzO7s%3D"
         }
       ]
     }
