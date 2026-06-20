@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-19T19:48:07.278Z",
+  "generatedAt": "2026-06-20T03:31:49.781Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -22,7 +22,7 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Aprovecha la oferta de ROBOBEAT en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -51,11 +51,27 @@
     },
     {
       "id": "g4",
+      "steamAppId": 315210,
+      "rating": 3,
+      "title": "Suicide Squad: Kill the Justice League",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "deals": [
+        {
+          "store": "GMG",
+          "price": 3.15,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=ER%2FfOp0PmIbG%2BkoMMkNkd8JljZgzqnQqdZLU%2Bz1MekQ%3D"
+        }
+      ]
+    },
+    {
+      "id": "g5",
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Aprovecha la oferta de Rims Racing : Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Rims Racing : Ultimate Edition en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Rims Racing : Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -77,15 +93,15 @@
         },
         {
           "store": "GMG",
-          "price": 6.3,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
-        },
-        {
-          "store": "GMG",
           "price": 9,
           "original": 99.99,
           "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 6.3,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
         },
         {
           "store": "Epic",
@@ -110,12 +126,6 @@
           "price": 9.45,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=aN%2FS0Nw%2BHUqN%2FIqq7FqI6MmBkw40fM5el5%2BB%2B9iD9wY%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 11.99,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=WCSc2GF509hC9vbSf%2BUu0mwoz9BUn1a2jwT%2FWTYwIX0%3D"
         }
       ]
     }
