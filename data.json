@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-20T13:59:32.845Z",
+  "generatedAt": "2026-06-20T19:23:42.201Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -22,7 +22,7 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Encuentra ROBOBEAT al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de ROBOBEAT en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Citizen Sleeper at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -70,7 +70,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Aprovecha la oferta de Rims Racing : Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
