@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T09:47:46.931Z",
+  "generatedAt": "2026-06-21T14:07:05.322Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Encuentra ROBOBEAT al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de ROBOBEAT en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the ROBOBEAT deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
       "desc": "Encuentra Rims Racing : Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Rims Racing : Ultimate Edition on GMG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Rims Racing : Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
