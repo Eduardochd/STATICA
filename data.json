@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:23:42.201Z",
+  "generatedAt": "2026-06-21T04:02:57.762Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Aprovecha la oferta de ROBOBEAT en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
       "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -93,6 +93,12 @@
         },
         {
           "store": "GMG",
+          "price": 9,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
+        },
+        {
+          "store": "GMG",
           "price": 6.3,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
@@ -110,28 +116,16 @@
           "url": "https://www.cheapshark.com/redirect?dealID=zOo1QcUQF3I0vL%2FxZTZoS1qTVP0spLhq6ofVsGISW8M%3D"
         },
         {
-          "store": "Humble",
-          "price": 9.99,
+          "store": "GMG",
+          "price": 13.5,
           "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=a%2FiWTwZspB8aRacs7i6TwX5LkAAmJRJkArMY4urSygM%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
         },
         {
           "store": "GOG",
           "price": 6.85,
           "original": 68.29,
           "url": "https://www.cheapshark.com/redirect?dealID=V%2BClsNbtpiiHQeErZc4IbgBoXbaCkNVcreabZQ9R3T0%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 9.45,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=aN%2FS0Nw%2BHUqN%2FIqq7FqI6MmBkw40fM5el5%2BB%2B9iD9wY%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 12.15,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D"
         }
       ]
     }
@@ -139,6 +133,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Hot off the Guild Wars 3 reveal, the long-running MMO series is getting its first-ever CCG in Mistbound",
+      "titleEN": "Hot off the Guild Wars 3 reveal, the long-running MMO series is getting its first-ever CCG in Mistbound",
+      "desc": "Guild Wars, the legendary MMO series from ArenaNet, somehow never expanded into the collectible card game (CCG) genre. This will soon change, however, as Mistbound: Guild Wars Card Game was just revealed. Read more",
+      "descEN": "Guild Wars, the legendary MMO series from ArenaNet, somehow never expanded into the collectible card game (CCG) genre. This will soon change, however, as Mistbound: Guild Wars Card Game was just revealed. Read more",
+      "date": "21 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "Doom soundtrack composer Bobby Prince dies aged 81",
       "titleEN": "Doom soundtrack composer Bobby Prince dies aged 81",
       "desc": "Robert Prince III &ndash; best known as Bobby Prince, the man behind the iconic score of the original Doom game &ndash; has died aged 81. Read more",
@@ -148,7 +152,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
       "titleEN": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
       "desc": "Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more",
@@ -158,7 +162,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Brendan \"PlayerUnknown\" Greene \"moves forward with a smaller team\", as Prologue: Go Wayback! studio struggles to find funding",
       "titleEN": "Brendan \"PlayerUnknown\" Greene \"moves forward with a smaller team\", as Prologue: Go Wayback! studio struggles to find funding",
       "desc": "Brendan \"PlayerUnknown\" Greene, the creator of PUBG and Prologue: Go Wayback!, has publicly thanked the team at PlayerUnknown Productions for its \"professionalism\" as it \"move[s] forward with a smaller team\" following issues securing additional fundi",
@@ -168,7 +172,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
       "titleEN": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria perseveres and finally sees the end of Split Fiction, and is delighted she has done so; Bertie seems a little obsessed about",
@@ -178,7 +182,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future",
       "titleEN": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future",
       "desc": "The usage of generative AI and LLMs is among the most controversial - and polarising - topics in game development today. Players and critics are becoming more alert to the use of such tools in games, scouring the Steam store pages of each newly-annou",
@@ -188,7 +192,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "Battlefield 6's next update is bringing back a classic mechanic… from Call of Duty: Ghosts",
       "titleEN": "Battlefield 6's next update is bringing back a classic mechanic… from Call of Duty: Ghosts",
       "desc": "As with all previous Battlefield 6 seasons, Season 3 unfolds over three phases. The second phase of Season 3 kicked off last week, albeit with a large number of bugs and issues, and the next one will arrive 30th June. Read more",
@@ -198,7 +202,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Amazon's Fallout series has scored itself some impressive talent, with Star Wars and The Hobbit actors all joining for season three",
       "titleEN": "Amazon's Fallout series has scored itself some impressive talent, with Star Wars and The Hobbit actors all joining for season three",
       "desc": "Three new actors have been added to the cast of Amazon's acclaimed Fallout TV adaptation, as preparations continue for the show's third season. Read more",
@@ -208,7 +212,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Steam Controller demand is so high Valve is changing reservation estimates, and some customers won't get theirs until 2027",
       "titleEN": "Steam Controller demand is so high Valve is changing reservation estimates, and some customers won't get theirs until 2027",
       "desc": "The Steam Controller officially launched just a couple of weeks ago on 4th May, but - outside of scalpers - you'd be hard pressed to find it in stock. Since the controller can only be purchased directly through Steam, it has created a bit of a bottle",
@@ -218,7 +222,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence",
       "titleEN": "Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence",
       "desc": "Capcom's long-in-the-works space game Pragmata finally released in April, garnering plenty of praise for its gameplay and more. But, one thing that really captured players' hearts was the friendship between astronaut Hugh and his android companion Di",
@@ -228,7 +232,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "Eurogamer is hiring a News Editor",
       "titleEN": "Eurogamer is hiring a News Editor",
       "desc": "Here's a pretty rare one: Eurogamer is hiring, and we're after a best-in-class News Editor to help lead the site's reporting in a new era. You can read the job posting in full here. Read more",
@@ -238,21 +242,11 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations",
       "titleEN": "Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations",
       "desc": "In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are \"being ported\" to PlayStation. The two classic games will arrive at some point in July, and will include al",
       "descEN": "In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are \"being ported\" to PlayStation. The two classic games will arrive at some point in July, and will include al",
-      "date": "19 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI",
-      "titleEN": "Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI",
-      "desc": "Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more",
-      "descEN": "Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more",
       "date": "19 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
