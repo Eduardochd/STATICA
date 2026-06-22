@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:51:07.768Z",
+  "generatedAt": "2026-06-22T16:53:12.085Z",
   "games": [
     {
       "id": "g1",
@@ -11,7 +11,7 @@
       "deals": [
         {
           "store": "GMG",
-          "price": 8.72,
+          "price": 8.82,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=dua6N5u4HYIU5lUexFlvkjLixz5RHy0a4lzdZENh64A%3D"
         }
@@ -22,7 +22,7 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for ROBOBEAT on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -54,7 +54,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Rims Racing : Ultimate Edition on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Rims Racing : Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -145,6 +145,26 @@
   "news": [
     {
       "id": "n1",
+      "title": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
+      "titleEN": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
+      "desc": "Ultima designer Richard Garriott (AKA Lord British) has a plan to claim back the rights to his legendary RPG series from current owner EA. The trick to doing so? A rather obscure bit of copyright law from around 50 years ago. Read more",
+      "descEN": "Ultima designer Richard Garriott (AKA Lord British) has a plan to claim back the rights to his legendary RPG series from current owner EA. The trick to doing so? A rather obscure bit of copyright law from around 50 years ago. Read more",
+      "date": "22 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
+      "titleEN": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
+      "desc": "The Pok&eacute;mon Company has unveiled new details about its upcoming animated series, Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu. Initially teased back in 2024, the stop-motion animation project is a collaboration between Pok&eac",
+      "descEN": "The Pok&eacute;mon Company has unveiled new details about its upcoming animated series, Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu. Initially teased back in 2024, the stop-motion animation project is a collaboration between Pok&eac",
+      "date": "22 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
       "title": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
       "titleEN": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
       "desc": "In case you are unfamiliar with the sci-fi video game space, one of its giants has come to a sudden and tragic end. Destiny 2 - a juggernaut in the genre - will no longer be receiving updates from its developer Bungie. While fans have flocked back to",
@@ -154,7 +174,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n2",
+      "id": "n4",
       "title": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
       "titleEN": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
       "desc": "Pearl Abyss has released another patch for Crimson Desert, its popular single player RPG spin-off from hit Korean MMO Black Desert. Read more",
@@ -164,7 +184,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n3",
+      "id": "n5",
       "title": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
       "titleEN": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
       "desc": "Artsy hide-and-seek indie game Meccha Chameleon has put aside its camouflage and taken the spotlight, passing 7m copies sold since its release less than two weeks ago. Read more",
@@ -174,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n6",
       "title": "The Last of Us Part 2 will get multiplayer later this year, but not from Sony, and sadly not on PS5 either",
       "titleEN": "The Last of Us Part 2 will get multiplayer later this year, but not from Sony, and sadly not on PS5 either",
       "desc": "Multiplayer has been brought to life in The Last of Us Part 2. Not by Sony, sadly, but by an enterprising modder who's released a new video showing some tense one-on-one shootouts. Read more",
@@ -184,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n7",
       "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
       "titleEN": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
       "desc": "The Witcher 4 developer CD Projekt Red believes it's yet to complete its \"full redemption arc\" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077. Read more",
@@ -194,7 +214,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n8",
       "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
       "titleEN": "Ubisoft co-founder Claude Guillemot dies in plane crash",
       "desc": "Ubisoft co-founder, Claude Guillemot, has died in a plane crash. Read more",
@@ -204,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n9",
       "title": "Hot off the Guild Wars 3 reveal, the long-running MMO series is getting its first-ever CCG in Mistbound",
       "titleEN": "Hot off the Guild Wars 3 reveal, the long-running MMO series is getting its first-ever CCG in Mistbound",
       "desc": "Guild Wars, the legendary MMO series from ArenaNet, somehow never expanded into the collectible card game (CCG) genre. This will soon change, however, as Mistbound: Guild Wars Card Game was just revealed. Read more",
@@ -214,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n10",
       "title": "Doom soundtrack composer Bobby Prince dies aged 81",
       "titleEN": "Doom soundtrack composer Bobby Prince dies aged 81",
       "desc": "Robert Prince III &ndash; best known as Bobby Prince, the man behind the iconic score of the original Doom game &ndash; has died aged 81. Read more",
@@ -224,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n11",
       "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
       "titleEN": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
       "desc": "UPDATE 21/06/26: Halo Studios has now updated its original Halo Waypoint story to confirm that \"a PlayStation Plus account is NOT required for local splitscreen co-op\". Read more",
@@ -234,32 +254,12 @@
       "tag": "Hardware"
     },
     {
-      "id": "n10",
+      "id": "n12",
       "title": "Brendan \"PlayerUnknown\" Greene \"moves forward with a smaller team\", as Prologue: Go Wayback! studio struggles to find funding",
       "titleEN": "Brendan \"PlayerUnknown\" Greene \"moves forward with a smaller team\", as Prologue: Go Wayback! studio struggles to find funding",
       "desc": "Brendan \"PlayerUnknown\" Greene, the creator of PUBG and Prologue: Go Wayback!, has publicly thanked the team at PlayerUnknown Productions for its \"professionalism\" as it \"move[s] forward with a smaller team\" following issues securing additional fundi",
       "descEN": "Brendan \"PlayerUnknown\" Greene, the creator of PUBG and Prologue: Go Wayback!, has publicly thanked the team at PlayerUnknown Productions for its \"professionalism\" as it \"move[s] forward with a smaller team\" following issues securing additional fundi",
       "date": "20 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
-      "titleEN": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
-      "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria perseveres and finally sees the end of Split Fiction, and is delighted she has done so; Bertie seems a little obsessed about",
-      "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria perseveres and finally sees the end of Split Fiction, and is delighted she has done so; Bertie seems a little obsessed about",
-      "date": "20 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future",
-      "titleEN": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future",
-      "desc": "The usage of generative AI and LLMs is among the most controversial - and polarising - topics in game development today. Players and critics are becoming more alert to the use of such tools in games, scouring the Steam store pages of each newly-annou",
-      "descEN": "The usage of generative AI and LLMs is among the most controversial - and polarising - topics in game development today. Players and critics are becoming more alert to the use of such tools in games, scouring the Steam store pages of each newly-annou",
-      "date": "19 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
