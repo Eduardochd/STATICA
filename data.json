@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T09:36:20.426Z",
+  "generatedAt": "2026-06-23T14:45:11.014Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Encuentra ROBOBEAT al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -54,7 +54,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Rims Racing : Ultimate Edition en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Rims Racing : Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -145,6 +145,66 @@
   "news": [
     {
       "id": "n1",
+      "title": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
+      "titleEN": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
+      "desc": "Now that Death Stranding 2: On the Beach is out on PC as well as PS5, creator Hideo Kojima is turning his attention to his upcoming projects, which include the mysterious Xbox horror game OD. Read more",
+      "descEN": "Now that Death Stranding 2: On the Beach is out on PC as well as PS5, creator Hideo Kojima is turning his attention to his upcoming projects, which include the mysterious Xbox horror game OD. Read more",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
+      "titleEN": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
+      "desc": "Huge Chinese multimedia conglomerate Tencent is reportedly re-considering its stakes in several Japanese video game developers, including Rune Factory and Monster Hunter Stories creator Marvelous. Read more",
+      "descEN": "Huge Chinese multimedia conglomerate Tencent is reportedly re-considering its stakes in several Japanese video game developers, including Rune Factory and Monster Hunter Stories creator Marvelous. Read more",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
+      "titleEN": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
+      "desc": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art. That teaser alone has already clocked up 10m views on YouTube. To say",
+      "descEN": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art. That teaser alone has already clocked up 10m views on YouTube. To say",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
+      "titleEN": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
+      "desc": "The God of War Laufey reveal was one of the biggest in this year's Summer Game Fest season - and part of a record-breaking State of Play. The surprise reveal generated plenty of discussion but most of the talk centered on the game's new protagonist, ",
+      "descEN": "The God of War Laufey reveal was one of the biggest in this year's Summer Game Fest season - and part of a record-breaking State of Play. The surprise reveal generated plenty of discussion but most of the talk centered on the game's new protagonist, ",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n5",
+      "title": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
+      "titleEN": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
+      "desc": "As conversations around the increasing prevalence of controversial generative AI tools in game development continue, EA's president of enterprise development Laura Miele has said she believes the tech has led to a \"real rise in creativity\" among the ",
+      "descEN": "As conversations around the increasing prevalence of controversial generative AI tools in game development continue, EA's president of enterprise development Laura Miele has said she believes the tech has led to a \"real rise in creativity\" among the ",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
+      "titleEN": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
+      "desc": "Capcom has announced a new Spotlight showcase scheduled for later this week. It'll air Thursday, 25th June at 10pm UK time (11pm CEST / 2pm PDT). Read more",
+      "descEN": "Capcom has announced a new Spotlight showcase scheduled for later this week. It'll air Thursday, 25th June at 10pm UK time (11pm CEST / 2pm PDT). Read more",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Expansión"
+    },
+    {
+      "id": "n7",
       "title": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
       "titleEN": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
       "desc": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
@@ -154,7 +214,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n2",
+      "id": "n8",
       "title": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "titleEN": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "desc": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
@@ -164,17 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
-      "title": "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
-      "titleEN": "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
-      "desc": "Earlier this month, Valve reaffirmed its commitment to shipping the Steam Machine this summer. Today, it officially announced pricing, initial shipping dates, and many remaining details, including specs, for the living room PC. Read more",
-      "descEN": "Earlier this month, Valve reaffirmed its commitment to shipping the Steam Machine this summer. Today, it officially announced pricing, initial shipping dates, and many remaining details, including specs, for the living room PC. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n4",
+      "id": "n9",
       "title": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
       "titleEN": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
       "desc": "What is the Steam Machine? I must admit I've spent a good portion of my time with the thing trying to figure that question out. Valve will tell you, as they told us, that it's essentially been made for the people who want to bring their existing PC l",
@@ -184,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "Steam Machine: the big tech questions answered",
       "titleEN": "Steam Machine: the big tech questions answered",
       "desc": "The Steam Machine is buyable at last! And it sure costs a pretty penny, as is probably to be expected here in the year of our lord and/or dark lord 2026. We've written a full user-focused review of the Steam Machine separately thanks to yours truly, ",
@@ -194,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "\"We don't lock our hardware down\" - Valve takes a swing at consoles while explaining why it doesn't subsidise the price of Steam Machine",
       "titleEN": "\"We don't lock our hardware down\" - Valve takes a swing at consoles while explaining why it doesn't subsidise the price of Steam Machine",
       "desc": "As Valve creeps into the traditionally console-dominated gaming space of the living room with its new Steam Machine, it not only opens itself to comparisons with the consoles that currently reside there, but also with how companies like Sony, Microso",
@@ -204,61 +254,11 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "Valve's new Steam Machines might be modestly specced but FSR 4 support is a big win for the tiny device",
       "titleEN": "Valve's new Steam Machines might be modestly specced but FSR 4 support is a big win for the tiny device",
       "desc": "Now that you've hopefully absorbed everything Valve has announced for the Steam Machine, which begins shipping through a reservation system relatively soon, it's time to look beyond. Valve has officially confirmed FSR 4, AMD's most advanced image ups",
       "descEN": "Now that you've hopefully absorbed everything Valve has announced for the Steam Machine, which begins shipping through a reservation system relatively soon, it's time to look beyond. Valve has officially confirmed FSR 4, AMD's most advanced image ups",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
-      "titleEN": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
-      "desc": "Ultima designer Richard Garriott (AKA Lord British) has a plan to claim back the rights to his legendary RPG series from current owner EA. The trick to doing so? A rather obscure bit of copyright law from around 50 years ago. Read more",
-      "descEN": "Ultima designer Richard Garriott (AKA Lord British) has a plan to claim back the rights to his legendary RPG series from current owner EA. The trick to doing so? A rather obscure bit of copyright law from around 50 years ago. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
-      "titleEN": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
-      "desc": "The Pok&eacute;mon Company has unveiled new details about its upcoming animated series, Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu. Initially teased back in 2024, the stop-motion animation project is a collaboration between Pok&eac",
-      "descEN": "The Pok&eacute;mon Company has unveiled new details about its upcoming animated series, Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu. Initially teased back in 2024, the stop-motion animation project is a collaboration between Pok&eac",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
-      "titleEN": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
-      "desc": "In case you are unfamiliar with the sci-fi video game space, one of its giants has come to a sudden and tragic end. Destiny 2 - a juggernaut in the genre - will no longer be receiving updates from its developer Bungie. While fans have flocked back to",
-      "descEN": "In case you are unfamiliar with the sci-fi video game space, one of its giants has come to a sudden and tragic end. Destiny 2 - a juggernaut in the genre - will no longer be receiving updates from its developer Bungie. While fans have flocked back to",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
-      "titleEN": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
-      "desc": "Pearl Abyss has released another patch for Crimson Desert, its popular single player RPG spin-off from hit Korean MMO Black Desert. Read more",
-      "descEN": "Pearl Abyss has released another patch for Crimson Desert, its popular single player RPG spin-off from hit Korean MMO Black Desert. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n12",
-      "title": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
-      "titleEN": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
-      "desc": "Artsy hide-and-seek indie game Meccha Chameleon has put aside its camouflage and taken the spotlight, passing 7m copies sold since its release less than two weeks ago. Read more",
-      "descEN": "Artsy hide-and-seek indie game Meccha Chameleon has put aside its camouflage and taken the spotlight, passing 7m copies sold since its release less than two weeks ago. Read more",
       "date": "22 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
