@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-23T03:25:33.738Z",
+  "generatedAt": "2026-06-23T09:36:20.426Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find NBA 2K26 at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -22,8 +22,8 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Aprovecha la oferta de ROBOBEAT en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the ROBOBEAT deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra ROBOBEAT al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -55,7 +55,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Aprovecha la oferta de Rims Racing : Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -145,6 +145,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
+      "titleEN": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
+      "desc": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
+      "descEN": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
+      "date": "23 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n2",
       "title": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "titleEN": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "desc": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
@@ -154,7 +164,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
       "titleEN": "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
       "desc": "Earlier this month, Valve reaffirmed its commitment to shipping the Steam Machine this summer. Today, it officially announced pricing, initial shipping dates, and many remaining details, including specs, for the living room PC. Read more",
@@ -164,7 +174,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
       "titleEN": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
       "desc": "What is the Steam Machine? I must admit I've spent a good portion of my time with the thing trying to figure that question out. Valve will tell you, as they told us, that it's essentially been made for the people who want to bring their existing PC l",
@@ -174,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "Steam Machine: the big tech questions answered",
       "titleEN": "Steam Machine: the big tech questions answered",
       "desc": "The Steam Machine is buyable at last! And it sure costs a pretty penny, as is probably to be expected here in the year of our lord and/or dark lord 2026. We've written a full user-focused review of the Steam Machine separately thanks to yours truly, ",
@@ -184,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "\"We don't lock our hardware down\" - Valve takes a swing at consoles while explaining why it doesn't subsidise the price of Steam Machine",
       "titleEN": "\"We don't lock our hardware down\" - Valve takes a swing at consoles while explaining why it doesn't subsidise the price of Steam Machine",
       "desc": "As Valve creeps into the traditionally console-dominated gaming space of the living room with its new Steam Machine, it not only opens itself to comparisons with the consoles that currently reside there, but also with how companies like Sony, Microso",
@@ -194,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "Valve's new Steam Machines might be modestly specced but FSR 4 support is a big win for the tiny device",
       "titleEN": "Valve's new Steam Machines might be modestly specced but FSR 4 support is a big win for the tiny device",
       "desc": "Now that you've hopefully absorbed everything Valve has announced for the Steam Machine, which begins shipping through a reservation system relatively soon, it's time to look beyond. Valve has officially confirmed FSR 4, AMD's most advanced image ups",
@@ -204,7 +214,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
       "titleEN": "Ultima's creator Richard Garriott is planning to win back the rights to his legendary RPG from EA with an 50-year-old copyright quirk",
       "desc": "Ultima designer Richard Garriott (AKA Lord British) has a plan to claim back the rights to his legendary RPG series from current owner EA. The trick to doing so? A rather obscure bit of copyright law from around 50 years ago. Read more",
@@ -214,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
       "titleEN": "Wallace and Gromit studio's long-awaited stop-motion Pokémon series is heading to a particularly \"fitting\" region when it releases next year",
       "desc": "The Pok&eacute;mon Company has unveiled new details about its upcoming animated series, Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu. Initially teased back in 2024, the stop-motion animation project is a collaboration between Pok&eac",
@@ -224,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
       "titleEN": "\"No one is celebrating\" - Warframe devs on Destiny 2's \"earth-shattering\" death, and why the genre is weaker for it",
       "desc": "In case you are unfamiliar with the sci-fi video game space, one of its giants has come to a sudden and tragic end. Destiny 2 - a juggernaut in the genre - will no longer be receiving updates from its developer Bungie. While fans have flocked back to",
@@ -234,7 +244,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
       "titleEN": "New Crimson Desert update finally solves the case of the missing outdoor furniture",
       "desc": "Pearl Abyss has released another patch for Crimson Desert, its popular single player RPG spin-off from hit Korean MMO Black Desert. Read more",
@@ -244,21 +254,11 @@
       "tag": "Actualización"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
       "titleEN": "The latest indie mega-sensation is Meccha Chameleon, an artsy hide-and-seek game, which has sold an astronomical amount in only two weeks",
       "desc": "Artsy hide-and-seek indie game Meccha Chameleon has put aside its camouflage and taken the spotlight, passing 7m copies sold since its release less than two weeks ago. Read more",
       "descEN": "Artsy hide-and-seek indie game Meccha Chameleon has put aside its camouflage and taken the spotlight, passing 7m copies sold since its release less than two weeks ago. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "The Last of Us Part 2 will get multiplayer later this year, but not from Sony, and sadly not on PS5 either",
-      "titleEN": "The Last of Us Part 2 will get multiplayer later this year, but not from Sony, and sadly not on PS5 either",
-      "desc": "Multiplayer has been brought to life in The Last of Us Part 2. Not by Sony, sadly, but by an enterprising modder who's released a new video showing some tense one-on-one shootouts. Read more",
-      "descEN": "Multiplayer has been brought to life in The Last of Us Part 2. Not by Sony, sadly, but by an enterprising modder who's released a new video showing some tense one-on-one shootouts. Read more",
       "date": "22 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
