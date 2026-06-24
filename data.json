@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T14:25:29.018Z",
+  "generatedAt": "2026-06-24T19:43:33.719Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -55,7 +55,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -69,10 +69,16 @@
       "id": "g5",
       "steamAppId": null,
       "rating": 4,
-      "title": "Rims Racing : Ultimate Edition",
-      "desc": "Encuentra Rims Racing : Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "title": "Back 4 Blood: Ultimate Edition",
+      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Find Back 4 Blood: Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
+        {
+          "store": "GMG",
+          "price": 9,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
+        },
         {
           "store": "GMG",
           "price": 2.89,
@@ -132,12 +138,6 @@
           "price": 13.5,
           "original": 74.99,
           "url": "https://www.cheapshark.com/redirect?dealID=%2BYB%2FKe0HFqEPUmk%2BVUW4Hq1u%2F3y3etyS17KIC4COIrA%3D"
-        },
-        {
-          "store": "Humble",
-          "price": 8.99,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=zOo1QcUQF3I0vL%2FxZTZoS1qTVP0spLhq6ofVsGISW8M%3D"
         }
       ]
     }
@@ -217,11 +217,11 @@
       "id": "n8",
       "title": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
       "titleEN": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
-      "desc": "Rockstar has revealed that pre-orders for Grand Theft Auto 6 will begin at midnight on 25th June whatever your local time, it sounds like, and that there will be multiple versions of the game offered. Related to that: physical editions of GTA 6 will ",
-      "descEN": "Rockstar has revealed that pre-orders for Grand Theft Auto 6 will begin at midnight on 25th June whatever your local time, it sounds like, and that there will be multiple versions of the game offered. Related to that: physical editions of GTA 6 will ",
+      "desc": "UPDATE 4.30PM BST: Rockstar has clarified on the Grand Theft Auto 6 website that some of the in-game shops mentioned as Ultimate Edition extras appear to be only accessible if you buy that version of the game. Read more",
+      "descEN": "UPDATE 4.30PM BST: Rockstar has clarified on the Grand Theft Auto 6 website that some of the in-game shops mentioned as Ultimate Edition extras appear to be only accessible if you buy that version of the game. Read more",
       "date": "24 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Ofertas"
+      "tag": "Actualización"
     },
     {
       "id": "n9",
