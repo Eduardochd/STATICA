@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T09:25:53.107Z",
+  "generatedAt": "2026-06-24T14:25:29.018Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -22,7 +22,7 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for ROBOBEAT on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Rims Racing : Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -145,16 +145,106 @@
   "news": [
     {
       "id": "n1",
-      "title": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
-      "titleEN": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
-      "desc": "A tense battle between investors is happening at FromSoftware's parent company, and Elden Ring is at the heart of a debate over whether its CEO should remain in his role. Read more",
-      "descEN": "A tense battle between investors is happening at FromSoftware's parent company, and Elden Ring is at the heart of a debate over whether its CEO should remain in his role. Read more",
+      "title": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
+      "titleEN": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
+      "desc": "Sony appears to be implementing \"stricter\" rules for releasing games on the PlayStation Store in an effort to cut down on the amount of shovelware - low effort games - that are appearing there. Read more",
+      "descEN": "Sony appears to be implementing \"stricter\" rules for releasing games on the PlayStation Store in an effort to cut down on the amount of shovelware - low effort games - that are appearing there. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive",
+      "titleEN": "Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive",
+      "desc": "Bungie has revealed details of its upcoming Marathon PvE mode, which will allow players to explore the endgame Cryo Archive Map without the threat of other players. They'll instead face computer-controlled enemies. All in all, the response from the c",
+      "descEN": "Bungie has revealed details of its upcoming Marathon PvE mode, which will allow players to explore the endgame Cryo Archive Map without the threat of other players. They'll instead face computer-controlled enemies. All in all, the response from the c",
       "date": "24 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n3",
+      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
+      "titleEN": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
+      "desc": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6, and it's claimed the game will \"play best\" on PS5. Read more",
+      "descEN": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6, and it's claimed the game will \"play best\" on PS5. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Star Fox review",
+      "titleEN": "Star Fox review",
+      "desc": "I recently finished reading Keza MacDonald's excellent Super Nintendo, a largely celebratory book about the company that \"helped the world have fun\", which nevertheless sounds a note of understandable caution at its conclusion. The author is concerne",
+      "descEN": "I recently finished reading Keza MacDonald's excellent Super Nintendo, a largely celebratory book about the company that \"helped the world have fun\", which nevertheless sounds a note of understandable caution at its conclusion. The author is concerne",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Diablo 4's next season has been fully detailed and dated, and there's a free Warlock trial on the way and an Overwatch collab coming",
+      "titleEN": "Diablo 4's next season has been fully detailed and dated, and there's a free Warlock trial on the way and an Overwatch collab coming",
+      "desc": "The next Diablo 4 season is upon us, and Blizzard revealed all the details about the Season of Death Awakening in a livestream yesterday. Read more",
+      "descEN": "The next Diablo 4 season is upon us, and Blizzard revealed all the details about the Season of Death Awakening in a livestream yesterday. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n6",
+      "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, but what about the UK, Europe and rest of the world?",
+      "titleEN": "Grand Theft Auto 6 price finally revealed as $80 in the US, but what about the UK, Europe and rest of the world?",
+      "desc": "After plenty of speculation and discussion, Rockstar has finally announced the price of Grand Theft Auto 6. Read more",
+      "descEN": "After plenty of speculation and discussion, Rockstar has finally announced the price of Grand Theft Auto 6. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
+      "title": "GTA 6 will seemingly only launch with the single-player campaign in November",
+      "titleEN": "GTA 6 will seemingly only launch with the single-player campaign in November",
+      "desc": "As many of us expected, the launch version of Grand Theft Auto 6, coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with ",
+      "descEN": "As many of us expected, the launch version of Grand Theft Auto 6, coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with ",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
+      "titleEN": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
+      "desc": "Rockstar has revealed that pre-orders for Grand Theft Auto 6 will begin at midnight on 25th June whatever your local time, it sounds like, and that there will be multiple versions of the game offered. Related to that: physical editions of GTA 6 will ",
+      "descEN": "Rockstar has revealed that pre-orders for Grand Theft Auto 6 will begin at midnight on 25th June whatever your local time, it sounds like, and that there will be multiple versions of the game offered. Related to that: physical editions of GTA 6 will ",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n9",
+      "title": "The Switch version of acclaimed James Bond game 007 First Light is \"seeing really good progress\" and isn't very far away",
+      "titleEN": "The Switch version of acclaimed James Bond game 007 First Light is \"seeing really good progress\" and isn't very far away",
+      "desc": "Work on the Switch 2 version of IO Interactive's James Bond origin story 007 First Light is coming along nicely, with the game on track for a summer release. Read more",
+      "descEN": "Work on the Switch 2 version of IO Interactive's James Bond origin story 007 First Light is coming along nicely, with the game on track for a summer release. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n10",
+      "title": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
+      "titleEN": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
+      "desc": "Update - 15:07pm - As seen in a notice published by Kadokawa, CEO Takaheshi Natsuno has retained his position as CEO.\n Read more",
+      "descEN": "Update - 15:07pm - As seen in a notice published by Kadokawa, CEO Takaheshi Natsuno has retained his position as CEO.\n Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n11",
       "title": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
       "titleEN": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
       "desc": "Xbox's's piratical multiplayer game Sea of Thieves is being made into a live-action movie, Microsoft is toying with the idea of bringing the Halo TV series back - or at least doing something more in that area - and we've got the first plot details fo",
@@ -164,7 +254,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n12",
       "title": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
       "titleEN": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
       "desc": "Call of Duty: Black Ops 7 and Warzone developers have revealed the full slate of what's coming soon to both games, in  the mid-season update for Season 4. This  arrives Thursday, 25th June across PC, PlayStation and Xbox, and it's free to all players",
@@ -172,96 +262,6 @@
       "date": "23 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
-    },
-    {
-      "id": "n4",
-      "title": "\"It's like lightning in a bottle\" - Star Wars Galactic Racer devs spill the beans on why it's so hard to make a game as good as Burnout Paradise",
-      "titleEN": "\"It's like lightning in a bottle\" - Star Wars Galactic Racer devs spill the beans on why it's so hard to make a game as good as Burnout Paradise",
-      "desc": "There are a rare few racing games as good as Burnout Paradise. You could argue there aren't any, though the competition for the number one spot is fierce. The game is such a classic it begs the question: Why hasn't anyone been able to make a racer qu",
-      "descEN": "There are a rare few racing games as good as Burnout Paradise. You could argue there aren't any, though the competition for the number one spot is fierce. The game is such a classic it begs the question: Why hasn't anyone been able to make a racer qu",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
-      "titleEN": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
-      "desc": "Now that Death Stranding 2: On the Beach is out on PC as well as PS5, creator Hideo Kojima is turning his attention to his upcoming projects, which include the mysterious Xbox horror game OD. Read more",
-      "descEN": "Now that Death Stranding 2: On the Beach is out on PC as well as PS5, creator Hideo Kojima is turning his attention to his upcoming projects, which include the mysterious Xbox horror game OD. Read more",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n6",
-      "title": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
-      "titleEN": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
-      "desc": "Huge Chinese multimedia conglomerate Tencent is reportedly re-considering its stakes in several Japanese video game developers, including Rune Factory and Monster Hunter Stories creator Marvelous. Read more",
-      "descEN": "Huge Chinese multimedia conglomerate Tencent is reportedly re-considering its stakes in several Japanese video game developers, including Rune Factory and Monster Hunter Stories creator Marvelous. Read more",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
-      "titleEN": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
-      "desc": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art. That teaser alone has already clocked up 10m views on YouTube. To say",
-      "descEN": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art. That teaser alone has already clocked up 10m views on YouTube. To say",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
-      "titleEN": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
-      "desc": "The God of War Laufey reveal was one of the biggest in this year's Summer Game Fest season - and part of a record-breaking State of Play. The surprise reveal generated plenty of discussion but most of the talk centered on the game's new protagonist, ",
-      "descEN": "The God of War Laufey reveal was one of the biggest in this year's Summer Game Fest season - and part of a record-breaking State of Play. The surprise reveal generated plenty of discussion but most of the talk centered on the game's new protagonist, ",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n9",
-      "title": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
-      "titleEN": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
-      "desc": "As conversations around the increasing prevalence of controversial generative AI tools in game development continue, EA's president of enterprise development Laura Miele has said she believes the tech has led to a \"real rise in creativity\" among the ",
-      "descEN": "As conversations around the increasing prevalence of controversial generative AI tools in game development continue, EA's president of enterprise development Laura Miele has said she believes the tech has led to a \"real rise in creativity\" among the ",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
-      "titleEN": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
-      "desc": "Capcom has announced a new Spotlight showcase scheduled for later this week. It'll air Thursday, 25th June at 10pm UK time (11pm CEST / 2pm PDT). Read more",
-      "descEN": "Capcom has announced a new Spotlight showcase scheduled for later this week. It'll air Thursday, 25th June at 10pm UK time (11pm CEST / 2pm PDT). Read more",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Expansión"
-    },
-    {
-      "id": "n11",
-      "title": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
-      "titleEN": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
-      "desc": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
-      "descEN": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n12",
-      "title": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
-      "titleEN": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
-      "desc": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
-      "descEN": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
