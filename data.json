@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T03:27:27.763Z",
+  "generatedAt": "2026-06-24T09:25:53.107Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "ROBOBEAT",
       "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Special offer for ROBOBEAT on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Citizen Sleeper está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Citizen Sleeper en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -128,16 +128,16 @@
           "url": "https://www.cheapshark.com/redirect?dealID=jUIksCf7OKL1gDeMjhT%2Fx%2Bi7HWhFLcE2qWzPWrrvzmI%3D"
         },
         {
+          "store": "GMG",
+          "price": 13.5,
+          "original": 74.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2BYB%2FKe0HFqEPUmk%2BVUW4Hq1u%2F3y3etyS17KIC4COIrA%3D"
+        },
+        {
           "store": "Humble",
           "price": 8.99,
           "original": 89.99,
           "url": "https://www.cheapshark.com/redirect?dealID=zOo1QcUQF3I0vL%2FxZTZoS1qTVP0spLhq6ofVsGISW8M%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 13.5,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D"
         }
       ]
     }
@@ -145,6 +145,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
+      "titleEN": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
+      "desc": "A tense battle between investors is happening at FromSoftware's parent company, and Elden Ring is at the heart of a debate over whether its CEO should remain in his role. Read more",
+      "descEN": "A tense battle between investors is happening at FromSoftware's parent company, and Elden Ring is at the heart of a debate over whether its CEO should remain in his role. Read more",
+      "date": "24 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
       "titleEN": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
       "desc": "Xbox's's piratical multiplayer game Sea of Thieves is being made into a live-action movie, Microsoft is toying with the idea of bringing the Halo TV series back - or at least doing something more in that area - and we've got the first plot details fo",
@@ -154,7 +164,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
       "titleEN": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
       "desc": "Call of Duty: Black Ops 7 and Warzone developers have revealed the full slate of what's coming soon to both games, in  the mid-season update for Season 4. This  arrives Thursday, 25th June across PC, PlayStation and Xbox, and it's free to all players",
@@ -164,7 +174,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "\"It's like lightning in a bottle\" - Star Wars Galactic Racer devs spill the beans on why it's so hard to make a game as good as Burnout Paradise",
       "titleEN": "\"It's like lightning in a bottle\" - Star Wars Galactic Racer devs spill the beans on why it's so hard to make a game as good as Burnout Paradise",
       "desc": "There are a rare few racing games as good as Burnout Paradise. You could argue there aren't any, though the competition for the number one spot is fierce. The game is such a classic it begs the question: Why hasn't anyone been able to make a racer qu",
@@ -174,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
       "titleEN": "Xbox is publishing Kojima's mysterious horror game OD because apparently no one else wanted it - they didn't understand the concept",
       "desc": "Now that Death Stranding 2: On the Beach is out on PC as well as PS5, creator Hideo Kojima is turning his attention to his upcoming projects, which include the mysterious Xbox horror game OD. Read more",
@@ -184,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
       "titleEN": "Monster Hunter Stories studio Marvelous in trouble as Tencent reportedly seeks to back away from Japanese studio investments",
       "desc": "Huge Chinese multimedia conglomerate Tencent is reportedly re-considering its stakes in several Japanese video game developers, including Rune Factory and Monster Hunter Stories creator Marvelous. Read more",
@@ -194,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
       "titleEN": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
       "desc": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art. That teaser alone has already clocked up 10m views on YouTube. To say",
@@ -204,7 +214,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
       "titleEN": "God of War Laufey is not a new idea, nor is the talking jelly cube - Cory Barlog was apparently discussing it back in 2018",
       "desc": "The God of War Laufey reveal was one of the biggest in this year's Summer Game Fest season - and part of a record-breaking State of Play. The surprise reveal generated plenty of discussion but most of the talk centered on the game's new protagonist, ",
@@ -214,7 +224,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
       "titleEN": "Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" among the publisher's studios",
       "desc": "As conversations around the increasing prevalence of controversial generative AI tools in game development continue, EA's president of enterprise development Laura Miele has said she believes the tech has led to a \"real rise in creativity\" among the ",
@@ -224,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
       "titleEN": "Capcom's doing a Spotlight showcase this week, offering a better look at Dragon's Dogma 2's new Dark Arisen DLC, Onimusha, and more",
       "desc": "Capcom has announced a new Spotlight showcase scheduled for later this week. It'll air Thursday, 25th June at 10pm UK time (11pm CEST / 2pm PDT). Read more",
@@ -234,7 +244,7 @@
       "tag": "Expansión"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
       "titleEN": "EA lays off yet another wave of staff in the run up to sale to Saudi Arabia",
       "desc": "EA has laid off an unspecified number of staff yet again, its third wave of staffing cuts this year. This comes as the $55bn Saudi Arabian leveraged buyout of the company marches closer. Read more",
@@ -244,21 +254,11 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "titleEN": "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\"",
       "desc": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
       "descEN": "The price of the Steam Machine is \"significantly more\" than Valve would have liked to launch it at, Valve has told Eurogamer, and it hasn't been able to make as many units of the new console-like PC as it wanted to, either. Read more",
-      "date": "22 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
-      "titleEN": "Steam Machine review - an utterly lovable, probably too niche, definitely too expensive gaming curio",
-      "desc": "What is the Steam Machine? I must admit I've spent a good portion of my time with the thing trying to figure that question out. Valve will tell you, as they told us, that it's essentially been made for the people who want to bring their existing PC l",
-      "descEN": "What is the Steam Machine? I must admit I've spent a good portion of my time with the thing trying to figure that question out. Valve will tell you, as they told us, that it's essentially been made for the people who want to bring their existing PC l",
       "date": "22 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
