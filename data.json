@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:01:36.567Z",
+  "generatedAt": "2026-06-24T03:27:27.763Z",
   "games": [
     {
       "id": "g1",
@@ -22,8 +22,8 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for ROBOBEAT on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find ROBOBEAT at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Rims Racing : Ultimate Edition",
-      "desc": "Oferta especial de Rims Racing : Ultimate Edition en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Rims Racing : Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Rims Racing : Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Rims Racing : Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
