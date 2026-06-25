@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-25T09:19:01.569Z",
+  "generatedAt": "2026-06-25T14:29:28.646Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "NBA 2K26 está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -19,11 +19,27 @@
     },
     {
       "id": "g2",
+      "steamAppId": 315210,
+      "rating": 3,
+      "title": "Suicide Squad: Kill the Justice League",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "GOG",
+          "price": 3.08,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=nF9%2FdPXYPajMwowT9vhxtb%2BbzqK%2FsuFSBFt5snmLx24%3D"
+        }
+      ]
+    },
+    {
+      "id": "g3",
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra ROBOBEAT al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the ROBOBEAT deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -34,11 +50,11 @@
       ]
     },
     {
-      "id": "g3",
+      "id": "g4",
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -50,34 +66,42 @@
       ]
     },
     {
-      "id": "g4",
-      "steamAppId": 315210,
-      "rating": 3,
-      "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
-      "deals": [
-        {
-          "store": "GMG",
-          "price": 3.15,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=ER%2FfOp0PmIbG%2BkoMMkNkd8JljZgzqnQqdZLU%2Bz1MekQ%3D"
-        }
-      ]
-    },
-    {
       "id": "g5",
       "steamAppId": null,
       "rating": 4,
-      "title": "Back 4 Blood: Deluxe Edition",
-      "desc": "Back 4 Blood: Deluxe Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Back 4 Blood: Deluxe Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
+        {
+          "store": "GOG",
+          "price": 4.38,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=U2ne5odE6WKyoSROQN8D2OX2aRN8CJrxoFxZ%2BktLaHg%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 7.99,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=QP6em8WtgtgOaxwGaGnzPv%2BQbXmJ1dYi9B%2B6ORb%2BuVk%3D"
+        },
         {
           "store": "GMG",
           "price": 8.1,
           "original": 89.99,
           "url": "https://www.cheapshark.com/redirect?dealID=10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 8.88,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=1FgTMMUmnTfwWDP8weQUh35nmwjV0PXWMZVkdRscq9o%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 9,
+          "original": 99.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
         },
         {
           "store": "GMG",
@@ -92,46 +116,16 @@
           "url": "https://www.cheapshark.com/redirect?dealID=iirL%2BohewxhLZZSW7iig94q3r286K4MCAiVCYnSS%2FZg%3D"
         },
         {
+          "store": "GOG",
+          "price": 9.39,
+          "original": 69.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=OdeM7qNg%2BMU8PRSFbbLMRYEP33iCTpZ%2BoG1PLLyuG%2Bw%3D"
+        },
+        {
           "store": "Epic",
           "price": 4.49,
           "original": 89.99,
           "url": "https://www.cheapshark.com/redirect?dealID=R5%2BjR4JAIKfsladpdimmTohNsOEZvvqE%2Fd1PVTV6eUQ%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 10.8,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 6.3,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 9.45,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=0lF%2BFktIUm7kcxRmUBoLBcTOwImEZX34GBDiw6vGI8w%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 13.5,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 12.15,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D"
-        },
-        {
-          "store": "Epic",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=GQYhHzOtQcCuICwD5sXBHG91ZHdsyxYRQbVgR%2Bs4Kbc%3D"
         }
       ]
     },
@@ -140,7 +134,7 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -155,6 +149,66 @@
   "news": [
     {
       "id": "n1",
+      "title": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
+      "titleEN": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
+      "desc": "At least a dozen people have departed award-winning South of Midnight developer Compulsion Games this week, following reports that Xbox is planning major restructuring that could result in \"significant\" layoffs and studio closures. Read more",
+      "descEN": "At least a dozen people have departed award-winning South of Midnight developer Compulsion Games this week, following reports that Xbox is planning major restructuring that could result in \"significant\" layoffs and studio closures. Read more",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
+      "titleEN": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
+      "desc": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Becau",
+      "descEN": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Becau",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n3",
+      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
+      "titleEN": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
+      "desc": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distan",
+      "descEN": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distan",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
+      "titleEN": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
+      "desc": "There's a timeline somewhere where a Destiny dating sim could have been released. That's according to two former Bungie staff who recalled pitching such an idea internally at the company. Former community manager Liana Ruppert was first to share the ",
+      "descEN": "There's a timeline somewhere where a Destiny dating sim could have been released. That's according to two former Bungie staff who recalled pitching such an idea internally at the company. Former community manager Liana Ruppert was first to share the ",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
+      "titleEN": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
+      "desc": "Sega is facing backlash  after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
+      "descEN": "Sega is facing backlash  after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
+      "title": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
+      "titleEN": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
+      "desc": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
+      "descEN": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
+      "date": "25 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n7",
       "title": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
       "titleEN": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
       "desc": "Sony appears to be implementing \"stricter\" rules for releasing games on the PlayStation Store in an effort to cut down on the amount of shovelware - low effort games - that are appearing there. Read more",
@@ -164,7 +218,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n8",
       "title": "Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive",
       "titleEN": "Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive",
       "desc": "Bungie has revealed details of its upcoming Marathon PvE mode, which will allow players to explore the endgame Cryo Archive Map without the threat of other players. They'll instead face computer-controlled enemies. All in all, the response from the c",
@@ -174,7 +228,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n9",
       "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
       "titleEN": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
       "desc": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6, and it's claimed the game will \"play best\" on PS5. Read more",
@@ -184,7 +238,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n10",
       "title": "Star Fox review",
       "titleEN": "Star Fox review",
       "desc": "I recently finished reading Keza MacDonald's excellent Super Nintendo, a largely celebratory book about the company that \"helped the world have fun\", which nevertheless sounds a note of understandable caution at its conclusion. The author is concerne",
@@ -194,7 +248,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n11",
       "title": "Diablo 4's next season has been fully detailed and dated, and there's a free Warlock trial on the way and an Overwatch collab coming",
       "titleEN": "Diablo 4's next season has been fully detailed and dated, and there's a free Warlock trial on the way and an Overwatch collab coming",
       "desc": "The next Diablo 4 season is upon us, and Blizzard revealed all the details about the Season of Death Awakening in a livestream yesterday. Read more",
@@ -204,7 +258,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n6",
+      "id": "n12",
       "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
       "titleEN": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
       "desc": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed.  Read more",
@@ -212,66 +266,6 @@
       "date": "24 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Actualización"
-    },
-    {
-      "id": "n7",
-      "title": "GTA 6 will seemingly only launch with the single-player campaign in November",
-      "titleEN": "GTA 6 will seemingly only launch with the single-player campaign in November",
-      "desc": "As many of us expected, the launch version of Grand Theft Auto 6, coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with ",
-      "descEN": "As many of us expected, the launch version of Grand Theft Auto 6, coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with ",
-      "date": "24 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
-      "titleEN": "Grand Theft Auto 6 pre-orders begin at midnight, there's no disc in the box, and physical editions are going out five days early",
-      "desc": "UPDATE 4.30PM BST: Rockstar has clarified on the Grand Theft Auto 6 website that some of the in-game shops mentioned as Ultimate Edition extras appear to be only accessible if you buy that version of the game. Read more",
-      "descEN": "UPDATE 4.30PM BST: Rockstar has clarified on the Grand Theft Auto 6 website that some of the in-game shops mentioned as Ultimate Edition extras appear to be only accessible if you buy that version of the game. Read more",
-      "date": "24 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n9",
-      "title": "The Switch version of acclaimed James Bond game 007 First Light is \"seeing really good progress\" and isn't very far away",
-      "titleEN": "The Switch version of acclaimed James Bond game 007 First Light is \"seeing really good progress\" and isn't very far away",
-      "desc": "Work on the Switch 2 version of IO Interactive's James Bond origin story 007 First Light is coming along nicely, with the game on track for a summer release. Read more",
-      "descEN": "Work on the Switch 2 version of IO Interactive's James Bond origin story 007 First Light is coming along nicely, with the game on track for a summer release. Read more",
-      "date": "24 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
-      "titleEN": "Elden Ring owner faces tense CEO clash as a battle between Kadokawa and activist shareholders rages on",
-      "desc": "Update - 15:07pm - As seen in a notice published by Kadokawa, CEO Takaheshi Natsuno has retained his position as CEO.\n Read more",
-      "descEN": "Update - 15:07pm - As seen in a notice published by Kadokawa, CEO Takaheshi Natsuno has retained his position as CEO.\n Read more",
-      "date": "24 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
-      "titleEN": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
-      "desc": "Xbox's's piratical multiplayer game Sea of Thieves is being made into a live-action movie, Microsoft is toying with the idea of bringing the Halo TV series back - or at least doing something more in that area - and we've got the first plot details fo",
-      "descEN": "Xbox's's piratical multiplayer game Sea of Thieves is being made into a live-action movie, Microsoft is toying with the idea of bringing the Halo TV series back - or at least doing something more in that area - and we've got the first plot details fo",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
-      "titleEN": "Nicolas Cage becomes a Call of Duty skin in what may be one last hurrah for goofy collaborations",
-      "desc": "Call of Duty: Black Ops 7 and Warzone developers have revealed the full slate of what's coming soon to both games, in  the mid-season update for Season 4. This  arrives Thursday, 25th June across PC, PlayStation and Xbox, and it's free to all players",
-      "descEN": "Call of Duty: Black Ops 7 and Warzone developers have revealed the full slate of what's coming soon to both games, in  the mid-season update for Season 4. This  arrives Thursday, 25th June across PC, PlayStation and Xbox, and it's free to all players",
-      "date": "23 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
