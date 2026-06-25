@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T03:24:47.213Z",
+  "generatedAt": "2026-06-25T09:19:01.569Z",
   "games": [
     {
       "id": "g1",
@@ -7,7 +7,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
+      "descEN": "NBA 2K26 is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GMG",
@@ -22,7 +22,7 @@
       "steamAppId": 1456760,
       "rating": 4,
       "title": "ROBOBEAT",
-      "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de ROBOBEAT en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Citizen Sleeper deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -55,7 +55,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GMG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GMG",
@@ -69,15 +69,15 @@
       "id": "g5",
       "steamAppId": null,
       "rating": 4,
-      "title": "Back 4 Blood: Ultimate Edition",
-      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "title": "Back 4 Blood: Deluxe Edition",
+      "desc": "Back 4 Blood: Deluxe Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Back 4 Blood: Deluxe Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
-          "price": 9,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
+          "price": 8.1,
+          "original": 89.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D"
         },
         {
           "store": "GMG",
@@ -205,13 +205,13 @@
     },
     {
       "id": "n6",
-      "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, but what about the UK, Europe and rest of the world?",
-      "titleEN": "Grand Theft Auto 6 price finally revealed as $80 in the US, but what about the UK, Europe and rest of the world?",
-      "desc": "After plenty of speculation and discussion, Rockstar has finally announced the price of Grand Theft Auto 6. Read more",
-      "descEN": "After plenty of speculation and discussion, Rockstar has finally announced the price of Grand Theft Auto 6. Read more",
+      "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
+      "titleEN": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
+      "desc": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed.  Read more",
+      "descEN": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed.  Read more",
       "date": "24 de junio de 2026",
       "source": "eurogamer.net",
-      "tag": "Noticia"
+      "tag": "Actualización"
     },
     {
       "id": "n7",
