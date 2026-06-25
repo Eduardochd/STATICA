@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T19:43:33.719Z",
+  "generatedAt": "2026-06-25T03:24:47.213Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for NBA 2K26 on GMG. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de NBA 2K26 en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "ROBOBEAT",
       "desc": "ROBOBEAT está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for ROBOBEAT on Epic. An essential game that shouldn't be missing from your library.",
+      "descEN": "ROBOBEAT is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -38,8 +38,8 @@
       "steamAppId": 1578650,
       "rating": 4,
       "title": "Citizen Sleeper",
-      "desc": "Encuentra Citizen Sleeper al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Citizen Sleeper on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Citizen Sleeper en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Citizen Sleeper is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Back 4 Blood: Ultimate Edition",
       "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Back 4 Blood: Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -96,6 +96,12 @@
           "price": 4.49,
           "original": 89.99,
           "url": "https://www.cheapshark.com/redirect?dealID=R5%2BjR4JAIKfsladpdimmTohNsOEZvvqE%2Fd1PVTV6eUQ%3D"
+        },
+        {
+          "store": "GMG",
+          "price": 10.8,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D"
         },
         {
           "store": "GMG",
@@ -126,18 +132,22 @@
           "price": 6.99,
           "original": 69.99,
           "url": "https://www.cheapshark.com/redirect?dealID=GQYhHzOtQcCuICwD5sXBHG91ZHdsyxYRQbVgR%2Bs4Kbc%3D"
-        },
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "steamAppId": 75825,
+      "rating": 4,
+      "title": "The Incredible Adventures of Van Helsing Anthology",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
         {
           "store": "Epic",
-          "price": 11.99,
-          "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=jUIksCf7OKL1gDeMjhT%2Fx%2Bi7HWhFLcE2qWzPWrrvzmI%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 13.5,
+          "price": 7.49,
           "original": 74.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=%2BYB%2FKe0HFqEPUmk%2BVUW4Hq1u%2F3y3etyS17KIC4COIrA%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D"
         }
       ]
     }
