@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-25T19:58:17.540Z",
+  "generatedAt": "2026-06-26T03:33:02.296Z",
   "games": [
     {
       "id": "g1",
+      "steamAppId": 2211170,
+      "rating": 4,
+      "title": "Unrailed 2: Back on Track",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 13.58,
+          "original": 31.98,
+          "url": "https://www.cheapshark.com/redirect?dealID=%2BBTrEsQhJi0CANx8Tr0%2BEAXawizxUcm%2BWOIoA2eMObs%3D"
+        }
+      ]
+    },
+    {
+      "id": "g2",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -18,12 +34,28 @@
       ]
     },
     {
-      "id": "g2",
+      "id": "g3",
+      "steamAppId": 2881370,
+      "rating": 4,
+      "title": "Thank You For Your Application",
+      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 16.54,
+          "original": 30.58,
+          "url": "https://www.cheapshark.com/redirect?dealID=gyw2I3hiAH1eWhZbOqQiAg7794cLmRAQRJfOiDeGPdg%3D"
+        }
+      ]
+    },
+    {
+      "id": "g4",
       "steamAppId": 2807310,
       "rating": 4,
       "title": "Farm Racing",
-      "desc": "Aprovecha la oferta de Farm Racing en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Farm Racing deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Farm Racing al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Farm Racing at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -34,12 +66,12 @@
       ]
     },
     {
-      "id": "g3",
+      "id": "g5",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -50,12 +82,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g6",
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Voidwrought at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -66,12 +98,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g7",
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League - Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Suicide Squad: Kill the Justice League - Digital Deluxe Edition at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -92,22 +124,10 @@
           "url": "https://www.cheapshark.com/redirect?dealID=4RnTrGtxny7DX7k%2FrtgmDkYlFRiDVRSRkMdQ%2F6%2FmcCI%3D"
         },
         {
-          "store": "GOG",
-          "price": 7.99,
+          "store": "Humble",
+          "price": 8.99,
           "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=QP6em8WtgtgOaxwGaGnzPv%2BQbXmJ1dYi9B%2B6ORb%2BuVk%3D"
-        },
-        {
-          "store": "GMG",
-          "price": 8.1,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D"
-        },
-        {
-          "store": "GOG",
-          "price": 6.99,
-          "original": 69.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=MLrlqP3OBVN2G%2B%2BuhlDAcwkf8%2FlSghW%2F%2BG7D2he6lWM%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=gg3ApYVOZYZoGV8wO4dmqHcXn%2BNAXMmte8MFfAtgx8Y%3D"
         }
       ]
     }
