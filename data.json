@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:33:02.296Z",
+  "generatedAt": "2026-06-26T09:22:53.663Z",
   "games": [
     {
       "id": "g1",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -55,7 +55,7 @@
       "rating": 4,
       "title": "Farm Racing",
       "desc": "Encuentra Farm Racing al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Farm Racing at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Farm Racing is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -70,7 +70,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -86,7 +86,7 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -102,8 +102,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League - Digital Deluxe Edition deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -118,16 +118,16 @@
           "url": "https://www.cheapshark.com/redirect?dealID=oEE9bBm34JwWr9B3vJsDZKq9o9wpaDxh%2B6fZLK%2B920o%3D"
         },
         {
-          "store": "GMG",
-          "price": 7.2,
+          "store": "GOG",
+          "price": 7.99,
           "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=4RnTrGtxny7DX7k%2FrtgmDkYlFRiDVRSRkMdQ%2F6%2FmcCI%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D"
         },
         {
-          "store": "Humble",
-          "price": 8.99,
-          "original": 89.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=gg3ApYVOZYZoGV8wO4dmqHcXn%2BNAXMmte8MFfAtgx8Y%3D"
+          "store": "GOG",
+          "price": 7.99,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=LiB7Lo%2BQfLlUmgHQmoLdTgjO7zxC6fA4vDs0%2Fmz84EU%3D"
         }
       ]
     }
@@ -135,6 +135,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
+      "titleEN": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
+      "desc": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6's release, it's claimed. Read more",
+      "descEN": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6's release, it's claimed. Read more",
+      "date": "26 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "titleEN": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "desc": "Microsoft has announced significant price increases of $100 USD and beyond for its Xbox Series X/S consoles, blaming the rising costs of memory and storage for the move. Read more",
@@ -144,7 +154,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "titleEN": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "desc": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6, the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
@@ -154,17 +164,17 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
       "titleEN": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
-      "desc": "Bungie and Sony have announced they are laying off yet another wave of employees following the release of Destiny 2's final update. Read more",
-      "descEN": "Bungie and Sony have announced they are laying off yet another wave of employees following the release of Destiny 2's final update. Read more",
+      "desc": "Update - 9:00am, 26th July - New details have emerged on the Bungie layoffs. \n Read more",
+      "descEN": "Update - 9:00am, 26th July - New details have emerged on the Bungie layoffs. \n Read more",
       "date": "25 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Actualización"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "titleEN": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "desc": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
@@ -174,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
       "titleEN": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
       "desc": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
@@ -184,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
       "titleEN": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
       "desc": "At least a dozen people have departed award-winning South of Midnight developer Compulsion Games this week, following reports that Xbox is planning major restructuring that could result in \"significant\" layoffs and studio closures. Read more",
@@ -194,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
       "titleEN": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
       "desc": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Becau",
@@ -204,7 +214,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
       "titleEN": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
       "desc": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distan",
@@ -214,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
       "titleEN": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
       "desc": "There's a timeline somewhere where a Destiny dating sim could have been released. That's according to two former Bungie staff who recalled pitching such an idea internally at the company. Former community manager Liana Ruppert was first to share the ",
@@ -224,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
       "titleEN": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
       "desc": "Sega is facing backlash  after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
@@ -234,22 +244,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
       "titleEN": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
       "desc": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
       "descEN": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
       "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n12",
-      "title": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
-      "titleEN": "Sony seemingly enforcing \"stricter guidelines\" on PlayStation Store to remove the mounds of PS5 shovelware games accumulating there",
-      "desc": "Sony appears to be implementing \"stricter\" rules for releasing games on the PlayStation Store in an effort to cut down on the amount of shovelware - low effort games - that are appearing there. Read more",
-      "descEN": "Sony appears to be implementing \"stricter\" rules for releasing games on the PlayStation Store in an effort to cut down on the amount of shovelware - low effort games - that are appearing there. Read more",
-      "date": "24 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
     }
