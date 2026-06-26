@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-26T09:22:53.663Z",
+  "generatedAt": "2026-06-26T14:21:29.459Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -38,8 +38,8 @@
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Thank You For Your Application al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Thank You For Your Application at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -54,7 +54,7 @@
       "steamAppId": 2807310,
       "rating": 4,
       "title": "Farm Racing",
-      "desc": "Encuentra Farm Racing al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Farm Racing en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Farm Racing is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -70,7 +70,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -86,8 +86,8 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Voidwrought en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Voidwrought on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -102,7 +102,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League - Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the Suicide Squad: Kill the Justice League - Digital Deluxe Edition deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -135,6 +135,46 @@
   "news": [
     {
       "id": "n1",
+      "title": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
+      "titleEN": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
+      "desc": "Pop sensation Phoebe Bridgers has released a new music video for her latest single, Lost Boys. It features a lovely song but more importantly it features Old School RuneScape - and it's the first time Old School RuneScape has appeared in such a  big-",
+      "descEN": "Pop sensation Phoebe Bridgers has released a new music video for her latest single, Lost Boys. It features a lovely song but more importantly it features Old School RuneScape - and it's the first time Old School RuneScape has appeared in such a  big-",
+      "date": "26 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
+      "titleEN": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
+      "desc": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
+      "descEN": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
+      "date": "26 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n3",
+      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
+      "titleEN": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
+      "desc": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagra",
+      "descEN": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagra",
+      "date": "26 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Battlefield 6 is altering its long-range gunplay to feel more like Battlefield 4",
+      "titleEN": "Battlefield 6 is altering its long-range gunplay to feel more like Battlefield 4",
+      "desc": "As promised, Battlefield Studios has detailed how the gunplay of Battlefield 6 is being overhauled, and it turns out the developer wants it to feel closer to Battlefield 4. The proposed changes will arrive 30th June with the final update for Season 3",
+      "descEN": "As promised, Battlefield Studios has detailed how the gunplay of Battlefield 6 is being overhauled, and it turns out the developer wants it to feel closer to Battlefield 4. The proposed changes will arrive 30th June with the final update for Season 3",
+      "date": "26 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n5",
       "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "titleEN": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "desc": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6's release, it's claimed. Read more",
@@ -144,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "titleEN": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "desc": "Microsoft has announced significant price increases of $100 USD and beyond for its Xbox Series X/S consoles, blaming the rising costs of memory and storage for the move. Read more",
@@ -154,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "titleEN": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "desc": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6, the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
@@ -164,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
       "titleEN": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
       "desc": "Update - 9:00am, 26th July - New details have emerged on the Bungie layoffs. \n Read more",
@@ -174,7 +214,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "titleEN": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "desc": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
@@ -184,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
       "titleEN": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
       "desc": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
@@ -194,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
       "titleEN": "Amid reports Xbox is preparing for significant layoffs, a wave of staff at South of Midnight developer Compulsion Games announce their departure",
       "desc": "At least a dozen people have departed award-winning South of Midnight developer Compulsion Games this week, following reports that Xbox is planning major restructuring that could result in \"significant\" layoffs and studio closures. Read more",
@@ -204,7 +244,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
       "titleEN": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
       "desc": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Becau",
@@ -212,46 +252,6 @@
       "date": "25 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
-    },
-    {
-      "id": "n9",
-      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "titleEN": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "desc": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distan",
-      "descEN": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distan",
-      "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
-      "titleEN": "Believe it or not, there was a push for a Destiny dating sim at Bungie once, and it had a proper pitch deck and everything",
-      "desc": "There's a timeline somewhere where a Destiny dating sim could have been released. That's according to two former Bungie staff who recalled pitching such an idea internally at the company. Former community manager Liana Ruppert was first to share the ",
-      "descEN": "There's a timeline somewhere where a Destiny dating sim could have been released. That's according to two former Bungie staff who recalled pitching such an idea internally at the company. Former community manager Liana Ruppert was first to share the ",
-      "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
-      "titleEN": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
-      "desc": "Sega is facing backlash  after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
-      "descEN": "Sega is facing backlash  after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
-      "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
-      "titleEN": "There's a surprising amount of major games you can't play on Valve's Steam Machine - here are eight of the biggest, and why",
-      "desc": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
-      "descEN": "The Steam Machine may be one of the most exciting hardware launches this year, but depending on the types of games you play, it may not end up replacing your existing console or PC just yet. That's simply because it won't be able to play some of the ",
-      "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
