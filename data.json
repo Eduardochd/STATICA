@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-27T08:33:57.132Z",
+  "generatedAt": "2026-06-27T13:39:00.022Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Thank You For Your Application al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -23,7 +23,7 @@
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Oferta especial de NBA 2K26 en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -54,7 +54,7 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -70,7 +70,7 @@
       "steamAppId": 2807310,
       "rating": 4,
       "title": "Farm Racing",
-      "desc": "Encuentra Farm Racing al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Farm Racing en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for Farm Racing on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "Voidwrought",
       "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Find Voidwrought at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -102,7 +102,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League - Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -131,7 +131,7 @@
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
       "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -145,6 +145,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\"",
+      "titleEN": "With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\"",
+      "desc": "\"Racing is crying out for a bit of consequence,\" says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion. \"Crashing is consequence - not just the visual and the audio spectacle of i",
+      "descEN": "\"Racing is crying out for a bit of consequence,\" says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion. \"Crashing is consequence - not just the visual and the audio spectacle of i",
+      "date": "27 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
       "title": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
       "titleEN": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria waves a fond farewell to Eurogamer, and us to Victoria; Connor dabbles on Guild Wars on mobile; Sherif tackles yet another S",
@@ -154,7 +164,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "Switch 2 is the second fastest-selling console in US history, as PlayStation records its worst May in decades - and Xbox its worst May ever",
       "titleEN": "Switch 2 is the second fastest-selling console in US history, as PlayStation records its worst May in decades - and Xbox its worst May ever",
       "desc": "Let's start with the good news: Switch 2 has become the second fastest-selling console in US history, after just 12 months on sale. It shifted a whopping 5.9m units, placing it only behind Nintendo's own Game Boy Advance - which sold 6.5m units in th",
@@ -164,7 +174,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
       "titleEN": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
       "desc": "Pop sensation Phoebe Bridgers has released a new music video for her latest single, Lost Boys. It features a lovely song but more importantly it features Old School RuneScape - and it's the first time Old School RuneScape has appeared in such a  big-",
@@ -174,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
       "titleEN": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
       "desc": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
@@ -184,7 +194,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
       "titleEN": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
       "desc": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagra",
@@ -194,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "Battlefield 6 is altering its long-range gunplay to feel more like Battlefield 4",
       "titleEN": "Battlefield 6 is altering its long-range gunplay to feel more like Battlefield 4",
       "desc": "As promised, Battlefield Studios has detailed how the gunplay of Battlefield 6 is being overhauled, and it turns out the developer wants it to feel closer to Battlefield 4. The proposed changes will arrive 30th June with the final update for Season 3",
@@ -204,7 +214,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "titleEN": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "desc": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6's release, it's claimed. Read more",
@@ -214,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "titleEN": "Xbox Series X/S is getting a major price increase, as Microsoft becomes the latest company to blame skyrocketing RAM and storage costs",
       "desc": "Microsoft has announced significant price increases of $100 USD and beyond for its Xbox Series X/S consoles, blaming the rising costs of memory and storage for the move. Read more",
@@ -224,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "titleEN": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "desc": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6, the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
@@ -234,7 +244,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
       "titleEN": "Sony and Bungie lay off \"most\" of the Destiny 2 team as well as some from Marathon",
       "desc": "Update - 9:00am, 26th July - New details have emerged on the Bungie layoffs. \n Read more",
@@ -244,7 +254,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "titleEN": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
       "desc": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
@@ -252,16 +262,6 @@
       "date": "25 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
-      "titleEN": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
-      "desc": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
-      "descEN": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
-      "date": "25 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
