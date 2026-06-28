@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-28T08:49:08.329Z",
+  "generatedAt": "2026-06-28T13:43:07.531Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -54,8 +54,8 @@
       "steamAppId": 2807310,
       "rating": 4,
       "title": "Farm Racing",
-      "desc": "Oferta especial de Farm Racing en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Farm Racing deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Farm Racing en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Farm Racing on Steam. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Steam",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Voidwrought",
       "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -86,7 +86,7 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -120,8 +120,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
