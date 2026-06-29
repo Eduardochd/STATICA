@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-28T19:17:17.568Z",
+  "generatedAt": "2026-06-29T03:43:06.427Z",
   "games": [
     {
       "id": "g1",
+      "steamAppId": 2881370,
+      "rating": 4,
+      "title": "Thank You For Your Application",
+      "desc": "Aprovecha la oferta de Thank You For Your Application en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
+      "deals": [
+        {
+          "store": "Steam",
+          "price": 16.54,
+          "original": 30.58,
+          "url": "https://www.cheapshark.com/redirect?dealID=gyw2I3hiAH1eWhZbOqQiAg7794cLmRAQRJfOiDeGPdg%3D"
+        }
+      ]
+    },
+    {
+      "id": "g2",
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
       "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Unrailed 2: Back on Track on Steam. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -18,12 +34,12 @@
       ]
     },
     {
-      "id": "g2",
+      "id": "g3",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for NBA 2K26 on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -34,12 +50,12 @@
       ]
     },
     {
-      "id": "g3",
+      "id": "g4",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -50,28 +66,12 @@
       ]
     },
     {
-      "id": "g4",
-      "steamAppId": 2807310,
-      "rating": 4,
-      "title": "Farm Racing",
-      "desc": "Farm Racing está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Farm Racing is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 7.99,
-          "original": 39.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=BAia3DGocFXUnHu6QsToRT2xwlIrb8ay%2FBBbMe4d7k0%3D"
-        }
-      ]
-    },
-    {
       "id": "g5",
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Aprovecha la oferta de Voidwrought en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Voidwrought on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League - Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -102,16 +102,16 @@
           "url": "https://www.cheapshark.com/redirect?dealID=oEE9bBm34JwWr9B3vJsDZKq9o9wpaDxh%2B6fZLK%2B920o%3D"
         },
         {
-          "store": "GMG",
-          "price": 8.8,
-          "original": 99.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D"
+          "store": "GOG",
+          "price": 7.99,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D"
         },
         {
           "store": "GOG",
           "price": 7.99,
           "original": 79.99,
-          "url": "https://www.cheapshark.com/redirect?dealID=7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D"
+          "url": "https://www.cheapshark.com/redirect?dealID=LiB7Lo%2BQfLlUmgHQmoLdTgjO7zxC6fA4vDs0%2Fmz84EU%3D"
         }
       ]
     },
@@ -120,8 +120,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -135,6 +135,46 @@
   "news": [
     {
       "id": "n1",
+      "title": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
+      "titleEN": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
+      "desc": "A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers &ndash; that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more",
+      "descEN": "A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers &ndash; that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more",
+      "date": "28 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet",
+      "titleEN": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet",
+      "desc": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more",
+      "descEN": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more",
+      "date": "28 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red",
+      "titleEN": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red",
+      "desc": "CD Projekt has rebranded itself as CD Projekt Red &ndash; or CD Projekt Red Sp&oacute;&lstrok;ka Akcyjna, to be precise. Read more",
+      "descEN": "CD Projekt has rebranded itself as CD Projekt Red &ndash; or CD Projekt Red Sp&oacute;&lstrok;ka Akcyjna, to be precise. Read more",
+      "date": "28 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "Kingdom Come: Deliverance 2 sells 6 million copies worldwide",
+      "titleEN": "Kingdom Come: Deliverance 2 sells 6 million copies worldwide",
+      "desc": "Kingdom Come: Deliverance 2 has sold six million copies worldwide. Read more",
+      "descEN": "Kingdom Come: Deliverance 2 has sold six million copies worldwide. Read more",
+      "date": "28 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n5",
       "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
       "titleEN": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
       "desc": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6, claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
@@ -144,7 +184,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n2",
+      "id": "n6",
       "title": "Phasmophobia delays highly-anticipated 1.0 launch to 2027 as it \"prioritises quality over speed\"",
       "titleEN": "Phasmophobia delays highly-anticipated 1.0 launch to 2027 as it \"prioritises quality over speed\"",
       "desc": "Phasmophobia maker Kinetic Games has revealed its new roadmap, confirming ghostbusters can expect the reworked Willow Street map by the end of July, \"two major quality-of-life updates\", and confirmation that the hugely anticipated 1.0 release has now",
@@ -154,7 +194,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n3",
+      "id": "n7",
       "title": "Star Wars Eclipse \"literally cannot be finished\" without more staff, insist striking Quantic Dream developers",
       "titleEN": "Star Wars Eclipse \"literally cannot be finished\" without more staff, insist striking Quantic Dream developers",
       "desc": "Striking staff at Quantic Dream have warned that if the studio proceeds with its plans to lay off 115 developers, its upcoming Star Wars Eclipse game \"literally cannot be finished\". Read more",
@@ -164,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n8",
       "title": "Viral hide-and-seek indie hit Meccha Chameleon sells 10m copies in just 16 days",
       "titleEN": "Viral hide-and-seek indie hit Meccha Chameleon sells 10m copies in just 16 days",
       "desc": "Just five days ago, we reported that indie hide-and-seek game Meccha Chameleon had sold seven million copies since its release on 10th June, and now it's topped another staggering milestone: 10 million copies sold. Read more",
@@ -174,7 +214,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n5",
+      "id": "n9",
       "title": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries",
       "titleEN": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries",
       "desc": "Sony has written to PlayStation customers to advise that hundreds of \"previously purchased\" digital movies previously available via its online store will \"be removed\" from video libraries later this year. Read more",
@@ -184,7 +224,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n10",
       "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
       "titleEN": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
       "desc": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
@@ -194,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n11",
       "title": "With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\"",
       "titleEN": "With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\"",
       "desc": "\"Racing is crying out for a bit of consequence,\" says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion. \"Crashing is consequence - not just the visual and the audio spectacle of i",
@@ -204,52 +244,12 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n12",
       "title": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
       "titleEN": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
       "desc": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria waves a fond farewell to Eurogamer, and us to Victoria; Connor dabbles on Guild Wars on mobile; Sherif tackles yet another S",
       "descEN": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria waves a fond farewell to Eurogamer, and us to Victoria; Connor dabbles on Guild Wars on mobile; Sherif tackles yet another S",
       "date": "27 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Switch 2 is the second fastest-selling console in US history, as PlayStation records its worst May in decades - and Xbox its worst May ever",
-      "titleEN": "Switch 2 is the second fastest-selling console in US history, as PlayStation records its worst May in decades - and Xbox its worst May ever",
-      "desc": "Let's start with the good news: Switch 2 has become the second fastest-selling console in US history, after just 12 months on sale. It shifted a whopping 5.9m units, placing it only behind Nintendo's own Game Boy Advance - which sold 6.5m units in th",
-      "descEN": "Let's start with the good news: Switch 2 has become the second fastest-selling console in US history, after just 12 months on sale. It shifted a whopping 5.9m units, placing it only behind Nintendo's own Game Boy Advance - which sold 6.5m units in th",
-      "date": "26 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n10",
-      "title": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
-      "titleEN": "OldSchool RuneScape shows up in Phoebe Bridger's Lost Boys music video",
-      "desc": "Pop sensation Phoebe Bridgers has released a new music video for her latest single, Lost Boys. It features a lovely song but more importantly it features Old School RuneScape - and it's the first time Old School RuneScape has appeared in such a  big-",
-      "descEN": "Pop sensation Phoebe Bridgers has released a new music video for her latest single, Lost Boys. It features a lovely song but more importantly it features Old School RuneScape - and it's the first time Old School RuneScape has appeared in such a  big-",
-      "date": "26 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
-      "titleEN": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
-      "desc": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
-      "descEN": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
-      "date": "26 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
-    },
-    {
-      "id": "n12",
-      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
-      "titleEN": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
-      "desc": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagra",
-      "descEN": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagra",
-      "date": "26 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
     }
