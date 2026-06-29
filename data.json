@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T10:54:42.933Z",
+  "generatedAt": "2026-06-29T15:42:52.286Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -38,7 +38,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
       "descEN": "NBA 2K26 is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -71,7 +71,7 @@
       "rating": 4,
       "title": "Voidwrought",
       "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "descEN": "Special offer for Voidwrought on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League - Digital Deluxe Edition al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League - Digital Deluxe Edition deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -120,7 +120,7 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Aprovecha la oferta de The Incredible Adventures of Van Helsing Anthology en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -135,6 +135,86 @@
   "news": [
     {
       "id": "n1",
+      "title": "Pokémon TCG Pocket developer DeNA has received 1.5 billion yen in subsidies, sparking debate about whether the studio actually needs the investment",
+      "titleEN": "Pokémon TCG Pocket developer DeNA has received 1.5 billion yen in subsidies, sparking debate about whether the studio actually needs the investment",
+      "desc": "Pok&eacute;mon TCG Pocket isn't what you'd call a 'small game', yet the Japanese government has given developer DeNA a 1.5 billion Yen (or an eye-watering &pound;6,997,500) subsidy to help its mobile game development efforts. Read more",
+      "descEN": "Pok&eacute;mon TCG Pocket isn't what you'd call a 'small game', yet the Japanese government has given developer DeNA a 1.5 billion Yen (or an eye-watering &pound;6,997,500) subsidy to help its mobile game development efforts. Read more",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Nintendo has revealed more about the Splatoon Raiders direct happening tomorrow",
+      "titleEN": "Nintendo has revealed more about the Splatoon Raiders direct happening tomorrow",
+      "desc": "In case you forgot, a new Nintendo Direct is on the way! But before you shake awake your nearest Fire Emblem fan or dust off the Smash Brothers shrine, you should remeber it'll be focused entirely on the upcoming single player adventure game Splatoon",
+      "descEN": "In case you forgot, a new Nintendo Direct is on the way! But before you shake awake your nearest Fire Emblem fan or dust off the Smash Brothers shrine, you should remeber it'll be focused entirely on the upcoming single player adventure game Splatoon",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "People are putting their Steam Machine reservations on eBay, and one has already been sold with a $235 markup",
+      "titleEN": "People are putting their Steam Machine reservations on eBay, and one has already been sold with a $235 markup",
+      "desc": "Valve may have succeeded in preventing scalpers from ruining the launch of the Steam Machine, but the company can't stop people from selling their devices. Or, in this case, their future devices. Read more",
+      "descEN": "Valve may have succeeded in preventing scalpers from ruining the launch of the Steam Machine, but the company can't stop people from selling their devices. Or, in this case, their future devices. Read more",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
+      "title": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
+      "titleEN": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
+      "desc": "Samsung, SK Hynix and Micron - the three largest manufacturers of RAM and fast storage in the world, are being targeted in a class action lawsuit. The lawsuit broadly alleges that all three are involved in price-fixing and intentionally limiting supp",
+      "descEN": "Samsung, SK Hynix and Micron - the three largest manufacturers of RAM and fast storage in the world, are being targeted in a class action lawsuit. The lawsuit broadly alleges that all three are involved in price-fixing and intentionally limiting supp",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "Xbox reportedly stops signing third-party Game Pass deals",
+      "titleEN": "Xbox reportedly stops signing third-party Game Pass deals",
+      "desc": "Microsoft might have hit pause on signing any more third-party Game Pass deals. Presumably it's doing this while restructuring Xbox, as it's reported to be doing, but will it open the cheque book again after? Read more",
+      "descEN": "Microsoft might have hit pause on signing any more third-party Game Pass deals. Presumably it's doing this while restructuring Xbox, as it's reported to be doing, but will it open the cheque book again after? Read more",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
+      "title": "One of Switch's best puzzle games, Suika Game, is getting a PC release soon",
+      "titleEN": "One of Switch's best puzzle games, Suika Game, is getting a PC release soon",
+      "desc": "Suika Game, one of the best-selling Switch games (topping heavy hitters like Minecraft or Link's Awakening), is coming to Steam soon. So consider this a warning: Your free time and backlog are now in grave danger. Read more",
+      "descEN": "Suika Game, one of the best-selling Switch games (topping heavy hitters like Minecraft or Link's Awakening), is coming to Steam soon. So consider this a warning: Your free time and backlog are now in grave danger. Read more",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Ofertas"
+    },
+    {
+      "id": "n7",
+      "title": "Tekken 8 is adding Bob to its roster and players seem pretty hyped, despite the fighting game's mounting struggles",
+      "titleEN": "Tekken 8 is adding Bob to its roster and players seem pretty hyped, despite the fighting game's mounting struggles",
+      "desc": "It's no secret Tekken 8 has been in a tight spot for a good while, despite its strong debut in early 2024. High-profile departures of key staff like Tekken legend Katsuhiro Harada and game director Kohei Ikeda have deepened woes about the game and la",
+      "descEN": "It's no secret Tekken 8 has been in a tight spot for a good while, despite its strong debut in early 2024. High-profile departures of key staff like Tekken legend Katsuhiro Harada and game director Kohei Ikeda have deepened woes about the game and la",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n8",
+      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
+      "titleEN": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
+      "desc": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second. The company updated the official Steam Machine product page to replace \"4K gaming at 60 FPS with FSR\", with \"Up to 4K gaming with FSR 4.1",
+      "descEN": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second. The company updated the official Steam Machine product page to replace \"4K gaming at 60 FPS with FSR\", with \"Up to 4K gaming with FSR 4.1",
+      "date": "29 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Actualización"
+    },
+    {
+      "id": "n9",
       "title": "It looks like PlayStation 6 is going to cost Sony about $1,000 to make, which likely means it will cost more than that at retail",
       "titleEN": "It looks like PlayStation 6 is going to cost Sony about $1,000 to make, which likely means it will cost more than that at retail",
       "desc": "You may be asked to pay at least $1,000 for a PlayStation 6, if a new leak from an industry insider is to be believed. KeplerL2, who has a long-standing track record when it comes to revealing hardware plans from AMD ahead of time, has updated their ",
@@ -144,7 +224,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n2",
+      "id": "n10",
       "title": "Marvel Tokon: Fighting Souls recruits Blade, Deadpool, and Loki for surprising new team, locks open beta for PS5 and PC",
       "titleEN": "Marvel Tokon: Fighting Souls recruits Blade, Deadpool, and Loki for surprising new team, locks open beta for PS5 and PC",
       "desc": "We're less than two months away from Marvel Tokon: Fighting Souls' release on PS5 and PC, and Marvel Games, PlayStation, and developer Arc System Works are ramping up the trailers and new announcements. At Evo 2026, the game's final team has been rev",
@@ -154,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n11",
       "title": "Virtua Fighter Crossroads gets a new trailer for the mysterious Bakunawa Killer - but who are they? Speculation begins",
       "titleEN": "Virtua Fighter Crossroads gets a new trailer for the mysterious Bakunawa Killer - but who are they? Speculation begins",
       "desc": "Virtua Fighter Crossroads - the new mainline instalment in the Virtua Fighter series - got a new character trailer last night, with the mysterious Bakunawa Killer taking the stage as the next roster reveal for the upcoming fighter. Read more",
@@ -164,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n12",
       "title": "A long-buried secret hidden in a cosy game about books made me realise something essential",
       "titleEN": "A long-buried secret hidden in a cosy game about books made me realise something essential",
       "desc": "Hello! Eurogamer is once again marking Pride with a week of features celebrating the intersection of queer culture and gaming in all its guises. Things get underway today as Lottie plays historian in Tiny Bookshop and is moved by what she finds. And ",
@@ -172,86 +252,6 @@
       "date": "29 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n5",
-      "title": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
-      "titleEN": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
-      "desc": "A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers &ndash; that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more",
-      "descEN": "A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers &ndash; that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n6",
-      "title": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet",
-      "titleEN": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet",
-      "desc": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more",
-      "descEN": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n7",
-      "title": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red",
-      "titleEN": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red",
-      "desc": "CD Projekt has rebranded itself as CD Projekt Red &ndash; or CD Projekt Red Sp&oacute;&lstrok;ka Akcyjna, to be precise. Read more",
-      "descEN": "CD Projekt has rebranded itself as CD Projekt Red &ndash; or CD Projekt Red Sp&oacute;&lstrok;ka Akcyjna, to be precise. Read more",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n8",
-      "title": "Kingdom Come: Deliverance 2 sells 6 million copies worldwide",
-      "titleEN": "Kingdom Come: Deliverance 2 sells 6 million copies worldwide",
-      "desc": "Kingdom Come: Deliverance 2 has sold six million copies worldwide. Read more",
-      "descEN": "Kingdom Come: Deliverance 2 has sold six million copies worldwide. Read more",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n9",
-      "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
-      "titleEN": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
-      "desc": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6, claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
-      "descEN": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6, claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n10",
-      "title": "Phasmophobia delays highly-anticipated 1.0 launch to 2027 as it \"prioritises quality over speed\"",
-      "titleEN": "Phasmophobia delays highly-anticipated 1.0 launch to 2027 as it \"prioritises quality over speed\"",
-      "desc": "Phasmophobia maker Kinetic Games has revealed its new roadmap, confirming ghostbusters can expect the reworked Willow Street map by the end of July, \"two major quality-of-life updates\", and confirmation that the hugely anticipated 1.0 release has now",
-      "descEN": "Phasmophobia maker Kinetic Games has revealed its new roadmap, confirming ghostbusters can expect the reworked Willow Street map by the end of July, \"two major quality-of-life updates\", and confirmation that the hugely anticipated 1.0 release has now",
-      "date": "28 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Star Wars Eclipse \"literally cannot be finished\" without more staff, insist striking Quantic Dream developers",
-      "titleEN": "Star Wars Eclipse \"literally cannot be finished\" without more staff, insist striking Quantic Dream developers",
-      "desc": "Striking staff at Quantic Dream have warned that if the studio proceeds with its plans to lay off 115 developers, its upcoming Star Wars Eclipse game \"literally cannot be finished\". Read more",
-      "descEN": "Striking staff at Quantic Dream have warned that if the studio proceeds with its plans to lay off 115 developers, its upcoming Star Wars Eclipse game \"literally cannot be finished\". Read more",
-      "date": "27 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Viral hide-and-seek indie hit Meccha Chameleon sells 10m copies in just 16 days",
-      "titleEN": "Viral hide-and-seek indie hit Meccha Chameleon sells 10m copies in just 16 days",
-      "desc": "Just five days ago, we reported that indie hide-and-seek game Meccha Chameleon had sold seven million copies since its release on 10th June, and now it's topped another staggering milestone: 10 million copies sold. Read more",
-      "descEN": "Just five days ago, we reported that indie hide-and-seek game Meccha Chameleon had sold seven million copies since its release on 10th June, and now it's topped another staggering milestone: 10 million copies sold. Read more",
-      "date": "27 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
     }
   ]
 }
