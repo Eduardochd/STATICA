@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-30T14:14:50.763Z",
+  "generatedAt": "2026-06-30T19:53:50.128Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Thank You For Your Application is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Encuentra Unrailed 2: Back on Track al mejor precio en Steam. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -38,8 +38,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -70,8 +70,8 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Oferta especial de Voidwrought en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Voidwrought on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Voidwrought en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
       "desc": "Oferta especial de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -120,8 +120,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "Epic",
@@ -135,6 +135,36 @@
   "news": [
     {
       "id": "n1",
+      "title": "The Elder Scrolls 4: Oblivion Remastered's physical Switch 2 release has the full game on a cartridge, and we've finally got a release date, too",
+      "titleEN": "The Elder Scrolls 4: Oblivion Remastered's physical Switch 2 release has the full game on a cartridge, and we've finally got a release date, too",
+      "desc": "The Elder Scrolls 4: Oblivion Remastered was one of 2025's biggest hits after a sudden shadow drop, especially in the United States, which is encouraging news if you (like me) are still waiting for Fallout 3 and New Vegas refreshes. Before that happe",
+      "descEN": "The Elder Scrolls 4: Oblivion Remastered was one of 2025's biggest hits after a sudden shadow drop, especially in the United States, which is encouraging news if you (like me) are still waiting for Fallout 3 and New Vegas refreshes. Before that happe",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
+      "titleEN": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
+      "desc": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June, the game has shot to the top of the various PS Stores worldwide. Read more",
+      "descEN": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June, the game has shot to the top of the various PS Stores worldwide. Read more",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
+      "titleEN": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
+      "desc": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles, and ",
+      "descEN": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles, and ",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
       "title": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
       "titleEN": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
       "desc": "Grand Theft Auto 6 has finally locked its 19th November release date and pre-orders are now open. It should be cause for celebration, but with the lack of a proper physical release and after the firing of employees last year (a move considered to be ",
@@ -144,7 +174,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "\"I would fail, and here's why I would fail\" Why Baldur's Gate 2 co-lead turned down Hasbro's request to make Baldur's Gate 4",
       "titleEN": "\"I would fail, and here's why I would fail\" Why Baldur's Gate 2 co-lead turned down Hasbro's request to make Baldur's Gate 4",
       "desc": "After Baldur's Gate 3 developer Larian passed on the opportunity to make a sequel, brand owner Hasbro/Wizards of the Coast went looking for someone else to do it. And, as it turns out, the company already works with some of the leads behind Baldur's ",
@@ -154,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "Koei Tecmo's next project is a new IP that's just been revealed… by the Japanese government",
       "titleEN": "Koei Tecmo's next project is a new IP that's just been revealed… by the Japanese government",
       "desc": "Koei Tecmo, the Japanese publisher behind many popular action game series, is apparently working on a brand new project. Koei Tecmo publishes and develops Nioh, Dynasty Warriors, Ninja Gaiden, Dead or Alive and others. Read more",
@@ -164,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "Assassin's Creed Black Flag Resynced details PS5 performance targets and features, with the Pro console getting extra love and 60 FPS across the board",
       "titleEN": "Assassin's Creed Black Flag Resynced details PS5 performance targets and features, with the Pro console getting extra love and 60 FPS across the board",
       "desc": "After a short wait, Assassin's Creed Black Flag Resynced is almost here. Its summer release date might feel strange looking at other recent entries in the series, but we all know the latter part of 2026 is abnormally busy. Plus... a pirate game is a ",
@@ -174,7 +204,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "No more selling PlayStation hardware at \"significant\" loss, says Sony, as everyone braces for a PS6 console that costs over $1,000",
       "titleEN": "No more selling PlayStation hardware at \"significant\" loss, says Sony, as everyone braces for a PS6 console that costs over $1,000",
       "desc": "Sony has seemingly begun setting expectations for how it plans to handle pricing of its PlayStation hardware going forward. The platform holder has revealed that it does not intend on taking significant hits to profits to absorb some of the balloonin",
@@ -184,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "Somewhere between QWOP and Tekken, Stranger Than Heaven has one of the most interesting combat systems I've played in some time",
       "titleEN": "Somewhere between QWOP and Tekken, Stranger Than Heaven has one of the most interesting combat systems I've played in some time",
       "desc": "The word going around Summer Game Fest this year was that Stranger Than Heaven was tougher than nails. And having played it I can confirm that it is. Until it isn't. Stranger Than Heaven is frightfully hard to get your head around for the first few m",
@@ -194,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
       "titleEN": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
       "desc": "Onimusha: Way of the Sword is one of many, many games due to launch in the September/October 2026 period in 2026. As developers and publishers flee as far away from GTA 6 black hole as they possibly can, the resultant squeeze in the earlier (or later",
@@ -204,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen",
       "titleEN": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen",
       "desc": "The Nintendo Switch 2 is an impressive piece of hardware we mostly love, but some players have complained over time about its LCD screen's shortcomings. Now, we've learned some changes could be coming soon with a subtle redesign of its panel. Read mo",
@@ -214,7 +244,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs",
       "titleEN": "Xbox is reportedly considering closing State of Decay developer Undead Labs",
       "desc": "Undead Labs, the team behind the State of Decay series, was revealed to be among the Microsoft-owned studios under threat of closure. Undead Labs is currently working on survival shooter and management sim State of Decay 3, and the game was part of t",
@@ -222,36 +252,6 @@
       "date": "30 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n10",
-      "title": "How games can \"queer the concept of time\" - and help us explore, interrogate, and reinvent our relationship with life's many milestones",
-      "titleEN": "How games can \"queer the concept of time\" - and help us explore, interrogate, and reinvent our relationship with life's many milestones",
-      "desc": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Khee Hoon Chan investigates the concept of queer time and how it's being explored in video games. To catch up on everything you might have",
-      "descEN": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Khee Hoon Chan investigates the concept of queer time and how it's being explored in video games. To catch up on everything you might have",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "Company that made a Steam Machine wrap based on Valve intellectual property without asking forced to take it down",
-      "titleEN": "Company that made a Steam Machine wrap based on Valve intellectual property without asking forced to take it down",
-      "desc": "Dbrand, a company known for making phone cases and vinyl wraps for electronic devices, will not be shipping the Companion Cube wrap it announced for the Steam Machine. Concept art for the project was initially shared on social media shortly after the",
-      "descEN": "Dbrand, a company known for making phone cases and vinyl wraps for electronic devices, will not be shipping the Companion Cube wrap it announced for the Steam Machine. Concept art for the project was initially shared on social media shortly after the",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "The Binding of Isaac: Rebirth hits a new concurrent player record on Steam 12 years after it was released",
-      "titleEN": "The Binding of Isaac: Rebirth hits a new concurrent player record on Steam 12 years after it was released",
-      "desc": "The Binding of Isaac: Rebirth is one of those indie games - much like Terraria - that's refused to stop growing since its birth more than a decade ago. Fast-forward to 2026 and an astonishingly good Steam Summer Sale discount has elevated it to new h",
-      "descEN": "The Binding of Isaac: Rebirth is one of those indie games - much like Terraria - that's refused to stop growing since its birth more than a decade ago. Fast-forward to 2026 and an astonishingly good Steam Summer Sale discount has elevated it to new h",
-      "date": "29 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
