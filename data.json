@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-30T03:30:56.046Z",
+  "generatedAt": "2026-06-30T09:31:55.552Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find Thank You For Your Application at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Oferta especial de Unrailed 2: Back on Track en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Find Unrailed 2: Back on Track at the best price on Steam. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -38,8 +38,8 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "NBA 2K26 is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de NBA 2K26 en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Oferta especial de Suicide Squad: Kill the Justice League en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GOG",
@@ -70,8 +70,8 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Oferta especial de Voidwrought en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Voidwrought en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -87,7 +87,7 @@
       "rating": 4,
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League - Digital Deluxe Edition en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League - Digital Deluxe Edition on GOG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League - Digital Deluxe Edition deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -120,7 +120,7 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -135,6 +135,36 @@
   "news": [
     {
       "id": "n1",
+      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs",
+      "titleEN": "Xbox is reportedly considering closing State of Decay developer Undead Labs",
+      "desc": "Undead Labs, the team behind the State of Decay series, was revealed to be among the Microsoft-owned studios under threat of closure. Undead Labs is currently working on survival shooter and management sim State of Decay 3, and the game was part of t",
+      "descEN": "Undead Labs, the team behind the State of Decay series, was revealed to be among the Microsoft-owned studios under threat of closure. Undead Labs is currently working on survival shooter and management sim State of Decay 3, and the game was part of t",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "How games can \"queer the concept of time\" - and help us explore, interrogate, and reinvent our relationship with life's many milestones",
+      "titleEN": "How games can \"queer the concept of time\" - and help us explore, interrogate, and reinvent our relationship with life's many milestones",
+      "desc": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Khee Hoon Chan investigates the concept of queer time and how it's being explored in video games. To catch up on everything you might have",
+      "descEN": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Khee Hoon Chan investigates the concept of queer time and how it's being explored in video games. To catch up on everything you might have",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "Company that made a Steam Machine wrap based on Valve intellectual property without asking forced to take it down",
+      "titleEN": "Company that made a Steam Machine wrap based on Valve intellectual property without asking forced to take it down",
+      "desc": "Dbrand, a company known for making phone cases and vinyl wraps for electronic devices, will not be shipping the Companion Cube wrap it announced for the Steam Machine. Concept art for the project was initially shared on social media shortly after the",
+      "descEN": "Dbrand, a company known for making phone cases and vinyl wraps for electronic devices, will not be shipping the Companion Cube wrap it announced for the Steam Machine. Concept art for the project was initially shared on social media shortly after the",
+      "date": "30 de junio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n4",
       "title": "The Binding of Isaac: Rebirth hits a new concurrent player record on Steam 12 years after it was released",
       "titleEN": "The Binding of Isaac: Rebirth hits a new concurrent player record on Steam 12 years after it was released",
       "desc": "The Binding of Isaac: Rebirth is one of those indie games - much like Terraria - that's refused to stop growing since its birth more than a decade ago. Fast-forward to 2026 and an astonishingly good Steam Summer Sale discount has elevated it to new h",
@@ -144,7 +174,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n2",
+      "id": "n5",
       "title": "Netflix's Cyberpunk Edgerunners Season 2 gets a first trailer, starring a character with perhaps the biggest death-flag of all time",
       "titleEN": "Netflix's Cyberpunk Edgerunners Season 2 gets a first trailer, starring a character with perhaps the biggest death-flag of all time",
       "desc": "A trailer for the second series of Netflix's animated Cyberpunk television series Edgerunners has been released at long last, giving us the first proper look at the new cast of characters and their adventures through Night City. Read more",
@@ -154,7 +184,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n3",
+      "id": "n6",
       "title": "Pokémon TCG Pocket developer DeNA has received 1.5 billion yen in subsidies, sparking debate about whether the studio actually needs the investment",
       "titleEN": "Pokémon TCG Pocket developer DeNA has received 1.5 billion yen in subsidies, sparking debate about whether the studio actually needs the investment",
       "desc": "Pok&eacute;mon TCG Pocket isn't what you'd call a 'small game', yet the Japanese government has given developer DeNA a 1.5 billion Yen (or an eye-watering &pound;6,997,500) subsidy to help its mobile game development efforts. Read more",
@@ -164,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n4",
+      "id": "n7",
       "title": "Nintendo has revealed more about the Splatoon Raiders direct happening tomorrow",
       "titleEN": "Nintendo has revealed more about the Splatoon Raiders direct happening tomorrow",
       "desc": "In case you forgot, a new Nintendo Direct is on the way! But before you shake awake your nearest Fire Emblem fan or dust off the Smash Brothers shrine, you should remeber it'll be focused entirely on the upcoming single player adventure game Splatoon",
@@ -174,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n8",
       "title": "People are putting their Steam Machine reservations on eBay, and one has already been sold with a $235 markup",
       "titleEN": "People are putting their Steam Machine reservations on eBay, and one has already been sold with a $235 markup",
       "desc": "Valve may have succeeded in preventing scalpers from ruining the launch of the Steam Machine, but the company can't stop people from selling their devices. Or, in this case, their future devices. Read more",
@@ -184,7 +214,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n9",
       "title": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
       "titleEN": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
       "desc": "Samsung, SK Hynix and Micron - the three largest manufacturers of RAM and fast storage in the world, are being targeted in a class action lawsuit. The lawsuit broadly alleges that all three are involved in price-fixing and intentionally limiting supp",
@@ -194,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n10",
       "title": "Xbox reportedly stops signing third-party Game Pass deals",
       "titleEN": "Xbox reportedly stops signing third-party Game Pass deals",
       "desc": "UPDATE 5PM BST: I contacted Fernando Rizo to see if I could find out more about what he shared on his podcast. In response, Rizo said: \"I definitely don't want to oversell what I know - not privy to any internal Microsoft conversations. But I had spo",
@@ -204,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n11",
       "title": "One of Switch's best puzzle games, Suika Game, is getting a PC release soon",
       "titleEN": "One of Switch's best puzzle games, Suika Game, is getting a PC release soon",
       "desc": "Suika Game, one of the best-selling Switch games (topping heavy hitters like Minecraft or Link's Awakening), is coming to Steam soon. So consider this a warning: Your free time and backlog are now in grave danger. Read more",
@@ -214,7 +244,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n9",
+      "id": "n12",
       "title": "Tekken 8 is adding Bob to its roster and players seem pretty hyped, despite the fighting game's mounting struggles",
       "titleEN": "Tekken 8 is adding Bob to its roster and players seem pretty hyped, despite the fighting game's mounting struggles",
       "desc": "It's no secret Tekken 8 has been in a tight spot for a good while, despite its strong debut in early 2024. High-profile departures of key staff like Tekken legend Katsuhiro Harada and game director Kohei Ikeda have deepened woes about the game and la",
@@ -222,36 +252,6 @@
       "date": "29 de junio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
-      "titleEN": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
-      "desc": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second. The company updated the official Steam Machine product page to replace \"4K gaming at 60 FPS with FSR\", with \"Up to 4K gaming with FSR 4.1",
-      "descEN": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second. The company updated the official Steam Machine product page to replace \"4K gaming at 60 FPS with FSR\", with \"Up to 4K gaming with FSR 4.1",
-      "date": "29 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "It looks like PlayStation 6 is going to cost Sony about $1,000 to make, which likely means it will cost more than that at retail",
-      "titleEN": "It looks like PlayStation 6 is going to cost Sony about $1,000 to make, which likely means it will cost more than that at retail",
-      "desc": "You may be asked to pay at least $1,000 for a PlayStation 6, if a new leak from an industry insider is to be believed. KeplerL2, who has a long-standing track record when it comes to revealing hardware plans from AMD ahead of time, has updated their ",
-      "descEN": "You may be asked to pay at least $1,000 for a PlayStation 6, if a new leak from an industry insider is to be believed. KeplerL2, who has a long-standing track record when it comes to revealing hardware plans from AMD ahead of time, has updated their ",
-      "date": "29 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Récord"
-    },
-    {
-      "id": "n12",
-      "title": "Marvel Tokon: Fighting Souls recruits Blade, Deadpool, and Loki for surprising new team, locks open beta for PS5 and PC",
-      "titleEN": "Marvel Tokon: Fighting Souls recruits Blade, Deadpool, and Loki for surprising new team, locks open beta for PS5 and PC",
-      "desc": "We're less than two months away from Marvel Tokon: Fighting Souls' release on PS5 and PC, and Marvel Games, PlayStation, and developer Arc System Works are ramping up the trailers and new announcements. At Evo 2026, the game's final team has been rev",
-      "descEN": "We're less than two months away from Marvel Tokon: Fighting Souls' release on PS5 and PC, and Marvel Games, PlayStation, and developer Arc System Works are ramping up the trailers and new announcements. At Evo 2026, the game's final team has been rev",
-      "date": "29 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
     }
   ]
 }
