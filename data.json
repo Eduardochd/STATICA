@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-01T09:42:15.656Z",
+  "generatedAt": "2026-07-01T14:31:24.844Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Aprovecha la oferta de Thank You For Your Application en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Thank You For Your Application is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -22,8 +22,8 @@
       "steamAppId": 2211170,
       "rating": 4,
       "title": "Unrailed 2: Back on Track",
-      "desc": "Unrailed 2: Back on Track está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Unrailed 2: Back on Track deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -39,7 +39,7 @@
       "rating": 4,
       "title": "NBA 2K26",
       "desc": "Encuentra NBA 2K26 al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Take advantage of the NBA 2K26 deal on GOG. A great game at an incredible price, available for a limited time.",
+      "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
+      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "GOG",
@@ -70,8 +70,8 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Aprovecha la oferta de Voidwrought en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Back 4 Blood: Ultimate Edition",
-      "desc": "Oferta especial de Back 4 Blood: Ultimate Edition en GMG. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Back 4 Blood: Ultimate Edition is on sale on GMG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -120,8 +120,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Encuentra The Incredible Adventures of Van Helsing Anthology al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -135,6 +135,56 @@
   "news": [
     {
       "id": "n1",
+      "title": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
+      "titleEN": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
+      "desc": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
+      "descEN": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
+      "title": "Sony announces an end to the PS3 and Vita digital stores",
+      "titleEN": "Sony announces an end to the PS3 and Vita digital stores",
+      "desc": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
+      "descEN": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
+      "titleEN": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
+      "desc": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
+      "descEN": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Rhythm Paradise Groove review",
+      "titleEN": "Rhythm Paradise Groove review",
+      "desc": "The beat-matching classic returns in fine voice. Read more",
+      "descEN": "The beat-matching classic returns in fine voice. Read more",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n5",
+      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
+      "titleEN": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
+      "desc": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
+      "descEN": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n6",
       "title": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "titleEN": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "desc": "For the second time in a month, Battlefield Studios has altered the in-game language explaining how Battlefield 6 XP Boosters work, only to renege and claim it was done in error. This time, however, it's made players even more aggravated because of t",
@@ -144,7 +194,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n2",
+      "id": "n7",
       "title": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
       "titleEN": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
       "desc": "With Persona 4 Revival and Persona 6 on the horizon, fans of the long-running RPG series will be eating well in the near future, but a live-action Netflix show might be a more divisive offering. Read more",
@@ -154,7 +204,7 @@
       "tag": "Ofertas"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "007 First Light studio IOI facing layoffs as Xbox pulls funding for Project Fantasy RPG",
       "titleEN": "007 First Light studio IOI facing layoffs as Xbox pulls funding for Project Fantasy RPG",
       "desc": "Xbox has pulled out of a deal to fund and publish the online fantasy RPG - Project Fantasy - that's in development at Hitman and 007 First Light developer IO Interactive. Read more",
@@ -164,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "Developers at a Ubisoft studio have gone on strike in response to the publisher's latest round of sweeping layoffs",
       "titleEN": "Developers at a Ubisoft studio have gone on strike in response to the publisher's latest round of sweeping layoffs",
       "desc": "Developers at Ubisoft Barcelona - which works on Rainbow Six: Siege following recent company restructuring - have gone on strike. Read more",
@@ -174,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "Revisiting Haven, the RPG update that turned a straight love story gay - and made it better as a result",
       "titleEN": "Revisiting Haven, the RPG update that turned a straight love story gay - and made it better as a result",
       "desc": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Kaan Serin explores how the acclaimed Haven found new meaning when it introduced the option to gender swap its leads two years after launc",
@@ -184,7 +234,7 @@
       "tag": "Actualización"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "Dishonored developer Arkane is reportedly one of five studios Microsoft is targeting to close down as part of its big 'reset'",
       "titleEN": "Dishonored developer Arkane is reportedly one of five studios Microsoft is targeting to close down as part of its big 'reset'",
       "desc": "Arkane Studios, the developer behind the Dishonored series and the upcoming Blade, is among the studios Microsoft is currently considering closing down. That's according to a new report from The Verge, citing sources familiar with the plan. Read more",
@@ -194,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "PS5's latest firmware update just started rolling out, here's what you need to know",
       "titleEN": "PS5's latest firmware update just started rolling out, here's what you need to know",
       "desc": "It's that time of the month again: Sony has begun sending out a new PS5 system software update for users of both the base model and the PS5 Pro, and (like previous updates) it appears to be rolling out in via a phased release. Read more",
@@ -202,56 +252,6 @@
       "date": "1 de julio de 2026",
       "source": "eurogamer.net",
       "tag": "Actualización"
-    },
-    {
-      "id": "n8",
-      "title": "The Elder Scrolls 4: Oblivion Remastered's physical Switch 2 release has the full game on a cartridge, and we've finally got a release date, too",
-      "titleEN": "The Elder Scrolls 4: Oblivion Remastered's physical Switch 2 release has the full game on a cartridge, and we've finally got a release date, too",
-      "desc": "The Elder Scrolls 4: Oblivion Remastered was one of 2025's biggest hits after a sudden shadow drop, especially in the United States, which is encouraging news if you (like me) are still waiting for Fallout 3 and New Vegas refreshes. Before that happe",
-      "descEN": "The Elder Scrolls 4: Oblivion Remastered was one of 2025's biggest hits after a sudden shadow drop, especially in the United States, which is encouraging news if you (like me) are still waiting for Fallout 3 and New Vegas refreshes. Before that happe",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n9",
-      "title": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
-      "titleEN": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
-      "desc": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June, the game has shot to the top of the various PS Stores worldwide. Read more",
-      "descEN": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June, the game has shot to the top of the various PS Stores worldwide. Read more",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n10",
-      "title": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
-      "titleEN": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
-      "desc": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles, and ",
-      "descEN": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles, and ",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n11",
-      "title": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
-      "titleEN": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
-      "desc": "Grand Theft Auto 6 has finally locked its 19th November release date and pre-orders are now open. It should be cause for celebration, but with the lack of a proper physical release and after the firing of employees last year (a move considered to be ",
-      "descEN": "Grand Theft Auto 6 has finally locked its 19th November release date and pre-orders are now open. It should be cause for celebration, but with the lack of a proper physical release and after the firing of employees last year (a move considered to be ",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "\"I would fail, and here's why I would fail\" Why Baldur's Gate 2 co-lead turned down Hasbro's request to make Baldur's Gate 4",
-      "titleEN": "\"I would fail, and here's why I would fail\" Why Baldur's Gate 2 co-lead turned down Hasbro's request to make Baldur's Gate 4",
-      "desc": "After Baldur's Gate 3 developer Larian passed on the opportunity to make a sequel, brand owner Hasbro/Wizards of the Coast went looking for someone else to do it. And, as it turns out, the company already works with some of the leads behind Baldur's ",
-      "descEN": "After Baldur's Gate 3 developer Larian passed on the opportunity to make a sequel, brand owner Hasbro/Wizards of the Coast went looking for someone else to do it. And, as it turns out, the company already works with some of the leads behind Baldur's ",
-      "date": "30 de junio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
