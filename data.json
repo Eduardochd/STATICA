@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-01T14:31:24.844Z",
+  "generatedAt": "2026-07-01T19:52:04.752Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Aprovecha la oferta de Thank You For Your Application en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Thank You For Your Application is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
@@ -54,8 +54,8 @@
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
-      "desc": "Suicide Squad: Kill the Justice League está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Suicide Squad: Kill the Justice League is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Encuentra Suicide Squad: Kill the Justice League al mejor precio en GOG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -70,8 +70,8 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Voidwrought está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Voidwrought is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Epic",
@@ -86,8 +86,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Back 4 Blood: Ultimate Edition",
-      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Back 4 Blood: Ultimate Edition está en oferta en GMG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Special offer for Back 4 Blood: Ultimate Edition on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -120,8 +120,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "The Incredible Adventures of Van Helsing Anthology is on sale on Epic. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "The Incredible Adventures of Van Helsing Anthology está en oferta en Epic. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
+      "descEN": "Take advantage of the The Incredible Adventures of Van Helsing Anthology deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -135,6 +135,56 @@
   "news": [
     {
       "id": "n1",
+      "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
+      "titleEN": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
+      "desc": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel. If you've been keeping tabs on its long development, however, you kno",
+      "descEN": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel. If you've been keeping tabs on its long development, however, you kno",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Récord"
+    },
+    {
+      "id": "n2",
+      "title": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
+      "titleEN": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
+      "desc": "Today, Sony announced that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" for the reason it's going all-in on digital. The reaction, unsurprisingly, has been pretty bad across the interne",
+      "descEN": "Today, Sony announced that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" for the reason it's going all-in on digital. The reaction, unsurprisingly, has been pretty bad across the interne",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n3",
+      "title": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
+      "titleEN": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
+      "desc": "Sony just announced its shocking decision to end the manufacturing of discs for all PlayStation games beginning January 2028. Although the company's announcement does not touch on its next-generation console, the announcement tells us a lot about the",
+      "descEN": "Sony just announced its shocking decision to end the manufacturing of discs for all PlayStation games beginning January 2028. Although the company's announcement does not touch on its next-generation console, the announcement tells us a lot about the",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
+      "titleEN": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
+      "desc": "Nintendo just released a new update for Mario Kart World on Switch 2 that added some fresh races alongside other features. The update, version 1.7.0, chiefly expands the number of available Knockout Tour routes with the addition of Drill Rally and Bo",
+      "descEN": "Nintendo just released a new update for Mario Kart World on Switch 2 that added some fresh races alongside other features. The update, version 1.7.0, chiefly expands the number of available Knockout Tour routes with the addition of Drill Rally and Bo",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
+      "titleEN": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
+      "desc": "Last year's Tomb Raider (2013) Nintendo Switch 1/2 port didn't get off to a smooth start, with some long-time fans declaring it a subpar refresh of the modern action-adventure classic. Over time, however, Aspyr has whipped it into shape. Now, a true ",
+      "descEN": "Last year's Tomb Raider (2013) Nintendo Switch 1/2 port didn't get off to a smooth start, with some long-time fans declaring it a subpar refresh of the modern action-adventure classic. Over time, however, Aspyr has whipped it into shape. Now, a true ",
+      "date": "1 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
       "title": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
       "titleEN": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
       "desc": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
@@ -144,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n7",
       "title": "Sony announces an end to the PS3 and Vita digital stores",
       "titleEN": "Sony announces an end to the PS3 and Vita digital stores",
       "desc": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
@@ -154,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n8",
       "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
       "titleEN": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
       "desc": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
@@ -164,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n9",
       "title": "Rhythm Paradise Groove review",
       "titleEN": "Rhythm Paradise Groove review",
       "desc": "The beat-matching classic returns in fine voice. Read more",
@@ -174,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n5",
+      "id": "n10",
       "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
       "titleEN": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
       "desc": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
@@ -184,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n6",
+      "id": "n11",
       "title": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "titleEN": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "desc": "For the second time in a month, Battlefield Studios has altered the in-game language explaining how Battlefield 6 XP Boosters work, only to renege and claim it was done in error. This time, however, it's made players even more aggravated because of t",
@@ -194,7 +244,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n7",
+      "id": "n12",
       "title": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
       "titleEN": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
       "desc": "With Persona 4 Revival and Persona 6 on the horizon, fans of the long-running RPG series will be eating well in the near future, but a live-action Netflix show might be a more divisive offering. Read more",
@@ -202,56 +252,6 @@
       "date": "1 de julio de 2026",
       "source": "eurogamer.net",
       "tag": "Ofertas"
-    },
-    {
-      "id": "n8",
-      "title": "007 First Light studio IOI facing layoffs as Xbox pulls funding for Project Fantasy RPG",
-      "titleEN": "007 First Light studio IOI facing layoffs as Xbox pulls funding for Project Fantasy RPG",
-      "desc": "Xbox has pulled out of a deal to fund and publish the online fantasy RPG - Project Fantasy - that's in development at Hitman and 007 First Light developer IO Interactive. Read more",
-      "descEN": "Xbox has pulled out of a deal to fund and publish the online fantasy RPG - Project Fantasy - that's in development at Hitman and 007 First Light developer IO Interactive. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Developers at a Ubisoft studio have gone on strike in response to the publisher's latest round of sweeping layoffs",
-      "titleEN": "Developers at a Ubisoft studio have gone on strike in response to the publisher's latest round of sweeping layoffs",
-      "desc": "Developers at Ubisoft Barcelona - which works on Rainbow Six: Siege following recent company restructuring - have gone on strike. Read more",
-      "descEN": "Developers at Ubisoft Barcelona - which works on Rainbow Six: Siege following recent company restructuring - have gone on strike. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n10",
-      "title": "Revisiting Haven, the RPG update that turned a straight love story gay - and made it better as a result",
-      "titleEN": "Revisiting Haven, the RPG update that turned a straight love story gay - and made it better as a result",
-      "desc": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Kaan Serin explores how the acclaimed Haven found new meaning when it introduced the option to gender swap its leads two years after launc",
-      "descEN": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Kaan Serin explores how the acclaimed Haven found new meaning when it introduced the option to gender swap its leads two years after launc",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
-    },
-    {
-      "id": "n11",
-      "title": "Dishonored developer Arkane is reportedly one of five studios Microsoft is targeting to close down as part of its big 'reset'",
-      "titleEN": "Dishonored developer Arkane is reportedly one of five studios Microsoft is targeting to close down as part of its big 'reset'",
-      "desc": "Arkane Studios, the developer behind the Dishonored series and the upcoming Blade, is among the studios Microsoft is currently considering closing down. That's according to a new report from The Verge, citing sources familiar with the plan. Read more",
-      "descEN": "Arkane Studios, the developer behind the Dishonored series and the upcoming Blade, is among the studios Microsoft is currently considering closing down. That's according to a new report from The Verge, citing sources familiar with the plan. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "PS5's latest firmware update just started rolling out, here's what you need to know",
-      "titleEN": "PS5's latest firmware update just started rolling out, here's what you need to know",
-      "desc": "It's that time of the month again: Sony has begun sending out a new PS5 system software update for users of both the base model and the PS5 Pro, and (like previous updates) it appears to be rolling out in via a phased release. Read more",
-      "descEN": "It's that time of the month again: Sony has begun sending out a new PS5 system software update for users of both the base model and the PS5 Pro, and (like previous updates) it appears to be rolling out in via a phased release. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Actualización"
     }
   ]
 }
