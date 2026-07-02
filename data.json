@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-02T08:53:40.678Z",
+  "generatedAt": "2026-07-02T13:56:05.980Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
+      "desc": "Aprovecha la oferta de Thank You For Your Application en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Thank You For Your Application is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
       "deals": [
         {
           "store": "Steam",
@@ -22,7 +22,7 @@
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "Oferta especial de NBA 2K26 en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
       "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
@@ -39,7 +39,7 @@
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
+      "descEN": "Take advantage of the Suicide Squad: Kill the Justice League deal on GOG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GOG",
@@ -54,7 +54,7 @@
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "desc": "Oferta especial de Voidwrought en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
       "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
@@ -70,8 +70,8 @@
       "steamAppId": null,
       "rating": 4,
       "title": "Back 4 Blood: Ultimate Edition",
-      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
+      "desc": "Encuentra Back 4 Blood: Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Special offer for Back 4 Blood: Ultimate Edition on GMG. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
           "store": "GMG",
@@ -110,8 +110,8 @@
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Aprovecha la oferta de The Incredible Adventures of Van Helsing Anthology en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find The Incredible Adventures of Van Helsing Anthology at the best price on Epic. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "Epic",
@@ -125,6 +125,66 @@
   "news": [
     {
       "id": "n1",
+      "title": "Sony kills game ownership and says it's all your fault",
+      "titleEN": "Sony kills game ownership and says it's all your fault",
+      "desc": "When I wrote, barely six weeks ago, that I liked to occasionally re-read Tom Bramwell's \"Microsoft kills game ownership and expects us to smile\" editorial to remind me what it's all about, I didn't mean I wanted to actually re-write a tribute act ver",
+      "descEN": "When I wrote, barely six weeks ago, that I liked to occasionally re-read Tom Bramwell's \"Microsoft kills game ownership and expects us to smile\" editorial to remind me what it's all about, I didn't mean I wanted to actually re-write a tribute act ver",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n2",
+      "title": "Capcom pushes forward Onimusha: Way of the Sword release date just days after devs stated they're not afraid of September's busy schedule",
+      "titleEN": "Capcom pushes forward Onimusha: Way of the Sword release date just days after devs stated they're not afraid of September's busy schedule",
+      "desc": "Capcom has today announced a new release date for Onimusha: Way of the Sword, the upcoming sequel in the dormant action series. The game will now be releasing on 4th September, three weeks earlier than the previously-announced 25th September release ",
+      "descEN": "Capcom has today announced a new release date for Onimusha: Way of the Sword, the upcoming sequel in the dormant action series. The game will now be releasing on 4th September, three weeks earlier than the previously-announced 25th September release ",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n3",
+      "title": "\"RIP PLAYSTATION 1994-2026\" - Players are flocking to Sony's old PS4 anti-DRM video in the wake of its shock decision to scrap physical games",
+      "titleEN": "\"RIP PLAYSTATION 1994-2026\" - Players are flocking to Sony's old PS4 anti-DRM video in the wake of its shock decision to scrap physical games",
+      "desc": "Yesterday, Sony stunned the games industry by announcing that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason for the shift towards an all-digital future. We've already seen ",
+      "descEN": "Yesterday, Sony stunned the games industry by announcing that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason for the shift towards an all-digital future. We've already seen ",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n4",
+      "title": "\"We are profoundly disappointed\" - boutique special edition game makers react to PlayStation's discless future",
+      "titleEN": "\"We are profoundly disappointed\" - boutique special edition game makers react to PlayStation's discless future",
+      "desc": "Boutique special edition game makers - which produce high-quality collector's editions for passionate fans - have come out to protest Sony's decision to end production of discs for physical games . Read more",
+      "descEN": "Boutique special edition game makers - which produce high-quality collector's editions for passionate fans - have come out to protest Sony's decision to end production of discs for physical games . Read more",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n5",
+      "title": "Hideo Kojima's experimental Xbox exclusive, OD, is reportedly safe from Microsoft cuts",
+      "titleEN": "Hideo Kojima's experimental Xbox exclusive, OD, is reportedly safe from Microsoft cuts",
+      "desc": "Xbox will continue to publish OD, the upcoming horror title from Hideo Kojima. The experimental project, which was announced in late 2023, will survive the cuts and cancellations currently being made at Xbox as the division charts a path towards prof",
+      "descEN": "Xbox will continue to publish OD, the upcoming horror title from Hideo Kojima. The experimental project, which was announced in late 2023, will survive the cuts and cancellations currently being made at Xbox as the division charts a path towards prof",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n6",
+      "title": "The surprising queerness of Elden Ring",
+      "titleEN": "The surprising queerness of Elden Ring",
+      "desc": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Kelsey Raynor discovers a very different Elden Ring to the one they were expecting. And you can visit our Pride Week hub to catch up on Pr",
+      "descEN": "Hello! Eurogamer's week of features celebrating the intersection of queer culture and gaming continues today as Kelsey Raynor discovers a very different Elden Ring to the one they were expecting. And you can visit our Pride Week hub to catch up on Pr",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Noticia"
+    },
+    {
+      "id": "n7",
       "title": "Xbox reportedly to follow PlayStation's example and ditch discs for next-gen console Project Helix",
       "titleEN": "Xbox reportedly to follow PlayStation's example and ditch discs for next-gen console Project Helix",
       "desc": "Microsoft is reportedly going to follow Sony's example with Project Helix and not include a disc drive with it, according to a new report. Microsoft is also said to be working on a way to grant digital licenses for games to people who already own a g",
@@ -134,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n2",
+      "id": "n8",
       "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
       "titleEN": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
       "desc": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel. If you've been keeping tabs on its long development, however, you kno",
@@ -144,7 +204,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n3",
+      "id": "n9",
       "title": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
       "titleEN": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
       "desc": "Today, Sony announced that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" for the reason it's going all-in on digital. The reaction, unsurprisingly, has been pretty bad across the interne",
@@ -154,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n10",
       "title": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
       "titleEN": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
       "desc": "Sony just announced its shocking decision to end the manufacturing of discs for all PlayStation games beginning January 2028. Although the company's announcement does not touch on its next-generation console, the announcement tells us a lot about the",
@@ -164,7 +224,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n11",
       "title": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
       "titleEN": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
       "desc": "Nintendo just released a new update for Mario Kart World on Switch 2 that added some fresh races alongside other features. The update, version 1.7.0, chiefly expands the number of available Knockout Tour routes with the addition of Drill Rally and Bo",
@@ -174,7 +234,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n12",
       "title": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
       "titleEN": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
       "desc": "Last year's Tomb Raider (2013) Nintendo Switch 1/2 port didn't get off to a smooth start, with some long-time fans declaring it a subpar refresh of the modern action-adventure classic. Over time, however, Aspyr has whipped it into shape. Now, a true ",
@@ -182,66 +242,6 @@
       "date": "1 de julio de 2026",
       "source": "eurogamer.net",
       "tag": "Hardware"
-    },
-    {
-      "id": "n7",
-      "title": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
-      "titleEN": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
-      "desc": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
-      "descEN": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n8",
-      "title": "Sony announces an end to the PS3 and Vita digital stores",
-      "titleEN": "Sony announces an end to the PS3 and Vita digital stores",
-      "desc": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
-      "descEN": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n9",
-      "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
-      "titleEN": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
-      "desc": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
-      "descEN": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Hardware"
-    },
-    {
-      "id": "n10",
-      "title": "Rhythm Paradise Groove review",
-      "titleEN": "Rhythm Paradise Groove review",
-      "desc": "The beat-matching classic returns in fine voice. Read more",
-      "descEN": "The beat-matching classic returns in fine voice. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n11",
-      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
-      "titleEN": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
-      "desc": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
-      "descEN": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
-      "titleEN": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
-      "desc": "For the second time in a month, Battlefield Studios has altered the in-game language explaining how Battlefield 6 XP Boosters work, only to renege and claim it was done in error. This time, however, it's made players even more aggravated because of t",
-      "descEN": "For the second time in a month, Battlefield Studios has altered the in-game language explaining how Battlefield 6 XP Boosters work, only to renege and claim it was done in error. This time, however, it's made players even more aggravated because of t",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Noticia"
     }
   ]
 }
