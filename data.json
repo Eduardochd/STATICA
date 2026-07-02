@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-02T03:25:28.883Z",
+  "generatedAt": "2026-07-02T08:53:40.678Z",
   "games": [
     {
       "id": "g1",
       "steamAppId": 2881370,
       "rating": 4,
       "title": "Thank You For Your Application",
-      "desc": "Thank You For Your Application está en oferta en Steam. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "Special offer for Thank You For Your Application on Steam. An essential game that shouldn't be missing from your library.",
+      "desc": "Oferta especial de Thank You For Your Application en Steam. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Take advantage of the Thank You For Your Application deal on Steam. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Steam",
@@ -19,27 +19,11 @@
     },
     {
       "id": "g2",
-      "steamAppId": 2211170,
-      "rating": 4,
-      "title": "Unrailed 2: Back on Track",
-      "desc": "Aprovecha la oferta de Unrailed 2: Back on Track en Steam. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Unrailed 2: Back on Track is on sale on Steam. Get this title at a reduced price and enjoy hours of fun.",
-      "deals": [
-        {
-          "store": "Steam",
-          "price": 13.58,
-          "original": 31.98,
-          "url": "https://www.cheapshark.com/redirect?dealID=%2BBTrEsQhJi0CANx8Tr0%2BEAXawizxUcm%2BWOIoA2eMObs%3D"
-        }
-      ]
-    },
-    {
-      "id": "g3",
       "steamAppId": 3472040,
       "rating": 4,
       "title": "NBA 2K26",
-      "desc": "NBA 2K26 está en oferta en GOG. Consigue este título a un precio rebajado y disfruta de horas de diversión.",
-      "descEN": "NBA 2K26 is on sale on GOG. Get this title at a reduced price and enjoy hours of fun.",
+      "desc": "Oferta especial de NBA 2K26 en GOG. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "descEN": "Find NBA 2K26 at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -50,12 +34,12 @@
       ]
     },
     {
-      "id": "g4",
+      "id": "g3",
       "steamAppId": 315210,
       "rating": 3,
       "title": "Suicide Squad: Kill the Justice League",
       "desc": "Aprovecha la oferta de Suicide Squad: Kill the Justice League en GOG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
-      "descEN": "Special offer for Suicide Squad: Kill the Justice League on GOG. An essential game that shouldn't be missing from your library.",
+      "descEN": "Find Suicide Squad: Kill the Justice League at the best price on GOG. Don't miss this unique opportunity to add it to your collection.",
       "deals": [
         {
           "store": "GOG",
@@ -66,12 +50,12 @@
       ]
     },
     {
-      "id": "g5",
+      "id": "g4",
       "steamAppId": 2014550,
       "rating": 4,
       "title": "Voidwrought",
-      "desc": "Oferta especial de Voidwrought en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
-      "descEN": "Special offer for Voidwrought on Epic. An essential game that shouldn't be missing from your library.",
+      "desc": "Encuentra Voidwrought al mejor precio en Epic. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
+      "descEN": "Take advantage of the Voidwrought deal on Epic. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "Epic",
@@ -82,12 +66,12 @@
       ]
     },
     {
-      "id": "g6",
+      "id": "g5",
       "steamAppId": null,
       "rating": 4,
       "title": "Back 4 Blood: Ultimate Edition",
-      "desc": "Encuentra Back 4 Blood: Ultimate Edition al mejor precio en GMG. No dejes pasar esta oportunidad única de añadirlo a tu colección.",
-      "descEN": "Find Back 4 Blood: Ultimate Edition at the best price on GMG. Don't miss this unique opportunity to add it to your collection.",
+      "desc": "Aprovecha la oferta de Back 4 Blood: Ultimate Edition en GMG. Un gran juego a un precio increíble, disponible por tiempo limitado.",
+      "descEN": "Take advantage of the Back 4 Blood: Ultimate Edition deal on GMG. A great game at an incredible price, available for a limited time.",
       "deals": [
         {
           "store": "GMG",
@@ -112,15 +96,21 @@
           "price": 7.99,
           "original": 79.99,
           "url": "https://www.cheapshark.com/redirect?dealID=7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D"
+        },
+        {
+          "store": "GOG",
+          "price": 7.99,
+          "original": 79.99,
+          "url": "https://www.cheapshark.com/redirect?dealID=LiB7Lo%2BQfLlUmgHQmoLdTgjO7zxC6fA4vDs0%2Fmz84EU%3D"
         }
       ]
     },
     {
-      "id": "g7",
+      "id": "g6",
       "steamAppId": 75825,
       "rating": 4,
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "desc": "Oferta especial de The Incredible Adventures of Van Helsing Anthology en Epic. Un juego imprescindible que no puede faltar en tu biblioteca.",
+      "desc": "Aprovecha la oferta de The Incredible Adventures of Van Helsing Anthology en Epic. Un gran juego a un precio increíble, disponible por tiempo limitado.",
       "descEN": "Special offer for The Incredible Adventures of Van Helsing Anthology on Epic. An essential game that shouldn't be missing from your library.",
       "deals": [
         {
@@ -135,6 +125,16 @@
   "news": [
     {
       "id": "n1",
+      "title": "Xbox reportedly to follow PlayStation's example and ditch discs for next-gen console Project Helix",
+      "titleEN": "Xbox reportedly to follow PlayStation's example and ditch discs for next-gen console Project Helix",
+      "desc": "Microsoft is reportedly going to follow Sony's example with Project Helix and not include a disc drive with it, according to a new report. Microsoft is also said to be working on a way to grant digital licenses for games to people who already own a g",
+      "descEN": "Microsoft is reportedly going to follow Sony's example with Project Helix and not include a disc drive with it, according to a new report. Microsoft is also said to be working on a way to grant digital licenses for games to people who already own a g",
+      "date": "2 de julio de 2026",
+      "source": "eurogamer.net",
+      "tag": "Hardware"
+    },
+    {
+      "id": "n2",
       "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
       "titleEN": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
       "desc": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel. If you've been keeping tabs on its long development, however, you kno",
@@ -144,7 +144,7 @@
       "tag": "Récord"
     },
     {
-      "id": "n2",
+      "id": "n3",
       "title": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
       "titleEN": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
       "desc": "Today, Sony announced that it will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" for the reason it's going all-in on digital. The reaction, unsurprisingly, has been pretty bad across the interne",
@@ -154,7 +154,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n3",
+      "id": "n4",
       "title": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
       "titleEN": "Disc drives and release dates: Sony just told us two major things about the PlayStation 6",
       "desc": "Sony just announced its shocking decision to end the manufacturing of discs for all PlayStation games beginning January 2028. Although the company's announcement does not touch on its next-generation console, the announcement tells us a lot about the",
@@ -164,7 +164,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n4",
+      "id": "n5",
       "title": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
       "titleEN": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
       "desc": "Nintendo just released a new update for Mario Kart World on Switch 2 that added some fresh races alongside other features. The update, version 1.7.0, chiefly expands the number of available Knockout Tour routes with the addition of Drill Rally and Bo",
@@ -174,7 +174,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n5",
+      "id": "n6",
       "title": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
       "titleEN": "Good timing? Tomb Raider: Definitive Edition is getting a physical Switch 2 release from Limited Run Games",
       "desc": "Last year's Tomb Raider (2013) Nintendo Switch 1/2 port didn't get off to a smooth start, with some long-time fans declaring it a subpar refresh of the modern action-adventure classic. Over time, however, Aspyr has whipped it into shape. Now, a true ",
@@ -184,7 +184,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n6",
+      "id": "n7",
       "title": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
       "titleEN": "PlayStation Plus Extra and Premium's announcements of monthly new games are being changed in some territories, and players aren't happy about it",
       "desc": "PlayStation Plus Extra and Premium's monthly games have been typically revealed and then delivered all at once - this was still true in May - but June's selection of titles has introduced a major change with gradual rollouts stretched across a few we",
@@ -194,7 +194,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n7",
+      "id": "n8",
       "title": "Sony announces an end to the PS3 and Vita digital stores",
       "titleEN": "Sony announces an end to the PS3 and Vita digital stores",
       "desc": "Sony has announced that it's ending support for its PS3 and PlayStation Vita stores globally in 2027. In select markets, support will end later this year. Read more",
@@ -204,7 +204,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n8",
+      "id": "n9",
       "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
       "titleEN": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
       "desc": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only. Notably, PlayStation games will continue to be sold at retail, just withou",
@@ -214,7 +214,7 @@
       "tag": "Hardware"
     },
     {
-      "id": "n9",
+      "id": "n10",
       "title": "Rhythm Paradise Groove review",
       "titleEN": "Rhythm Paradise Groove review",
       "desc": "The beat-matching classic returns in fine voice. Read more",
@@ -224,7 +224,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
       "titleEN": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
       "desc": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rock",
@@ -234,7 +234,7 @@
       "tag": "Noticia"
     },
     {
-      "id": "n11",
+      "id": "n12",
       "title": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "titleEN": "EA changes Battlefield 6 XP Boosters for the better, only to yet again reveal the change was an error and take it back",
       "desc": "For the second time in a month, Battlefield Studios has altered the in-game language explaining how Battlefield 6 XP Boosters work, only to renege and claim it was done in error. This time, however, it's made players even more aggravated because of t",
@@ -242,16 +242,6 @@
       "date": "1 de julio de 2026",
       "source": "eurogamer.net",
       "tag": "Noticia"
-    },
-    {
-      "id": "n12",
-      "title": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
-      "titleEN": "Persona is getting the live-action show treatment at Netflix, Star Trek: Picard and 9-1-1 writer attached as showrunner",
-      "desc": "With Persona 4 Revival and Persona 6 on the horizon, fans of the long-running RPG series will be eating well in the near future, but a live-action Netflix show might be a more divisive offering. Read more",
-      "descEN": "With Persona 4 Revival and Persona 6 on the horizon, fans of the long-running RPG series will be eating well in the near future, but a live-action Netflix show might be a more divisive offering. Read more",
-      "date": "1 de julio de 2026",
-      "source": "eurogamer.net",
-      "tag": "Ofertas"
     }
   ]
 }
